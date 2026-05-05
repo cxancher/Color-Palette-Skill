@@ -1,3 +1,11 @@
+---
+name: color-palette-skill
+description: "使AI自动学会使用各种专业配色方案，摆脱蓝紫色渐变的局限。涵盖国内外主流平台、WordPress主题、设计系统、行业场景配色，以及设计风格配色和色系补充配色。"
+
+
+---
+
+# 
 # Color Palette Skill - 配色大师技能
 
 > **版本**: 2.0.0
