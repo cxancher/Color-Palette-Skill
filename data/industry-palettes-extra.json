@@ -1,0 +1,326 @@
+[
+  {
+    "id": "industry-legal",
+    "name": "法律/律所",
+    "category": "industry",
+    "tags": ["法律", "律所", "深藏青", "权威"],
+    "style": "以深藏青和金色为核心，传达权威、严谨、可信赖的法律专业形象。深色背景搭配金色点缀，营造高端律师事务所的沉稳气质。整体风格正式、精致、值得信赖。",
+    "colors": {
+      "primary": "#1B2A4A",
+      "secondary": "#C9A84C",
+      "accent": "#8B7355",
+      "background": "#F8F6F3",
+      "surface": "#FFFFFF",
+      "text": "#1A1A2E",
+      "textSecondary": "#6B7280",
+      "border": "#E5E0D8",
+      "success": "#2D6A4F",
+      "warning": "#C9A84C",
+      "error": "#9B2226"
+    },
+    "darkMode": {
+      "background": "#0D1321",
+      "surface": "#1B2A4A",
+      "text": "#F8F6F3"
+    },
+    "cssVariables": ":root {\n  --color-primary: #1B2A4A;\n  --color-secondary: #C9A84C;\n  --color-accent: #8B7355;\n  --color-background: #F8F6F3;\n  --color-surface: #FFFFFF;\n  --color-text: #1A1A2E;\n  --color-text-secondary: #6B7280;\n  --color-border: #E5E0D8;\n  --color-success: #2D6A4F;\n  --color-warning: #C9A84C;\n  --color-error: #9B2226;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#1B2A4A',\n  secondary: '#C9A84C',\n  accent: '#8B7355',\n}"
+  },
+  {
+    "id": "industry-fitness",
+    "name": "健身/运动",
+    "category": "industry",
+    "tags": ["健身", "运动", "电光蓝", "活力"],
+    "style": "以电光蓝和荧光绿为核心，传达运动、能量、突破极限的动感。深色背景搭配高饱和度亮色，营造健身房/运动App的活力氛围。整体风格充满力量感和激励性。",
+    "colors": {
+      "primary": "#00D4FF",
+      "secondary": "#39FF14",
+      "accent": "#FF3366",
+      "background": "#0A0A0A",
+      "surface": "#1A1A1A",
+      "text": "#FFFFFF",
+      "textSecondary": "#A0A0A0",
+      "border": "#333333",
+      "success": "#39FF14",
+      "warning": "#FFB800",
+      "error": "#FF3366"
+    },
+    "darkMode": {
+      "background": "#050505",
+      "surface": "#111111",
+      "text": "#FFFFFF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #00D4FF;\n  --color-secondary: #39FF14;\n  --color-accent: #FF3366;\n  --color-background: #0A0A0A;\n  --color-surface: #1A1A1A;\n  --color-text: #FFFFFF;\n  --color-text-secondary: #A0A0A0;\n  --color-border: #333333;\n  --color-success: #39FF14;\n  --color-warning: #FFB800;\n  --color-error: #FF3366;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#00D4FF',\n  secondary: '#39FF14',\n  accent: '#FF3366',\n}"
+  },
+  {
+    "id": "industry-gaming",
+    "name": "游戏/电竞",
+    "category": "industry",
+    "tags": ["游戏", "电竞", "霓虹紫", "赛博朋克"],
+    "style": "以霓虹紫和电光绿为核心，传达赛博朋克、未来科技、沉浸式的游戏体验。深黑背景搭配高对比度霓虹色，营造电竞/游戏平台的炫酷氛围。整体风格前卫、刺激、充满张力。",
+    "colors": {
+      "primary": "#BF00FF",
+      "secondary": "#00FF88",
+      "accent": "#FF0055",
+      "background": "#0A0014",
+      "surface": "#1A0030",
+      "text": "#F0E6FF",
+      "textSecondary": "#9B8FBF",
+      "border": "#2D1B4E",
+      "success": "#00FF88",
+      "warning": "#FFD700",
+      "error": "#FF0055"
+    },
+    "darkMode": {
+      "background": "#05000A",
+      "surface": "#120020",
+      "text": "#F0E6FF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #BF00FF;\n  --color-secondary: #00FF88;\n  --color-accent: #FF0055;\n  --color-background: #0A0014;\n  --color-surface: #1A0030;\n  --color-text: #F0E6FF;\n  --color-text-secondary: #9B8FBF;\n  --color-border: #2D1B4E;\n  --color-success: #00FF88;\n  --color-warning: #FFD700;\n  --color-error: #FF0055;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#BF00FF',\n  secondary: '#00FF88',\n  accent: '#FF0055',\n}"
+  },
+  {
+    "id": "industry-pet",
+    "name": "宠物/动物",
+    "category": "industry",
+    "tags": ["宠物", "动物", "暖棕", "亲和"],
+    "style": "以暖棕和奶油白为核心，传达温暖、亲和、自然的宠物关怀氛围。柔和的色调搭配圆润的设计元素，营造宠物主人与宠物之间的温馨情感连接。整体风格温暖、可爱、值得信赖。",
+    "colors": {
+      "primary": "#8B6914",
+      "secondary": "#D4A574",
+      "accent": "#E8734A",
+      "background": "#FFF8E7",
+      "surface": "#FFFFFF",
+      "text": "#3E2723",
+      "textSecondary": "#795548",
+      "border": "#E8DCC8",
+      "success": "#66BB6A",
+      "warning": "#FFA726",
+      "error": "#EF5350"
+    },
+    "darkMode": {
+      "background": "#1A1510",
+      "surface": "#2A2318",
+      "text": "#FFF8E7"
+    },
+    "cssVariables": ":root {\n  --color-primary: #8B6914;\n  --color-secondary: #D4A574;\n  --color-accent: #E8734A;\n  --color-background: #FFF8E7;\n  --color-surface: #FFFFFF;\n  --color-text: #3E2723;\n  --color-text-secondary: #795548;\n  --color-border: #E8DCC8;\n  --color-success: #66BB6A;\n  --color-warning: #FFA726;\n  --color-error: #EF5350;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#8B6914',\n  secondary: '#D4A574',\n  accent: '#E8734A',\n}"
+  },
+  {
+    "id": "industry-logistics",
+    "name": "物流/快递",
+    "category": "industry",
+    "tags": ["物流", "快递", "橙色", "速度"],
+    "style": "以橙色和深蓝为核心，传达速度、效率、可靠的物流服务。橙色代表活力和紧迫感，深蓝传达专业和信任。整体风格高效、清晰、行动导向。",
+    "colors": {
+      "primary": "#FF6600",
+      "secondary": "#003366",
+      "accent": "#FFB800",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#1A1A1A",
+      "textSecondary": "#666666",
+      "border": "#E0E0E0",
+      "success": "#00C853",
+      "warning": "#FFB800",
+      "error": "#FF3D00"
+    },
+    "darkMode": {
+      "background": "#0D1B2A",
+      "surface": "#1B2838",
+      "text": "#F5F5F5"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FF6600;\n  --color-secondary: #003366;\n  --color-accent: #FFB800;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #1A1A1A;\n  --color-text-secondary: #666666;\n  --color-border: #E0E0E0;\n  --color-success: #00C853;\n  --color-warning: #FFB800;\n  --color-error: #FF3D00;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FF6600',\n  secondary: '#003366',\n  accent: '#FFB800',\n}"
+  },
+  {
+    "id": "industry-agriculture",
+    "name": "农业/环保",
+    "category": "industry",
+    "tags": ["农业", "环保", "草绿", "自然"],
+    "style": "以草绿和大地棕为核心，传达自然、有机、可持续的生态理念。绿色代表生长和希望，棕色代表土地和根基。整体风格质朴、真诚、回归自然。",
+    "colors": {
+      "primary": "#4CAF50",
+      "secondary": "#795548",
+      "accent": "#8BC34A",
+      "background": "#F1F8E9",
+      "surface": "#FFFFFF",
+      "text": "#33691E",
+      "textSecondary": "#5D4037",
+      "border": "#C8E6C9",
+      "success": "#4CAF50",
+      "warning": "#FF8F00",
+      "error": "#D32F2F"
+    },
+    "darkMode": {
+      "background": "#1A2E1A",
+      "surface": "#253525",
+      "text": "#E8F5E9"
+    },
+    "cssVariables": ":root {\n  --color-primary: #4CAF50;\n  --color-secondary: #795548;\n  --color-accent: #8BC34A;\n  --color-background: #F1F8E9;\n  --color-surface: #FFFFFF;\n  --color-text: #33691E;\n  --color-text-secondary: #5D4037;\n  --color-border: #C8E6C9;\n  --color-success: #4CAF50;\n  --color-warning: #FF8F00;\n  --color-error: #D32F2F;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#4CAF50',\n  secondary: '#795548',\n  accent: '#8BC34A',\n}"
+  },
+  {
+    "id": "industry-insurance",
+    "name": "保险/理财",
+    "category": "industry",
+    "tags": ["保险", "理财", "深蓝", "安全感"],
+    "style": "以深蓝和青绿为核心，传达安全感、稳重感和专业信任。深蓝色代表可靠保障，青绿色代表成长和希望。整体风格沉稳、专业、让人安心。",
+    "colors": {
+      "primary": "#0D2137",
+      "secondary": "#00BFA5",
+      "accent": "#FF8F00",
+      "background": "#F0F4F8",
+      "surface": "#FFFFFF",
+      "text": "#1A2332",
+      "textSecondary": "#546E7A",
+      "border": "#CFD8DC",
+      "success": "#00BFA5",
+      "warning": "#FF8F00",
+      "error": "#E53935"
+    },
+    "darkMode": {
+      "background": "#0A1628",
+      "surface": "#152238",
+      "text": "#ECEFF1"
+    },
+    "cssVariables": ":root {\n  --color-primary: #0D2137;\n  --color-secondary: #00BFA5;\n  --color-accent: #FF8F00;\n  --color-background: #F0F4F8;\n  --color-surface: #FFFFFF;\n  --color-text: #1A2332;\n  --color-text-secondary: #546E7A;\n  --color-border: #CFD8DC;\n  --color-success: #00BFA5;\n  --color-warning: #FF8F00;\n  --color-error: #E53935;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#0D2137',\n  secondary: '#00BFA5',\n  accent: '#FF8F00',\n}"
+  },
+  {
+    "id": "industry-media",
+    "name": "媒体/新闻",
+    "category": "industry",
+    "tags": ["媒体", "新闻", "深红", "权威"],
+    "style": "以深红和米白为核心，传达严肃、权威、可读性强的新闻媒体形象。深红色代表重要性和紧迫感，米白背景减少视觉疲劳。整体风格专业、清晰、信息密度适中。",
+    "colors": {
+      "primary": "#8B0000",
+      "secondary": "#2C3E50",
+      "accent": "#E74C3C",
+      "background": "#FAF0E6",
+      "surface": "#FFFFFF",
+      "text": "#1A1A1A",
+      "textSecondary": "#555555",
+      "border": "#DDD",
+      "success": "#27AE60",
+      "warning": "#F39C12",
+      "error": "#C0392B"
+    },
+    "darkMode": {
+      "background": "#1A1A1A",
+      "surface": "#2A2A2A",
+      "text": "#F5F0EB"
+    },
+    "cssVariables": ":root {\n  --color-primary: #8B0000;\n  --color-secondary: #2C3E50;\n  --color-accent: #E74C3C;\n  --color-background: #FAF0E6;\n  --color-surface: #FFFFFF;\n  --color-text: #1A1A1A;\n  --color-text-secondary: #555555;\n  --color-border: #DDD;\n  --color-success: #27AE60;\n  --color-warning: #F39C12;\n  --color-error: #C0392B;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#8B0000',\n  secondary: '#2C3E50',\n  accent: '#E74C3C',\n}"
+  },
+  {
+    "id": "industry-automotive",
+    "name": "汽车/出行",
+    "category": "industry",
+    "tags": ["汽车", "出行", "银灰", "科技感"],
+    "style": "以银灰和深蓝为核心，传达科技感、高端感和精密工艺。银灰色代表金属质感和现代科技，深蓝色传达稳重和信赖。整体风格精致、动感、未来感。",
+    "colors": {
+      "primary": "#37474F",
+      "secondary": "#0A1628",
+      "accent": "#00BCD4",
+      "background": "#ECEFF1",
+      "surface": "#FFFFFF",
+      "text": "#263238",
+      "textSecondary": "#607D8B",
+      "border": "#CFD8DC",
+      "success": "#00C853",
+      "warning": "#FF9800",
+      "error": "#F44336"
+    },
+    "darkMode": {
+      "background": "#0A1628",
+      "surface": "#1A2A3A",
+      "text": "#ECEFF1"
+    },
+    "cssVariables": ":root {\n  --color-primary: #37474F;\n  --color-secondary: #0A1628;\n  --color-accent: #00BCD4;\n  --color-background: #ECEFF1;\n  --color-surface: #FFFFFF;\n  --color-text: #263238;\n  --color-text-secondary: #607D8B;\n  --color-border: #CFD8DC;\n  --color-success: #00C853;\n  --color-warning: #FF9800;\n  --color-error: #F44336;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#37474F',\n  secondary: '#0A1628',\n  accent: '#00BCD4',\n}"
+  },
+  {
+    "id": "industry-pharma",
+    "name": "制药/生物科技",
+    "category": "industry",
+    "tags": ["制药", "生物科技", "青蓝", "精密"],
+    "style": "以青蓝和白色为核心，传达洁净、精密、前沿的生物科技形象。青蓝色代表科学和创新，大量留白营造实验室般的纯净感。整体风格严谨、现代、值得信赖。",
+    "colors": {
+      "primary": "#00ACC1",
+      "secondary": "#00695C",
+      "accent": "#7C4DFF",
+      "background": "#E0F7FA",
+      "surface": "#FFFFFF",
+      "text": "#004D40",
+      "textSecondary": "#00838F",
+      "border": "#B2EBF2",
+      "success": "#00BFA5",
+      "warning": "#FFB300",
+      "error": "#FF5252"
+    },
+    "darkMode": {
+      "background": "#0A1A1F",
+      "surface": "#152530",
+      "text": "#E0F7FA"
+    },
+    "cssVariables": ":root {\n  --color-primary: #00ACC1;\n  --color-secondary: #00695C;\n  --color-accent: #7C4DFF;\n  --color-background: #E0F7FA;\n  --color-surface: #FFFFFF;\n  --color-text: #004D40;\n  --color-text-secondary: #00838F;\n  --color-border: #B2EBF2;\n  --color-success: #00BFA5;\n  --color-warning: #FFB300;\n  --color-error: #FF5252;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#00ACC1',\n  secondary: '#00695C',\n  accent: '#7C4DFF',\n}"
+  },
+  {
+    "id": "industry-architecture",
+    "name": "建筑/室内设计",
+    "category": "industry",
+    "tags": ["建筑", "室内设计", "暖灰", "质感"],
+    "style": "以暖灰和木色为核心，传达质感、空间感和高端设计品味。中性色调搭配自然木色，营造建筑/室内设计行业的精致空间感。整体风格优雅、克制、注重细节。",
+    "colors": {
+      "primary": "#8D8D8D",
+      "secondary": "#C4A882",
+      "accent": "#2C2C2C",
+      "background": "#F5F2EE",
+      "surface": "#FFFFFF",
+      "text": "#2C2C2C",
+      "textSecondary": "#757575",
+      "border": "#E0DCD5",
+      "success": "#7CB342",
+      "warning": "#FFA000",
+      "error": "#E53935"
+    },
+    "darkMode": {
+      "background": "#1A1815",
+      "surface": "#2A2722",
+      "text": "#F5F2EE"
+    },
+    "cssVariables": ":root {\n  --color-primary: #8D8D8D;\n  --color-secondary: #C4A882;\n  --color-accent: #2C2C2C;\n  --color-background: #F5F2EE;\n  --color-surface: #FFFFFF;\n  --color-text: #2C2C2C;\n  --color-text-secondary: #757575;\n  --color-border: #E0DCD5;\n  --color-success: #7CB342;\n  --color-warning: #FFA000;\n  --color-error: #E53935;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#8D8D8D',\n  secondary: '#C4A882',\n  accent: '#2C2C2C',\n}"
+  },
+  {
+    "id": "industry-charity",
+    "name": "公益/NGO",
+    "category": "industry",
+    "tags": ["公益", "NGO", "天蓝", "温暖"],
+    "style": "以天蓝和暖黄为核心，传达温暖、信任、希望和人文关怀。蓝色代表信任和透明，暖黄色代表希望和阳光。整体风格亲和、真诚、鼓舞人心。",
+    "colors": {
+      "primary": "#4FC3F7",
+      "secondary": "#FFD54F",
+      "accent": "#FF7043",
+      "background": "#FFFDE7",
+      "surface": "#FFFFFF",
+      "text": "#37474F",
+      "textSecondary": "#78909C",
+      "border": "#E1F5FE",
+      "success": "#66BB6A",
+      "warning": "#FFA726",
+      "error": "#EF5350"
+    },
+    "darkMode": {
+      "background": "#0D1B2A",
+      "surface": "#1B2838",
+      "text": "#E1F5FE"
+    },
+    "cssVariables": ":root {\n  --color-primary: #4FC3F7;\n  --color-secondary: #FFD54F;\n  --color-accent: #FF7043;\n  --color-background: #FFFDE7;\n  --color-surface: #FFFFFF;\n  --color-text: #37474F;\n  --color-text-secondary: #78909C;\n  --color-border: #E1F5FE;\n  --color-success: #66BB6A;\n  --color-warning: #FFA726;\n  --color-error: #EF5350;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#4FC3F7',\n  secondary: '#FFD54F',\n  accent: '#FF7043',\n}"
+  }
+]

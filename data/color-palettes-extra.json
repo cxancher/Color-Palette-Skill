@@ -1,0 +1,218 @@
+[
+  {
+    "id": "palette-teal",
+    "name": "青色主题",
+    "category": "palette",
+    "tags": ["青色", "teal", "清新", "平衡"],
+    "style": "以青色为核心，介于蓝色和绿色之间，兼具蓝色的沉稳和绿色的活力。传达清新、平衡、和谐的视觉感受。适合健康、环保、冥想、瑜伽等追求身心平衡的场景。",
+    "colors": {
+      "primary": "#008080",
+      "secondary": "#20B2AA",
+      "accent": "#FF6B6B",
+      "background": "#F0FFFE",
+      "surface": "#FFFFFF",
+      "text": "#1A3C3C",
+      "textSecondary": "#4A7C7C",
+      "border": "#B2DFDB",
+      "success": "#00897B",
+      "warning": "#FFB74D",
+      "error": "#EF5350"
+    },
+    "darkMode": {
+      "background": "#0A1A1A",
+      "surface": "#152A2A",
+      "text": "#E0FFFE"
+    },
+    "cssVariables": ":root {\n  --color-primary: #008080;\n  --color-secondary: #20B2AA;\n  --color-accent: #FF6B6B;\n  --color-background: #F0FFFE;\n  --color-surface: #FFFFFF;\n  --color-text: #1A3C3C;\n  --color-text-secondary: #4A7C7C;\n  --color-border: #B2DFDB;\n  --color-success: #00897B;\n  --color-warning: #FFB74D;\n  --color-error: #EF5350;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#008080',\n  secondary: '#20B2AA',\n  accent: '#FF6B6B',\n}"
+  },
+  {
+    "id": "palette-brown",
+    "name": "棕色/咖啡主题",
+    "category": "palette",
+    "tags": ["棕色", "咖啡", "巧克力", "温暖"],
+    "style": "以巧克力棕为核心，传达温暖、醇厚、手工匠心的品牌调性。棕色系搭配奶油色，营造咖啡馆、烘焙、手工巧克力、精酿啤酒等场景的浓郁氛围。整体风格温暖、有质感、充满生活气息。",
+    "colors": {
+      "primary": "#5D4037",
+      "secondary": "#8D6E63",
+      "accent": "#FFAB91",
+      "background": "#FFF8F0",
+      "surface": "#FFFFFF",
+      "text": "#3E2723",
+      "textSecondary": "#6D4C41",
+      "border": "#D7CCC8",
+      "success": "#66BB6A",
+      "warning": "#FFA726",
+      "error": "#EF5350"
+    },
+    "darkMode": {
+      "background": "#1A1210",
+      "surface": "#2A2018",
+      "text": "#FFF8F0"
+    },
+    "cssVariables": ":root {\n  --color-primary: #5D4037;\n  --color-secondary: #8D6E63;\n  --color-accent: #FFAB91;\n  --color-background: #FFF8F0;\n  --color-surface: #FFFFFF;\n  --color-text: #3E2723;\n  --color-text-secondary: #6D4C41;\n  --color-border: #D7CCC8;\n  --color-success: #66BB6A;\n  --color-warning: #FFA726;\n  --color-error: #EF5350;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#5D4037',\n  secondary: '#8D6E63',\n  accent: '#FFAB91',\n}"
+  },
+  {
+    "id": "palette-gold",
+    "name": "金色/奢华主题",
+    "category": "palette",
+    "tags": ["金色", "奢华", "VIP", "高端"],
+    "style": "以金色为核心，传达奢华、尊贵、高端的品牌调性。金色搭配深色背景，营造VIP会员、高端金融、奢侈品电商的尊享氛围。整体风格精致、华丽、充满仪式感。",
+    "colors": {
+      "primary": "#DAA520",
+      "secondary": "#B8860B",
+      "accent": "#1A1A2E",
+      "background": "#0D0D1A",
+      "surface": "#1A1A2E",
+      "text": "#F5F0E0",
+      "textSecondary": "#A09880",
+      "border": "#333328",
+      "success": "#DAA520",
+      "warning": "#FFD700",
+      "error": "#CD5C5C"
+    },
+    "darkMode": {
+      "background": "#050510",
+      "surface": "#0D0D1A",
+      "text": "#F5F0E0"
+    },
+    "cssVariables": ":root {\n  --color-primary: #DAA520;\n  --color-secondary: #B8860B;\n  --color-accent: #1A1A2E;\n  --color-background: #0D0D1A;\n  --color-surface: #1A1A2E;\n  --color-text: #F5F0E0;\n  --color-text-secondary: #A09880;\n  --color-border: #333328;\n  --color-success: #DAA520;\n  --color-warning: #FFD700;\n  --color-error: #CD5C5C;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#DAA520',\n  secondary: '#B8860B',\n  accent: '#1A1A2E',\n}"
+  },
+  {
+    "id": "palette-coral",
+    "name": "珊瑚色主题",
+    "category": "palette",
+    "tags": ["珊瑚", "温暖", "年轻", "活力"],
+    "style": "以珊瑚色为核心，传达温暖、友好、年轻活力的品牌调性。珊瑚色是2020s的流行色，介于粉色和橙色之间，既有粉色的温柔又有橙色的活力。适合年轻化品牌、社交应用、生活方式产品。",
+    "colors": {
+      "primary": "#FF7F50",
+      "secondary": "#FF6347",
+      "accent": "#4ECDC4",
+      "background": "#FFF5F0",
+      "surface": "#FFFFFF",
+      "text": "#2C3E50",
+      "textSecondary": "#7F8C8D",
+      "border": "#FADBD8",
+      "success": "#2ECC71",
+      "warning": "#F39C12",
+      "error": "#E74C3C"
+    },
+    "darkMode": {
+      "background": "#1A1512",
+      "surface": "#2A2220",
+      "text": "#FFF5F0"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FF7F50;\n  --color-secondary: #FF6347;\n  --color-accent: #4ECDC4;\n  --color-background: #FFF5F0;\n  --color-surface: #FFFFFF;\n  --color-text: #2C3E50;\n  --color-text-secondary: #7F8C8D;\n  --color-border: #FADBD8;\n  --color-success: #2ECC71;\n  --color-warning: #F39C12;\n  --color-error: #E74C3C;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FF7F50',\n  secondary: '#FF6347',\n  accent: '#4ECDC4',\n}"
+  },
+  {
+    "id": "palette-mint",
+    "name": "薄荷绿主题",
+    "category": "palette",
+    "tags": ["薄荷绿", "清新", "夏季", "健康"],
+    "style": "以薄荷绿为核心，传达清新、凉爽、健康的视觉感受。薄荷绿搭配白色和浅灰，营造夏季、健康饮品、有机食品、SPA等场景的清爽氛围。整体风格清新、舒适、令人放松。",
+    "colors": {
+      "primary": "#98FF98",
+      "secondary": "#00E676",
+      "accent": "#FF7043",
+      "background": "#F0FFF0",
+      "surface": "#FFFFFF",
+      "text": "#1B5E20",
+      "textSecondary": "#4CAF50",
+      "border": "#C8E6C9",
+      "success": "#00E676",
+      "warning": "#FFB74D",
+      "error": "#EF5350"
+    },
+    "darkMode": {
+      "background": "#0A1A0A",
+      "surface": "#152A15",
+      "text": "#F0FFF0"
+    },
+    "cssVariables": ":root {\n  --color-primary: #98FF98;\n  --color-secondary: #00E676;\n  --color-accent: #FF7043;\n  --color-background: #F0FFF0;\n  --color-surface: #FFFFFF;\n  --color-text: #1B5E20;\n  --color-text-secondary: #4CAF50;\n  --color-border: #C8E6C9;\n  --color-success: #00E676;\n  --color-warning: #FFB74D;\n  --color-error: #EF5350;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#98FF98',\n  secondary: '#00E676',\n  accent: '#FF7043',\n}"
+  },
+  {
+    "id": "palette-lavender",
+    "name": "薰衣草主题",
+    "category": "palette",
+    "tags": ["薰衣草", "紫色", "美妆", "冥想"],
+    "style": "以薰衣草紫为核心，传达优雅、宁静、浪漫的视觉感受。薰衣草紫比深紫更柔和，比粉色更神秘，适合美妆、SPA、冥想、睡眠类产品。整体风格优雅、放松、充满女性魅力。",
+    "colors": {
+      "primary": "#B57EDC",
+      "secondary": "#9B59B6",
+      "accent": "#F8BBD0",
+      "background": "#F8F0FF",
+      "surface": "#FFFFFF",
+      "text": "#4A148C",
+      "textSecondary": "#7B1FA2",
+      "border": "#E1BEE7",
+      "success": "#81C784",
+      "warning": "#FFB74D",
+      "error": "#E57373"
+    },
+    "darkMode": {
+      "background": "#1A0F20",
+      "surface": "#2A1A35",
+      "text": "#F8F0FF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #B57EDC;\n  --color-secondary: #9B59B6;\n  --color-accent: #F8BBD0;\n  --color-background: #F8F0FF;\n  --color-surface: #FFFFFF;\n  --color-text: #4A148C;\n  --color-text-secondary: #7B1FA2;\n  --color-border: #E1BEE7;\n  --color-success: #81C784;\n  --color-warning: #FFB74D;\n  --color-error: #E57373;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#B57EDC',\n  secondary: '#9B59B6',\n  accent: '#F8BBD0',\n}"
+  },
+  {
+    "id": "palette-indigo",
+    "name": "靛蓝主题",
+    "category": "palette",
+    "tags": ["靛蓝", "indigo", "科技", "教育"],
+    "style": "以靛蓝为核心，介于蓝色和紫色之间，兼具蓝色的理性和紫色的创造力。传达深度思考、创新探索的视觉感受。适合科技、教育、研究类产品。整体风格深邃、有内涵、引人思考。",
+    "colors": {
+      "primary": "#4B0082",
+      "secondary": "#6A0DAD",
+      "accent": "#00D4FF",
+      "background": "#F5F0FF",
+      "surface": "#FFFFFF",
+      "text": "#1A0033",
+      "textSecondary": "#4A148C",
+      "border": "#D1C4E9",
+      "success": "#66BB6A",
+      "warning": "#FFB74D",
+      "error": "#EF5350"
+    },
+    "darkMode": {
+      "background": "#0A0015",
+      "surface": "#1A0030",
+      "text": "#F5F0FF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #4B0082;\n  --color-secondary: #6A0DAD;\n  --color-accent: #00D4FF;\n  --color-background: #F5F0FF;\n  --color-surface: #FFFFFF;\n  --color-text: #1A0033;\n  --color-text-secondary: #4A148C;\n  --color-border: #D1C4E9;\n  --color-success: #66BB6A;\n  --color-warning: #FFB74D;\n  --color-error: #EF5350;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#4B0082',\n  secondary: '#6A0DAD',\n  accent: '#00D4FF',\n}"
+  },
+  {
+    "id": "palette-salmon",
+    "name": "鲑鱼粉主题",
+    "category": "palette",
+    "tags": ["鲑鱼粉", "食物", "时尚", "生活方式"],
+    "style": "以鲑鱼粉为核心，传达温暖、食欲、时尚的视觉感受。鲑鱼粉比纯粉色更温暖，比橙色更柔和，适合食品品牌、时尚电商、生活方式类产品。整体风格温暖、有食欲感、时尚前卫。",
+    "colors": {
+      "primary": "#FA8072",
+      "secondary": "#E9967A",
+      "accent": "#2C3E50",
+      "background": "#FFF5F2",
+      "surface": "#FFFFFF",
+      "text": "#2C1810",
+      "textSecondary": "#8B6F5E",
+      "border": "#F5D5CC",
+      "success": "#66BB6A",
+      "warning": "#FFA726",
+      "error": "#EF5350"
+    },
+    "darkMode": {
+      "background": "#1A1210",
+      "surface": "#2A2018",
+      "text": "#FFF5F2"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FA8072;\n  --color-secondary: #E9967A;\n  --color-accent: #2C3E50;\n  --color-background: #FFF5F2;\n  --color-surface: #FFFFFF;\n  --color-text: #2C1810;\n  --color-text-secondary: #8B6F5E;\n  --color-border: #F5D5CC;\n  --color-success: #66BB6A;\n  --color-warning: #FFA726;\n  --color-error: #EF5350;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FA8072',\n  secondary: '#E9967A',\n  accent: '#2C3E50',\n}"
+  }
+]

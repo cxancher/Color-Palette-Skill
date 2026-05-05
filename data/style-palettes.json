@@ -1,0 +1,272 @@
+[
+  {
+    "id": "style-retro",
+    "name": "复古/怀旧",
+    "category": "style",
+    "tags": ["复古", "怀旧", "芥末黄", "棕红"],
+    "style": "以芥末黄和棕红为核心，传达时光沉淀的温暖与怀旧感。低饱和度的暖色调搭配复古排版，营造咖啡馆、文创品牌的复古氛围。整体风格温暖、有故事感、充满人情味。",
+    "colors": {
+      "primary": "#E1AD01",
+      "secondary": "#8B4513",
+      "accent": "#D2691E",
+      "background": "#FDF5E6",
+      "surface": "#FAEBD7",
+      "text": "#3E2723",
+      "textSecondary": "#6D4C41",
+      "border": "#D7CCC8",
+      "success": "#7CB342",
+      "warning": "#E1AD01",
+      "error": "#C62828"
+    },
+    "darkMode": {
+      "background": "#1A1510",
+      "surface": "#2D2418",
+      "text": "#FDF5E6"
+    },
+    "cssVariables": ":root {\n  --color-primary: #E1AD01;\n  --color-secondary: #8B4513;\n  --color-accent: #D2691E;\n  --color-background: #FDF5E6;\n  --color-surface: #FAEBD7;\n  --color-text: #3E2723;\n  --color-text-secondary: #6D4C41;\n  --color-border: #D7CCC8;\n  --color-success: #7CB342;\n  --color-warning: #E1AD01;\n  --color-error: #C62828;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#E1AD01',\n  secondary: '#8B4513',\n  accent: '#D2691E',\n}"
+  },
+  {
+    "id": "style-cyberpunk",
+    "name": "赛博朋克",
+    "category": "style",
+    "tags": ["赛博朋克", "科幻", "霓虹粉", "电光蓝"],
+    "style": "以霓虹粉和电光蓝为核心，传达未来科技、数字世界、反叛精神的赛博朋克美学。深黑背景搭配高饱和度霓虹色，营造科幻电影般的视觉冲击。整体风格前卫、炫酷、充满未来感。",
+    "colors": {
+      "primary": "#FF00FF",
+      "secondary": "#00FFFF",
+      "accent": "#FFFF00",
+      "background": "#0D0D0D",
+      "surface": "#1A1A2E",
+      "text": "#E0E0FF",
+      "textSecondary": "#8888AA",
+      "border": "#2A2A4A",
+      "success": "#00FF88",
+      "warning": "#FFFF00",
+      "error": "#FF0044"
+    },
+    "darkMode": {
+      "background": "#050510",
+      "surface": "#0D0D20",
+      "text": "#E0E0FF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FF00FF;\n  --color-secondary: #00FFFF;\n  --color-accent: #FFFF00;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A2E;\n  --color-text: #E0E0FF;\n  --color-text-secondary: #8888AA;\n  --color-border: #2A2A4A;\n  --color-success: #00FF88;\n  --color-warning: #FFFF00;\n  --color-error: #FF0044;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FF00FF',\n  secondary: '#00FFFF',\n  accent: '#FFFF00',\n}"
+  },
+  {
+    "id": "style-nordic",
+    "name": "北欧极简",
+    "category": "style",
+    "tags": ["北欧", "极简", "灰白", "雾蓝"],
+    "style": "以灰白和雾蓝为核心，传达北欧设计哲学的简约、功能性和自然美学。大量留白搭配低饱和度冷色调，营造宁静、舒适的生活空间感。整体风格克制、优雅、注重质感。",
+    "colors": {
+      "primary": "#546E7A",
+      "secondary": "#B0BEC5",
+      "accent": "#FF8A65",
+      "background": "#F5F5F0",
+      "surface": "#FFFFFF",
+      "text": "#37474F",
+      "textSecondary": "#78909C",
+      "border": "#ECEFF1",
+      "success": "#81C784",
+      "warning": "#FFB74D",
+      "error": "#E57373"
+    },
+    "darkMode": {
+      "background": "#1C1C1C",
+      "surface": "#2C2C2C",
+      "text": "#F5F5F0"
+    },
+    "cssVariables": ":root {\n  --color-primary: #546E7A;\n  --color-secondary: #B0BEC5;\n  --color-accent: #FF8A65;\n  --color-background: #F5F5F0;\n  --color-surface: #FFFFFF;\n  --color-text: #37474F;\n  --color-text-secondary: #78909C;\n  --color-border: #ECEFF1;\n  --color-success: #81C784;\n  --color-warning: #FFB74D;\n  --color-error: #E57373;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#546E7A',\n  secondary: '#B0BEC5',\n  accent: '#FF8A65',\n}"
+  },
+  {
+    "id": "style-japanese",
+    "name": "日式和风",
+    "category": "style",
+    "tags": ["日式", "和风", "靛蓝", "樱粉"],
+    "style": "以靛蓝和樱粉为核心，传达日式美学的侘寂、自然、留白精神。靛蓝代表传统染色工艺，樱粉代表季节之美。整体风格雅致、含蓄、注重细节和意境。",
+    "colors": {
+      "primary": "#264653",
+      "secondary": "#FFB7C5",
+      "accent": "#E9C46A",
+      "background": "#FAFAF5",
+      "surface": "#FFFFFF",
+      "text": "#2A2A2A",
+      "textSecondary": "#6B6B6B",
+      "border": "#E8E8E0",
+      "success": "#81C784",
+      "warning": "#FFB74D",
+      "error": "#E57373"
+    },
+    "darkMode": {
+      "background": "#1A1D20",
+      "surface": "#252A2E",
+      "text": "#FAFAF5"
+    },
+    "cssVariables": ":root {\n  --color-primary: #264653;\n  --color-secondary: #FFB7C5;\n  --color-accent: #E9C46A;\n  --color-background: #FAFAF5;\n  --color-surface: #FFFFFF;\n  --color-text: #2A2A2A;\n  --color-text-secondary: #6B6B6B;\n  --color-border: #E8E8E0;\n  --color-success: #81C784;\n  --color-warning: #FFB74D;\n  --color-error: #E57373;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#264653',\n  secondary: '#FFB7C5',\n  accent: '#E9C46A',\n}"
+  },
+  {
+    "id": "style-luxury-dark",
+    "name": "暗黑奢华",
+    "category": "style",
+    "tags": ["奢华", "高端", "纯黑", "金色"],
+    "style": "以纯黑和金色为核心，传达极致奢华、尊贵、exclusive的品牌调性。黑色背景搭配金色点缀，营造高端会所、奢侈品、VIP会员的尊享氛围。整体风格低调、精致、充满仪式感。",
+    "colors": {
+      "primary": "#000000",
+      "secondary": "#D4AF37",
+      "accent": "#B8860B",
+      "background": "#0A0A0A",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F0",
+      "textSecondary": "#A0A090",
+      "border": "#333328",
+      "success": "#D4AF37",
+      "warning": "#DAA520",
+      "error": "#B22222"
+    },
+    "darkMode": {
+      "background": "#000000",
+      "surface": "#111111",
+      "text": "#F5F5F0"
+    },
+    "cssVariables": ":root {\n  --color-primary: #000000;\n  --color-secondary: #D4AF37;\n  --color-accent: #B8860B;\n  --color-background: #0A0A0A;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F0;\n  --color-text-secondary: #A0A090;\n  --color-border: #333328;\n  --color-success: #D4AF37;\n  --color-warning: #DAA520;\n  --color-error: #B22222;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#000000',\n  secondary: '#D4AF37',\n  accent: '#B8860B',\n}"
+  },
+  {
+    "id": "style-bohemian",
+    "name": "波西米亚",
+    "category": "style",
+    "tags": ["波西米亚", "自由", "赤陶", "沙色"],
+    "style": "以赤陶和沙色为核心，传达自由、艺术、手工、旅行的波西米亚精神。大地色系搭配丰富的纹理感，营造手工艺市集、独立书店、旅行博客的文艺氛围。整体风格自由、随性、充满艺术气息。",
+    "colors": {
+      "primary": "#CC5500",
+      "secondary": "#C2B280",
+      "accent": "#8FBC8F",
+      "background": "#FAF0E6",
+      "surface": "#FFF8F0",
+      "text": "#3E2723",
+      "textSecondary": "#795548",
+      "border": "#D7CCC8",
+      "success": "#8FBC8F",
+      "warning": "#DEB887",
+      "error": "#CD5C5C"
+    },
+    "darkMode": {
+      "background": "#1A1510",
+      "surface": "#2A2318",
+      "text": "#FAF0E6"
+    },
+    "cssVariables": ":root {\n  --color-primary: #CC5500;\n  --color-secondary: #C2B280;\n  --color-accent: #8FBC8F;\n  --color-background: #FAF0E6;\n  --color-surface: #FFF8F0;\n  --color-text: #3E2723;\n  --color-text-secondary: #795548;\n  --color-border: #D7CCC8;\n  --color-success: #8FBC8F;\n  --color-warning: #DEB887;\n  --color-error: #CD5C5C;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#CC5500',\n  secondary: '#C2B280',\n  accent: '#8FBC8F',\n}"
+  },
+  {
+    "id": "style-corporate-warm",
+    "name": "企业暖色",
+    "category": "style",
+    "tags": ["企业", "商务", "暖蓝", "珊瑚"],
+    "style": "以暖蓝和珊瑚为核心，为传统企业配色注入温度和亲和力。比冷蓝色更有活力，比纯暖色更专业。适合需要兼顾专业性和亲和力的企业官网和产品。",
+    "colors": {
+      "primary": "#2D6A9F",
+      "secondary": "#FF7F50",
+      "accent": "#4ECDC4",
+      "background": "#F8F9FA",
+      "surface": "#FFFFFF",
+      "text": "#2C3E50",
+      "textSecondary": "#7F8C8D",
+      "border": "#DEE2E6",
+      "success": "#27AE60",
+      "warning": "#F39C12",
+      "error": "#E74C3C"
+    },
+    "darkMode": {
+      "background": "#1A2332",
+      "surface": "#243447",
+      "text": "#F8F9FA"
+    },
+    "cssVariables": ":root {\n  --color-primary: #2D6A9F;\n  --color-secondary: #FF7F50;\n  --color-accent: #4ECDC4;\n  --color-background: #F8F9FA;\n  --color-surface: #FFFFFF;\n  --color-text: #2C3E50;\n  --color-text-secondary: #7F8C8D;\n  --color-border: #DEE2E6;\n  --color-success: #27AE60;\n  --color-warning: #F39C12;\n  --color-error: #E74C3C;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#2D6A9F',\n  secondary: '#FF7F50',\n  accent: '#4ECDC4',\n}"
+  },
+  {
+    "id": "style-neon",
+    "name": "霓虹灯",
+    "category": "style",
+    "tags": ["霓虹", "夜生活", "荧光粉", "荧光绿"],
+    "style": "以荧光粉和荧光绿为核心，传达夜生活、音乐节、潮流品牌的炫酷氛围。深色背景搭配高饱和度霓虹色，营造霓虹灯般的视觉冲击力。整体风格大胆、张扬、充满能量。",
+    "colors": {
+      "primary": "#FF1493",
+      "secondary": "#00FF7F",
+      "accent": "#FFD700",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F0F0F0",
+      "textSecondary": "#888888",
+      "border": "#333333",
+      "success": "#00FF7F",
+      "warning": "#FFD700",
+      "error": "#FF1493"
+    },
+    "darkMode": {
+      "background": "#050505",
+      "surface": "#111111",
+      "text": "#F0F0F0"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FF1493;\n  --color-secondary: #00FF7F;\n  --color-accent: #FFD700;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F0F0F0;\n  --color-text-secondary: #888888;\n  --color-border: #333333;\n  --color-success: #00FF7F;\n  --color-warning: #FFD700;\n  --color-error: #FF1493;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FF1493',\n  secondary: '#00FF7F',\n  accent: '#FFD700',\n}"
+  },
+  {
+    "id": "style-earth-tone",
+    "name": "大地色系",
+    "category": "style",
+    "tags": ["大地色", "有机", "驼色", "橄榄绿"],
+    "style": "以驼色和橄榄绿为核心，传达有机、自然、可持续的生活理念。大地色系搭配自然纹理，营造有机食品、户外品牌、手工艺品的质朴氛围。整体风格质朴、温暖、回归本真。",
+    "colors": {
+      "primary": "#C19A6B",
+      "secondary": "#556B2F",
+      "accent": "#8B4513",
+      "background": "#FAF6F0",
+      "surface": "#FFFFFF",
+      "text": "#3E2723",
+      "textSecondary": "#6D4C41",
+      "border": "#D7CCC8",
+      "success": "#556B2F",
+      "warning": "#DAA520",
+      "error": "#A0522D"
+    },
+    "darkMode": {
+      "background": "#1A1510",
+      "surface": "#2A2318",
+      "text": "#FAF6F0"
+    },
+    "cssVariables": ":root {\n  --color-primary: #C19A6B;\n  --color-secondary: #556B2F;\n  --color-accent: #8B4513;\n  --color-background: #FAF6F0;\n  --color-surface: #FFFFFF;\n  --color-text: #3E2723;\n  --color-text-secondary: #6D4C41;\n  --color-border: #D7CCC8;\n  --color-success: '#556B2F';\n  --color-warning: #DAA520;\n  --color-error: #A0522D;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#C19A6B',\n  secondary: '#556B2F',\n  accent: '#8B4513',\n}"
+  },
+  {
+    "id": "style-pastel",
+    "name": "马卡龙/柔和色",
+    "category": "style",
+    "tags": ["马卡龙", "柔和", "薄荷绿", "淡紫"],
+    "style": "以薄荷绿和淡紫为核心，传达柔和、甜美、梦幻的视觉感受。低饱和度的糖果色系搭配圆润设计，营造母婴、儿童、甜品、婚礼等场景的温馨氛围。整体风格温柔、可爱、充满幸福感。",
+    "colors": {
+      "primary": "#B2DFDB",
+      "secondary": "#E1BEE7",
+      "accent": "#FFCDD2",
+      "background": "#FFF9F5",
+      "surface": "#FFFFFF",
+      "text": "#4A4A4A",
+      "textSecondary": "#8A8A8A",
+      "border": "#F0E8E0",
+      "success": "#A5D6A7",
+      "warning": "#FFE082",
+      "error": "#EF9A9A"
+    },
+    "darkMode": {
+      "background": "#1A1A20",
+      "surface": "#252530",
+      "text": "#FFF9F5"
+    },
+    "cssVariables": ":root {\n  --color-primary: #B2DFDB;\n  --color-secondary: #E1BEE7;\n  --color-accent: #FFCDD2;\n  --color-background: #FFF9F5;\n  --color-surface: #FFFFFF;\n  --color-text: #4A4A4A;\n  --color-text-secondary: #8A8A8A;\n  --color-border: #F0E8E0;\n  --color-success: #A5D6A7;\n  --color-warning: #FFE082;\n  --color-error: #EF9A9A;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#B2DFDB',\n  secondary: '#E1BEE7',\n  accent: '#FFCDD2',\n}"
+  }
+]

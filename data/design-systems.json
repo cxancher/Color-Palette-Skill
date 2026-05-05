@@ -1,0 +1,141 @@
+[
+  {
+    "id": "ant-design",
+    "name": "Ant Design",
+    "category": "design-system",
+    "tags": ["企业级", "组件库", "蓝色", "稳重"],
+    "style": "蚂蚁集团开源的企业级设计系统，以蓝色为品牌色。色彩体系基于HSB色彩空间生成10级色阶，确保一致的明度递进。提供完整的语义化颜色，支持明暗双主题。",
+    "colors": {
+      "primary": "#1677FF",
+      "secondary": "#4096FF",
+      "accent": "#1677FF",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#000000",
+      "textSecondary": "rgba(0,0,0,0.45)",
+      "border": "#D9D9D9",
+      "success": "#52C41A",
+      "warning": "#FAAD14",
+      "error": "#FF4D4F",
+      "info": "#1677FF"
+    },
+    "darkMode": {
+      "background": "#141414",
+      "surface": "#1F1F1F",
+      "text": "#FFFFFF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #1677FF;\n  --color-secondary: #4096FF;\n  --color-accent: #1677FF;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #000000;\n  --color-text-secondary: rgba(0,0,0,0.45);\n  --color-border: #D9D9D9;\n  --color-success: #52C41A;\n  --color-warning: #FAAD14;\n  --color-error: #FF4D4F;\n  --color-info: #1677FF;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#1677FF',\n  secondary: '#4096FF',\n  success: '#52C41A',\n  warning: '#FAAD14',\n  error: '#FF4D4F',\n  info: '#1677FF',\n}"
+  },
+  {
+    "id": "material-design",
+    "name": "Material Design (M3)",
+    "category": "design-system",
+    "tags": ["跨平台", "Google", "紫色", "动态"],
+    "style": "Google推出的跨平台设计系统。M3引入了全新的动态色彩系统，支持从用户壁纸提取色彩生成个性化主题。色彩系统基于Tonal Palette，每个颜色有13个色调级别。",
+    "colors": {
+      "primary": "#6750A4",
+      "secondary": "#625B71",
+      "accent": "#6750A4",
+      "background": "#FFFBFE",
+      "surface": "#FFFBFE",
+      "text": "#1C1B1F",
+      "textSecondary": "#49454F",
+      "border": "#C4C0C9",
+      "success": "#386A20",
+      "warning": "#7D5700",
+      "error": "#B3261E"
+    },
+    "darkMode": {
+      "background": "#1C1B1F",
+      "surface": "#2B2930",
+      "text": "#E6E1E5"
+    },
+    "cssVariables": ":root {\n  --color-primary: #6750A4;\n  --color-secondary: #625B71;\n  --color-accent: #6750A4;\n  --color-background: #FFFBFE;\n  --color-surface: #FFFBFE;\n  --color-text: #1C1B1F;\n  --color-text-secondary: #49454F;\n  --color-border: #C4C0C9;\n  --color-success: #386A20;\n  --color-warning: #7D5700;\n  --color-error: #B3261E;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#6750A4',\n  secondary: '#625B71',\n  success: '#386A20',\n  warning: '#7D5700',\n  error: '#B3261E',\n}"
+  },
+  {
+    "id": "chakra-ui",
+    "name": "Chakra UI",
+    "category": "design-system",
+    "tags": ["React", "模块化", "蓝青", "可访问"],
+    "style": "模块化、可访问的React组件库。默认主题以蓝色为主色，青色为辅色。色彩系统基于Tailwind CSS风格的色阶（50-900），支持语义化颜色令牌，自动适配明暗模式。",
+    "colors": {
+      "primary": "#3182CE",
+      "secondary": "#319795",
+      "accent": "#38B2AC",
+      "background": "#FFFFFF",
+      "surface": "#F7FAFC",
+      "text": "#1A202C",
+      "textSecondary": "#718096",
+      "border": "#E2E8F0",
+      "success": "#38A169",
+      "warning": "#D69E2E",
+      "error": "#E53E3E",
+      "info": "#3182CE"
+    },
+    "darkMode": {
+      "background": "#000000",
+      "surface": "#171923",
+      "text": "#E2E8F0"
+    },
+    "cssVariables": ":root {\n  --color-primary: #3182CE;\n  --color-secondary: #319795;\n  --color-accent: #38B2AC;\n  --color-background: #FFFFFF;\n  --color-surface: #F7FAFC;\n  --color-text: #1A202C;\n  --color-text-secondary: #718096;\n  --color-border: #E2E8F0;\n  --color-success: #38A169;\n  --color-warning: #D69E2E;\n  --color-error: #E53E3E;\n  --color-info: #3182CE;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#3182CE',\n  secondary: '#319795',\n  accent: '#38B2AC',\n  success: '#38A169',\n  warning: '#D69E2E',\n  error: '#E53E3E',\n  info: '#3182CE',\n}"
+  },
+  {
+    "id": "tailwind-ui",
+    "name": "Tailwind UI",
+    "category": "design-system",
+    "tags": ["实用优先", "灵活", "多色", "可定制"],
+    "style": "基于Tailwind CSS的实用优先设计理念，提供完整的多色调色板，包含22种颜色每种11个级别。默认以蓝色为推荐主色。设计风格灵活多变，适合快速原型和定制化项目。",
+    "colors": {
+      "primary": "#3B82F6",
+      "secondary": "#6366F1",
+      "accent": "#8B5CF6",
+      "background": "#FFFFFF",
+      "surface": "#F9FAFB",
+      "text": "#111827",
+      "textSecondary": "#6B7280",
+      "border": "#E5E7EB",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444",
+      "info": "#3B82F6"
+    },
+    "darkMode": {
+      "background": "#111827",
+      "surface": "#1F2937",
+      "text": "#F9FAFB"
+    },
+    "cssVariables": ":root {\n  --color-primary: #3B82F6;\n  --color-secondary: #6366F1;\n  --color-accent: #8B5CF6;\n  --color-background: #FFFFFF;\n  --color-surface: #F9FAFB;\n  --color-text: #111827;\n  --color-text-secondary: #6B7280;\n  --color-border: #E5E7EB;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n  --color-info: #3B82F6;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#3B82F6',\n  secondary: '#6366F1',\n  accent: '#8B5CF6',\n  success: '#10B981',\n  warning: '#F59E0B',\n  error: '#EF4444',\n  info: '#3B82F6',\n}"
+  },
+  {
+    "id": "radix-ui",
+    "name": "Radix UI",
+    "category": "design-system",
+    "tags": ["无障碍", "APCA", "靛蓝", "精致"],
+    "style": "提供一套精心设计的无障碍色彩系统。支持15种强调色切换，每种颜色有12个级别。色彩系统基于APCA对比度算法，确保无障碍合规。整体风格精致、现代、高度可定制。",
+    "colors": {
+      "primary": "#6E56CF",
+      "secondary": "#4C48E6",
+      "accent": "#3052F6",
+      "background": "#FFFFFF",
+      "surface": "#F8F8F8",
+      "text": "#1C1B1F",
+      "textSecondary": "#67676A",
+      "border": "#E0E0E0",
+      "success": "#30A46C",
+      "warning": "#E5A100",
+      "error": "#E5484D",
+      "info": "#0090FF"
+    },
+    "darkMode": {
+      "background": "#16161A",
+      "surface": "#222226",
+      "text": "#EDEDEF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #6E56CF;\n  --color-secondary: #4C48E6;\n  --color-accent: #3052F6;\n  --color-background: #FFFFFF;\n  --color-surface: #F8F8F8;\n  --color-text: #1C1B1F;\n  --color-text-secondary: #67676A;\n  --color-border: #E0E0E0;\n  --color-success: #30A46C;\n  --color-warning: #E5A100;\n  --color-error: #E5484D;\n  --color-info: #0090FF;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#6E56CF',\n  secondary: '#4C48E6',\n  accent: '#3052F6',\n  success: '#30A46C',\n  warning: '#E5A100',\n  error: '#E5484D',\n  info: '#0090FF',\n}"
+  }
+]

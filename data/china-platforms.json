@@ -1,0 +1,292 @@
+[
+  {
+    "id": "taobao",
+    "name": "淘宝",
+    "category": "china-platform",
+    "tags": ["电商", "购物", "橙色", "活泼"],
+    "style": "以热情活力的橙色为主基调，营造轻松愉悦的购物氛围。辅以红色刺激购买冲动，整体风格活泼亲民。",
+    "colors": {
+      "primary": "#FF5000",
+      "secondary": "#FF4400",
+      "accent": "#FF0036",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "#999999",
+      "border": "#E5E5E5"
+    },
+    "darkMode": {
+      "background": "#1A1A1A",
+      "surface": "#2A2A2A",
+      "text": "#E5E5E5"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FF5000;\n  --color-secondary: #FF4400;\n  --color-accent: #FF0036;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: #999999;\n  --color-border: #E5E5E5;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FF5000',\n  secondary: '#FF4400',\n  accent: '#FF0036',\n}"
+  },
+  {
+    "id": "tmall",
+    "name": "天猫",
+    "category": "china-platform",
+    "tags": ["电商", "品牌", "红色", "高端"],
+    "style": "天猫红比淘宝橙更高端、更鲜明，传递'理想生活'的品牌定位。红色鲜艳跳跃，赋予品牌年轻活力与时尚感。",
+    "colors": {
+      "primary": "#FF0036",
+      "secondary": "#E1251B",
+      "accent": "#FF6A00",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "#999999",
+      "border": "#E5E5E5"
+    },
+    "darkMode": {
+      "background": "#1A1A1A",
+      "surface": "#2A2A2A",
+      "text": "#E5E5E5"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FF0036;\n  --color-secondary: #E1251B;\n  --color-accent: #FF6A00;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: #999999;\n  --color-border: #E5E5E5;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FF0036',\n  secondary: '#E1251B',\n  accent: '#FF6A00',\n}"
+  },
+  {
+    "id": "douyin",
+    "name": "抖音",
+    "category": "china-platform",
+    "tags": ["短视频", "潮流", "品红", "深色"],
+    "style": "以黑色为底，品红与湖蓝这对互补色碰撞出强烈的视觉冲击力，充满年轻、潮流、音乐感。深色沉浸式体验是核心设计语言。",
+    "colors": {
+      "primary": "#FE2C55",
+      "secondary": "#25F4EE",
+      "accent": "#FF0050",
+      "background": "#000000",
+      "surface": "#1A1A1A",
+      "text": "#FFFFFF",
+      "textSecondary": "#B3B3B3",
+      "border": "#333333"
+    },
+    "darkMode": {
+      "background": "#000000",
+      "surface": "#1A1A1A",
+      "text": "#FFFFFF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FE2C55;\n  --color-secondary: #25F4EE;\n  --color-accent: #FF0050;\n  --color-background: #000000;\n  --color-surface: #1A1A1A;\n  --color-text: #FFFFFF;\n  --color-text-secondary: #B3B3B3;\n  --color-border: #333333;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FE2C55',\n  secondary: '#25F4EE',\n  accent: '#FF0050',\n}"
+  },
+  {
+    "id": "kuaishou",
+    "name": "快手",
+    "category": "china-platform",
+    "tags": ["短视频", "社区", "红色", "温暖"],
+    "style": "从早期的黄色/橙黄色演化为温暖的红，'快手红'带有橙子般的温暖感，体现社区'温暖'的独特属性。整体风格朴实亲切，强调真实与陪伴感。",
+    "colors": {
+      "primary": "#FE3666",
+      "secondary": "#FF9000",
+      "accent": "#FF2D55",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "#999999",
+      "border": "#E5E5E5"
+    },
+    "darkMode": {
+      "background": "#1A1A1A",
+      "surface": "#2A2A2A",
+      "text": "#E5E5E5"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FE3666;\n  --color-secondary: #FF9000;\n  --color-accent: #FF2D55;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: #999999;\n  --color-border: #E5E5E5;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FE3666',\n  secondary: '#FF9000',\n  accent: '#FF2D55',\n}"
+  },
+  {
+    "id": "jd",
+    "name": "京东",
+    "category": "china-platform",
+    "tags": ["电商", "品质", "红色", "专业"],
+    "style": "京东红代表热情、鲜活、澎湃的生命力，塑造了强有力的品牌形象。黑白灰为背景辅助色，整体风格专业可靠，传递品质与信任感。",
+    "colors": {
+      "primary": "#E1251B",
+      "secondary": "#2B6CB0",
+      "accent": "#35B64E",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "#999999",
+      "border": "#E5E5E5",
+      "success": "#35B64E"
+    },
+    "darkMode": {
+      "background": "#1A1A1A",
+      "surface": "#2A2A2A",
+      "text": "#E5E5E5"
+    },
+    "cssVariables": ":root {\n  --color-primary: #E1251B;\n  --color-secondary: #2B6CB0;\n  --color-accent: #35B64E;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: #999999;\n  --color-border: #E5E5E5;\n  --color-success: #35B64E;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#E1251B',\n  secondary: '#2B6CB0',\n  accent: '#35B64E',\n}"
+  },
+  {
+    "id": "pinduoduo",
+    "name": "拼多多",
+    "category": "china-platform",
+    "tags": ["社交电商", "团购", "红色", "热情"],
+    "style": "以红色和白色为基础色调，辅以橙色、绿色和蓝色。红色在中国文化中代表喜庆与热情，契合'拼'的社交电商模式。整体风格热情、接地气、强调社交互动。",
+    "colors": {
+      "primary": "#E02E24",
+      "secondary": "#F6C5C2",
+      "accent": "#FF6A00",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "#999999",
+      "border": "#E5E5E5"
+    },
+    "darkMode": {
+      "background": "#1A1A1A",
+      "surface": "#2A2A2A",
+      "text": "#E5E5E5"
+    },
+    "cssVariables": ":root {\n  --color-primary: #E02E24;\n  --color-secondary: #F6C5C2;\n  --color-accent: #FF6A00;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: #999999;\n  --color-border: #E5E5E5;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#E02E24',\n  secondary: '#F6C5C2',\n  accent: '#FF6A00',\n}"
+  },
+  {
+    "id": "xiaohongshu",
+    "name": "小红书",
+    "category": "china-platform",
+    "tags": ["社交", "生活方式", "蔷薇红", "时尚"],
+    "style": "蔷薇红传递年轻、时尚、活力的品牌调性，Logo中蓝色基色使其呈现偏洋红的效果。整体风格精致优雅，面向年轻女性用户群体，强调生活方式分享。",
+    "colors": {
+      "primary": "#FF2442",
+      "secondary": "#FE2C55",
+      "accent": "#FF6B81",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "#999999",
+      "border": "#E5E5E5"
+    },
+    "darkMode": {
+      "background": "#1A1A1A",
+      "surface": "#2A2A2A",
+      "text": "#E5E5E5"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FF2442;\n  --color-secondary: #FE2C55;\n  --color-accent: #FF6B81;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: #999999;\n  --color-border: #E5E5E5;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FF2442',\n  secondary: '#FE2C55',\n  accent: '#FF6B81',\n}"
+  },
+  {
+    "id": "bilibili",
+    "name": "哔哩哔哩 (B站)",
+    "category": "china-platform",
+    "tags": ["视频", "二次元", "粉色", "活泼"],
+    "style": "粉色为主色、蓝色为辅色的搭配主次分明，体现二次元文化的活力与年轻感。整体风格活泼有趣、社区氛围浓厚。",
+    "colors": {
+      "primary": "#FB7299",
+      "secondary": "#00A1D6",
+      "accent": "#FF6699",
+      "background": "#FFFFFF",
+      "surface": "#F6F6F6",
+      "text": "#212121",
+      "textSecondary": "#999999",
+      "border": "#E5E5E5"
+    },
+    "darkMode": {
+      "background": "#17181A",
+      "surface": "#212224",
+      "text": "#E5E5E5"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FB7299;\n  --color-secondary: #00A1D6;\n  --color-accent: #FF6699;\n  --color-background: #FFFFFF;\n  --color-surface: #F6F6F6;\n  --color-text: #212121;\n  --color-text-secondary: #999999;\n  --color-border: #E5E5E5;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FB7299',\n  secondary: '#00A1D6',\n  accent: '#FF6699',\n}"
+  },
+  {
+    "id": "wechat",
+    "name": "微信",
+    "category": "china-platform",
+    "tags": ["社交", "通讯", "绿色", "极简"],
+    "style": "微信绿代表健康、活力与生命力，整体设计极简克制，以功能性和易用性为核心。色彩使用非常节制，传递安全、可靠、日常的社交工具属性。",
+    "colors": {
+      "primary": "#07C160",
+      "secondary": "#09BB07",
+      "accent": "#576B95",
+      "background": "#EDEDED",
+      "surface": "#FFFFFF",
+      "text": "#353535",
+      "textSecondary": "#888888",
+      "border": "#D9D9D9"
+    },
+    "darkMode": {
+      "background": "#111111",
+      "surface": "#1E1E1E",
+      "text": "#E5E5E5"
+    },
+    "cssVariables": ":root {\n  --color-primary: #07C160;\n  --color-secondary: #09BB07;\n  --color-accent: #576B95;\n  --color-background: #EDEDED;\n  --color-surface: #FFFFFF;\n  --color-text: #353535;\n  --color-text-secondary: #888888;\n  --color-border: #D9D9D9;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#07C160',\n  secondary: '#09BB07',\n  accent: '#576B95',\n}"
+  },
+  {
+    "id": "meituan",
+    "name": "美团",
+    "category": "china-platform",
+    "tags": ["生活服务", "外卖", "黄色", "温暖"],
+    "style": "美团黄具有极高的视觉辨识度和食欲感，契合外卖、餐饮等生活服务场景。整体风格明亮、温暖、实用，强调便捷与高效的生活服务体验。",
+    "colors": {
+      "primary": "#FFC300",
+      "secondary": "#FF6633",
+      "accent": "#07C160",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "#999999",
+      "border": "#E5E5E5",
+      "success": "#07C160"
+    },
+    "darkMode": {
+      "background": "#1A1A1A",
+      "surface": "#2A2A2A",
+      "text": "#E5E5E5"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FFC300;\n  --color-secondary: #FF6633;\n  --color-accent: #07C160;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: #999999;\n  --color-border: #E5E5E5;\n  --color-success: #07C160;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FFC300',\n  secondary: '#FF6633',\n  accent: '#07C160',\n}"
+  },
+  {
+    "id": "alipay",
+    "name": "支付宝",
+    "category": "china-platform",
+    "tags": ["支付", "金融", "蓝色", "安全"],
+    "style": "蓝色传递安全、稳定、可靠的金融属性，与支付宝的支付工具定位高度契合。整体风格专业、清晰、值得信赖，Ant Design设计体系保证了高度一致性。",
+    "colors": {
+      "primary": "#1677FF",
+      "secondary": "#1E6FFF",
+      "accent": "#FF6A00",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "#999999",
+      "border": "#E5E5E5"
+    },
+    "darkMode": {
+      "background": "#141414",
+      "surface": "#1F1F1F",
+      "text": "#E5E5E5"
+    },
+    "cssVariables": ":root {\n  --color-primary: #1677FF;\n  --color-secondary: #1E6FFF;\n  --color-accent: #FF6A00;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: #999999;\n  --color-border: #E5E5E5;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#1677FF',\n  secondary: '#1E6FFF',\n  accent: '#FF6A00',\n}"
+  },
+  {
+    "id": "netease",
+    "name": "网易",
+    "category": "china-platform",
+    "tags": ["内容", "音乐", "红色", "品质"],
+    "style": "网易红是集团统一的品牌色，传递热情与活力。旗下各产品在此基础上各有延展。整体风格稳重中带有活力，兼具内容品质感与互联网年轻感。",
+    "colors": {
+      "primary": "#C0392B",
+      "secondary": "#D43C33",
+      "accent": "#E74C3C",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "#999999",
+      "border": "#E5E5E5"
+    },
+    "darkMode": {
+      "background": "#1A1A1A",
+      "surface": "#2A2A2A",
+      "text": "#E5E5E5"
+    },
+    "cssVariables": ":root {\n  --color-primary: #C0392B;\n  --color-secondary: #D43C33;\n  --color-accent: #E74C3C;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: #999999;\n  --color-border: #E5E5E5;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#C0392B',\n  secondary: '#D43C33',\n  accent: '#E74C3C',\n}"
+  }
+]

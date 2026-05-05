@@ -1,0 +1,199 @@
+[
+  {
+    "id": "stripe",
+    "name": "Stripe",
+    "category": "international-platform",
+    "tags": ["支付", "开发者", "蓝紫", "精致"],
+    "style": "以标志性的对角线渐变闻名，从靛蓝经紫色过渡到青色和品红。传达'蓝色的可靠性 + 红色的活力'。整体风格精致、专业、面向开发者，色彩克制而高级。",
+    "colors": {
+      "primary": "#635BFF",
+      "secondary": "#0055DE",
+      "accent": "#7C4DFF",
+      "background": "#F6F9FC",
+      "surface": "#FFFFFF",
+      "text": "#0A2540",
+      "textSecondary": "#425466",
+      "border": "#E3E8EF"
+    },
+    "darkMode": {
+      "background": "#0A2540",
+      "surface": "#1A2744",
+      "text": "#F6F9FC"
+    },
+    "cssVariables": ":root {\n  --color-primary: #635BFF;\n  --color-secondary: #0055DE;\n  --color-accent: #7C4DFF;\n  --color-background: #F6F9FC;\n  --color-surface: #FFFFFF;\n  --color-text: #0A2540;\n  --color-text-secondary: #425466;\n  --color-border: #E3E8EF;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#635BFF',\n  secondary: '#0055DE',\n  accent: '#7C4DFF',\n}"
+  },
+  {
+    "id": "notion",
+    "name": "Notion",
+    "category": "international-platform",
+    "tags": ["效率", "笔记", "黑白", "极简"],
+    "style": "采用极致克制的黑白灰简约风格，以白色为主基调，搭配极少量的蓝色作为交互提示。整体设计让用户内容成为主角，色彩退居幕后。",
+    "colors": {
+      "primary": "#0075DE",
+      "secondary": "#37352F",
+      "accent": "#62AEF0",
+      "background": "#FFFFFF",
+      "surface": "#F6F5F4",
+      "text": "#000000",
+      "textSecondary": "#787774",
+      "border": "#E0E0E0"
+    },
+    "darkMode": {
+      "background": "#191919",
+      "surface": "#252525",
+      "text": "#E5E5E5"
+    },
+    "cssVariables": ":root {\n  --color-primary: #0075DE;\n  --color-secondary: #37352F;\n  --color-accent: #62AEF0;\n  --color-background: #FFFFFF;\n  --color-surface: #F6F5F4;\n  --color-text: #000000;\n  --color-text-secondary: #787774;\n  --color-border: #E0E0E0;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#0075DE',\n  secondary: '#37352F',\n  accent: '#62AEF0',\n}"
+  },
+  {
+    "id": "linear",
+    "name": "Linear",
+    "category": "international-platform",
+    "tags": ["项目管理", "开发者", "蓝紫", "暗色"],
+    "style": "以极致的速度感和精致的暗色主题著称。品牌色是刻意降低饱和度的蓝紫色，传达冷静、专业、高效的气质。界面大量使用毛玻璃效果和微妙的渐变。",
+    "colors": {
+      "primary": "#5E6AD2",
+      "secondary": "#8A8F98",
+      "accent": "#5E6AD2",
+      "background": "#F7F8F8",
+      "surface": "#FFFFFF",
+      "text": "#1D1D1F",
+      "textSecondary": "#8A8F98",
+      "border": "#E5E5E5"
+    },
+    "darkMode": {
+      "background": "#08090A",
+      "surface": "#222326",
+      "text": "#F7F8F8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #5E6AD2;\n  --color-secondary: #8A8F98;\n  --color-accent: #5E6AD2;\n  --color-background: #F7F8F8;\n  --color-surface: #FFFFFF;\n  --color-text: #1D1D1F;\n  --color-text-secondary: #8A8F98;\n  --color-border: #E5E5E5;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#5E6AD2',\n  secondary: '#8A8F98',\n  accent: '#5E6AD2',\n}"
+  },
+  {
+    "id": "vercel",
+    "name": "Vercel",
+    "category": "international-platform",
+    "tags": ["部署", "前端", "黑白", "极简"],
+    "style": "极简主义的极致代表。品牌几乎只使用黑白两色，Logo是一个纯黑三角形。蓝色仅在链接、按钮等交互元素上少量出现。暗色模式优先，大量留白，传达冷静、自信、高端的技术美学。",
+    "colors": {
+      "primary": "#000000",
+      "secondary": "#0070F3",
+      "accent": "#0070F3",
+      "background": "#FFFFFF",
+      "surface": "#FAFAFA",
+      "text": "#000000",
+      "textSecondary": "#666666",
+      "border": "#EAEAEA"
+    },
+    "darkMode": {
+      "background": "#171717",
+      "surface": "#262626",
+      "text": "#FAFAFA"
+    },
+    "cssVariables": ":root {\n  --color-primary: #000000;\n  --color-secondary: #0070F3;\n  --color-accent: #0070F3;\n  --color-background: #FFFFFF;\n  --color-surface: #FAFAFA;\n  --color-text: #000000;\n  --color-text-secondary: #666666;\n  --color-border: #EAEAEA;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#000000',\n  secondary: '#0070F3',\n  accent: '#0070F3',\n}"
+  },
+  {
+    "id": "figma",
+    "name": "Figma",
+    "category": "international-platform",
+    "tags": ["设计", "协作", "多色", "创意"],
+    "style": "采用大胆的多色品牌系统，Logo由红橙、紫色、蓝色、绿色四色组成。这种多色方案反映了设计工具的创意、协作和多样性特质。界面本身相对克制，以白色为底。",
+    "colors": {
+      "primary": "#FF7138",
+      "secondary": "#874EFF",
+      "accent": "#00B6FF",
+      "background": "#FFFFFF",
+      "surface": "#F5F5F5",
+      "text": "#000000",
+      "textSecondary": "#6B7280",
+      "border": "#E5E7EB",
+      "success": "#25CB71",
+      "error": "#FF3737"
+    },
+    "darkMode": {
+      "background": "#2C2C2C",
+      "surface": "#383838",
+      "text": "#F5F5F5"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FF7138;\n  --color-secondary: #874EFF;\n  --color-accent: #00B6FF;\n  --color-background: #FFFFFF;\n  --color-surface: #F5F5F5;\n  --color-text: #000000;\n  --color-text-secondary: #6B7280;\n  --color-border: #E5E7EB;\n  --color-success: #25CB71;\n  --color-error: #FF3737;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FF7138',\n  secondary: '#874EFF',\n  accent: '#00B6FF',\n  success: '#25CB71',\n  error: '#FF3737',\n}"
+  },
+  {
+    "id": "github",
+    "name": "GitHub",
+    "category": "international-platform",
+    "tags": ["代码托管", "开源", "绿色", "深色"],
+    "style": "品牌以绿色为核心（源自Octocat的绿色调），但产品界面以深色模式为主导。Primer设计系统提供完整的明暗双主题。整体风格技术感强、信息密度高。",
+    "colors": {
+      "primary": "#08872B",
+      "secondary": "#3094FF",
+      "accent": "#C06EFF",
+      "background": "#0D1117",
+      "surface": "#161B22",
+      "text": "#E6EDF3",
+      "textSecondary": "#8B949E",
+      "border": "#30363D",
+      "success": "#3FB950",
+      "warning": "#D29922",
+      "error": "#F85149"
+    },
+    "darkMode": {
+      "background": "#0D1117",
+      "surface": "#161B22",
+      "text": "#E6EDF3"
+    },
+    "cssVariables": ":root {\n  --color-primary: #08872B;\n  --color-secondary: #3094FF;\n  --color-accent: #C06EFF;\n  --color-background: #0D1117;\n  --color-surface: #161B22;\n  --color-text: #E6EDF3;\n  --color-text-secondary: #8B949E;\n  --color-border: #30363D;\n  --color-success: #3FB950;\n  --color-warning: #D29922;\n  --color-error: #F85149;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#08872B',\n  secondary: '#3094FF',\n  accent: '#C06EFF',\n  success: '#3FB950',\n  warning: '#D29922',\n  error: '#F85149',\n}"
+  },
+  {
+    "id": "apple",
+    "name": "Apple",
+    "category": "international-platform",
+    "tags": ["科技", "硬件", "黑白灰", "高端"],
+    "style": "简约设计的鼻祖。品牌色仅有黑、白、灰三色，搭配极少量的蓝色作为交互提示。背景使用独特的暖灰白色，比纯白更柔和。追求极致的简洁、优雅和高端感。",
+    "colors": {
+      "primary": "#000000",
+      "secondary": "#1D1D1F",
+      "accent": "#0066CC",
+      "background": "#F5F5F7",
+      "surface": "#FFFFFF",
+      "text": "#1D1D1F",
+      "textSecondary": "#8E8E93",
+      "border": "#D2D2D7"
+    },
+    "darkMode": {
+      "background": "#000000",
+      "surface": "#1C1C1E",
+      "text": "#F5F5F7"
+    },
+    "cssVariables": ":root {\n  --color-primary: #000000;\n  --color-secondary: #1D1D1F;\n  --color-accent: #0066CC;\n  --color-background: #F5F5F7;\n  --color-surface: #FFFFFF;\n  --color-text: #1D1D1F;\n  --color-text-secondary: #8E8E93;\n  --color-border: #D2D2D7;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#000000',\n  secondary: '#1D1D1F',\n  accent: '#0066CC',\n}"
+  },
+  {
+    "id": "spotify",
+    "name": "Spotify",
+    "category": "international-platform",
+    "tags": ["音乐", "流媒体", "绿色", "深色"],
+    "style": "以深色沉浸式体验为核心，使用独特的暖黑色作为背景，营造类似影院的沉浸感。品牌绿使用极为克制，仅出现在播放按钮、活跃状态和CTA上，通过稀缺性最大化视觉冲击力。",
+    "colors": {
+      "primary": "#1DB954",
+      "secondary": "#1ED760",
+      "accent": "#1DB954",
+      "background": "#191414",
+      "surface": "#282828",
+      "text": "#FFFFFF",
+      "textSecondary": "#B3B3B3",
+      "border": "#333333"
+    },
+    "darkMode": {
+      "background": "#191414",
+      "surface": "#282828",
+      "text": "#FFFFFF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #1DB954;\n  --color-secondary: #1ED760;\n  --color-accent: #1DB954;\n  --color-background: #191414;\n  --color-surface: #282828;\n  --color-text: #FFFFFF;\n  --color-text-secondary: #B3B3B3;\n  --color-border: #333333;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#1DB954',\n  secondary: '#1ED760',\n  accent: '#1DB954',\n}"
+  }
+]

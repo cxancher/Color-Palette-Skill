@@ -1,0 +1,272 @@
+[
+  {
+    "id": "industry-finance",
+    "name": "金融/银行",
+    "category": "industry",
+    "tags": ["金融", "银行", "深蓝", "金色"],
+    "style": "以蓝色为主色调，象征信任、安全、专业和稳定。搭配金色/琥珀色强调，传达财富和价值感。深蓝色用于导航和标题区域，浅灰背景保持页面整洁，金色用于CTA按钮和重要数据高亮。",
+    "colors": {
+      "primary": "#1E40AF",
+      "secondary": "#3B82F6",
+      "accent": "#F59E0B",
+      "background": "#F3F4F6",
+      "surface": "#FFFFFF",
+      "text": "#1F2937",
+      "textSecondary": "#6B7280",
+      "border": "#E5E7EB",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#0F172A",
+      "surface": "#1E293B",
+      "text": "#F1F5F9"
+    },
+    "cssVariables": ":root {\n  --color-primary: #1E40AF;\n  --color-secondary: #3B82F6;\n  --color-accent: #F59E0B;\n  --color-background: #F3F4F6;\n  --color-surface: #FFFFFF;\n  --color-text: #1F2937;\n  --color-text-secondary: #6B7280;\n  --color-border: #E5E7EB;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#1E40AF',\n  secondary: '#3B82F6',\n  accent: '#F59E0B',\n}"
+  },
+  {
+    "id": "industry-education",
+    "name": "教育",
+    "category": "industry",
+    "tags": ["教育", "学习", "蓝色", "知性"],
+    "style": "以蓝色和紫色为主色调，蓝色代表知识、稳定和冷静，紫色象征创造力和想象力。配色方案注重清晰度和亲和力，浅色背景减少视觉疲劳，适合长时间阅读和学习。",
+    "colors": {
+      "primary": "#0284C7",
+      "secondary": "#7DD3FC",
+      "accent": "#F59E0B",
+      "background": "#F0F9FF",
+      "surface": "#FFFFFF",
+      "text": "#0C4A6E",
+      "textSecondary": "#64748B",
+      "border": "#BAE6FD",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#0C1929",
+      "surface": "#162032",
+      "text": "#E0F2FE"
+    },
+    "cssVariables": ":root {\n  --color-primary: #0284C7;\n  --color-secondary: #7DD3FC;\n  --color-accent: #F59E0B;\n  --color-background: #F0F9FF;\n  --color-surface: #FFFFFF;\n  --color-text: #0C4A6E;\n  --color-text-secondary: #64748B;\n  --color-border: #BAE6FD;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#0284C7',\n  secondary: '#7DD3FC',\n  accent: '#F59E0B',\n}"
+  },
+  {
+    "id": "industry-healthcare",
+    "name": "医疗/健康",
+    "category": "industry",
+    "tags": ["医疗", "健康", "天蓝", "清新"],
+    "style": "以绿色、白色和浅蓝色为核心。绿色代表自然、健康和生命力，白色象征纯净和卫生，蓝色传达信任和专业。配色方案强调清洁感和安全感，大量使用白色空间，浅色调为主。",
+    "colors": {
+      "primary": "#0EA5E9",
+      "secondary": "#38BDF8",
+      "accent": "#10B981",
+      "background": "#F0F9FF",
+      "surface": "#FFFFFF",
+      "text": "#075985",
+      "textSecondary": "#64748B",
+      "border": "#BAE6FD",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#0C1929",
+      "surface": "#162032",
+      "text": "#E0F2FE"
+    },
+    "cssVariables": ":root {\n  --color-primary: #0EA5E9;\n  --color-secondary: #38BDF8;\n  --color-accent: #10B981;\n  --color-background: #F0F9FF;\n  --color-surface: #FFFFFF;\n  --color-text: #075985;\n  --color-text-secondary: #64748B;\n  --color-border: #BAE6FD;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#0EA5E9',\n  secondary: '#38BDF8',\n  accent: '#10B981',\n}"
+  },
+  {
+    "id": "industry-food",
+    "name": "美食/餐饮",
+    "category": "industry",
+    "tags": ["美食", "餐饮", "橙色", "暖色"],
+    "style": "以红色、橙色、黄色等暖色为主。红色和橙色能刺激食欲、营造紧迫感，黄色传达快乐和友好。棕色用于有机/天然食品品牌，绿色强调健康和新鲜。整体配色温暖、诱人、充满活力。",
+    "colors": {
+      "primary": "#F97316",
+      "secondary": "#FB923C",
+      "accent": "#DC2626",
+      "background": "#FFF7ED",
+      "surface": "#FFFFFF",
+      "text": "#7C2D12",
+      "textSecondary": "#9A3412",
+      "border": "#FED7AA",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#1C1208",
+      "surface": "#2A1D10",
+      "text": "#FFF7ED"
+    },
+    "cssVariables": ":root {\n  --color-primary: #F97316;\n  --color-secondary: #FB923C;\n  --color-accent: #DC2626;\n  --color-background: #FFF7ED;\n  --color-surface: #FFFFFF;\n  --color-text: #7C2D12;\n  --color-text-secondary: #9A3412;\n  --color-border: #FED7AA;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#F97316',\n  secondary: '#FB923C',\n  accent: '#DC2626',\n}"
+  },
+  {
+    "id": "industry-tech-saas",
+    "name": "科技/SaaS",
+    "category": "industry",
+    "tags": ["科技", "SaaS", "青色", "深色"],
+    "style": "流行深色模式，以深蓝、深灰、黑色为背景，搭配青色/蓝色/紫色渐变作为品牌色。深色背景传达高端、现代、沉浸式的体验感。蓝色代表数据安全和信任，紫色象征创新和前沿。",
+    "colors": {
+      "primary": "#0891B2",
+      "secondary": "#06B6D4",
+      "accent": "#F97316",
+      "background": "#0F172A",
+      "surface": "#1E293B",
+      "text": "#F1F5F9",
+      "textSecondary": "#94A3B8",
+      "border": "#334155",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#020617",
+      "surface": "#0F172A",
+      "text": "#F1F5F9"
+    },
+    "cssVariables": ":root {\n  --color-primary: #0891B2;\n  --color-secondary: #06B6D4;\n  --color-accent: #F97316;\n  --color-background: #0F172A;\n  --color-surface: #1E293B;\n  --color-text: #F1F5F9;\n  --color-text-secondary: #94A3B8;\n  --color-border: #334155;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#0891B2',\n  secondary: '#06B6D4',\n  accent: '#F97316',\n}"
+  },
+  {
+    "id": "industry-fashion",
+    "name": "时尚/美妆",
+    "category": "industry",
+    "tags": ["时尚", "美妆", "粉色", "优雅"],
+    "style": "有两种主流风格：一是以粉色、裸色、玫瑰金为主的柔美风格，传达女性魅力和温柔感；二是以黑色、金色为主的奢华风格，传达高端、优雅和exclusive感。",
+    "colors": {
+      "primary": "#FB7185",
+      "secondary": "#FECACA",
+      "accent": "#10B981",
+      "background": "#FFFBEB",
+      "surface": "#FFFFFF",
+      "text": "#991B1B",
+      "textSecondary": "#9A3412",
+      "border": "#FECDD3",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#000000",
+      "surface": "#262626",
+      "text": "#FAFAFA"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FB7185;\n  --color-secondary: #FECACA;\n  --color-accent: #10B981;\n  --color-background: #FFFBEB;\n  --color-surface: #FFFFFF;\n  --color-text: #991B1B;\n  --color-text-secondary: #9A3412;\n  --color-border: #FECDD3;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FB7185',\n  secondary: '#FECACA',\n  accent: '#10B981',\n}"
+  },
+  {
+    "id": "industry-travel",
+    "name": "旅游/出行",
+    "category": "industry",
+    "tags": ["旅游", "出行", "绿色", "活力"],
+    "style": "以蓝色（天空/海洋）、绿色（自然/生态）、橙色（冒险/活力）为主。蓝色传达自由和开阔感，绿色代表自然和可持续旅行，橙色激发探索欲望。配色方案通常明亮、多彩、充满活力。",
+    "colors": {
+      "primary": "#10B981",
+      "secondary": "#F59E0B",
+      "accent": "#EC4899",
+      "background": "#ECFDF5",
+      "surface": "#FFFFFF",
+      "text": "#065F46",
+      "textSecondary": "#6B7280",
+      "border": "#A7F3D0",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#022C22",
+      "surface": "#064E3B",
+      "text": "#ECFDF5"
+    },
+    "cssVariables": ":root {\n  --color-primary: #10B981;\n  --color-secondary: #F59E0B;\n  --color-accent: #EC4899;\n  --color-background: #ECFDF5;\n  --color-surface: #FFFFFF;\n  --color-text: #065F46;\n  --color-text-secondary: #6B7280;\n  --color-border: #A7F3D0;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#10B981',\n  secondary: '#F59E0B',\n  accent: '#EC4899',\n}"
+  },
+  {
+    "id": "industry-realestate",
+    "name": "房地产",
+    "category": "industry",
+    "tags": ["房地产", "高端", "深蓝", "金色"],
+    "style": "以深蓝色为主色调，传达信任、稳定和专业。搭配金色强调色，暗示房产的价值和投资回报。配色方案偏向保守和正式，深色用于导航和标题，浅色背景让房产图片成为视觉焦点。",
+    "colors": {
+      "primary": "#1E3A8A",
+      "secondary": "#6366F1",
+      "accent": "#EAB308",
+      "background": "#E5E7EB",
+      "surface": "#FFFFFF",
+      "text": "#111827",
+      "textSecondary": "#4B5563",
+      "border": "#D1D5DB",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#0F172A",
+      "surface": "#1E293B",
+      "text": "#F1F5F9"
+    },
+    "cssVariables": ":root {\n  --color-primary: #1E3A8A;\n  --color-secondary: #6366F1;\n  --color-accent: #EAB308;\n  --color-background: #E5E7EB;\n  --color-surface: #FFFFFF;\n  --color-text: #111827;\n  --color-text-secondary: #4B5563;\n  --color-border: #D1D5DB;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#1E3A8A',\n  secondary: '#6366F1',\n  accent: '#EAB308',\n}"
+  },
+  {
+    "id": "industry-ecommerce",
+    "name": "电商/零售",
+    "category": "industry",
+    "tags": ["电商", "零售", "红色", "转化"],
+    "style": "以红色和橙色为核心行动色，红色刺激购买决策和紧迫感，橙色传达友好和活力。蓝色用于支付和账户相关区域，增强安全感。白色背景确保商品图片清晰突出。注重转化率优化。",
+    "colors": {
+      "primary": "#DC2626",
+      "secondary": "#2563EB",
+      "accent": "#F59E0B",
+      "background": "#FFFFFF",
+      "surface": "#F9FAFB",
+      "text": "#334155",
+      "textSecondary": "#64748B",
+      "border": "#E5E7EB",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#0F172A",
+      "surface": "#1E293B",
+      "text": "#F1F5F9"
+    },
+    "cssVariables": ":root {\n  --color-primary: #DC2626;\n  --color-secondary: #2563EB;\n  --color-accent: #F59E0B;\n  --color-background: #FFFFFF;\n  --color-surface: #F9FAFB;\n  --color-text: #334155;\n  --color-text-secondary: #64748B;\n  --color-border: #E5E7EB;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#DC2626',\n  secondary: '#2563EB',\n  accent: '#F59E0B',\n}"
+  },
+  {
+    "id": "industry-social",
+    "name": "社交/社区",
+    "category": "industry",
+    "tags": ["社交", "社区", "蓝色", "多彩"],
+    "style": "以蓝色为绝对主色，传达信任、沟通和连接感。搭配多彩强调色代表多元、活力和创造力。配色方案通常明亮、友好、开放，鼓励用户互动和表达。渐变色和多彩元素常用于交互元素。",
+    "colors": {
+      "primary": "#3B82F6",
+      "secondary": "#8B5CF6",
+      "accent": "#EC4899",
+      "background": "#F9FAFB",
+      "surface": "#FFFFFF",
+      "text": "#1F2937",
+      "textSecondary": "#6B7280",
+      "border": "#E5E7EB",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#111827",
+      "surface": "#1F2937",
+      "text": "#F9FAFB"
+    },
+    "cssVariables": ":root {\n  --color-primary: #3B82F6;\n  --color-secondary: #8B5CF6;\n  --color-accent: #EC4899;\n  --color-background: #F9FAFB;\n  --color-surface: #FFFFFF;\n  --color-text: #1F2937;\n  --color-text-secondary: #6B7280;\n  --color-border: #E5E7EB;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#3B82F6',\n  secondary: '#8B5CF6',\n  accent: '#EC4899',\n}"
+  }
+]

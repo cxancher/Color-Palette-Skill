@@ -1,0 +1,74 @@
+[
+  {
+    "id": "astra",
+    "name": "Astra",
+    "category": "wordpress-theme",
+    "tags": ["多功能", "快速", "蓝紫", "现代"],
+    "style": "品牌色以蓝紫渐变为核心视觉标识，搭配金黄色强调色。作为以速度和灵活性著称的多功能主题，配色方案强调可定制性，提供9个全局颜色槽位和3套可切换调色板。",
+    "colors": {
+      "primary": "#0170B9",
+      "secondary": "#492CDD",
+      "accent": "#FFC300",
+      "background": "#F2F5F7",
+      "surface": "#FFFFFF",
+      "text": "#3A3A3A",
+      "textSecondary": "#757575",
+      "border": "#E5E5E5"
+    },
+    "darkMode": {
+      "background": "#0C073B",
+      "surface": "#1A1550",
+      "text": "#F2F5F7"
+    },
+    "cssVariables": ":root {\n  --color-primary: #0170B9;\n  --color-secondary: #492CDD;\n  --color-accent: #FFC300;\n  --color-background: #F2F5F7;\n  --color-surface: #FFFFFF;\n  --color-text: #3A3A3A;\n  --color-text-secondary: #757575;\n  --color-border: #E5E5E5;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#0170B9',\n  secondary: '#492CDD',\n  accent: '#FFC300',\n}"
+  },
+  {
+    "id": "oceanwp",
+    "name": "OceanWP",
+    "category": "wordpress-theme",
+    "tags": ["商务", "企业", "蓝色", "清新"],
+    "style": "品牌视觉以标志性的亮蓝色为核心，搭配深蓝灰色形成鲜明对比。整体风格清新、现代、海洋感十足。蓝色系配色传达信任感和专业感，适合商务和企业网站。",
+    "colors": {
+      "primary": "#13AFF0",
+      "secondary": "#2E3243",
+      "accent": "#0D96E9",
+      "background": "#FDFCFE",
+      "surface": "#FFFFFF",
+      "text": "#2E3243",
+      "textSecondary": "#6B7280",
+      "border": "#E8E8E8"
+    },
+    "darkMode": {
+      "background": "#1A1D2E",
+      "surface": "#252840",
+      "text": "#FDFCFE"
+    },
+    "cssVariables": ":root {\n  --color-primary: #13AFF0;\n  --color-secondary: #2E3243;\n  --color-accent: #0D96E9;\n  --color-background: #FDFCFE;\n  --color-surface: #FFFFFF;\n  --color-text: #2E3243;\n  --color-text-secondary: #6B7280;\n  --color-border: #E8E8E8;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#13AFF0',\n  secondary: '#2E3243',\n  accent: '#0D96E9',\n}"
+  },
+  {
+    "id": "generatepress",
+    "name": "GeneratePress",
+    "category": "wordpress-theme",
+    "tags": ["极简", "快速", "灰蓝", "干净"],
+    "style": "设计哲学是'少即是多'。默认全局配色方案包含7个精心挑选的颜色层级，形成完整的灰度梯度，搭配经典蓝色作为唯一的彩色强调。整体风格极简、干净，注重内容可读性。",
+    "colors": {
+      "primary": "#1E73BE",
+      "secondary": "#1B212B",
+      "accent": "#575760",
+      "background": "#F0F0F0",
+      "surface": "#FFFFFF",
+      "text": "#222222",
+      "textSecondary": "#595959",
+      "border": "#DBDBDB"
+    },
+    "darkMode": {
+      "background": "#1B212B",
+      "surface": "#252D3A",
+      "text": "#F0F0F0"
+    },
+    "cssVariables": ":root {\n  --color-primary: #1E73BE;\n  --color-secondary: #1B212B;\n  --color-accent: #575760;\n  --color-background: #F0F0F0;\n  --color-surface: #FFFFFF;\n  --color-text: #222222;\n  --color-text-secondary: #595959;\n  --color-border: #DBDBDB;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#1E73BE',\n  secondary: '#1B212B',\n  accent: '#575760',\n}"
+  }
+]
