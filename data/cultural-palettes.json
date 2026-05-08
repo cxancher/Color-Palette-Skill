@@ -1,0 +1,963 @@
+[
+  {
+    "id": "jp-traditional",
+    "name": "日本传统色",
+    "category": "cultural",
+    "tags": [
+      "日本",
+      "传统",
+      "靛蓝"
+    ],
+    "style": "日本传统色系，靛蓝+樱粉+金色传达和风美学。",
+    "colors": {
+      "primary": "#264653",
+      "secondary": "#FFB7C5",
+      "accent": "#C9A84C",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#050A0C",
+      "surface": "#091114",
+      "text": "#DEE3E5"
+    },
+    "cssVariables": ":root {\n  --color-primary: #264653;\n  --color-secondary: #FFB7C5;\n  --color-accent: #C9A84C;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#264653',\n  secondary: '#FFB7C5',\n  accent: '#C9A84C',\n}"
+  },
+  {
+    "id": "jp-modern",
+    "name": "日本现代品牌",
+    "category": "cultural",
+    "tags": [
+      "日本",
+      "现代",
+      "极简"
+    ],
+    "style": "日本现代品牌风格，黑白极简传达无印良品美学。",
+    "colors": {
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "accent": "#C0392B",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#000000",
+      "surface": "#000000",
+      "text": "#D8D8D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #000000;\n  --color-secondary: #FFFFFF;\n  --color-accent: #C0392B;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#000000',\n  secondary: '#FFFFFF',\n  accent: '#C0392B',\n}"
+  },
+  {
+    "id": "kr-traditional",
+    "name": "韩国传统色(五方色)",
+    "category": "cultural",
+    "tags": [
+      "韩国",
+      "传统",
+      "五色"
+    ],
+    "style": "韩国五方色，青红黄白黑传达韩国传统美学。",
+    "colors": {
+      "primary": "#0047AB",
+      "secondary": "#CD2E3A",
+      "accent": "#FDD835",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#000A19",
+      "surface": "#00112A",
+      "text": "#D8E3F2"
+    },
+    "cssVariables": ":root {\n  --color-primary: #0047AB;\n  --color-secondary: #CD2E3A;\n  --color-accent: #FDD835;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#0047AB',\n  secondary: '#CD2E3A',\n  accent: '#FDD835',\n}"
+  },
+  {
+    "id": "kr-modern",
+    "name": "韩国现代品牌",
+    "category": "cultural",
+    "tags": [
+      "韩国",
+      "现代",
+      "多彩"
+    ],
+    "style": "韩国现代品牌风格，多彩传达K-pop活力。",
+    "colors": {
+      "primary": "#FEE500",
+      "secondary": "#1428A0",
+      "accent": "#A50034",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#262200",
+      "surface": "#3F3900",
+      "text": "#FEFBD8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FEE500;\n  --color-secondary: #1428A0;\n  --color-accent: #A50034;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FEE500',\n  secondary: '#1428A0',\n  accent: '#A50034',\n}"
+  },
+  {
+    "id": "in-traditional",
+    "name": "印度传统色",
+    "category": "cultural",
+    "tags": [
+      "印度",
+      "传统",
+      "藏红"
+    ],
+    "style": "印度传统色系，藏红+绿+蓝传达印度文化。",
+    "colors": {
+      "primary": "#FF9933",
+      "secondary": "#138808",
+      "accent": "#06038D",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#261607",
+      "surface": "#3F260C",
+      "text": "#FFEFE0"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FF9933;\n  --color-secondary: #138808;\n  --color-accent: #06038D;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FF9933',\n  secondary: '#138808',\n  accent: '#06038D',\n}"
+  },
+  {
+    "id": "in-modern",
+    "name": "印度现代品牌",
+    "category": "cultural",
+    "tags": [
+      "印度",
+      "现代",
+      "红色"
+    ],
+    "style": "印度现代品牌风格，红色+蓝色传达活力。",
+    "colors": {
+      "primary": "#ED1C24",
+      "secondary": "#003380",
+      "accent": "#FF9933",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#230405",
+      "surface": "#3B0709",
+      "text": "#FCDCDE"
+    },
+    "cssVariables": ":root {\n  --color-primary: #ED1C24;\n  --color-secondary: #003380;\n  --color-accent: #FF9933;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#ED1C24',\n  secondary: '#003380',\n  accent: '#FF9933',\n}"
+  },
+  {
+    "id": "br-traditional",
+    "name": "巴西传统色",
+    "category": "cultural",
+    "tags": [
+      "巴西",
+      "传统",
+      "绿黄"
+    ],
+    "style": "巴西传统色系，绿+黄+蓝传达巴西国旗。",
+    "colors": {
+      "primary": "#009739",
+      "secondary": "#FEDD00",
+      "accent": "#012169",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#001608",
+      "surface": "#00250E",
+      "text": "#D8EFE1"
+    },
+    "cssVariables": ":root {\n  --color-primary: #009739;\n  --color-secondary: #FEDD00;\n  --color-accent: #012169;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#009739',\n  secondary: '#FEDD00',\n  accent: '#012169',\n}"
+  },
+  {
+    "id": "br-modern",
+    "name": "巴西现代品牌",
+    "category": "cultural",
+    "tags": [
+      "巴西",
+      "现代",
+      "紫色"
+    ],
+    "style": "巴西现代品牌风格，紫色传达颠覆和创新。",
+    "colors": {
+      "primary": "#8A05BE",
+      "secondary": "#004B93",
+      "accent": "#FEDD00",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#14001C",
+      "surface": "#22012F",
+      "text": "#EDD9F5"
+    },
+    "cssVariables": ":root {\n  --color-primary: #8A05BE;\n  --color-secondary: #004B93;\n  --color-accent: #FEDD00;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#8A05BE',\n  secondary: '#004B93',\n  accent: '#FEDD00',\n}"
+  },
+  {
+    "id": "ru-traditional",
+    "name": "俄罗斯传统色",
+    "category": "cultural",
+    "tags": [
+      "俄罗斯",
+      "传统",
+      "白蓝红"
+    ],
+    "style": "俄罗斯传统色，白蓝红传达俄罗斯国旗。",
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#0039A6",
+      "accent": "#D52B1E",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#262626",
+      "surface": "#3F3F3F",
+      "text": "#FFFFFF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FFFFFF;\n  --color-secondary: #0039A6;\n  --color-accent: #D52B1E;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FFFFFF',\n  secondary: '#0039A6',\n  accent: '#D52B1E',\n}"
+  },
+  {
+    "id": "ru-modern",
+    "name": "俄罗斯现代品牌",
+    "category": "cultural",
+    "tags": [
+      "俄罗斯",
+      "现代",
+      "红色"
+    ],
+    "style": "俄罗斯现代品牌风格，红色+蓝色传达活力。",
+    "colors": {
+      "primary": "#FC3F1D",
+      "secondary": "#0077FF",
+      "accent": "#016435",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#250904",
+      "surface": "#3F0F07",
+      "text": "#FEE2DD"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FC3F1D;\n  --color-secondary: #0077FF;\n  --color-accent: #016435;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FC3F1D',\n  secondary: '#0077FF',\n  accent: '#016435',\n}"
+  },
+  {
+    "id": "de-brand",
+    "name": "德国品牌色",
+    "category": "cultural",
+    "tags": [
+      "德国",
+      "品牌",
+      "蓝色"
+    ],
+    "style": "德国品牌色系，蓝+黑传达精密和工程。",
+    "colors": {
+      "primary": "#009999",
+      "secondary": "#000000",
+      "accent": "#DD0000",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#001616",
+      "surface": "#002626",
+      "text": "#D8EFEF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #009999;\n  --color-secondary: #000000;\n  --color-accent: #DD0000;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#009999',\n  secondary: '#000000',\n  accent: '#DD0000',\n}"
+  },
+  {
+    "id": "fr-brand",
+    "name": "法国品牌色",
+    "category": "cultural",
+    "tags": [
+      "法国",
+      "品牌",
+      "黑白"
+    ],
+    "style": "法国品牌色系，黑+橙传达奢华和优雅。",
+    "colors": {
+      "primary": "#000000",
+      "secondary": "#F37021",
+      "accent": "#002654",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#000000",
+      "surface": "#000000",
+      "text": "#D8D8D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #000000;\n  --color-secondary: #F37021;\n  --color-accent: #002654;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#000000',\n  secondary: '#F37021',\n  accent: '#002654',\n}"
+  },
+  {
+    "id": "uk-brand",
+    "name": "英国品牌色",
+    "category": "cultural",
+    "tags": [
+      "英国",
+      "品牌",
+      "蓝红"
+    ],
+    "style": "英国品牌色系，蓝+红传达经典和信赖。",
+    "colors": {
+      "primary": "#00AFEC",
+      "secondary": "#DB0011",
+      "accent": "#000000",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#001A23",
+      "surface": "#002B3B",
+      "text": "#D8F3FC"
+    },
+    "cssVariables": ":root {\n  --color-primary: #00AFEC;\n  --color-secondary: #DB0011;\n  --color-accent: #000000;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#00AFEC',\n  secondary: '#DB0011',\n  accent: '#000000',\n}"
+  },
+  {
+    "id": "sea-modern",
+    "name": "东南亚现代品牌",
+    "category": "cultural",
+    "tags": [
+      "东南亚",
+      "现代",
+      "绿色"
+    ],
+    "style": "东南亚现代品牌风格，绿色+蓝色传达成长。",
+    "colors": {
+      "primary": "#00AA13",
+      "secondary": "#0066FF",
+      "accent": "#FF6B00",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#001902",
+      "surface": "#002A04",
+      "text": "#D8F2DB"
+    },
+    "cssVariables": ":root {\n  --color-primary: #00AA13;\n  --color-secondary: #0066FF;\n  --color-accent: #FF6B00;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#00AA13',\n  secondary: '#0066FF',\n  accent: '#FF6B00',\n}"
+  },
+  {
+    "id": "me-modern",
+    "name": "中东现代品牌",
+    "category": "cultural",
+    "tags": [
+      "中东",
+      "现代",
+      "绿色"
+    ],
+    "style": "中东现代品牌风格，绿色+橙色传达活力。",
+    "colors": {
+      "primary": "#00E784",
+      "secondary": "#FC4C02",
+      "accent": "#FFD700",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#002213",
+      "surface": "#003921",
+      "text": "#D8FBEC"
+    },
+    "cssVariables": ":root {\n  --color-primary: #00E784;\n  --color-secondary: #FC4C02;\n  --color-accent: #FFD700;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#00E784',\n  secondary: '#FC4C02',\n  accent: '#FFD700',\n}"
+  },
+  {
+    "id": "cn-traditional",
+    "name": "中国传统色",
+    "category": "cultural",
+    "tags": [
+      "中国",
+      "传统",
+      "红色"
+    ],
+    "style": "中国传统色系，中国红+金色+靛蓝传达中华文化。",
+    "colors": {
+      "primary": "#C41E3A",
+      "secondary": "#DAA520",
+      "accent": "#264653",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#1D0408",
+      "surface": "#31070E",
+      "text": "#F6DDE1"
+    },
+    "cssVariables": ":root {\n  --color-primary: #C41E3A;\n  --color-secondary: #DAA520;\n  --color-accent: #264653;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#C41E3A',\n  secondary: '#DAA520',\n  accent: '#264653',\n}"
+  },
+  {
+    "id": "cn-modern",
+    "name": "中国现代品牌",
+    "category": "cultural",
+    "tags": [
+      "中国",
+      "现代",
+      "红色"
+    ],
+    "style": "中国现代品牌风格，红色+蓝色传达活力。",
+    "colors": {
+      "primary": "#E53935",
+      "secondary": "#1A73E8",
+      "accent": "#FFB300",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#220807",
+      "surface": "#390E0D",
+      "text": "#FBE1E0"
+    },
+    "cssVariables": ":root {\n  --color-primary: #E53935;\n  --color-secondary: #1A73E8;\n  --color-accent: #FFB300;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#E53935',\n  secondary: '#1A73E8',\n  accent: '#FFB300',\n}"
+  },
+  {
+    "id": "us-brand",
+    "name": "美国品牌色",
+    "category": "cultural",
+    "tags": [
+      "美国",
+      "品牌",
+      "红蓝"
+    ],
+    "style": "美国品牌色系，红+蓝+白传达美国精神。",
+    "colors": {
+      "primary": "#B31942",
+      "secondary": "#0A3161",
+      "accent": "#FFFFFF",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#1A0309",
+      "surface": "#2C0610",
+      "text": "#F3DCE2"
+    },
+    "cssVariables": ":root {\n  --color-primary: #B31942;\n  --color-secondary: #0A3161;\n  --color-accent: #FFFFFF;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#B31942',\n  secondary: '#0A3161',\n  accent: '#FFFFFF',\n}"
+  },
+  {
+    "id": "it-brand",
+    "name": "意大利品牌色",
+    "category": "cultural",
+    "tags": [
+      "意大利",
+      "品牌",
+      "绿色"
+    ],
+    "style": "意大利品牌色系，绿+红传达热情和品质。",
+    "colors": {
+      "primary": "#009246",
+      "secondary": "#CE2B37",
+      "accent": "#009246",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#00150A",
+      "surface": "#002411",
+      "text": "#D8EEE3"
+    },
+    "cssVariables": ":root {\n  --color-primary: #009246;\n  --color-secondary: #CE2B37;\n  --color-accent: #009246;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#009246',\n  secondary: '#CE2B37',\n  accent: '#009246',\n}"
+  },
+  {
+    "id": "es-brand",
+    "name": "西班牙品牌色",
+    "category": "cultural",
+    "tags": [
+      "西班牙",
+      "品牌",
+      "红色"
+    ],
+    "style": "西班牙品牌色系，红+黄传达热情和活力。",
+    "colors": {
+      "primary": "#AD1519",
+      "secondary": "#FABD00",
+      "accent": "#AD1519",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#190303",
+      "surface": "#2B0506",
+      "text": "#F2DBDC"
+    },
+    "cssVariables": ":root {\n  --color-primary: #AD1519;\n  --color-secondary: #FABD00;\n  --color-accent: #AD1519;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#AD1519',\n  secondary: '#FABD00',\n  accent: '#AD1519',\n}"
+  },
+  {
+    "id": "au-brand",
+    "name": "澳大利亚品牌色",
+    "category": "cultural",
+    "tags": [
+      "澳大利亚",
+      "品牌",
+      "蓝绿"
+    ],
+    "style": "澳大利亚品牌色系，蓝+绿传达自然和活力。",
+    "colors": {
+      "primary": "#00008B",
+      "secondary": "#FFD700",
+      "accent": "#00843D",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#000014",
+      "surface": "#000022",
+      "text": "#D8D8ED"
+    },
+    "cssVariables": ":root {\n  --color-primary: #00008B;\n  --color-secondary: #FFD700;\n  --color-accent: #00843D;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#00008B',\n  secondary: '#FFD700',\n  accent: '#00843D',\n}"
+  },
+  {
+    "id": "ca-brand",
+    "name": "加拿大品牌色",
+    "category": "cultural",
+    "tags": [
+      "加拿大",
+      "品牌",
+      "红色"
+    ],
+    "style": "加拿大品牌色系，红+白传达枫叶精神。",
+    "colors": {
+      "primary": "#FF0000",
+      "secondary": "#FFFFFF",
+      "accent": "#FF0000",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#260000",
+      "surface": "#3F0000",
+      "text": "#FFD8D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FF0000;\n  --color-secondary: #FFFFFF;\n  --color-accent: #FF0000;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FF0000',\n  secondary: '#FFFFFF',\n  accent: '#FF0000',\n}"
+  },
+  {
+    "id": "mx-brand",
+    "name": "墨西哥品牌色",
+    "category": "cultural",
+    "tags": [
+      "墨西哥",
+      "品牌",
+      "绿红"
+    ],
+    "style": "墨西哥品牌色系，绿+红+白传达传统。",
+    "colors": {
+      "primary": "#006341",
+      "secondary": "#CE1126",
+      "accent": "#FFFFFF",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#000E09",
+      "surface": "#001810",
+      "text": "#D8E7E2"
+    },
+    "cssVariables": ":root {\n  --color-primary: #006341;\n  --color-secondary: #CE1126;\n  --color-accent: #FFFFFF;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#006341',\n  secondary: '#CE1126',\n  accent: '#FFFFFF',\n}"
+  },
+  {
+    "id": "af-brand",
+    "name": "非洲品牌色",
+    "category": "cultural",
+    "tags": [
+      "非洲",
+      "品牌",
+      "多彩"
+    ],
+    "style": "非洲品牌色系，多彩传达活力和文化。",
+    "colors": {
+      "primary": "#007A33",
+      "secondary": "#FFD700",
+      "accent": "#000000",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#001207",
+      "surface": "#001E0C",
+      "text": "#D8EBE0"
+    },
+    "cssVariables": ":root {\n  --color-primary: #007A33;\n  --color-secondary: #FFD700;\n  --color-accent: #000000;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#007A33',\n  secondary: '#FFD700',\n  accent: '#000000',\n}"
+  },
+  {
+    "id": "jp-wabi",
+    "name": "侘寂 Wabi-Sabi",
+    "category": "cultural",
+    "tags": [
+      "日本",
+      "侘寂",
+      "灰色"
+    ],
+    "style": "侘寂美学，灰色+米色传达不完美之美。",
+    "colors": {
+      "primary": "#808080",
+      "secondary": "#D7CCC8",
+      "accent": "#5D4037",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#131313",
+      "surface": "#202020",
+      "text": "#EBEBEB"
+    },
+    "cssVariables": ":root {\n  --color-primary: #808080;\n  --color-secondary: #D7CCC8;\n  --color-accent: #5D4037;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#808080',\n  secondary: '#D7CCC8',\n  accent: '#5D4037',\n}"
+  },
+  {
+    "id": "scandi",
+    "name": "斯堪的纳维亚风格",
+    "category": "cultural",
+    "tags": [
+      "北欧",
+      "极简",
+      "灰色"
+    ],
+    "style": "北欧设计风格，灰白+木色传达简约和温暖。",
+    "colors": {
+      "primary": "#546E7A",
+      "secondary": "#ECEFF1",
+      "accent": "#FF8A65",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#0C1012",
+      "surface": "#151B1E",
+      "text": "#E5E9EB"
+    },
+    "cssVariables": ":root {\n  --color-primary: #546E7A;\n  --color-secondary: #ECEFF1;\n  --color-accent: #FF8A65;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#546E7A',\n  secondary: '#ECEFF1',\n  accent: '#FF8A65',\n}"
+  },
+  {
+    "id": "mediterranean",
+    "name": "地中海风格",
+    "category": "cultural",
+    "tags": [
+      "地中海",
+      "蓝白",
+      "明亮"
+    ],
+    "style": "地中海风格，蓝+白+黄传达阳光和海洋。",
+    "colors": {
+      "primary": "#0077B6",
+      "secondary": "#FFFFFF",
+      "accent": "#FCBF49",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#00111B",
+      "surface": "#001D2D",
+      "text": "#D8EAF4"
+    },
+    "cssVariables": ":root {\n  --color-primary: #0077B6;\n  --color-secondary: #FFFFFF;\n  --color-accent: #FCBF49;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#0077B6',\n  secondary: '#FFFFFF',\n  accent: '#FCBF49',\n}"
+  },
+  {
+    "id": "tropical",
+    "name": "热带风格",
+    "category": "cultural",
+    "tags": [
+      "热带",
+      "多彩",
+      "明亮"
+    ],
+    "style": "热带风格，多彩+绿色传达自然和活力。",
+    "colors": {
+      "primary": "#00B4D8",
+      "secondary": "#90BE6D",
+      "accent": "#F9C74F",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#001B20",
+      "surface": "#002D36",
+      "text": "#D8F3F9"
+    },
+    "cssVariables": ":root {\n  --color-primary: #00B4D8;\n  --color-secondary: #90BE6D;\n  --color-accent: #F9C74F;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#00B4D8',\n  secondary: '#90BE6D',\n  accent: '#F9C74F',\n}"
+  },
+  {
+    "id": "nordic-dark",
+    "name": "北欧暗色风格",
+    "category": "cultural",
+    "tags": [
+      "北欧",
+      "暗色",
+      "深灰"
+    ],
+    "style": "北欧暗色设计，深灰+暖色点缀传达舒适。",
+    "colors": {
+      "primary": "#2D3436",
+      "secondary": "#636E72",
+      "accent": "#FDCB6E",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#060708",
+      "surface": "#0B0D0D",
+      "text": "#DFE0E0"
+    },
+    "cssVariables": ":root {\n  --color-primary: #2D3436;\n  --color-secondary: #636E72;\n  --color-accent: #FDCB6E;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#2D3436',\n  secondary: '#636E72',\n  accent: '#FDCB6E',\n}"
+  },
+  {
+    "id": "boho-chic",
+    "name": "波西米亚时尚",
+    "category": "cultural",
+    "tags": [
+      "波西米亚",
+      "时尚",
+      "赤陶"
+    ],
+    "style": "波西米亚时尚风格，赤陶+沙色传达自由。",
+    "colors": {
+      "primary": "#CC5500",
+      "secondary": "#C2B280",
+      "accent": "#8FBC8F",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#1E0C00",
+      "surface": "#331500",
+      "text": "#F7E5D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #CC5500;\n  --color-secondary: #C2B280;\n  --color-accent: #8FBC8F;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#CC5500',\n  secondary: '#C2B280',\n  accent: '#8FBC8F',\n}"
+  },
+  {
+    "id": "industrial",
+    "name": "工业风",
+    "category": "cultural",
+    "tags": [
+      "工业",
+      "金属",
+      "灰色"
+    ],
+    "style": "工业风格，灰色+金属色传达原始和力量。",
+    "colors": {
+      "primary": "#37474F",
+      "secondary": "#78909C",
+      "accent": "#FF6F00",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#080A0B",
+      "surface": "#0D1113",
+      "text": "#E1E3E4"
+    },
+    "cssVariables": ":root {\n  --color-primary: #37474F;\n  --color-secondary: #78909C;\n  --color-accent: #FF6F00;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#37474F',\n  secondary: '#78909C',\n  accent: '#FF6F00',\n}"
+  }
+]

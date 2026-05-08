@@ -1,0 +1,1273 @@
+[
+  {
+    "id": "amazon",
+    "name": "Amazon",
+    "category": "western-platform",
+    "tags": [
+      "电商",
+      "零售",
+      "橙色"
+    ],
+    "style": "全球最大电商平台，橙色传递快乐和购物热情。微笑箭头从A到Z。",
+    "colors": {
+      "primary": "#FF9900",
+      "secondary": "#232F3E",
+      "accent": "#FF9900",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#261600",
+      "surface": "#3F2600",
+      "text": "#FFEFD8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FF9900;\n  --color-secondary: #232F3E;\n  --color-accent: #FF9900;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FF9900',\n  secondary: '#232F3E',\n  accent: '#FF9900',\n}"
+  },
+  {
+    "id": "netflix",
+    "name": "Netflix",
+    "category": "western-platform",
+    "tags": [
+      "流媒体",
+      "娱乐",
+      "红色"
+    ],
+    "style": "全球最大流媒体平台，红色传达激情和沉浸式观影体验。",
+    "colors": {
+      "primary": "#E50914",
+      "secondary": "#B20710",
+      "accent": "#E50914",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#220103",
+      "surface": "#390205",
+      "text": "#FBDADB"
+    },
+    "cssVariables": ":root {\n  --color-primary: #E50914;\n  --color-secondary: #B20710;\n  --color-accent: #E50914;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#E50914',\n  secondary: '#B20710',\n  accent: '#E50914',\n}"
+  },
+  {
+    "id": "youtube",
+    "name": "YouTube",
+    "category": "western-platform",
+    "tags": [
+      "视频",
+      "社交",
+      "红色"
+    ],
+    "style": "全球最大视频平台，红色充满活力和创造力。",
+    "colors": {
+      "primary": "#FF0000",
+      "secondary": "#CC0000",
+      "accent": "#282828",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#260000",
+      "surface": "#3F0000",
+      "text": "#FFD8D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FF0000;\n  --color-secondary: #CC0000;\n  --color-accent: #282828;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FF0000',\n  secondary: '#CC0000',\n  accent: '#282828',\n}"
+  },
+  {
+    "id": "twitter",
+    "name": "X (Twitter)",
+    "category": "western-platform",
+    "tags": [
+      "社交",
+      "微博",
+      "黑色"
+    ],
+    "style": "全球社交平台，黑色传达极简和前卫的品牌重塑。",
+    "colors": {
+      "primary": "#000000",
+      "secondary": "#14171A",
+      "accent": "#1D9BF0",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#000000",
+      "surface": "#000000",
+      "text": "#D8D8D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #000000;\n  --color-secondary: #14171A;\n  --color-accent: #1D9BF0;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#000000',\n  secondary: '#14171A',\n  accent: '#1D9BF0',\n}"
+  },
+  {
+    "id": "instagram",
+    "name": "Instagram",
+    "category": "western-platform",
+    "tags": [
+      "社交",
+      "图片",
+      "粉红"
+    ],
+    "style": "全球图片社交平台，品红渐变传达视觉创意和年轻活力。",
+    "colors": {
+      "primary": "#E4405F",
+      "secondary": "#F56040",
+      "accent": "#833AB4",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#22090E",
+      "surface": "#391017",
+      "text": "#FAE2E7"
+    },
+    "cssVariables": ":root {\n  --color-primary: #E4405F;\n  --color-secondary: #F56040;\n  --color-accent: #833AB4;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#E4405F',\n  secondary: '#F56040',\n  accent: '#833AB4',\n}"
+  },
+  {
+    "id": "linkedin",
+    "name": "LinkedIn",
+    "category": "western-platform",
+    "tags": [
+      "社交",
+      "职场",
+      "蓝色"
+    ],
+    "style": "全球职业社交平台，蓝色传达专业和信赖。",
+    "colors": {
+      "primary": "#0A66C2",
+      "secondary": "#004182",
+      "accent": "#0A66C2",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#010F1D",
+      "surface": "#021930",
+      "text": "#DAE8F5"
+    },
+    "cssVariables": ":root {\n  --color-primary: #0A66C2;\n  --color-secondary: #004182;\n  --color-accent: #0A66C2;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#0A66C2',\n  secondary: '#004182',\n  accent: '#0A66C2',\n}"
+  },
+  {
+    "id": "pinterest",
+    "name": "Pinterest",
+    "category": "western-platform",
+    "tags": [
+      "社交",
+      "灵感",
+      "红色"
+    ],
+    "style": "全球灵感收集平台，红色激发创造力和探索欲。",
+    "colors": {
+      "primary": "#E60023",
+      "secondary": "#C4001E",
+      "accent": "#BD081C",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#220005",
+      "surface": "#390008",
+      "text": "#FBD8DE"
+    },
+    "cssVariables": ":root {\n  --color-primary: #E60023;\n  --color-secondary: #C4001E;\n  --color-accent: #BD081C;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#E60023',\n  secondary: '#C4001E',\n  accent: '#BD081C',\n}"
+  },
+  {
+    "id": "snapchat",
+    "name": "Snapchat",
+    "category": "western-platform",
+    "tags": [
+      "社交",
+      "即时",
+      "黄色"
+    ],
+    "style": "即时通讯社交平台，黄色传达趣味和年轻活力。",
+    "colors": {
+      "primary": "#FFFC00",
+      "secondary": "#FFD700",
+      "accent": "#000000",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#262500",
+      "surface": "#3F3F00",
+      "text": "#FFFED8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FFFC00;\n  --color-secondary: #FFD700;\n  --color-accent: #000000;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FFFC00',\n  secondary: '#FFD700',\n  accent: '#000000',\n}"
+  },
+  {
+    "id": "reddit",
+    "name": "Reddit",
+    "category": "western-platform",
+    "tags": [
+      "社区",
+      "论坛",
+      "橙色"
+    ],
+    "style": "全球最大社区论坛，橙红色充满讨论热情。",
+    "colors": {
+      "primary": "#FF4500",
+      "secondary": "#FF5700",
+      "accent": "#FF4500",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#260A00",
+      "surface": "#3F1100",
+      "text": "#FFE3D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FF4500;\n  --color-secondary: #FF5700;\n  --color-accent: #FF4500;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FF4500',\n  secondary: '#FF5700',\n  accent: '#FF4500',\n}"
+  },
+  {
+    "id": "whatsapp",
+    "name": "WhatsApp",
+    "category": "western-platform",
+    "tags": [
+      "通讯",
+      "即时",
+      "绿色"
+    ],
+    "style": "全球最大即时通讯，绿色传达安全和日常沟通。",
+    "colors": {
+      "primary": "#25D366",
+      "secondary": "#128C7E",
+      "accent": "#075E54",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#051F0F",
+      "surface": "#093419",
+      "text": "#DEF8E8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #25D366;\n  --color-secondary: #128C7E;\n  --color-accent: #075E54;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#25D366',\n  secondary: '#128C7E',\n  accent: '#075E54',\n}"
+  },
+  {
+    "id": "telegram",
+    "name": "Telegram",
+    "category": "western-platform",
+    "tags": [
+      "通讯",
+      "即时",
+      "蓝色"
+    ],
+    "style": "注重隐私的通讯平台，蓝色传达安全和速度。",
+    "colors": {
+      "primary": "#0088CC",
+      "secondary": "#229ED9",
+      "accent": "#0088CC",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#00141E",
+      "surface": "#002233",
+      "text": "#D8EDF7"
+    },
+    "cssVariables": ":root {\n  --color-primary: #0088CC;\n  --color-secondary: #229ED9;\n  --color-accent: #0088CC;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#0088CC',\n  secondary: '#229ED9',\n  accent: '#0088CC',\n}"
+  },
+  {
+    "id": "slack",
+    "name": "Slack",
+    "category": "western-platform",
+    "tags": [
+      "协作",
+      "办公",
+      "紫色"
+    ],
+    "style": "企业协作工具，紫色传达创意和团队活力。",
+    "colors": {
+      "primary": "#4A154B",
+      "secondary": "#611F69",
+      "accent": "#ECB22E",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#0B030B",
+      "surface": "#120512",
+      "text": "#E3DBE4"
+    },
+    "cssVariables": ":root {\n  --color-primary: #4A154B;\n  --color-secondary: #611F69;\n  --color-accent: #ECB22E;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#4A154B',\n  secondary: '#611F69',\n  accent: '#ECB22E',\n}"
+  },
+  {
+    "id": "discord",
+    "name": "Discord",
+    "category": "western-platform",
+    "tags": [
+      "社区",
+      "游戏",
+      "靛蓝"
+    ],
+    "style": "游戏社区平台，靛蓝色传达连接和归属感。",
+    "colors": {
+      "primary": "#5865F2",
+      "secondary": "#4752C4",
+      "accent": "#EB459E",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#0D0F24",
+      "surface": "#16193C",
+      "text": "#E5E7FD"
+    },
+    "cssVariables": ":root {\n  --color-primary: #5865F2;\n  --color-secondary: #4752C4;\n  --color-accent: #EB459E;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#5865F2',\n  secondary: '#4752C4',\n  accent: '#EB459E',\n}"
+  },
+  {
+    "id": "twitch",
+    "name": "Twitch",
+    "category": "western-platform",
+    "tags": [
+      "直播",
+      "游戏",
+      "紫色"
+    ],
+    "style": "全球最大游戏直播平台，紫色传达沉浸和娱乐。",
+    "colors": {
+      "primary": "#9146FF",
+      "secondary": "#6441A5",
+      "accent": "#00C878",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#150A26",
+      "surface": "#24113F",
+      "text": "#EEE3FF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #9146FF;\n  --color-secondary: #6441A5;\n  --color-accent: #00C878;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#9146FF',\n  secondary: '#6441A5',\n  accent: '#00C878',\n}"
+  },
+  {
+    "id": "tiktok",
+    "name": "TikTok",
+    "category": "western-platform",
+    "tags": [
+      "短视频",
+      "社交",
+      "黑色"
+    ],
+    "style": "全球短视频平台，黑色背景搭配品红和青色渐变。",
+    "colors": {
+      "primary": "#010101",
+      "secondary": "#25F4EE",
+      "accent": "#FE2C55",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#000000",
+      "surface": "#000000",
+      "text": "#D8D8D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #010101;\n  --color-secondary: #25F4EE;\n  --color-accent: #FE2C55;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#010101',\n  secondary: '#25F4EE',\n  accent: '#FE2C55',\n}"
+  },
+  {
+    "id": "medium",
+    "name": "Medium",
+    "category": "western-platform",
+    "tags": [
+      "博客",
+      "内容",
+      "黑色"
+    ],
+    "style": "高质量内容平台，黑色极简让内容成为主角。",
+    "colors": {
+      "primary": "#000000",
+      "secondary": "#292929",
+      "accent": "#1A8917",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#000000",
+      "surface": "#000000",
+      "text": "#D8D8D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #000000;\n  --color-secondary: #292929;\n  --color-accent: #1A8917;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#000000',\n  secondary: '#292929',\n  accent: '#1A8917',\n}"
+  },
+  {
+    "id": "substack",
+    "name": "Substack",
+    "category": "western-platform",
+    "tags": [
+      "博客",
+      "新闻",
+      "橙色"
+    ],
+    "style": "独立创作者平台，橙色传达温暖和阅读热情。",
+    "colors": {
+      "primary": "#FF6719",
+      "secondary": "#FF7731",
+      "accent": "#FF6719",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#260F03",
+      "surface": "#3F1906",
+      "text": "#FFE8DC"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FF6719;\n  --color-secondary: #FF7731;\n  --color-accent: #FF6719;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FF6719',\n  secondary: '#FF7731',\n  accent: '#FF6719',\n}"
+  },
+  {
+    "id": "patreon",
+    "name": "Patreon",
+    "category": "western-platform",
+    "tags": [
+      "创作者",
+      "会员",
+      "红色"
+    ],
+    "style": "创作者会员平台，红色传达支持和热情。",
+    "colors": {
+      "primary": "#F96854",
+      "secondary": "#FF424D",
+      "accent": "#F96854",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#250F0C",
+      "surface": "#3E1A15",
+      "text": "#FEE8E5"
+    },
+    "cssVariables": ":root {\n  --color-primary: #F96854;\n  --color-secondary: #FF424D;\n  --color-accent: #F96854;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#F96854',\n  secondary: '#FF424D',\n  accent: '#F96854',\n}"
+  },
+  {
+    "id": "shopify",
+    "name": "Shopify",
+    "category": "western-platform",
+    "tags": [
+      "电商",
+      "建站",
+      "绿色"
+    ],
+    "style": "全球电商建站平台，绿色传达成长和成功。",
+    "colors": {
+      "primary": "#96BF48",
+      "secondary": "#95BF47",
+      "accent": "#008060",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#161C0A",
+      "surface": "#252F12",
+      "text": "#EFF5E3"
+    },
+    "cssVariables": ":root {\n  --color-primary: #96BF48;\n  --color-secondary: #95BF47;\n  --color-accent: #008060;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#96BF48',\n  secondary: '#95BF47',\n  accent: '#008060',\n}"
+  },
+  {
+    "id": "etsy",
+    "name": "Etsy",
+    "category": "western-platform",
+    "tags": [
+      "电商",
+      "手工",
+      "橙色"
+    ],
+    "style": "全球手工创意市场，橙色传达温暖和创造力。",
+    "colors": {
+      "primary": "#F56400",
+      "secondary": "#D4540A",
+      "accent": "#F56400",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#240F00",
+      "surface": "#3D1900",
+      "text": "#FDE7D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #F56400;\n  --color-secondary: #D4540A;\n  --color-accent: #F56400;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#F56400',\n  secondary: '#D4540A',\n  accent: '#F56400',\n}"
+  },
+  {
+    "id": "airbnb",
+    "name": "Airbnb",
+    "category": "western-platform",
+    "tags": [
+      "旅行",
+      "住宿",
+      "珊瑚红"
+    ],
+    "style": "全球民宿平台，珊瑚红传达归属感和温暖。",
+    "colors": {
+      "primary": "#FF5A5F",
+      "secondary": "#E0484D",
+      "accent": "#FF5A5F",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#260D0E",
+      "surface": "#3F1617",
+      "text": "#FFE6E7"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FF5A5F;\n  --color-secondary: #E0484D;\n  --color-accent: #FF5A5F;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FF5A5F',\n  secondary: '#E0484D',\n  accent: '#FF5A5F',\n}"
+  },
+  {
+    "id": "booking",
+    "name": "Booking.com",
+    "category": "western-platform",
+    "tags": [
+      "旅行",
+      "酒店",
+      "深蓝"
+    ],
+    "style": "全球酒店预订平台，深蓝色传达信赖和专业。",
+    "colors": {
+      "primary": "#003580",
+      "secondary": "#00264D",
+      "accent": "#003580",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#000713",
+      "surface": "#000D20",
+      "text": "#D8E0EB"
+    },
+    "cssVariables": ":root {\n  --color-primary: #003580;\n  --color-secondary: #00264D;\n  --color-accent: #003580;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#003580',\n  secondary: '#00264D',\n  accent: '#003580',\n}"
+  },
+  {
+    "id": "uber",
+    "name": "Uber",
+    "category": "western-platform",
+    "tags": [
+      "出行",
+      "打车",
+      "黑色"
+    ],
+    "style": "全球出行平台，黑白极简传达现代和高效。",
+    "colors": {
+      "primary": "#000000",
+      "secondary": "#276EF1",
+      "accent": "#276EF1",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#000000",
+      "surface": "#000000",
+      "text": "#D8D8D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #000000;\n  --color-secondary: #276EF1;\n  --color-accent: #276EF1;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#000000',\n  secondary: '#276EF1',\n  accent: '#276EF1',\n}"
+  },
+  {
+    "id": "lyft",
+    "name": "Lyft",
+    "category": "western-platform",
+    "tags": [
+      "出行",
+      "打车",
+      "品红"
+    ],
+    "style": "美国出行平台，品红色传达友好和活力。",
+    "colors": {
+      "primary": "#FF00BF",
+      "secondary": "#E000AA",
+      "accent": "#7B2D8E",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#26001C",
+      "surface": "#3F002F",
+      "text": "#FFD8F5"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FF00BF;\n  --color-secondary: #E000AA;\n  --color-accent: #7B2D8E;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FF00BF',\n  secondary: '#E000AA',\n  accent: '#7B2D8E',\n}"
+  },
+  {
+    "id": "doordash",
+    "name": "DoorDash",
+    "category": "western-platform",
+    "tags": [
+      "外卖",
+      "配送",
+      "红色"
+    ],
+    "style": "美国外卖配送平台，红色传达速度和热情。",
+    "colors": {
+      "primary": "#FF3008",
+      "secondary": "#E02B07",
+      "accent": "#FF3008",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#260701",
+      "surface": "#3F0C02",
+      "text": "#FFDFD9"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FF3008;\n  --color-secondary: #E02B07;\n  --color-accent: #FF3008;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FF3008',\n  secondary: '#E02B07',\n  accent: '#FF3008',\n}"
+  },
+  {
+    "id": "spotify-us",
+    "name": "Spotify",
+    "category": "western-platform",
+    "tags": [
+      "音乐",
+      "流媒体",
+      "绿色"
+    ],
+    "style": "全球音乐流媒体，绿色在深色背景上极为克制。",
+    "colors": {
+      "primary": "#1DB954",
+      "secondary": "#191414",
+      "accent": "#1DB954",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#041B0C",
+      "surface": "#072E15",
+      "text": "#DDF4E5"
+    },
+    "cssVariables": ":root {\n  --color-primary: #1DB954;\n  --color-secondary: #191414;\n  --color-accent: #1DB954;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#1DB954',\n  secondary: '#191414',\n  accent: '#1DB954',\n}"
+  },
+  {
+    "id": "tumblr",
+    "name": "Tumblr",
+    "category": "western-platform",
+    "tags": [
+      "社交",
+      "博客",
+      "蓝色"
+    ],
+    "style": "创意博客社交平台，蓝色传达自由和表达。",
+    "colors": {
+      "primary": "#00B8FF",
+      "secondary": "#0099DD",
+      "accent": "#FF492F",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#001B26",
+      "surface": "#002E3F",
+      "text": "#D8F4FF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #00B8FF;\n  --color-secondary: #0099DD;\n  --color-accent: #FF492F;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#00B8FF',\n  secondary: '#0099DD',\n  accent: '#FF492F',\n}"
+  },
+  {
+    "id": "quora",
+    "name": "Quora",
+    "category": "western-platform",
+    "tags": [
+      "问答",
+      "知识",
+      "红色"
+    ],
+    "style": "全球知识问答平台，红色激发求知欲。",
+    "colors": {
+      "primary": "#B92B27",
+      "secondary": "#A02420",
+      "accent": "#B92B27",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#1B0605",
+      "surface": "#2E0A09",
+      "text": "#F4DFDE"
+    },
+    "cssVariables": ":root {\n  --color-primary: #B92B27;\n  --color-secondary: #A02420;\n  --color-accent: #B92B27;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#B92B27',\n  secondary: '#A02420',\n  accent: '#B92B27',\n}"
+  },
+  {
+    "id": "flickr",
+    "name": "Flickr",
+    "category": "western-platform",
+    "tags": [
+      "图片",
+      "摄影",
+      "蓝色"
+    ],
+    "style": "全球图片分享平台，蓝色传达创意和探索。",
+    "colors": {
+      "primary": "#0063DC",
+      "secondary": "#004BBB",
+      "accent": "#FF0084",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#000E21",
+      "surface": "#001837",
+      "text": "#D8E7F9"
+    },
+    "cssVariables": ":root {\n  --color-primary: #0063DC;\n  --color-secondary: #004BBB;\n  --color-accent: #FF0084;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#0063DC',\n  secondary: '#004BBB',\n  accent: '#FF0084',\n}"
+  },
+  {
+    "id": "tinder",
+    "name": "Tinder",
+    "category": "western-platform",
+    "tags": [
+      "社交",
+      "约会",
+      "橙色"
+    ],
+    "style": "全球约会社交平台，火焰橙传达热情和浪漫。",
+    "colors": {
+      "primary": "#FE3C72",
+      "secondary": "#E6365F",
+      "accent": "#FF6B35",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#260911",
+      "surface": "#3F0F1C",
+      "text": "#FEE1E9"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FE3C72;\n  --color-secondary: #E6365F;\n  --color-accent: #FF6B35;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FE3C72',\n  secondary: '#E6365F',\n  accent: '#FF6B35',\n}"
+  },
+  {
+    "id": "bumble",
+    "name": "Bumble",
+    "category": "western-platform",
+    "tags": [
+      "社交",
+      "约会",
+      "黄色"
+    ],
+    "style": "女性优先约会平台，明黄色传达自信和温暖。",
+    "colors": {
+      "primary": "#FFC617",
+      "secondary": "#F5A623",
+      "accent": "#FFC617",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#261D03",
+      "surface": "#3F3105",
+      "text": "#FFF6DC"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FFC617;\n  --color-secondary: #F5A623;\n  --color-accent: #FFC617;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FFC617',\n  secondary: '#F5A623',\n  accent: '#FFC617',\n}"
+  },
+  {
+    "id": "producthunt",
+    "name": "Product Hunt",
+    "category": "western-platform",
+    "tags": [
+      "科技",
+      "创业",
+      "橙色"
+    ],
+    "style": "全球科技产品发现平台，橙色传达创新和活力。",
+    "colors": {
+      "primary": "#DA552F",
+      "secondary": "#FF6154",
+      "accent": "#DA552F",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#200C07",
+      "surface": "#36150B",
+      "text": "#F9E5DF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #DA552F;\n  --color-secondary: #FF6154;\n  --color-accent: #DA552F;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#DA552F',\n  secondary: '#FF6154',\n  accent: '#DA552F',\n}"
+  },
+  {
+    "id": "hackernews",
+    "name": "Hacker News",
+    "category": "western-platform",
+    "tags": [
+      "科技",
+      "社区",
+      "橙色"
+    ],
+    "style": "Y Combinator旗下科技社区，橙色是经典标志。",
+    "colors": {
+      "primary": "#FF6600",
+      "secondary": "#FF8C00",
+      "accent": "#FF6600",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#260F00",
+      "surface": "#3F1900",
+      "text": "#FFE8D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FF6600;\n  --color-secondary: #FF8C00;\n  --color-accent: #FF6600;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FF6600',\n  secondary: '#FF8C00',\n  accent: '#FF6600',\n}"
+  },
+  {
+    "id": "deviantart",
+    "name": "DeviantArt",
+    "category": "western-platform",
+    "tags": [
+      "艺术",
+      "社区",
+      "绿色"
+    ],
+    "style": "全球最大艺术社区，绿色传达创意和自由。",
+    "colors": {
+      "primary": "#05CC47",
+      "secondary": "#00C635",
+      "accent": "#4DC8FF",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#001E0A",
+      "surface": "#013311",
+      "text": "#D9F7E3"
+    },
+    "cssVariables": ":root {\n  --color-primary: #05CC47;\n  --color-secondary: #00C635;\n  --color-accent: #4DC8FF;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#05CC47',\n  secondary: '#00C635',\n  accent: '#4DC8FF',\n}"
+  },
+  {
+    "id": "behance",
+    "name": "Behance",
+    "category": "western-platform",
+    "tags": [
+      "设计",
+      "作品集",
+      "蓝色"
+    ],
+    "style": "Adobe旗下设计作品集平台，蓝色传达专业创意。",
+    "colors": {
+      "primary": "#1769FF",
+      "secondary": "#0055FF",
+      "accent": "#1769FF",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#030F26",
+      "surface": "#051A3F",
+      "text": "#DCE8FF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #1769FF;\n  --color-secondary: #0055FF;\n  --color-accent: #1769FF;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#1769FF',\n  secondary: '#0055FF',\n  accent: '#1769FF',\n}"
+  },
+  {
+    "id": "dribbble",
+    "name": "Dribbble",
+    "category": "western-platform",
+    "tags": [
+      "设计",
+      "社区",
+      "粉色"
+    ],
+    "style": "全球设计师社区，粉红色传达创意和趣味。",
+    "colors": {
+      "primary": "#EA4C89",
+      "secondary": "#C73A72",
+      "accent": "#EA4C89",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#230B14",
+      "surface": "#3A1322",
+      "text": "#FBE4ED"
+    },
+    "cssVariables": ":root {\n  --color-primary: #EA4C89;\n  --color-secondary: #C73A72;\n  --color-accent: #EA4C89;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#EA4C89',\n  secondary: '#C73A72',\n  accent: '#EA4C89',\n}"
+  },
+  {
+    "id": "soundcloud",
+    "name": "SoundCloud",
+    "category": "western-platform",
+    "tags": [
+      "音乐",
+      "音频",
+      "橙色"
+    ],
+    "style": "全球音频平台，橙色传达音乐热情和活力。",
+    "colors": {
+      "primary": "#FF5500",
+      "secondary": "#F50",
+      "accent": "#FF5500",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#260C00",
+      "surface": "#3F1500",
+      "text": "#FFE5D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FF5500;\n  --color-secondary: #F50;\n  --color-accent: #FF5500;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FF5500',\n  secondary: '#F50',\n  accent: '#FF5500',\n}"
+  },
+  {
+    "id": "twitch-alt",
+    "name": "Twitch (Alt)",
+    "category": "western-platform",
+    "tags": [
+      "直播",
+      "游戏",
+      "紫色"
+    ],
+    "style": "Twitch备选方案，深紫色沉浸式。",
+    "colors": {
+      "primary": "#9146FF",
+      "secondary": "#772CE8",
+      "accent": "#00C878",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#150A26",
+      "surface": "#24113F",
+      "text": "#EEE3FF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #9146FF;\n  --color-secondary: #772CE8;\n  --color-accent: #00C878;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#9146FF',\n  secondary: '#772CE8',\n  accent: '#00C878',\n}"
+  },
+  {
+    "id": "mastodon",
+    "name": "Mastodon",
+    "category": "western-platform",
+    "tags": [
+      "社交",
+      "去中心化",
+      "紫色"
+    ],
+    "style": "去中心化社交平台，紫色传达自由和创新。",
+    "colors": {
+      "primary": "#6364FF",
+      "secondary": "#563ACC",
+      "accent": "#6364FF",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#0E0F26",
+      "surface": "#18193F",
+      "text": "#E7E7FF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #6364FF;\n  --color-secondary: #563ACC;\n  --color-accent: #6364FF;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#6364FF',\n  secondary: '#563ACC',\n  accent: '#6364FF',\n}"
+  },
+  {
+    "id": "bluesky",
+    "name": "Bluesky",
+    "category": "western-platform",
+    "tags": [
+      "社交",
+      "去中心化",
+      "蓝色"
+    ],
+    "style": "去中心化社交新平台，蓝天蓝传达开放和自由。",
+    "colors": {
+      "primary": "#0A7AFF",
+      "secondary": "#0066DD",
+      "accent": "#0A7AFF",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#011226",
+      "surface": "#021E3F",
+      "text": "#DAEBFF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #0A7AFF;\n  --color-secondary: #0066DD;\n  --color-accent: #0A7AFF;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#0A7AFF',\n  secondary: '#0066DD',\n  accent: '#0A7AFF',\n}"
+  },
+  {
+    "id": "threads",
+    "name": "Threads",
+    "category": "western-platform",
+    "tags": [
+      "社交",
+      "文字",
+      "黑色"
+    ],
+    "style": "Meta旗下文字社交平台，黑色极简。",
+    "colors": {
+      "primary": "#000000",
+      "secondary": "#333333",
+      "accent": "#000000",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#000000",
+      "surface": "#000000",
+      "text": "#D8D8D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #000000;\n  --color-secondary: #333333;\n  --color-accent: #000000;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#000000',\n  secondary: '#333333',\n  accent: '#000000',\n}"
+  }
+]

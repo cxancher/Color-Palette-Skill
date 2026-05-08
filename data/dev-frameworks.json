@@ -1,0 +1,1242 @@
+[
+  {
+    "id": "bootstrap",
+    "name": "Bootstrap",
+    "category": "dev-framework",
+    "tags": [
+      "框架",
+      "CSS",
+      "紫色"
+    ],
+    "style": "全球最流行的CSS框架，Bootstrap紫色传达成熟和可靠。",
+    "colors": {
+      "primary": "#7952B3",
+      "secondary": "#0D6EFD",
+      "accent": "#6610F2",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#120C1A",
+      "surface": "#1E142C",
+      "text": "#EAE5F3"
+    },
+    "cssVariables": ":root {\n  --color-primary: #7952B3;\n  --color-secondary: #0D6EFD;\n  --color-accent: #6610F2;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#7952B3',\n  secondary: '#0D6EFD',\n  accent: '#6610F2',\n}"
+  },
+  {
+    "id": "bulma",
+    "name": "Bulma",
+    "category": "dev-framework",
+    "tags": [
+      "框架",
+      "CSS",
+      "青绿"
+    ],
+    "style": "现代CSS框架，青绿色传达清新和灵活。",
+    "colors": {
+      "primary": "#00D1B2",
+      "secondary": "#3298DC",
+      "accent": "#FFDD57",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#001F1A",
+      "surface": "#00342C",
+      "text": "#D8F8F3"
+    },
+    "cssVariables": ":root {\n  --color-primary: #00D1B2;\n  --color-secondary: #3298DC;\n  --color-accent: #FFDD57;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#00D1B2',\n  secondary: '#3298DC',\n  accent: '#FFDD57',\n}"
+  },
+  {
+    "id": "semantic-ui",
+    "name": "Semantic UI",
+    "category": "dev-framework",
+    "tags": [
+      "框架",
+      "CSS",
+      "黑色"
+    ],
+    "style": "语义化UI框架，黑色传达专业和实用。",
+    "colors": {
+      "primary": "#1B1C1D",
+      "secondary": "#353535",
+      "accent": "#F2711C",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#040404",
+      "surface": "#060707",
+      "text": "#DCDCDD"
+    },
+    "cssVariables": ":root {\n  --color-primary: #1B1C1D;\n  --color-secondary: #353535;\n  --color-accent: #F2711C;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#1B1C1D',\n  secondary: '#353535',\n  accent: '#F2711C',\n}"
+  },
+  {
+    "id": "foundation",
+    "name": "Foundation",
+    "category": "dev-framework",
+    "tags": [
+      "框架",
+      "CSS",
+      "蓝色"
+    ],
+    "style": "响应式前端框架，蓝色传达专业和灵活。",
+    "colors": {
+      "primary": "#2199E8",
+      "secondary": "#1779BA",
+      "accent": "#3FADC7",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#041622",
+      "surface": "#08263A",
+      "text": "#DDEFFB"
+    },
+    "cssVariables": ":root {\n  --color-primary: #2199E8;\n  --color-secondary: #1779BA;\n  --color-accent: #3FADC7;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#2199E8',\n  secondary: '#1779BA',\n  accent: '#3FADC7',\n}"
+  },
+  {
+    "id": "mui",
+    "name": "MUI (Material UI)",
+    "category": "dev-framework",
+    "tags": [
+      "框架",
+      "React",
+      "蓝色"
+    ],
+    "style": "React Material Design框架，蓝色传达专业和一致。",
+    "colors": {
+      "primary": "#1976D2",
+      "secondary": "#42A5F5",
+      "accent": "#FF6F00",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#03111F",
+      "surface": "#061D34",
+      "text": "#DCEAF8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #1976D2;\n  --color-secondary: #42A5F5;\n  --color-accent: #FF6F00;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#1976D2',\n  secondary: '#42A5F5',\n  accent: '#FF6F00',\n}"
+  },
+  {
+    "id": "shadcn-ui",
+    "name": "shadcn/ui",
+    "category": "dev-framework",
+    "tags": [
+      "框架",
+      "React",
+      "黑白"
+    ],
+    "style": "现代React组件库，黑白极简传达精致和灵活。",
+    "colors": {
+      "primary": "#000000",
+      "secondary": "#18181B",
+      "accent": "#2563EB",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#000000",
+      "surface": "#000000",
+      "text": "#D8D8D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #000000;\n  --color-secondary: #18181B;\n  --color-accent: #2563EB;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#000000',\n  secondary: '#18181B',\n  accent: '#2563EB',\n}"
+  },
+  {
+    "id": "nextui",
+    "name": "NextUI",
+    "category": "dev-framework",
+    "tags": [
+      "框架",
+      "React",
+      "蓝色"
+    ],
+    "style": "现代React UI库，蓝色传达优雅和现代。",
+    "colors": {
+      "primary": "#0072F5",
+      "secondary": "#7928CA",
+      "accent": "#0072F5",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#001124",
+      "surface": "#001C3D",
+      "text": "#D8E9FD"
+    },
+    "cssVariables": ":root {\n  --color-primary: #0072F5;\n  --color-secondary: #7928CA;\n  --color-accent: #0072F5;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#0072F5',\n  secondary: '#7928CA',\n  accent: '#0072F5',\n}"
+  },
+  {
+    "id": "mantine",
+    "name": "Mantine",
+    "category": "dev-framework",
+    "tags": [
+      "框架",
+      "React",
+      "蓝色"
+    ],
+    "style": "现代React组件库，蓝色传达专业和可访问。",
+    "colors": {
+      "primary": "#228BE6",
+      "secondary": "#5C7CFA",
+      "accent": "#40C057",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#051422",
+      "surface": "#082239",
+      "text": "#DDEDFB"
+    },
+    "cssVariables": ":root {\n  --color-primary: #228BE6;\n  --color-secondary: #5C7CFA;\n  --color-accent: #40C057;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#228BE6',\n  secondary: '#5C7CFA',\n  accent: '#40C057',\n}"
+  },
+  {
+    "id": "chakra-ui-v2",
+    "name": "Chakra UI v2",
+    "category": "dev-framework",
+    "tags": [
+      "框架",
+      "React",
+      "蓝青"
+    ],
+    "style": "React组件库，蓝+青传达现代和灵活。",
+    "colors": {
+      "primary": "#3182CE",
+      "secondary": "#319795",
+      "accent": "#D69E2E",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#07131E",
+      "surface": "#0C2033",
+      "text": "#E0ECF7"
+    },
+    "cssVariables": ":root {\n  --color-primary: #3182CE;\n  --color-secondary: #319795;\n  --color-accent: #D69E2E;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#3182CE',\n  secondary: '#319795',\n  accent: '#D69E2E',\n}"
+  },
+  {
+    "id": "radix-themes",
+    "name": "Radix Themes",
+    "category": "dev-framework",
+    "tags": [
+      "框架",
+      "React",
+      "靛蓝"
+    ],
+    "style": "无障碍React组件，靛蓝传达精致和可访问。",
+    "colors": {
+      "primary": "#6E56CF",
+      "secondary": "#4C48E6",
+      "accent": "#3052F6",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#100C1F",
+      "surface": "#1B1533",
+      "text": "#E9E5F7"
+    },
+    "cssVariables": ":root {\n  --color-primary: #6E56CF;\n  --color-secondary: #4C48E6;\n  --color-accent: #3052F6;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#6E56CF',\n  secondary: '#4C48E6',\n  accent: '#3052F6',\n}"
+  },
+  {
+    "id": "tailwind-v4",
+    "name": "Tailwind CSS v4",
+    "category": "dev-framework",
+    "tags": [
+      "框架",
+      "CSS",
+      "蓝色"
+    ],
+    "style": "实用优先CSS框架，蓝色为默认推荐色。",
+    "colors": {
+      "primary": "#3B82F6",
+      "secondary": "#6366F1",
+      "accent": "#8B5CF6",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#081324",
+      "surface": "#0E203D",
+      "text": "#E1ECFD"
+    },
+    "cssVariables": ":root {\n  --color-primary: #3B82F6;\n  --color-secondary: #6366F1;\n  --color-accent: #8B5CF6;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#3B82F6',\n  secondary: '#6366F1',\n  accent: '#8B5CF6',\n}"
+  },
+  {
+    "id": "ant-design-v5",
+    "name": "Ant Design v5",
+    "category": "dev-framework",
+    "tags": [
+      "框架",
+      "React",
+      "蓝色"
+    ],
+    "style": "企业级React UI，蓝色传达专业和确定性。",
+    "colors": {
+      "primary": "#1677FF",
+      "secondary": "#4096FF",
+      "accent": "#52C41A",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#031126",
+      "surface": "#051D3F",
+      "text": "#DCEAFF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #1677FF;\n  --color-secondary: #4096FF;\n  --color-accent: #52C41A;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#1677FF',\n  secondary: '#4096FF',\n  accent: '#52C41A',\n}"
+  },
+  {
+    "id": "arco-design",
+    "name": "Arco Design",
+    "category": "dev-framework",
+    "tags": [
+      "框架",
+      "React",
+      "蓝色"
+    ],
+    "style": "字节跳动UI框架，蓝色传达现代和高效。",
+    "colors": {
+      "primary": "#165DFF",
+      "secondary": "#0FC6C2",
+      "accent": "#F77234",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#030D26",
+      "surface": "#05173F",
+      "text": "#DCE6FF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #165DFF;\n  --color-secondary: #0FC6C2;\n  --color-accent: #F77234;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#165DFF',\n  secondary: '#0FC6C2',\n  accent: '#F77234',\n}"
+  },
+  {
+    "id": "semi-design",
+    "name": "Semi Design",
+    "category": "dev-framework",
+    "tags": [
+      "框架",
+      "React",
+      "蓝色"
+    ],
+    "style": "抖音跳动UI框架，蓝色传达专业和灵活。",
+    "colors": {
+      "primary": "#0077FA",
+      "secondary": "#F9BE00",
+      "accent": "#34C724",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#001125",
+      "surface": "#001D3E",
+      "text": "#D8EAFE"
+    },
+    "cssVariables": ":root {\n  --color-primary: #0077FA;\n  --color-secondary: #F9BE00;\n  --color-accent: #34C724;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#0077FA',\n  secondary: '#F9BE00',\n  accent: '#34C724',\n}"
+  },
+  {
+    "id": "tdesign",
+    "name": "TDesign",
+    "category": "dev-framework",
+    "tags": [
+      "框架",
+      "Vue",
+      "蓝色"
+    ],
+    "style": "腾讯UI框架，蓝色传达专业和信赖。",
+    "colors": {
+      "primary": "#0052D9",
+      "secondary": "#0594FA",
+      "accent": "#FF8F1F",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#000C20",
+      "surface": "#001436",
+      "text": "#D8E5F9"
+    },
+    "cssVariables": ":root {\n  --color-primary: #0052D9;\n  --color-secondary: #0594FA;\n  --color-accent: #FF8F1F;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#0052D9',\n  secondary: '#0594FA',\n  accent: '#FF8F1F',\n}"
+  },
+  {
+    "id": "nutui",
+    "name": "NutUI",
+    "category": "dev-framework",
+    "tags": [
+      "框架",
+      "Vue",
+      "绿色"
+    ],
+    "style": "京东UI框架，绿色传达品质和信赖。",
+    "colors": {
+      "primary": "#06B05B",
+      "secondary": "#06B05B",
+      "accent": "#FA2C19",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#001A0D",
+      "surface": "#012C16",
+      "text": "#D9F3E6"
+    },
+    "cssVariables": ":root {\n  --color-primary: #06B05B;\n  --color-secondary: #06B05B;\n  --color-accent: #FA2C19;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#06B05B',\n  secondary: '#06B05B',\n  accent: '#FA2C19',\n}"
+  },
+  {
+    "id": "varlet",
+    "name": "Varlet",
+    "category": "dev-framework",
+    "tags": [
+      "框架",
+      "Vue",
+      "蓝色"
+    ],
+    "style": "Material Design Vue3框架，蓝色传达现代。",
+    "colors": {
+      "primary": "#006FFF",
+      "secondary": "#0052D9",
+      "accent": "#006FFF",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#001026",
+      "surface": "#001B3F",
+      "text": "#D8E9FF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #006FFF;\n  --color-secondary: #0052D9;\n  --color-accent: #006FFF;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#006FFF',\n  secondary: '#0052D9',\n  accent: '#006FFF',\n}"
+  },
+  {
+    "id": "element-plus",
+    "name": "Element Plus",
+    "category": "dev-framework",
+    "tags": [
+      "框架",
+      "Vue",
+      "蓝色"
+    ],
+    "style": "Vue3组件库，蓝色传达专业和实用。",
+    "colors": {
+      "primary": "#409EFF",
+      "secondary": "#337ECC",
+      "accent": "#67C23A",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#091726",
+      "surface": "#10273F",
+      "text": "#E2F0FF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #409EFF;\n  --color-secondary: #337ECC;\n  --color-accent: #67C23A;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#409EFF',\n  secondary: '#337ECC',\n  accent: '#67C23A',\n}"
+  },
+  {
+    "id": "naive-ui",
+    "name": "Naive UI",
+    "category": "dev-framework",
+    "tags": [
+      "框架",
+      "Vue",
+      "蓝色"
+    ],
+    "style": "Vue3组件库，蓝色传达现代和精致。",
+    "colors": {
+      "primary": "#18A058",
+      "secondary": "#2080F0",
+      "accent": "#F0A020",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#03180D",
+      "surface": "#062816",
+      "text": "#DCF0E5"
+    },
+    "cssVariables": ":root {\n  --color-primary: #18A058;\n  --color-secondary: #2080F0;\n  --color-accent: #F0A020;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#18A058',\n  secondary: '#2080F0',\n  accent: '#F0A020',\n}"
+  },
+  {
+    "id": "primevue",
+    "name": "PrimeVue",
+    "category": "dev-framework",
+    "tags": [
+      "框架",
+      "Vue",
+      "紫色"
+    ],
+    "style": "Vue UI组件库，紫色传达优雅和丰富。",
+    "colors": {
+      "primary": "#3B82F6",
+      "secondary": "#6366F1",
+      "accent": "#8B5CF6",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#081324",
+      "surface": "#0E203D",
+      "text": "#E1ECFD"
+    },
+    "cssVariables": ":root {\n  --color-primary: #3B82F6;\n  --color-secondary: #6366F1;\n  --color-accent: #8B5CF6;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#3B82F6',\n  secondary: '#6366F1',\n  accent: '#8B5CF6',\n}"
+  },
+  {
+    "id": "vuetify",
+    "name": "Vuetify",
+    "category": "dev-framework",
+    "tags": [
+      "框架",
+      "Vue",
+      "蓝色"
+    ],
+    "style": "Material Design Vue框架，蓝色传达专业。",
+    "colors": {
+      "primary": "#1867C0",
+      "secondary": "#4285F4",
+      "accent": "#66BB6A",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#030F1C",
+      "surface": "#061930",
+      "text": "#DCE8F5"
+    },
+    "cssVariables": ":root {\n  --color-primary: #1867C0;\n  --color-secondary: #4285F4;\n  --color-accent: #66BB6A;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#1867C0',\n  secondary: '#4285F4',\n  accent: '#66BB6A',\n}"
+  },
+  {
+    "id": "quasar",
+    "name": "Quasar",
+    "category": "dev-framework",
+    "tags": [
+      "框架",
+      "Vue",
+      "紫色"
+    ],
+    "style": "Vue全平台框架，紫色传达高效和现代。",
+    "colors": {
+      "primary": "#1976D2",
+      "secondary": "#7E57C2",
+      "accent": "#26A69A",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#03111F",
+      "surface": "#061D34",
+      "text": "#DCEAF8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #1976D2;\n  --color-secondary: #7E57C2;\n  --color-accent: #26A69A;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#1976D2',\n  secondary: '#7E57C2',\n  accent: '#26A69A',\n}"
+  },
+  {
+    "id": "sveltekit",
+    "name": "SvelteKit",
+    "category": "dev-framework",
+    "tags": [
+      "框架",
+      "Svelte",
+      "橙色"
+    ],
+    "style": "Svelte全栈框架，橙色传达活力和创新。",
+    "colors": {
+      "primary": "#FF3E00",
+      "secondary": "#4075A6",
+      "accent": "#FF3E00",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#260900",
+      "surface": "#3F0F00",
+      "text": "#FFE2D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FF3E00;\n  --color-secondary: #4075A6;\n  --color-accent: #FF3E00;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FF3E00',\n  secondary: '#4075A6',\n  accent: '#FF3E00',\n}"
+  },
+  {
+    "id": "nuxt",
+    "name": "Nuxt",
+    "category": "dev-framework",
+    "tags": [
+      "框架",
+      "Vue",
+      "绿色"
+    ],
+    "style": "Vue全栈框架，绿色传达生态和成长。",
+    "colors": {
+      "primary": "#00DC82",
+      "secondary": "#00DC82",
+      "accent": "#FF6D00",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#002113",
+      "surface": "#003720",
+      "text": "#D8F9EC"
+    },
+    "cssVariables": ":root {\n  --color-primary: #00DC82;\n  --color-secondary: #00DC82;\n  --color-accent: #FF6D00;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#00DC82',\n  secondary: '#00DC82',\n  accent: '#FF6D00',\n}"
+  },
+  {
+    "id": "nextjs",
+    "name": "Next.js",
+    "category": "dev-framework",
+    "tags": [
+      "框架",
+      "React",
+      "黑色"
+    ],
+    "style": "React全栈框架，黑白传达极简和现代。",
+    "colors": {
+      "primary": "#000000",
+      "secondary": "#0070F3",
+      "accent": "#000000",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#000000",
+      "surface": "#000000",
+      "text": "#D8D8D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #000000;\n  --color-secondary: #0070F3;\n  --color-accent: #000000;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#000000',\n  secondary: '#0070F3',\n  accent: '#000000',\n}"
+  },
+  {
+    "id": "remix",
+    "name": "Remix",
+    "category": "dev-framework",
+    "tags": [
+      "框架",
+      "React",
+      "蓝色"
+    ],
+    "style": "React全栈框架，蓝色传达现代Web。",
+    "colors": {
+      "primary": "#121212",
+      "secondary": "#1D4ED8",
+      "accent": "#121212",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#020202",
+      "surface": "#040404",
+      "text": "#DBDBDB"
+    },
+    "cssVariables": ":root {\n  --color-primary: #121212;\n  --color-secondary: #1D4ED8;\n  --color-accent: #121212;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#121212',\n  secondary: '#1D4ED8',\n  accent: '#121212',\n}"
+  },
+  {
+    "id": "astro",
+    "name": "Astro",
+    "category": "dev-framework",
+    "tags": [
+      "框架",
+      "静态",
+      "橙色"
+    ],
+    "style": "现代静态站点框架，橙色传达活力和创新。",
+    "colors": {
+      "primary": "#FF5D01",
+      "secondary": "#BC52EE",
+      "accent": "#FF5D01",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#260D00",
+      "surface": "#3F1700",
+      "text": "#FFE6D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FF5D01;\n  --color-secondary: #BC52EE;\n  --color-accent: #FF5D01;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FF5D01',\n  secondary: '#BC52EE',\n  accent: '#FF5D01',\n}"
+  },
+  {
+    "id": "solidjs",
+    "name": "SolidJS",
+    "category": "dev-framework",
+    "tags": [
+      "框架",
+      "React",
+      "蓝色"
+    ],
+    "style": "高性能React式框架，蓝色传达速度和精致。",
+    "colors": {
+      "primary": "#4F88C6",
+      "secondary": "#2C4F7C",
+      "accent": "#5DADE2",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#0B141D",
+      "surface": "#132231",
+      "text": "#E4EDF6"
+    },
+    "cssVariables": ":root {\n  --color-primary: #4F88C6;\n  --color-secondary: #2C4F7C;\n  --color-accent: #5DADE2;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#4F88C6',\n  secondary: '#2C4F7C',\n  accent: '#5DADE2',\n}"
+  },
+  {
+    "id": "qwik",
+    "name": "Qwik",
+    "category": "dev-framework",
+    "tags": [
+      "框架",
+      "JS",
+      "蓝色"
+    ],
+    "style": "可恢复式框架，蓝色传达速度和创新。",
+    "colors": {
+      "primary": "#18B6F6",
+      "secondary": "#0D96E9",
+      "accent": "#AC7EF4",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#031B24",
+      "surface": "#062D3D",
+      "text": "#DCF4FD"
+    },
+    "cssVariables": ":root {\n  --color-primary: #18B6F6;\n  --color-secondary: #0D96E9;\n  --color-accent: #AC7EF4;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#18B6F6',\n  secondary: '#0D96E9',\n  accent: '#AC7EF4',\n}"
+  },
+  {
+    "id": "deno",
+    "name": "Deno",
+    "category": "dev-framework",
+    "tags": [
+      "运行时",
+      "JS",
+      "黑色"
+    ],
+    "style": "现代JS运行时，黑白传达极简和安全。",
+    "colors": {
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "accent": "#70FFAF",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#000000",
+      "surface": "#000000",
+      "text": "#D8D8D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #000000;\n  --color-secondary: #FFFFFF;\n  --color-accent: #70FFAF;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#000000',\n  secondary: '#FFFFFF',\n  accent: '#70FFAF',\n}"
+  },
+  {
+    "id": "bun",
+    "name": "Bun",
+    "category": "dev-framework",
+    "tags": [
+      "运行时",
+      "JS",
+      "橙色"
+    ],
+    "style": "高性能JS运行时，橙色传达速度和活力。",
+    "colors": {
+      "primary": "#FBF0DF",
+      "secondary": "#000000",
+      "accent": "#FBF0DF",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#252421",
+      "surface": "#3E3C37",
+      "text": "#FEFCFA"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FBF0DF;\n  --color-secondary: #000000;\n  --color-accent: #FBF0DF;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FBF0DF',\n  secondary: '#000000',\n  accent: '#FBF0DF',\n}"
+  },
+  {
+    "id": "flutter",
+    "name": "Flutter",
+    "category": "dev-framework",
+    "tags": [
+      "框架",
+      "Dart",
+      "蓝色"
+    ],
+    "style": "跨平台UI框架，蓝色传达灵活和现代。",
+    "colors": {
+      "primary": "#02569B",
+      "secondary": "#13B9FD",
+      "accent": "#02569B",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#000C17",
+      "surface": "#001526",
+      "text": "#D9E5F0"
+    },
+    "cssVariables": ":root {\n  --color-primary: #02569B;\n  --color-secondary: #13B9FD;\n  --color-accent: #02569B;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#02569B',\n  secondary: '#13B9FD',\n  accent: '#02569B',\n}"
+  },
+  {
+    "id": "swiftui",
+    "name": "SwiftUI",
+    "category": "dev-framework",
+    "tags": [
+      "框架",
+      "Apple",
+      "蓝色"
+    ],
+    "style": "Apple声明式UI框架，蓝色传达现代和精致。",
+    "colors": {
+      "primary": "#0A84FF",
+      "secondary": "#30D158",
+      "accent": "#0A84FF",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#011326",
+      "surface": "#02213F",
+      "text": "#DAECFF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #0A84FF;\n  --color-secondary: #30D158;\n  --color-accent: #0A84FF;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#0A84FF',\n  secondary: '#30D158',\n  accent: '#0A84FF',\n}"
+  },
+  {
+    "id": "jetpack",
+    "name": "Jetpack Compose",
+    "category": "dev-framework",
+    "tags": [
+      "框架",
+      "Android",
+      "紫色"
+    ],
+    "style": "Android现代UI框架，紫色传达Material You。",
+    "colors": {
+      "primary": "#6750A4",
+      "secondary": "#625B71",
+      "accent": "#D0BCFF",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#0F0C18",
+      "surface": "#191429",
+      "text": "#E8E4F1"
+    },
+    "cssVariables": ":root {\n  --color-primary: #6750A4;\n  --color-secondary: #625B71;\n  --color-accent: #D0BCFF;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#6750A4',\n  secondary: '#625B71',\n  accent: '#D0BCFF',\n}"
+  },
+  {
+    "id": "react-native",
+    "name": "React Native",
+    "category": "dev-framework",
+    "tags": [
+      "框架",
+      "移动",
+      "蓝色"
+    ],
+    "style": "跨平台移动框架，蓝色传达灵活和现代。",
+    "colors": {
+      "primary": "#61DAFB",
+      "secondary": "#000000",
+      "accent": "#61DAFB",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#0E2025",
+      "surface": "#18363E",
+      "text": "#E7F9FE"
+    },
+    "cssVariables": ":root {\n  --color-primary: #61DAFB;\n  --color-secondary: #000000;\n  --color-accent: #61DAFB;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#61DAFB',\n  secondary: '#000000',\n  accent: '#61DAFB',\n}"
+  },
+  {
+    "id": "ionic",
+    "name": "Ionic",
+    "category": "dev-framework",
+    "tags": [
+      "框架",
+      "混合",
+      "蓝色"
+    ],
+    "style": "混合移动开发框架，蓝色传达跨平台。",
+    "colors": {
+      "primary": "#3880FF",
+      "secondary": "#5260FF",
+      "accent": "#3880FF",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#081326",
+      "surface": "#0E203F",
+      "text": "#E1EBFF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #3880FF;\n  --color-secondary: #5260FF;\n  --color-accent: #3880FF;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#3880FF',\n  secondary: '#5260FF',\n  accent: '#3880FF',\n}"
+  },
+  {
+    "id": "tailwindcss",
+    "name": "Tailwind CSS",
+    "category": "dev-framework",
+    "tags": [
+      "框架",
+      "CSS",
+      "蓝色"
+    ],
+    "style": "实用优先CSS框架，蓝色为默认推荐。",
+    "colors": {
+      "primary": "#3B82F6",
+      "secondary": "#6366F1",
+      "accent": "#8B5CF6",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#081324",
+      "surface": "#0E203D",
+      "text": "#E1ECFD"
+    },
+    "cssVariables": ":root {\n  --color-primary: #3B82F6;\n  --color-secondary: #6366F1;\n  --color-accent: #8B5CF6;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#3B82F6',\n  secondary: '#6366F1',\n  accent: '#8B5CF6',\n}"
+  },
+  {
+    "id": "uno-css",
+    "name": "UnoCSS",
+    "category": "dev-framework",
+    "tags": [
+      "框架",
+      "CSS",
+      "绿色"
+    ],
+    "style": "即时原子化CSS引擎，绿色传达速度和创新。",
+    "colors": {
+      "primary": "#999999",
+      "secondary": "#333333",
+      "accent": "#1E293B",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#161616",
+      "surface": "#262626",
+      "text": "#EFEFEF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #999999;\n  --color-secondary: #333333;\n  --color-accent: #1E293B;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#999999',\n  secondary: '#333333',\n  accent: '#1E293B',\n}"
+  },
+  {
+    "id": "panda-css",
+    "name": "Panda CSS",
+    "category": "dev-framework",
+    "tags": [
+      "框架",
+      "CSS",
+      "紫色"
+    ],
+    "style": "CSS-in-JS引擎，紫色传达现代和灵活。",
+    "colors": {
+      "primary": "#6C63FF",
+      "secondary": "#A78BFA",
+      "accent": "#6C63FF",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#100E26",
+      "surface": "#1B183F",
+      "text": "#E8E7FF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #6C63FF;\n  --color-secondary: #A78BFA;\n  --color-accent: #6C63FF;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#6C63FF',\n  secondary: '#A78BFA',\n  accent: '#6C63FF',\n}"
+  },
+  {
+    "id": "vanilla-extract",
+    "name": "vanilla-extract",
+    "category": "dev-framework",
+    "tags": [
+      "框架",
+      "CSS",
+      "紫色"
+    ],
+    "style": "零运行时CSS方案，紫色传达现代和类型安全。",
+    "colors": {
+      "primary": "#9333EA",
+      "secondary": "#7C3AED",
+      "accent": "#9333EA",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#160723",
+      "surface": "#240C3A",
+      "text": "#EEE0FB"
+    },
+    "cssVariables": ":root {\n  --color-primary: #9333EA;\n  --color-secondary: #7C3AED;\n  --color-accent: #9333EA;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#9333EA',\n  secondary: '#7C3AED',\n  accent: '#9333EA',\n}"
+  }
+]

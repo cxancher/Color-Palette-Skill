@@ -1,0 +1,3598 @@
+[
+  {
+    "id": "airline-emirates",
+    "name": "Emirates 风格",
+    "category": "global-industry",
+    "tags": [
+      "航空",
+      "奢华",
+      "红色"
+    ],
+    "style": "阿联酋航空风格，经典红+白传达热情高贵。",
+    "colors": {
+      "primary": "#D71A21",
+      "secondary": "#FFFFFF",
+      "accent": "#D4AF37",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#200304",
+      "surface": "#350608",
+      "text": "#F9DCDD"
+    },
+    "cssVariables": ":root {\n  --color-primary: #D71A21;\n  --color-secondary: #FFFFFF;\n  --color-accent: #D4AF37;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#D71A21',\n  secondary: '#FFFFFF',\n  accent: '#D4AF37',\n}"
+  },
+  {
+    "id": "airline-singapore",
+    "name": "Singapore Airlines 风格",
+    "category": "global-industry",
+    "tags": [
+      "航空",
+      "奢华",
+      "金黄"
+    ],
+    "style": "新航风格，金黄+深蓝传达奢华典雅。",
+    "colors": {
+      "primary": "#FCB130",
+      "secondary": "#1D4886",
+      "accent": "#FCB130",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#251A07",
+      "surface": "#3F2C0C",
+      "text": "#FEF3DF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FCB130;\n  --color-secondary: #1D4886;\n  --color-accent: #FCB130;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FCB130',\n  secondary: '#1D4886',\n  accent: '#FCB130',\n}"
+  },
+  {
+    "id": "airline-delta",
+    "name": "Delta 风格",
+    "category": "global-industry",
+    "tags": [
+      "航空",
+      "美国",
+      "红色"
+    ],
+    "style": "达美航空风格，糖果苹果红+午夜蓝。",
+    "colors": {
+      "primary": "#E3132C",
+      "secondary": "#003268",
+      "accent": "#E3132C",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#220206",
+      "surface": "#38040B",
+      "text": "#FADBDF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #E3132C;\n  --color-secondary: #003268;\n  --color-accent: #E3132C;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#E3132C',\n  secondary: '#003268',\n  accent: '#E3132C',\n}"
+  },
+  {
+    "id": "airline-lufthansa",
+    "name": "Lufthansa 风格",
+    "category": "global-industry",
+    "tags": [
+      "航空",
+      "德国",
+      "深蓝"
+    ],
+    "style": "汉莎航空风格，午夜深蓝+暖黄。",
+    "colors": {
+      "primary": "#0A1D3D",
+      "secondary": "#F5CB5C",
+      "accent": "#0A1D3D",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#010409",
+      "surface": "#02070F",
+      "text": "#DADDE1"
+    },
+    "cssVariables": ":root {\n  --color-primary: #0A1D3D;\n  --color-secondary: #F5CB5C;\n  --color-accent: #0A1D3D;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#0A1D3D',\n  secondary: '#F5CB5C',\n  accent: '#0A1D3D',\n}"
+  },
+  {
+    "id": "airline-ana",
+    "name": "ANA 风格",
+    "category": "global-industry",
+    "tags": [
+      "航空",
+      "日本",
+      "蓝色"
+    ],
+    "style": "全日空风格，特里顿蓝+白日式简约。",
+    "colors": {
+      "primary": "#0B318F",
+      "secondary": "#FFFFFF",
+      "accent": "#0B318F",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#010715",
+      "surface": "#020C23",
+      "text": "#DAE0EE"
+    },
+    "cssVariables": ":root {\n  --color-primary: #0B318F;\n  --color-secondary: #FFFFFF;\n  --color-accent: #0B318F;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#0B318F',\n  secondary: '#FFFFFF',\n  accent: '#0B318F',\n}"
+  },
+  {
+    "id": "airline-qatar",
+    "name": "Qatar Airways 风格",
+    "category": "global-industry",
+    "tags": [
+      "航空",
+      "中东",
+      "紫色"
+    ],
+    "style": "卡塔尔航空风格，栗紫+灰传达尊贵。",
+    "colors": {
+      "primary": "#660033",
+      "secondary": "#666666",
+      "accent": "#8C6B50",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#0F0007",
+      "surface": "#19000C",
+      "text": "#E8D8E0"
+    },
+    "cssVariables": ":root {\n  --color-primary: #660033;\n  --color-secondary: #666666;\n  --color-accent: #8C6B50;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#660033',\n  secondary: '#666666',\n  accent: '#8C6B50',\n}"
+  },
+  {
+    "id": "airline-ryanair",
+    "name": "Ryanair 风格",
+    "category": "global-industry",
+    "tags": [
+      "航空",
+      "廉价",
+      "黄色"
+    ],
+    "style": "瑞安航空风格，明黄+深蓝传达低成本活力。",
+    "colors": {
+      "primary": "#073590",
+      "secondary": "#F5C518",
+      "accent": "#073590",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#010715",
+      "surface": "#010D24",
+      "text": "#D9E0EE"
+    },
+    "cssVariables": ":root {\n  --color-primary: #073590;\n  --color-secondary: #F5C518;\n  --color-accent: #073590;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#073590',\n  secondary: '#F5C518',\n  accent: '#073590',\n}"
+  },
+  {
+    "id": "airline-southwest",
+    "name": "Southwest 风格",
+    "category": "global-industry",
+    "tags": [
+      "航空",
+      "美国",
+      "蓝色"
+    ],
+    "style": "西南航空风格，海军蓝+红黄传达友好。",
+    "colors": {
+      "primary": "#304CB2",
+      "secondary": "#E4002B",
+      "accent": "#F9A01B",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#070B1A",
+      "surface": "#0C132C",
+      "text": "#DFE4F3"
+    },
+    "cssVariables": ":root {\n  --color-primary: #304CB2;\n  --color-secondary: #E4002B;\n  --color-accent: #F9A01B;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#304CB2',\n  secondary: '#E4002B',\n  accent: '#F9A01B',\n}"
+  },
+  {
+    "id": "hotel-hilton",
+    "name": "Hilton 风格",
+    "category": "global-industry",
+    "tags": [
+      "酒店",
+      "奢华",
+      "蓝色"
+    ],
+    "style": "希尔顿风格，蓝色+白传达稳重信赖。",
+    "colors": {
+      "primary": "#1E4380",
+      "secondary": "#FFFFFF",
+      "accent": "#C9A84C",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#040A13",
+      "surface": "#071020",
+      "text": "#DDE2EB"
+    },
+    "cssVariables": ":root {\n  --color-primary: #1E4380;\n  --color-secondary: #FFFFFF;\n  --color-accent: #C9A84C;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#1E4380',\n  secondary: '#FFFFFF',\n  accent: '#C9A84C',\n}"
+  },
+  {
+    "id": "hotel-marriott",
+    "name": "Marriott 风格",
+    "category": "global-industry",
+    "tags": [
+      "酒店",
+      "商务",
+      "红色"
+    ],
+    "style": "万豪风格，红色+黑传达热情沉稳。",
+    "colors": {
+      "primary": "#A80023",
+      "secondary": "#1C1C1C",
+      "accent": "#A80023",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#190005",
+      "surface": "#2A0008",
+      "text": "#F1D8DE"
+    },
+    "cssVariables": ":root {\n  --color-primary: #A80023;\n  --color-secondary: #1C1C1C;\n  --color-accent: #A80023;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#A80023',\n  secondary: '#1C1C1C',\n  accent: '#A80023',\n}"
+  },
+  {
+    "id": "hotel-hyatt",
+    "name": "Hyatt 风格",
+    "category": "global-industry",
+    "tags": [
+      "酒店",
+      "现代",
+      "蓝色"
+    ],
+    "style": "凯悦风格，蓝色+白传达清新舒适。",
+    "colors": {
+      "primary": "#4A78AB",
+      "secondary": "#FFFFFF",
+      "accent": "#4A78AB",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#0B1219",
+      "surface": "#121E2A",
+      "text": "#E3EAF2"
+    },
+    "cssVariables": ":root {\n  --color-primary: #4A78AB;\n  --color-secondary: #FFFFFF;\n  --color-accent: #4A78AB;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#4A78AB',\n  secondary: '#FFFFFF',\n  accent: '#4A78AB',\n}"
+  },
+  {
+    "id": "hotel-sheraton",
+    "name": "Sheraton 风格",
+    "category": "global-industry",
+    "tags": [
+      "酒店",
+      "经典",
+      "暖灰"
+    ],
+    "style": "喜来登风格，暖灰棕+米色传达温馨雅致。",
+    "colors": {
+      "primary": "#6E6260",
+      "secondary": "#F5D4B7",
+      "accent": "#6E6260",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#100E0E",
+      "surface": "#1B1818",
+      "text": "#E9E7E7"
+    },
+    "cssVariables": ":root {\n  --color-primary: #6E6260;\n  --color-secondary: #F5D4B7;\n  --color-accent: #6E6260;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#6E6260',\n  secondary: '#F5D4B7',\n  accent: '#6E6260',\n}"
+  },
+  {
+    "id": "hotel-ritz",
+    "name": "Ritz-Carlton 风格",
+    "category": "global-industry",
+    "tags": [
+      "酒店",
+      "奢华",
+      "深蓝"
+    ],
+    "style": "丽思卡尔顿风格，深蓝+金传达极致奢华。",
+    "colors": {
+      "primary": "#006B95",
+      "secondary": "#B3812A",
+      "accent": "#006B95",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#001016",
+      "surface": "#001A25",
+      "text": "#D8E8EF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #006B95;\n  --color-secondary: #B3812A;\n  --color-accent: #006B95;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#006B95',\n  secondary: '#B3812A',\n  accent: '#006B95',\n}"
+  },
+  {
+    "id": "hotel-airbnb",
+    "name": "Airbnb 风格",
+    "category": "global-industry",
+    "tags": [
+      "民宿",
+      "旅行",
+      "珊瑚红"
+    ],
+    "style": "Airbnb风格，珊瑚红传达归属感和温暖。",
+    "colors": {
+      "primary": "#FF5A5F",
+      "secondary": "#E0484D",
+      "accent": "#FF5A5F",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#260D0E",
+      "surface": "#3F1617",
+      "text": "#FFE6E7"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FF5A5F;\n  --color-secondary: #E0484D;\n  --color-accent: #FF5A5F;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FF5A5F',\n  secondary: '#E0484D',\n  accent: '#FF5A5F',\n}"
+  },
+  {
+    "id": "hotel-booking",
+    "name": "Booking 风格",
+    "category": "global-industry",
+    "tags": [
+      "预订",
+      "旅行",
+      "深蓝"
+    ],
+    "style": "Booking风格，深蓝传达信赖和专业。",
+    "colors": {
+      "primary": "#003580",
+      "secondary": "#00264D",
+      "accent": "#003580",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#000713",
+      "surface": "#000D20",
+      "text": "#D8E0EB"
+    },
+    "cssVariables": ":root {\n  --color-primary: #003580;\n  --color-secondary: #00264D;\n  --color-accent: #003580;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#003580',\n  secondary: '#00264D',\n  accent: '#003580',\n}"
+  },
+  {
+    "id": "bank-hsbc",
+    "name": "HSBC 风格",
+    "category": "global-industry",
+    "tags": [
+      "银行",
+      "全球",
+      "红色"
+    ],
+    "style": "汇丰银行风格，红色+白传达稳健可靠。",
+    "colors": {
+      "primary": "#DB0011",
+      "secondary": "#FFFFFF",
+      "accent": "#DB0011",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#200002",
+      "surface": "#360004",
+      "text": "#F9D8DB"
+    },
+    "cssVariables": ":root {\n  --color-primary: #DB0011;\n  --color-secondary: #FFFFFF;\n  --color-accent: #DB0011;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#DB0011',\n  secondary: '#FFFFFF',\n  accent: '#DB0011',\n}"
+  },
+  {
+    "id": "bank-citi",
+    "name": "Citi 风格",
+    "category": "global-industry",
+    "tags": [
+      "银行",
+      "美国",
+      "蓝色"
+    ],
+    "style": "花旗银行风格，深蓝+白传达专业信赖。",
+    "colors": {
+      "primary": "#003A72",
+      "secondary": "#FFFFFF",
+      "accent": "#003A72",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#000811",
+      "surface": "#000E1C",
+      "text": "#D8E1E9"
+    },
+    "cssVariables": ":root {\n  --color-primary: #003A72;\n  --color-secondary: #FFFFFF;\n  --color-accent: #003A72;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#003A72',\n  secondary: '#FFFFFF',\n  accent: '#003A72',\n}"
+  },
+  {
+    "id": "bank-goldman",
+    "name": "Goldman Sachs 风格",
+    "category": "global-industry",
+    "tags": [
+      "银行",
+      "投资",
+      "浅蓝"
+    ],
+    "style": "高盛风格，浅蓝+白传达低调权威。",
+    "colors": {
+      "primary": "#7399C6",
+      "secondary": "#FFFFFF",
+      "accent": "#7399C6",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#11161D",
+      "surface": "#1C2631",
+      "text": "#EAEFF6"
+    },
+    "cssVariables": ":root {\n  --color-primary: #7399C6;\n  --color-secondary: #FFFFFF;\n  --color-accent: #7399C6;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#7399C6',\n  secondary: '#FFFFFF',\n  accent: '#7399C6',\n}"
+  },
+  {
+    "id": "bank-jpmorgan",
+    "name": "JPMorgan 风格",
+    "category": "global-industry",
+    "tags": [
+      "银行",
+      "美国",
+      "蓝色"
+    ],
+    "style": "摩根大通风格，蓝色传达金融标杆。",
+    "colors": {
+      "primary": "#003087",
+      "secondary": "#FFFFFF",
+      "accent": "#003087",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#000714",
+      "surface": "#000C21",
+      "text": "#D8DFED"
+    },
+    "cssVariables": ":root {\n  --color-primary: #003087;\n  --color-secondary: #FFFFFF;\n  --color-accent: #003087;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#003087',\n  secondary: '#FFFFFF',\n  accent: '#003087',\n}"
+  },
+  {
+    "id": "bank-deutsche",
+    "name": "Deutsche Bank 风格",
+    "category": "global-industry",
+    "tags": [
+      "银行",
+      "德国",
+      "蓝色"
+    ],
+    "style": "德意志银行风格，蓝+亮蓝传达严谨。",
+    "colors": {
+      "primary": "#0018A8",
+      "secondary": "#00A3E0",
+      "accent": "#0018A8",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#000319",
+      "surface": "#00062A",
+      "text": "#D8DCF1"
+    },
+    "cssVariables": ":root {\n  --color-primary: #0018A8;\n  --color-secondary: #00A3E0;\n  --color-accent: #0018A8;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#0018A8',\n  secondary: '#00A3E0',\n  accent: '#0018A8',\n}"
+  },
+  {
+    "id": "bank-bnp",
+    "name": "BNP Paribas 风格",
+    "category": "global-industry",
+    "tags": [
+      "银行",
+      "法国",
+      "绿色"
+    ],
+    "style": "法巴银行风格，绿色传达成长可持续。",
+    "colors": {
+      "primary": "#00965E",
+      "secondary": "#FFFFFF",
+      "accent": "#00965E",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#00160E",
+      "surface": "#002517",
+      "text": "#D8EFE6"
+    },
+    "cssVariables": ":root {\n  --color-primary: #00965E;\n  --color-secondary: #FFFFFF;\n  --color-accent: #00965E;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#00965E',\n  secondary: '#FFFFFF',\n  accent: '#00965E',\n}"
+  },
+  {
+    "id": "bank-icbc",
+    "name": "ICBC 风格",
+    "category": "global-industry",
+    "tags": [
+      "银行",
+      "中国",
+      "红色"
+    ],
+    "style": "工商银行风格，深红+白传达中国红。",
+    "colors": {
+      "primary": "#C41230",
+      "secondary": "#FFFFFF",
+      "accent": "#C41230",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#1D0207",
+      "surface": "#31040C",
+      "text": "#F6DBDF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #C41230;\n  --color-secondary: #FFFFFF;\n  --color-accent: #C41230;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#C41230',\n  secondary: '#FFFFFF',\n  accent: '#C41230',\n}"
+  },
+  {
+    "id": "bank-ccb",
+    "name": "CCB 风格",
+    "category": "global-industry",
+    "tags": [
+      "银行",
+      "中国",
+      "蓝色"
+    ],
+    "style": "建设银行风格，海蓝+白传达理性包容。",
+    "colors": {
+      "primary": "#003DA5",
+      "secondary": "#FFFFFF",
+      "accent": "#003DA5",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#000918",
+      "surface": "#000F29",
+      "text": "#D8E1F1"
+    },
+    "cssVariables": ":root {\n  --color-primary: #003DA5;\n  --color-secondary: #FFFFFF;\n  --color-accent: #003DA5;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#003DA5',\n  secondary: '#FFFFFF',\n  accent: '#003DA5',\n}"
+  },
+  {
+    "id": "bank-boc",
+    "name": "BOC 风格",
+    "category": "global-industry",
+    "tags": [
+      "银行",
+      "中国",
+      "红色"
+    ],
+    "style": "中国银行风格，红色+白传达中国品牌。",
+    "colors": {
+      "primary": "#C41230",
+      "secondary": "#FFFFFF",
+      "accent": "#B8860B",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#1D0207",
+      "surface": "#31040C",
+      "text": "#F6DBDF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #C41230;\n  --color-secondary: #FFFFFF;\n  --color-accent: #B8860B;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#C41230',\n  secondary: '#FFFFFF',\n  accent: '#B8860B',\n}"
+  },
+  {
+    "id": "bank-abc",
+    "name": "ABC 风格",
+    "category": "global-industry",
+    "tags": [
+      "银行",
+      "中国",
+      "绿色"
+    ],
+    "style": "农业银行风格，绿色传达农业和成长。",
+    "colors": {
+      "primary": "#008C50",
+      "secondary": "#FFFFFF",
+      "accent": "#FFD700",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#00150C",
+      "surface": "#002314",
+      "text": "#D8EDE4"
+    },
+    "cssVariables": ":root {\n  --color-primary: #008C50;\n  --color-secondary: #FFFFFF;\n  --color-accent: #FFD700;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#008C50',\n  secondary: '#FFFFFF',\n  accent: '#FFD700',\n}"
+  },
+  {
+    "id": "telecom-att",
+    "name": "AT&T 风格",
+    "category": "global-industry",
+    "tags": [
+      "电信",
+      "美国",
+      "蓝色"
+    ],
+    "style": "AT&T风格，蓝色+白传达全球连接。",
+    "colors": {
+      "primary": "#00A8E0",
+      "secondary": "#FFFFFF",
+      "accent": "#00A8E0",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#001921",
+      "surface": "#002A38",
+      "text": "#D8F1FA"
+    },
+    "cssVariables": ":root {\n  --color-primary: #00A8E0;\n  --color-secondary: #FFFFFF;\n  --color-accent: #00A8E0;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#00A8E0',\n  secondary: '#FFFFFF',\n  accent: '#00A8E0',\n}"
+  },
+  {
+    "id": "telecom-verizon",
+    "name": "Verizon 风格",
+    "category": "global-industry",
+    "tags": [
+      "电信",
+      "美国",
+      "红色"
+    ],
+    "style": "Verizon风格，红色传达热情力量。",
+    "colors": {
+      "primary": "#EE0000",
+      "secondary": "#FFFFFF",
+      "accent": "#EE0000",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#230000",
+      "surface": "#3B0000",
+      "text": "#FCD8D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #EE0000;\n  --color-secondary: #FFFFFF;\n  --color-accent: #EE0000;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#EE0000',\n  secondary: '#FFFFFF',\n  accent: '#EE0000',\n}"
+  },
+  {
+    "id": "telecom-tmobile",
+    "name": "T-Mobile 风格",
+    "category": "global-industry",
+    "tags": [
+      "电信",
+      "美国",
+      "品红"
+    ],
+    "style": "T-Mobile风格，品红传达活力创新。",
+    "colors": {
+      "primary": "#EA0A8E",
+      "secondary": "#FFFFFF",
+      "accent": "#EA0A8E",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#230115",
+      "surface": "#3A0223",
+      "text": "#FBDAEE"
+    },
+    "cssVariables": ":root {\n  --color-primary: #EA0A8E;\n  --color-secondary: #FFFFFF;\n  --color-accent: #EA0A8E;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#EA0A8E',\n  secondary: '#FFFFFF',\n  accent: '#EA0A8E',\n}"
+  },
+  {
+    "id": "telecom-vodafone",
+    "name": "Vodafone 风格",
+    "category": "global-industry",
+    "tags": [
+      "电信",
+      "英国",
+      "红色"
+    ],
+    "style": "沃达丰风格，红色传达醒目大胆。",
+    "colors": {
+      "primary": "#E60000",
+      "secondary": "#FFFFFF",
+      "accent": "#E60000",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#220000",
+      "surface": "#390000",
+      "text": "#FBD8D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #E60000;\n  --color-secondary: #FFFFFF;\n  --color-accent: #E60000;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#E60000',\n  secondary: '#FFFFFF',\n  accent: '#E60000',\n}"
+  },
+  {
+    "id": "telecom-china-mobile",
+    "name": "中国移动 风格",
+    "category": "global-industry",
+    "tags": [
+      "电信",
+      "中国",
+      "绿色"
+    ],
+    "style": "中国移动风格，绿色+蓝传达成功信任。",
+    "colors": {
+      "primary": "#8CC518",
+      "secondary": "#0066CC",
+      "accent": "#8CC518",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#151D03",
+      "surface": "#233106",
+      "text": "#EDF6DC"
+    },
+    "cssVariables": ":root {\n  --color-primary: #8CC518;\n  --color-secondary: #0066CC;\n  --color-accent: #8CC518;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#8CC518',\n  secondary: '#0066CC',\n  accent: '#8CC518',\n}"
+  },
+  {
+    "id": "telecom-china-telecom",
+    "name": "中国电信 风格",
+    "category": "global-industry",
+    "tags": [
+      "电信",
+      "中国",
+      "蓝色"
+    ],
+    "style": "中国电信风格，深蓝+白传达科技稳重。",
+    "colors": {
+      "primary": "#2037AC",
+      "secondary": "#FFFFFF",
+      "accent": "#2037AC",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#040819",
+      "surface": "#080D2B",
+      "text": "#DDE1F2"
+    },
+    "cssVariables": ":root {\n  --color-primary: #2037AC;\n  --color-secondary: #FFFFFF;\n  --color-accent: #2037AC;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#2037AC',\n  secondary: '#FFFFFF',\n  accent: '#2037AC',\n}"
+  },
+  {
+    "id": "telecom-china-unicom",
+    "name": "中国联通 风格",
+    "category": "global-industry",
+    "tags": [
+      "电信",
+      "中国",
+      "红色"
+    ],
+    "style": "中国联通风格，红色+白传达热情向上。",
+    "colors": {
+      "primary": "#E60012",
+      "secondary": "#FFFFFF",
+      "accent": "#E60012",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#220002",
+      "surface": "#390004",
+      "text": "#FBD8DB"
+    },
+    "cssVariables": ":root {\n  --color-primary: #E60012;\n  --color-secondary: #FFFFFF;\n  --color-accent: #E60012;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#E60012',\n  secondary: '#FFFFFF',\n  accent: '#E60012',\n}"
+  },
+  {
+    "id": "telecom-docomo",
+    "name": "NTT Docomo 风格",
+    "category": "global-industry",
+    "tags": [
+      "电信",
+      "日本",
+      "红色"
+    ],
+    "style": "Docomo风格，红色传达日本经典。",
+    "colors": {
+      "primary": "#CC0033",
+      "secondary": "#FFFFFF",
+      "accent": "#CC0033",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#1E0007",
+      "surface": "#33000C",
+      "text": "#F7D8E0"
+    },
+    "cssVariables": ":root {\n  --color-primary: #CC0033;\n  --color-secondary: #FFFFFF;\n  --color-accent: #CC0033;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#CC0033',\n  secondary: '#FFFFFF',\n  accent: '#CC0033',\n}"
+  },
+  {
+    "id": "telecom-orange",
+    "name": "Orange 风格",
+    "category": "global-industry",
+    "tags": [
+      "电信",
+      "法国",
+      "橙色"
+    ],
+    "style": "Orange风格，橙色传达活力友好。",
+    "colors": {
+      "primary": "#FF7900",
+      "secondary": "#FFFFFF",
+      "accent": "#FF7900",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#261200",
+      "surface": "#3F1E00",
+      "text": "#FFEAD8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FF7900;\n  --color-secondary: #FFFFFF;\n  --color-accent: #FF7900;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FF7900',\n  secondary: '#FFFFFF',\n  accent: '#FF7900',\n}"
+  },
+  {
+    "id": "telecom-telefonica",
+    "name": "Telefonica 风格",
+    "category": "global-industry",
+    "tags": [
+      "电信",
+      "西班牙",
+      "蓝色"
+    ],
+    "style": "西班牙电信风格，蓝色传达连接未来。",
+    "colors": {
+      "primary": "#0066FF",
+      "secondary": "#FFFFFF",
+      "accent": "#0066FF",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#000F26",
+      "surface": "#00193F",
+      "text": "#D8E8FF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #0066FF;\n  --color-secondary: #FFFFFF;\n  --color-accent: #0066FF;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#0066FF',\n  secondary: '#FFFFFF',\n  accent: '#0066FF',\n}"
+  },
+  {
+    "id": "energy-solar",
+    "name": "太阳能/新能源",
+    "category": "global-industry",
+    "tags": [
+      "能源",
+      "环保",
+      "黄色"
+    ],
+    "style": "太阳能行业，金黄色传达阳光和清洁能源。",
+    "colors": {
+      "primary": "#F9A825",
+      "secondary": "#FFD600",
+      "accent": "#43A047",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#251905",
+      "surface": "#3E2A09",
+      "text": "#FEF1DE"
+    },
+    "cssVariables": ":root {\n  --color-primary: #F9A825;\n  --color-secondary: #FFD600;\n  --color-accent: #43A047;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#F9A825',\n  secondary: '#FFD600',\n  accent: '#43A047',\n}"
+  },
+  {
+    "id": "energy-oil",
+    "name": "石油/能源",
+    "category": "global-industry",
+    "tags": [
+      "能源",
+      "石油",
+      "深蓝"
+    ],
+    "style": "石油能源行业，深蓝传达稳重和资源。",
+    "colors": {
+      "primary": "#1A237E",
+      "secondary": "#283593",
+      "accent": "#FF8F00",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#030512",
+      "surface": "#06081F",
+      "text": "#DCDEEB"
+    },
+    "cssVariables": ":root {\n  --color-primary: #1A237E;\n  --color-secondary: #283593;\n  --color-accent: #FF8F00;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#1A237E',\n  secondary: '#283593',\n  accent: '#FF8F00',\n}"
+  },
+  {
+    "id": "mining",
+    "name": "矿业/资源",
+    "category": "global-industry",
+    "tags": [
+      "矿业",
+      "资源",
+      "棕色"
+    ],
+    "style": "矿业行业，棕色传达大地和资源。",
+    "colors": {
+      "primary": "#5D4037",
+      "secondary": "#795548",
+      "accent": "#FFB300",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#0D0908",
+      "surface": "#17100D",
+      "text": "#E6E2E1"
+    },
+    "cssVariables": ":root {\n  --color-primary: #5D4037;\n  --color-secondary: #795548;\n  --color-accent: #FFB300;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#5D4037',\n  secondary: '#795548',\n  accent: '#FFB300',\n}"
+  },
+  {
+    "id": "shipping",
+    "name": "航运/物流",
+    "category": "global-industry",
+    "tags": [
+      "航运",
+      "物流",
+      "深蓝"
+    ],
+    "style": "航运行业，深蓝传达海洋和信赖。",
+    "colors": {
+      "primary": "#0D47A1",
+      "secondary": "#1565C0",
+      "accent": "#FF6F00",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#010A18",
+      "surface": "#031128",
+      "text": "#DAE3F0"
+    },
+    "cssVariables": ":root {\n  --color-primary: #0D47A1;\n  --color-secondary: #1565C0;\n  --color-accent: #FF6F00;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#0D47A1',\n  secondary: '#1565C0',\n  accent: '#FF6F00',\n}"
+  },
+  {
+    "id": "railway",
+    "name": "铁路/交通",
+    "category": "global-industry",
+    "tags": [
+      "铁路",
+      "交通",
+      "蓝色"
+    ],
+    "style": "铁路行业，蓝色传达可靠和安全。",
+    "colors": {
+      "primary": "#1B5E20",
+      "secondary": "#00695C",
+      "accent": "#FFD600",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#040E04",
+      "surface": "#061708",
+      "text": "#DCE6DD"
+    },
+    "cssVariables": ":root {\n  --color-primary: #1B5E20;\n  --color-secondary: #00695C;\n  --color-accent: #FFD600;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#1B5E20',\n  secondary: '#00695C',\n  accent: '#FFD600',\n}"
+  },
+  {
+    "id": "construction",
+    "name": "建筑/工程",
+    "category": "global-industry",
+    "tags": [
+      "建筑",
+      "工程",
+      "黄色"
+    ],
+    "style": "建筑工程行业，黄色传达安全和警示。",
+    "colors": {
+      "primary": "#F9A825",
+      "secondary": "#FF6F00",
+      "accent": "#37474F",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#251905",
+      "surface": "#3E2A09",
+      "text": "#FEF1DE"
+    },
+    "cssVariables": ":root {\n  --color-primary: #F9A825;\n  --color-secondary: #FF6F00;\n  --color-accent: #37474F;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#F9A825',\n  secondary: '#FF6F00',\n  accent: '#37474F',\n}"
+  },
+  {
+    "id": "mining-tech",
+    "name": "矿业科技",
+    "category": "global-industry",
+    "tags": [
+      "矿业",
+      "科技",
+      "深蓝"
+    ],
+    "style": "矿业科技，深蓝+橙色传达创新和资源。",
+    "colors": {
+      "primary": "#1A237E",
+      "secondary": "#FF6F00",
+      "accent": "#1A237E",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#030512",
+      "surface": "#06081F",
+      "text": "#DCDEEB"
+    },
+    "cssVariables": ":root {\n  --color-primary: #1A237E;\n  --color-secondary: #FF6F00;\n  --color-accent: #1A237E;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#1A237E',\n  secondary: '#FF6F00',\n  accent: '#1A237E',\n}"
+  },
+  {
+    "id": "space",
+    "name": "航天/太空",
+    "category": "global-industry",
+    "tags": [
+      "航天",
+      "太空",
+      "深蓝"
+    ],
+    "style": "航天行业，深蓝传达太空和前沿科技。",
+    "colors": {
+      "primary": "#0D1B2A",
+      "secondary": "#1B3A5C",
+      "accent": "#00D4FF",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#010406",
+      "surface": "#03060A",
+      "text": "#DADCDF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #0D1B2A;\n  --color-secondary: #1B3A5C;\n  --color-accent: #00D4FF;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#0D1B2A',\n  secondary: '#1B3A5C',\n  accent: '#00D4FF',\n}"
+  },
+  {
+    "id": "defense",
+    "name": "国防/军事",
+    "category": "global-industry",
+    "tags": [
+      "国防",
+      "军事",
+      "深绿"
+    ],
+    "style": "国防军事行业，深绿传达安全和力量。",
+    "colors": {
+      "primary": "#1B3A1B",
+      "secondary": "#2E4A2E",
+      "accent": "#8B6914",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#040804",
+      "surface": "#060E06",
+      "text": "#DCE1DC"
+    },
+    "cssVariables": ":root {\n  --color-primary: #1B3A1B;\n  --color-secondary: #2E4A2E;\n  --color-accent: #8B6914;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#1B3A1B',\n  secondary: '#2E4A2E',\n  accent: '#8B6914',\n}"
+  },
+  {
+    "id": "government",
+    "name": "政府/政务",
+    "category": "global-industry",
+    "tags": [
+      "政府",
+      "政务",
+      "红色"
+    ],
+    "style": "政府政务，红色传达权威和正式。",
+    "colors": {
+      "primary": "#C41E3A",
+      "secondary": "#002395",
+      "accent": "#C41E3A",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#1D0408",
+      "surface": "#31070E",
+      "text": "#F6DDE1"
+    },
+    "cssVariables": ":root {\n  --color-primary: #C41E3A;\n  --color-secondary: #002395;\n  --color-accent: #C41E3A;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#C41E3A',\n  secondary: '#002395',\n  accent: '#C41E3A',\n}"
+  },
+  {
+    "id": "diplomacy",
+    "name": "外交/国际",
+    "category": "global-industry",
+    "tags": [
+      "外交",
+      "国际",
+      "蓝色"
+    ],
+    "style": "外交国际，蓝色传达理性和合作。",
+    "colors": {
+      "primary": "#003399",
+      "secondary": "#C8102E",
+      "accent": "#003399",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#000716",
+      "surface": "#000C26",
+      "text": "#D8E0EF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #003399;\n  --color-secondary: #C8102E;\n  --color-accent: #003399;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#003399',\n  secondary: '#C8102E',\n  accent: '#003399',\n}"
+  },
+  {
+    "id": "education-k12",
+    "name": "K12教育",
+    "category": "global-industry",
+    "tags": [
+      "教育",
+      "中小学",
+      "蓝色"
+    ],
+    "style": "K12教育行业，蓝色传达知识和亲和。",
+    "colors": {
+      "primary": "#2196F3",
+      "secondary": "#FF9800",
+      "accent": "#4CAF50",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#041624",
+      "surface": "#08253C",
+      "text": "#DDEFFD"
+    },
+    "cssVariables": ":root {\n  --color-primary: #2196F3;\n  --color-secondary: #FF9800;\n  --color-accent: #4CAF50;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#2196F3',\n  secondary: '#FF9800',\n  accent: '#4CAF50',\n}"
+  },
+  {
+    "id": "education-higher",
+    "name": "高等教育",
+    "category": "global-industry",
+    "tags": [
+      "教育",
+      "大学",
+      "深蓝"
+    ],
+    "style": "高等教育行业，深蓝传达学术和权威。",
+    "colors": {
+      "primary": "#1A237E",
+      "secondary": "#B71C1C",
+      "accent": "#1A237E",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#030512",
+      "surface": "#06081F",
+      "text": "#DCDEEB"
+    },
+    "cssVariables": ":root {\n  --color-primary: #1A237E;\n  --color-secondary: #B71C1C;\n  --color-accent: #1A237E;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#1A237E',\n  secondary: '#B71C1C',\n  accent: '#1A237E',\n}"
+  },
+  {
+    "id": "education-online",
+    "name": "在线教育",
+    "category": "global-industry",
+    "tags": [
+      "教育",
+      "在线",
+      "紫色"
+    ],
+    "style": "在线教育行业，紫色传达创新和学习。",
+    "colors": {
+      "primary": "#7C4DFF",
+      "secondary": "#00BCD4",
+      "accent": "#FF6D00",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#120B26",
+      "surface": "#1F133F",
+      "text": "#EBE4FF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #7C4DFF;\n  --color-secondary: #00BCD4;\n  --color-accent: #FF6D00;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#7C4DFF',\n  secondary: '#00BCD4',\n  accent: '#FF6D00',\n}"
+  },
+  {
+    "id": "research",
+    "name": "科研/学术",
+    "category": "global-industry",
+    "tags": [
+      "科研",
+      "学术",
+      "深蓝"
+    ],
+    "style": "科研学术行业，深蓝传达严谨和前沿。",
+    "colors": {
+      "primary": "#0D47A1",
+      "secondary": "#1565C0",
+      "accent": "#FFB300",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#010A18",
+      "surface": "#031128",
+      "text": "#DAE3F0"
+    },
+    "cssVariables": ":root {\n  --color-primary: #0D47A1;\n  --color-secondary: #1565C0;\n  --color-accent: #FFB300;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#0D47A1',\n  secondary: '#1565C0',\n  accent: '#FFB300',\n}"
+  },
+  {
+    "id": "library",
+    "name": "图书馆/出版",
+    "category": "global-industry",
+    "tags": [
+      "图书馆",
+      "出版",
+      "棕色"
+    ],
+    "style": "图书馆出版行业，棕色传达知识和沉淀。",
+    "colors": {
+      "primary": "#5D4037",
+      "secondary": "#8D6E63",
+      "accent": "#FF8F00",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#0D0908",
+      "surface": "#17100D",
+      "text": "#E6E2E1"
+    },
+    "cssVariables": ":root {\n  --color-primary: #5D4037;\n  --color-secondary: #8D6E63;\n  --color-accent: #FF8F00;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#5D4037',\n  secondary: '#8D6E63',\n  accent: '#FF8F00',\n}"
+  },
+  {
+    "id": "museum",
+    "name": "博物馆/文化",
+    "category": "global-industry",
+    "tags": [
+      "博物馆",
+      "文化",
+      "深红"
+    ],
+    "style": "博物馆文化行业，深红传达历史和文化。",
+    "colors": {
+      "primary": "#880E4F",
+      "secondary": "#1A237E",
+      "accent": "#F9A825",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#14020B",
+      "surface": "#220313",
+      "text": "#EDDAE4"
+    },
+    "cssVariables": ":root {\n  --color-primary: #880E4F;\n  --color-secondary: #1A237E;\n  --color-accent: #F9A825;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#880E4F',\n  secondary: '#1A237E',\n  accent: '#F9A825',\n}"
+  },
+  {
+    "id": "theater",
+    "name": "剧院/演艺",
+    "category": "global-industry",
+    "tags": [
+      "剧院",
+      "演艺",
+      "深红"
+    ],
+    "style": "剧院演艺行业，深红传达艺术和舞台。",
+    "colors": {
+      "primary": "#880E4F",
+      "secondary": "#B71C1C",
+      "accent": "#FFD600",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#14020B",
+      "surface": "#220313",
+      "text": "#EDDAE4"
+    },
+    "cssVariables": ":root {\n  --color-primary: #880E4F;\n  --color-secondary: #B71C1C;\n  --color-accent: #FFD600;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#880E4F',\n  secondary: '#B71C1C',\n  accent: '#FFD600',\n}"
+  },
+  {
+    "id": "music",
+    "name": "音乐/乐器",
+    "category": "global-industry",
+    "tags": [
+      "音乐",
+      "乐器",
+      "紫色"
+    ],
+    "style": "音乐行业，紫色传达创意和艺术。",
+    "colors": {
+      "primary": "#7B1FA2",
+      "secondary": "#E91E63",
+      "accent": "#7B1FA2",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#120418",
+      "surface": "#1E0728",
+      "text": "#EBDDF1"
+    },
+    "cssVariables": ":root {\n  --color-primary: #7B1FA2;\n  --color-secondary: #E91E63;\n  --color-accent: #7B1FA2;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#7B1FA2',\n  secondary: '#E91E63',\n  accent: '#7B1FA2',\n}"
+  },
+  {
+    "id": "film",
+    "name": "电影/影视",
+    "category": "global-industry",
+    "tags": [
+      "电影",
+      "影视",
+      "深蓝"
+    ],
+    "style": "电影影视行业，深蓝传达沉浸和故事。",
+    "colors": {
+      "primary": "#0D1B2A",
+      "secondary": "#1B3A5C",
+      "accent": "#FFD700",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#010406",
+      "surface": "#03060A",
+      "text": "#DADCDF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #0D1B2A;\n  --color-secondary: #1B3A5C;\n  --color-accent: #FFD700;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#0D1B2A',\n  secondary: '#1B3A5C',\n  accent: '#FFD700',\n}"
+  },
+  {
+    "id": "photography",
+    "name": "摄影/影像",
+    "category": "global-industry",
+    "tags": [
+      "摄影",
+      "影像",
+      "黑色"
+    ],
+    "style": "摄影行业，黑白传达光影和艺术。",
+    "colors": {
+      "primary": "#212121",
+      "secondary": "#757575",
+      "accent": "#FF6F00",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#040404",
+      "surface": "#080808",
+      "text": "#DDDDDD"
+    },
+    "cssVariables": ":root {\n  --color-primary: #212121;\n  --color-secondary: #757575;\n  --color-accent: #FF6F00;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#212121',\n  secondary: '#757575',\n  accent: '#FF6F00',\n}"
+  },
+  {
+    "id": "gaming-mobile",
+    "name": "手游/休闲游戏",
+    "category": "global-industry",
+    "tags": [
+      "游戏",
+      "手游",
+      "多彩"
+    ],
+    "style": "手游行业，多彩传达趣味和活力。",
+    "colors": {
+      "primary": "#FF6B6B",
+      "secondary": "#4ECDC4",
+      "accent": "#FFE66D",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#261010",
+      "surface": "#3F1A1A",
+      "text": "#FFE8E8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FF6B6B;\n  --color-secondary: #4ECDC4;\n  --color-accent: #FFE66D;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FF6B6B',\n  secondary: '#4ECDC4',\n  accent: '#FFE66D',\n}"
+  },
+  {
+    "id": "gaming-pc",
+    "name": "端游/3A游戏",
+    "category": "global-industry",
+    "tags": [
+      "游戏",
+      "端游",
+      "深色"
+    ],
+    "style": "端游行业，深色传达沉浸和力量。",
+    "colors": {
+      "primary": "#1A1A2E",
+      "secondary": "#16213E",
+      "accent": "#E94560",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#030306",
+      "surface": "#06060B",
+      "text": "#DCDCDF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #1A1A2E;\n  --color-secondary: #16213E;\n  --color-accent: #E94560;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#1A1A2E',\n  secondary: '#16213E',\n  accent: '#E94560',\n}"
+  },
+  {
+    "id": "gaming-casino",
+    "name": "博彩/赌场",
+    "category": "global-industry",
+    "tags": [
+      "博彩",
+      "赌场",
+      "金色"
+    ],
+    "style": "博彩行业，金色+深红传达奢华和刺激。",
+    "colors": {
+      "primary": "#DAA520",
+      "secondary": "#8B0000",
+      "accent": "#DAA520",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#201804",
+      "surface": "#362908",
+      "text": "#F9F1DD"
+    },
+    "cssVariables": ":root {\n  --color-primary: #DAA520;\n  --color-secondary: #8B0000;\n  --color-accent: #DAA520;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#DAA520',\n  secondary: '#8B0000',\n  accent: '#DAA520',\n}"
+  },
+  {
+    "id": "crypto",
+    "name": "加密货币/Web3",
+    "category": "global-industry",
+    "tags": [
+      "加密",
+      "Web3",
+      "紫色"
+    ],
+    "style": "加密货币行业，紫色传达前沿和去中心化。",
+    "colors": {
+      "primary": "#6F42C1",
+      "secondary": "#0DCAF0",
+      "accent": "#6F42C1",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#10091C",
+      "surface": "#1B1030",
+      "text": "#E9E2F5"
+    },
+    "cssVariables": ":root {\n  --color-primary: #6F42C1;\n  --color-secondary: #0DCAF0;\n  --color-accent: #6F42C1;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#6F42C1',\n  secondary: '#0DCAF0',\n  accent: '#6F42C1',\n}"
+  },
+  {
+    "id": "ai-ml",
+    "name": "AI/机器学习",
+    "category": "global-industry",
+    "tags": [
+      "AI",
+      "ML",
+      "深蓝"
+    ],
+    "style": "AI行业，深蓝+紫色传达智能和前沿。",
+    "colors": {
+      "primary": "#1A1A2E",
+      "secondary": "#7C4DFF",
+      "accent": "#00D4FF",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#030306",
+      "surface": "#06060B",
+      "text": "#DCDCDF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #1A1A2E;\n  --color-secondary: #7C4DFF;\n  --color-accent: #00D4FF;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#1A1A2E',\n  secondary: '#7C4DFF',\n  accent: '#00D4FF',\n}"
+  },
+  {
+    "id": "iot",
+    "name": "IoT/物联网",
+    "category": "global-industry",
+    "tags": [
+      "IoT",
+      "物联网",
+      "青色"
+    ],
+    "style": "物联网行业，青色传达连接和智能。",
+    "colors": {
+      "primary": "#00838F",
+      "secondary": "#00ACC1",
+      "accent": "#FF6D00",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#001315",
+      "surface": "#002023",
+      "text": "#D8ECEE"
+    },
+    "cssVariables": ":root {\n  --color-primary: #00838F;\n  --color-secondary: #00ACC1;\n  --color-accent: #FF6D00;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#00838F',\n  secondary: '#00ACC1',\n  accent: '#FF6D00',\n}"
+  },
+  {
+    "id": "blockchain",
+    "name": "区块链",
+    "category": "global-industry",
+    "tags": [
+      "区块链",
+      "技术",
+      "蓝色"
+    ],
+    "style": "区块链行业，蓝色传达安全和去中心化。",
+    "colors": {
+      "primary": "#2196F3",
+      "secondary": "#00BCD4",
+      "accent": "#FF9800",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#041624",
+      "surface": "#08253C",
+      "text": "#DDEFFD"
+    },
+    "cssVariables": ":root {\n  --color-primary: #2196F3;\n  --color-secondary: #00BCD4;\n  --color-accent: #FF9800;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#2196F3',\n  secondary: '#00BCD4',\n  accent: '#FF9800',\n}"
+  },
+  {
+    "id": "cloud",
+    "name": "云计算",
+    "category": "global-industry",
+    "tags": [
+      "云计算",
+      "技术",
+      "蓝色"
+    ],
+    "style": "云计算行业，蓝色传达可靠和弹性。",
+    "colors": {
+      "primary": "#0277BD",
+      "secondary": "#00BCD4",
+      "accent": "#FF6D00",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#00111C",
+      "surface": "#001D2F",
+      "text": "#D9EAF5"
+    },
+    "cssVariables": ":root {\n  --color-primary: #0277BD;\n  --color-secondary: #00BCD4;\n  --color-accent: #FF6D00;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#0277BD',\n  secondary: '#00BCD4',\n  accent: '#FF6D00',\n}"
+  },
+  {
+    "id": "cybersecurity",
+    "name": "网络安全",
+    "category": "global-industry",
+    "tags": [
+      "安全",
+      "网络",
+      "深蓝"
+    ],
+    "style": "网络安全行业，深蓝传达安全和防护。",
+    "colors": {
+      "primary": "#0D1B2A",
+      "secondary": "#1B3A5C",
+      "accent": "#00E676",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#010406",
+      "surface": "#03060A",
+      "text": "#DADCDF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #0D1B2A;\n  --color-secondary: #1B3A5C;\n  --color-accent: #00E676;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#0D1B2A',\n  secondary: '#1B3A5C',\n  accent: '#00E676',\n}"
+  },
+  {
+    "id": "data-science",
+    "name": "数据科学",
+    "category": "global-industry",
+    "tags": [
+      "数据",
+      "分析",
+      "紫色"
+    ],
+    "style": "数据科学行业，紫色传达洞察和创新。",
+    "colors": {
+      "primary": "#6A1B9A",
+      "secondary": "#00BCD4",
+      "accent": "#FF6D00",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#0F0417",
+      "surface": "#1A0626",
+      "text": "#E8DCEF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #6A1B9A;\n  --color-secondary: #00BCD4;\n  --color-accent: #FF6D00;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#6A1B9A',\n  secondary: '#00BCD4',\n  accent: '#FF6D00',\n}"
+  },
+  {
+    "id": "devops",
+    "name": "DevOps/运维",
+    "category": "global-industry",
+    "tags": [
+      "DevOps",
+      "运维",
+      "橙色"
+    ],
+    "style": "DevOps行业，橙色传达速度和自动化。",
+    "colors": {
+      "primary": "#FF6D00",
+      "secondary": "#0277BD",
+      "accent": "#FF6D00",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#261000",
+      "surface": "#3F1B00",
+      "text": "#FFE9D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FF6D00;\n  --color-secondary: #0277BD;\n  --color-accent: #FF6D00;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FF6D00',\n  secondary: '#0277BD',\n  accent: '#FF6D00',\n}"
+  },
+  {
+    "id": "dating",
+    "name": "约会/婚恋",
+    "category": "global-industry",
+    "tags": [
+      "约会",
+      "婚恋",
+      "粉色"
+    ],
+    "style": "约会婚恋行业，粉色传达浪漫和温暖。",
+    "colors": {
+      "primary": "#E91E63",
+      "secondary": "#F48FB1",
+      "accent": "#E91E63",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#22040E",
+      "surface": "#3A0718",
+      "text": "#FBDDE7"
+    },
+    "cssVariables": ":root {\n  --color-primary: #E91E63;\n  --color-secondary: #F48FB1;\n  --color-accent: #E91E63;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#E91E63',\n  secondary: '#F48FB1',\n  accent: '#E91E63',\n}"
+  },
+  {
+    "id": "wedding",
+    "name": "婚礼/婚庆",
+    "category": "global-industry",
+    "tags": [
+      "婚礼",
+      "婚庆",
+      "金色"
+    ],
+    "style": "婚礼婚庆行业，金色+粉色传达浪漫和奢华。",
+    "colors": {
+      "primary": "#D4AF37",
+      "secondary": "#F8BBD0",
+      "accent": "#D4AF37",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#1F1A08",
+      "surface": "#352B0D",
+      "text": "#F8F3E1"
+    },
+    "cssVariables": ":root {\n  --color-primary: #D4AF37;\n  --color-secondary: #F8BBD0;\n  --color-accent: #D4AF37;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#D4AF37',\n  secondary: '#F8BBD0',\n  accent: '#D4AF37',\n}"
+  },
+  {
+    "id": "funeral",
+    "name": "殡葬/纪念",
+    "category": "global-industry",
+    "tags": [
+      "殡葬",
+      "纪念",
+      "灰色"
+    ],
+    "style": "殡葬纪念行业，灰色传达庄重和缅怀。",
+    "colors": {
+      "primary": "#37474F",
+      "secondary": "#78909C",
+      "accent": "#37474F",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#080A0B",
+      "surface": "#0D1113",
+      "text": "#E1E3E4"
+    },
+    "cssVariables": ":root {\n  --color-primary: #37474F;\n  --color-secondary: #78909C;\n  --color-accent: #37474F;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#37474F',\n  secondary: '#78909C',\n  accent: '#37474F',\n}"
+  },
+  {
+    "id": "pet-grooming",
+    "name": "宠物美容",
+    "category": "global-industry",
+    "tags": [
+      "宠物",
+      "美容",
+      "粉色"
+    ],
+    "style": "宠物美容行业，粉色传达可爱和温馨。",
+    "colors": {
+      "primary": "#F48FB1",
+      "secondary": "#FCE4EC",
+      "accent": "#FF8A65",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#24151A",
+      "surface": "#3D232C",
+      "text": "#FDEEF3"
+    },
+    "cssVariables": ":root {\n  --color-primary: #F48FB1;\n  --color-secondary: #FCE4EC;\n  --color-accent: #FF8A65;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#F48FB1',\n  secondary: '#FCE4EC',\n  accent: '#FF8A65',\n}"
+  },
+  {
+    "id": "veterinary",
+    "name": "兽医/宠物医疗",
+    "category": "global-industry",
+    "tags": [
+      "兽医",
+      "宠物",
+      "绿色"
+    ],
+    "style": "宠物医疗行业，绿色传达健康和关怀。",
+    "colors": {
+      "primary": "#43A047",
+      "secondary": "#81C784",
+      "accent": "#43A047",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#0A180A",
+      "surface": "#102811",
+      "text": "#E2F0E3"
+    },
+    "cssVariables": ":root {\n  --color-primary: #43A047;\n  --color-secondary: #81C784;\n  --color-accent: #43A047;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#43A047',\n  secondary: '#81C784',\n  accent: '#43A047',\n}"
+  },
+  {
+    "id": "gardening",
+    "name": "园艺/花卉",
+    "category": "global-industry",
+    "tags": [
+      "园艺",
+      "花卉",
+      "绿色"
+    ],
+    "style": "园艺花卉行业，绿色传达自然和生长。",
+    "colors": {
+      "primary": "#558B2F",
+      "secondary": "#8BC34A",
+      "accent": "#FF8F00",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#0C1407",
+      "surface": "#15220B",
+      "text": "#E5EDDF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #558B2F;\n  --color-secondary: #8BC34A;\n  --color-accent: #FF8F00;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#558B2F',\n  secondary: '#8BC34A',\n  accent: '#FF8F00',\n}"
+  },
+  {
+    "id": "fishing",
+    "name": "钓鱼/户外",
+    "category": "global-industry",
+    "tags": [
+      "钓鱼",
+      "户外",
+      "蓝色"
+    ],
+    "style": "钓鱼户外行业，蓝色传达自然和冒险。",
+    "colors": {
+      "primary": "#0277BD",
+      "secondary": "#00838F",
+      "accent": "#FF6D00",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#00111C",
+      "surface": "#001D2F",
+      "text": "#D9EAF5"
+    },
+    "cssVariables": ":root {\n  --color-primary: #0277BD;\n  --color-secondary: #00838F;\n  --color-accent: #FF6D00;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#0277BD',\n  secondary: '#00838F',\n  accent: '#FF6D00',\n}"
+  },
+  {
+    "id": "camping",
+    "name": "露营/户外",
+    "category": "global-industry",
+    "tags": [
+      "露营",
+      "户外",
+      "绿色"
+    ],
+    "style": "露营户外行业，绿色传达自然和自由。",
+    "colors": {
+      "primary": "#33691E",
+      "secondary": "#8BC34A",
+      "accent": "#FF8F00",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#070F04",
+      "surface": "#0C1A07",
+      "text": "#E0E8DD"
+    },
+    "cssVariables": ":root {\n  --color-primary: #33691E;\n  --color-secondary: #8BC34A;\n  --color-accent: #FF8F00;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#33691E',\n  secondary: '#8BC34A',\n  accent: '#FF8F00',\n}"
+  },
+  {
+    "id": "surfing",
+    "name": "冲浪/水上运动",
+    "category": "global-industry",
+    "tags": [
+      "冲浪",
+      "水上",
+      "青蓝"
+    ],
+    "style": "水上运动行业，青蓝传达海洋和活力。",
+    "colors": {
+      "primary": "#00ACC1",
+      "secondary": "#00E5FF",
+      "accent": "#FF6D00",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#00191C",
+      "surface": "#002B30",
+      "text": "#D8F2F5"
+    },
+    "cssVariables": ":root {\n  --color-primary: #00ACC1;\n  --color-secondary: #00E5FF;\n  --color-accent: #FF6D00;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#00ACC1',\n  secondary: '#00E5FF',\n  accent: '#FF6D00',\n}"
+  },
+  {
+    "id": "yoga",
+    "name": "瑜伽/冥想",
+    "category": "global-industry",
+    "tags": [
+      "瑜伽",
+      "冥想",
+      "紫色"
+    ],
+    "style": "瑜伽冥想行业，紫色传达宁静和灵性。",
+    "colors": {
+      "primary": "#7E57C2",
+      "secondary": "#B39DDB",
+      "accent": "#7E57C2",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#120D1D",
+      "surface": "#1F1530",
+      "text": "#EBE5F5"
+    },
+    "cssVariables": ":root {\n  --color-primary: #7E57C2;\n  --color-secondary: #B39DDB;\n  --color-accent: #7E57C2;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#7E57C2',\n  secondary: '#B39DDB',\n  accent: '#7E57C2',\n}"
+  },
+  {
+    "id": "gym",
+    "name": "健身房/私教",
+    "category": "global-industry",
+    "tags": [
+      "健身",
+      "私教",
+      "红色"
+    ],
+    "style": "健身房行业，红色传达力量和突破。",
+    "colors": {
+      "primary": "#D32F2F",
+      "secondary": "#FF5722",
+      "accent": "#D32F2F",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#1F0707",
+      "surface": "#340B0B",
+      "text": "#F8DFDF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #D32F2F;\n  --color-secondary: #FF5722;\n  --color-accent: #D32F2F;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#D32F2F',\n  secondary: '#FF5722',\n  accent: '#D32F2F',\n}"
+  },
+  {
+    "id": "martial-arts",
+    "name": "武术/格斗",
+    "category": "global-industry",
+    "tags": [
+      "武术",
+      "格斗",
+      "黑色"
+    ],
+    "style": "武术格斗行业，黑色+红色传达力量。",
+    "colors": {
+      "primary": "#212121",
+      "secondary": "#D32F2F",
+      "accent": "#FFD600",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#040404",
+      "surface": "#080808",
+      "text": "#DDDDDD"
+    },
+    "cssVariables": ":root {\n  --color-primary: #212121;\n  --color-secondary: #D32F2F;\n  --color-accent: #FFD600;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#212121',\n  secondary: '#D32F2F',\n  accent: '#FFD600',\n}"
+  },
+  {
+    "id": "chess",
+    "name": "国际象棋/智力",
+    "category": "global-industry",
+    "tags": [
+      "棋类",
+      "智力",
+      "棕色"
+    ],
+    "style": "棋类智力行业，棕色传达思考和经典。",
+    "colors": {
+      "primary": "#5D4037",
+      "secondary": "#8D6E63",
+      "accent": "#FFD600",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#0D0908",
+      "surface": "#17100D",
+      "text": "#E6E2E1"
+    },
+    "cssVariables": ":root {\n  --color-primary: #5D4037;\n  --color-secondary: #8D6E63;\n  --color-accent: #FFD600;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#5D4037',\n  secondary: '#8D6E63',\n  accent: '#FFD600',\n}"
+  },
+  {
+    "id": "esports",
+    "name": "电竞/赛事",
+    "category": "global-industry",
+    "tags": [
+      "电竞",
+      "赛事",
+      "紫色"
+    ],
+    "style": "电竞行业，紫色传达赛博朋克和竞技。",
+    "colors": {
+      "primary": "#7C4DFF",
+      "secondary": "#00E676",
+      "accent": "#FF1744",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#120B26",
+      "surface": "#1F133F",
+      "text": "#EBE4FF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #7C4DFF;\n  --color-secondary: #00E676;\n  --color-accent: #FF1744;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#7C4DFF',\n  secondary: '#00E676',\n  accent: '#FF1744',\n}"
+  },
+  {
+    "id": "streaming",
+    "name": "直播/主播",
+    "category": "global-industry",
+    "tags": [
+      "直播",
+      "主播",
+      "粉色"
+    ],
+    "style": "直播行业，粉色传达互动和娱乐。",
+    "colors": {
+      "primary": "#FF4081",
+      "secondary": "#7C4DFF",
+      "accent": "#FF4081",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#260913",
+      "surface": "#3F1020",
+      "text": "#FFE2EC"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FF4081;\n  --color-secondary: #7C4DFF;\n  --color-accent: #FF4081;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FF4081',\n  secondary: '#7C4DFF',\n  accent: '#FF4081',\n}"
+  },
+  {
+    "id": "podcast",
+    "name": "播客/音频",
+    "category": "global-industry",
+    "tags": [
+      "播客",
+      "音频",
+      "紫色"
+    ],
+    "style": "播客行业，紫色传达创意和声音。",
+    "colors": {
+      "primary": "#7B1FA2",
+      "secondary": "#E91E63",
+      "accent": "#7B1FA2",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#120418",
+      "surface": "#1E0728",
+      "text": "#EBDDF1"
+    },
+    "cssVariables": ":root {\n  --color-primary: #7B1FA2;\n  --color-secondary: #E91E63;\n  --color-accent: #7B1FA2;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#7B1FA2',\n  secondary: '#E91E63',\n  accent: '#7B1FA2',\n}"
+  },
+  {
+    "id": "newsletter",
+    "name": "邮件订阅",
+    "category": "global-industry",
+    "tags": [
+      "邮件",
+      "订阅",
+      "蓝色"
+    ],
+    "style": "邮件订阅行业，蓝色传达专业和信赖。",
+    "colors": {
+      "primary": "#1976D2",
+      "secondary": "#42A5F5",
+      "accent": "#1976D2",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#03111F",
+      "surface": "#061D34",
+      "text": "#DCEAF8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #1976D2;\n  --color-secondary: #42A5F5;\n  --color-accent: #1976D2;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#1976D2',\n  secondary: '#42A5F5',\n  accent: '#1976D2',\n}"
+  },
+  {
+    "id": "crm",
+    "name": "CRM/客户管理",
+    "category": "global-industry",
+    "tags": [
+      "CRM",
+      "管理",
+      "蓝色"
+    ],
+    "style": "CRM行业，蓝色传达专业和客户关系。",
+    "colors": {
+      "primary": "#0277BD",
+      "secondary": "#00BCD4",
+      "accent": "#FF6D00",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#00111C",
+      "surface": "#001D2F",
+      "text": "#D9EAF5"
+    },
+    "cssVariables": ":root {\n  --color-primary: #0277BD;\n  --color-secondary: #00BCD4;\n  --color-accent: #FF6D00;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#0277BD',\n  secondary: '#00BCD4',\n  accent: '#FF6D00',\n}"
+  },
+  {
+    "id": "erp",
+    "name": "ERP/企业资源",
+    "category": "global-industry",
+    "tags": [
+      "ERP",
+      "企业",
+      "深蓝"
+    ],
+    "style": "ERP行业，深蓝传达企业级和可靠。",
+    "colors": {
+      "primary": "#1A237E",
+      "secondary": "#283593",
+      "accent": "#FF8F00",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#030512",
+      "surface": "#06081F",
+      "text": "#DCDEEB"
+    },
+    "cssVariables": ":root {\n  --color-primary: #1A237E;\n  --color-secondary: #283593;\n  --color-accent: #FF8F00;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#1A237E',\n  secondary: '#283593',\n  accent: '#FF8F00',\n}"
+  },
+  {
+    "id": "hr",
+    "name": "HR/人力资源",
+    "category": "global-industry",
+    "tags": [
+      "HR",
+      "人力",
+      "蓝色"
+    ],
+    "style": "HR行业，蓝色传达专业和信赖。",
+    "colors": {
+      "primary": "#1976D2",
+      "secondary": "#42A5F5",
+      "accent": "#FF6D00",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#03111F",
+      "surface": "#061D34",
+      "text": "#DCEAF8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #1976D2;\n  --color-secondary: #42A5F5;\n  --color-accent: #FF6D00;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#1976D2',\n  secondary: '#42A5F5',\n  accent: '#FF6D00',\n}"
+  },
+  {
+    "id": "accounting",
+    "name": "会计/财务",
+    "category": "global-industry",
+    "tags": [
+      "会计",
+      "财务",
+      "绿色"
+    ],
+    "style": "会计行业，绿色传达财务和增长。",
+    "colors": {
+      "primary": "#2E7D32",
+      "secondary": "#43A047",
+      "accent": "#FF8F00",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#061207",
+      "surface": "#0B1F0C",
+      "text": "#DFEBE0"
+    },
+    "cssVariables": ":root {\n  --color-primary: #2E7D32;\n  --color-secondary: #43A047;\n  --color-accent: #FF8F00;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#2E7D32',\n  secondary: '#43A047',\n  accent: '#FF8F00',\n}"
+  },
+  {
+    "id": "legal-tech",
+    "name": "法律科技",
+    "category": "global-industry",
+    "tags": [
+      "法律",
+      "科技",
+      "深蓝"
+    ],
+    "style": "法律科技行业，深蓝+金色传达权威和创新。",
+    "colors": {
+      "primary": "#1B2A4A",
+      "secondary": "#C9A84C",
+      "accent": "#1B2A4A",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#04060B",
+      "surface": "#060A12",
+      "text": "#DCDFE3"
+    },
+    "cssVariables": ":root {\n  --color-primary: #1B2A4A;\n  --color-secondary: #C9A84C;\n  --color-accent: #1B2A4A;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#1B2A4A',\n  secondary: '#C9A84C',\n  accent: '#1B2A4A',\n}"
+  },
+  {
+    "id": "real-estate-cn",
+    "name": "房产/中介(中国)",
+    "category": "global-industry",
+    "tags": [
+      "房产",
+      "中国",
+      "红色"
+    ],
+    "style": "中国房产中介行业，红色传达热情和交易。",
+    "colors": {
+      "primary": "#E53935",
+      "secondary": "#FF7043",
+      "accent": "#E53935",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#220807",
+      "surface": "#390E0D",
+      "text": "#FBE1E0"
+    },
+    "cssVariables": ":root {\n  --color-primary: #E53935;\n  --color-secondary: #FF7043;\n  --color-accent: #E53935;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#E53935',\n  secondary: '#FF7043',\n  accent: '#E53935',\n}"
+  },
+  {
+    "id": "second-hand",
+    "name": "二手/闲置",
+    "category": "global-industry",
+    "tags": [
+      "二手",
+      "闲置",
+      "绿色"
+    ],
+    "style": "二手交易行业，绿色传达环保和循环。",
+    "colors": {
+      "primary": "#43A047",
+      "secondary": "#FF8F00",
+      "accent": "#43A047",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#0A180A",
+      "surface": "#102811",
+      "text": "#E2F0E3"
+    },
+    "cssVariables": ":root {\n  --color-primary: #43A047;\n  --color-secondary: #FF8F00;\n  --color-accent: #43A047;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#43A047',\n  secondary: '#FF8F00',\n  accent: '#43A047',\n}"
+  },
+  {
+    "id": "coupon",
+    "name": "优惠券/折扣",
+    "category": "global-industry",
+    "tags": [
+      "优惠券",
+      "折扣",
+      "红色"
+    ],
+    "style": "优惠券行业，红色传达紧迫和促销。",
+    "colors": {
+      "primary": "#D32F2F",
+      "secondary": "#FF6F00",
+      "accent": "#D32F2F",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#1F0707",
+      "surface": "#340B0B",
+      "text": "#F8DFDF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #D32F2F;\n  --color-secondary: #FF6F00;\n  --color-accent: #D32F2F;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#D32F2F',\n  secondary: '#FF6F00',\n  accent: '#D32F2F',\n}"
+  },
+  {
+    "id": "lottery",
+    "name": "彩票/抽奖",
+    "category": "global-industry",
+    "tags": [
+      "彩票",
+      "抽奖",
+      "红色"
+    ],
+    "style": "彩票行业，红色+金色传达幸运和刺激。",
+    "colors": {
+      "primary": "#D32F2F",
+      "secondary": "#FFD700",
+      "accent": "#D32F2F",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#1F0707",
+      "surface": "#340B0B",
+      "text": "#F8DFDF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #D32F2F;\n  --color-secondary: #FFD700;\n  --color-accent: #D32F2F;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#D32F2F',\n  secondary: '#FFD700',\n  accent: '#D32F2F',\n}"
+  },
+  {
+    "id": "charity-intl",
+    "name": "国际公益",
+    "category": "global-industry",
+    "tags": [
+      "公益",
+      "国际",
+      "蓝色"
+    ],
+    "style": "国际公益组织，蓝色传达信任和全球。",
+    "colors": {
+      "primary": "#1565C0",
+      "secondary": "#00BCD4",
+      "accent": "#FF6D00",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#030F1C",
+      "surface": "#051930",
+      "text": "#DBE7F5"
+    },
+    "cssVariables": ":root {\n  --color-primary: #1565C0;\n  --color-secondary: #00BCD4;\n  --color-accent: #FF6D00;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#1565C0',\n  secondary: '#00BCD4',\n  accent: '#FF6D00',\n}"
+  },
+  {
+    "id": "religion",
+    "name": "宗教/信仰",
+    "category": "global-industry",
+    "tags": [
+      "宗教",
+      "信仰",
+      "金色"
+    ],
+    "style": "宗教信仰行业，金色传达神圣和庄严。",
+    "colors": {
+      "primary": "#DAA520",
+      "secondary": "#1A237E",
+      "accent": "#DAA520",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#201804",
+      "surface": "#362908",
+      "text": "#F9F1DD"
+    },
+    "cssVariables": ":root {\n  --color-primary: #DAA520;\n  --color-secondary: #1A237E;\n  --color-accent: #DAA520;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#DAA520',\n  secondary: '#1A237E',\n  accent: '#DAA520',\n}"
+  },
+  {
+    "id": "astrology",
+    "name": "占星/星座",
+    "category": "global-industry",
+    "tags": [
+      "占星",
+      "星座",
+      "紫色"
+    ],
+    "style": "占星星座行业，紫色传达神秘和宇宙。",
+    "colors": {
+      "primary": "#4A148C",
+      "secondary": "#7B1FA2",
+      "accent": "#FFD700",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#0B0315",
+      "surface": "#120523",
+      "text": "#E3DBED"
+    },
+    "cssVariables": ":root {\n  --color-primary: #4A148C;\n  --color-secondary: #7B1FA2;\n  --color-accent: #FFD700;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#4A148C',\n  secondary: '#7B1FA2',\n  accent: '#FFD700',\n}"
+  },
+  {
+    "id": "cbd",
+    "name": "CBD/大麻",
+    "category": "global-industry",
+    "tags": [
+      "CBD",
+      "健康",
+      "绿色"
+    ],
+    "style": "CBD健康行业，绿色传达自然和健康。",
+    "colors": {
+      "primary": "#2E7D32",
+      "secondary": "#81C784",
+      "accent": "#FFD700",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#061207",
+      "surface": "#0B1F0C",
+      "text": "#DFEBE0"
+    },
+    "cssVariables": ":root {\n  --color-primary: #2E7D32;\n  --color-secondary: #81C784;\n  --color-accent: #FFD700;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#2E7D32',\n  secondary: '#81C784',\n  accent: '#FFD700',\n}"
+  },
+  {
+    "id": "tattoo",
+    "name": "纹身/刺青",
+    "category": "global-industry",
+    "tags": [
+      "纹身",
+      "艺术",
+      "黑色"
+    ],
+    "style": "纹身艺术行业，黑色传达前卫和个性。",
+    "colors": {
+      "primary": "#212121",
+      "secondary": "#D32F2F",
+      "accent": "#212121",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#040404",
+      "surface": "#080808",
+      "text": "#DDDDDD"
+    },
+    "cssVariables": ":root {\n  --color-primary: #212121;\n  --color-secondary: #D32F2F;\n  --color-accent: #212121;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#212121',\n  secondary: '#D32F2F',\n  accent: '#212121',\n}"
+  },
+  {
+    "id": "coffee-shop",
+    "name": "咖啡馆",
+    "category": "global-industry",
+    "tags": [
+      "咖啡",
+      "餐饮",
+      "棕色"
+    ],
+    "style": "咖啡馆行业，棕色传达醇厚和温暖。",
+    "colors": {
+      "primary": "#4E342E",
+      "secondary": "#8D6E63",
+      "accent": "#FF8F00",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#0B0706",
+      "surface": "#130D0B",
+      "text": "#E4E0DF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #4E342E;\n  --color-secondary: #8D6E63;\n  --color-accent: #FF8F00;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#4E342E',\n  secondary: '#8D6E63',\n  accent: '#FF8F00',\n}"
+  },
+  {
+    "id": "bakery",
+    "name": "烘焙/面包",
+    "category": "global-industry",
+    "tags": [
+      "烘焙",
+      "面包",
+      "橙色"
+    ],
+    "style": "烘焙行业，橙色传达温暖和食欲。",
+    "colors": {
+      "primary": "#E65100",
+      "secondary": "#FF8F00",
+      "accent": "#4E342E",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#220C00",
+      "surface": "#391400",
+      "text": "#FBE4D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #E65100;\n  --color-secondary: #FF8F00;\n  --color-accent: #4E342E;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#E65100',\n  secondary: '#FF8F00',\n  accent: '#4E342E',\n}"
+  },
+  {
+    "id": "wine",
+    "name": "葡萄酒/酒庄",
+    "category": "global-industry",
+    "tags": [
+      "葡萄酒",
+      "酒庄",
+      "深红"
+    ],
+    "style": "葡萄酒行业，深红传达优雅和品味。",
+    "colors": {
+      "primary": "#880E4F",
+      "secondary": "#1B5E20",
+      "accent": "#DAA520",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#14020B",
+      "surface": "#220313",
+      "text": "#EDDAE4"
+    },
+    "cssVariables": ":root {\n  --color-primary: #880E4F;\n  --color-secondary: #1B5E20;\n  --color-accent: #DAA520;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#880E4F',\n  secondary: '#1B5E20',\n  accent: '#DAA520',\n}"
+  },
+  {
+    "id": "beer",
+    "name": "啤酒/精酿",
+    "category": "global-industry",
+    "tags": [
+      "啤酒",
+      "精酿",
+      "金色"
+    ],
+    "style": "啤酒行业，金色传达麦芽和活力。",
+    "colors": {
+      "primary": "#F9A825",
+      "secondary": "#FF6F00",
+      "accent": "#5D4037",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#251905",
+      "surface": "#3E2A09",
+      "text": "#FEF1DE"
+    },
+    "cssVariables": ":root {\n  --color-primary: #F9A825;\n  --color-secondary: #FF6F00;\n  --color-accent: #5D4037;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#F9A825',\n  secondary: '#FF6F00',\n  accent: '#5D4037',\n}"
+  },
+  {
+    "id": "tea",
+    "name": "茶饮/茶文化",
+    "category": "global-industry",
+    "tags": [
+      "茶饮",
+      "文化",
+      "绿色"
+    ],
+    "style": "茶饮行业，绿色传达自然和清新。",
+    "colors": {
+      "primary": "#33691E",
+      "secondary": "#8BC34A",
+      "accent": "#D7CCC8",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#070F04",
+      "surface": "#0C1A07",
+      "text": "#E0E8DD"
+    },
+    "cssVariables": ":root {\n  --color-primary: #33691E;\n  --color-secondary: #8BC34A;\n  --color-accent: #D7CCC8;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#33691E',\n  secondary: '#8BC34A',\n  accent: '#D7CCC8',\n}"
+  },
+  {
+    "id": "dessert",
+    "name": "甜品/蛋糕",
+    "category": "global-industry",
+    "tags": [
+      "甜品",
+      "蛋糕",
+      "粉色"
+    ],
+    "style": "甜品行业，粉色传达甜蜜和浪漫。",
+    "colors": {
+      "primary": "#F48FB1",
+      "secondary": "#FCE4EC",
+      "accent": "#FF8A65",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#24151A",
+      "surface": "#3D232C",
+      "text": "#FDEEF3"
+    },
+    "cssVariables": ":root {\n  --color-primary: #F48FB1;\n  --color-secondary: #FCE4EC;\n  --color-accent: #FF8A65;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#F48FB1',\n  secondary: '#FCE4EC',\n  accent: '#FF8A65',\n}"
+  },
+  {
+    "id": "flower",
+    "name": "鲜花/花艺",
+    "category": "global-industry",
+    "tags": [
+      "鲜花",
+      "花艺",
+      "粉色"
+    ],
+    "style": "鲜花花艺行业，粉色传达浪漫和自然。",
+    "colors": {
+      "primary": "#EC407A",
+      "secondary": "#F8BBD0",
+      "accent": "#4CAF50",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#230912",
+      "surface": "#3B101E",
+      "text": "#FCE2EB"
+    },
+    "cssVariables": ":root {\n  --color-primary: #EC407A;\n  --color-secondary: #F8BBD0;\n  --color-accent: #4CAF50;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#EC407A',\n  secondary: '#F8BBD0',\n  accent: '#4CAF50',\n}"
+  },
+  {
+    "id": "jewelry",
+    "name": "珠宝/首饰",
+    "category": "global-industry",
+    "tags": [
+      "珠宝",
+      "首饰",
+      "金色"
+    ],
+    "style": "珠宝行业，金色传达奢华和价值。",
+    "colors": {
+      "primary": "#DAA520",
+      "secondary": "#1A237E",
+      "accent": "#DAA520",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#201804",
+      "surface": "#362908",
+      "text": "#F9F1DD"
+    },
+    "cssVariables": ":root {\n  --color-primary: #DAA520;\n  --color-secondary: #1A237E;\n  --color-accent: #DAA520;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#DAA520',\n  secondary: '#1A237E',\n  accent: '#DAA520',\n}"
+  },
+  {
+    "id": "eyewear",
+    "name": "眼镜/光学",
+    "category": "global-industry",
+    "tags": [
+      "眼镜",
+      "光学",
+      "蓝色"
+    ],
+    "style": "眼镜行业，蓝色传达清晰和专业。",
+    "colors": {
+      "primary": "#1565C0",
+      "secondary": "#42A5F5",
+      "accent": "#FF6D00",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#030F1C",
+      "surface": "#051930",
+      "text": "#DBE7F5"
+    },
+    "cssVariables": ":root {\n  --color-primary: #1565C0;\n  --color-secondary: #42A5F5;\n  --color-accent: #FF6D00;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#1565C0',\n  secondary: '#42A5F5',\n  accent: '#FF6D00',\n}"
+  },
+  {
+    "id": "cosmetics",
+    "name": "化妆品",
+    "category": "global-industry",
+    "tags": [
+      "化妆品",
+      "美妆",
+      "粉色"
+    ],
+    "style": "化妆品行业，粉色传达美丽和优雅。",
+    "colors": {
+      "primary": "#EC407A",
+      "secondary": "#F8BBD0",
+      "accent": "#EC407A",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#230912",
+      "surface": "#3B101E",
+      "text": "#FCE2EB"
+    },
+    "cssVariables": ":root {\n  --color-primary: #EC407A;\n  --color-secondary: #F8BBD0;\n  --color-accent: #EC407A;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#EC407A',\n  secondary: '#F8BBD0',\n  accent: '#EC407A',\n}"
+  },
+  {
+    "id": "skincare",
+    "name": "护肤品",
+    "category": "global-industry",
+    "tags": [
+      "护肤",
+      "美容",
+      "白色"
+    ],
+    "style": "护肤行业，白色+绿色传达纯净和自然。",
+    "colors": {
+      "primary": "#E8F5E9",
+      "secondary": "#43A047",
+      "accent": "#E8F5E9",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#222422",
+      "surface": "#3A3D3A",
+      "text": "#FBFDFB"
+    },
+    "cssVariables": ":root {\n  --color-primary: #E8F5E9;\n  --color-secondary: #43A047;\n  --color-accent: #E8F5E9;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#E8F5E9',\n  secondary: '#43A047',\n  accent: '#E8F5E9',\n}"
+  },
+  {
+    "id": "perfume",
+    "name": "香水/香氛",
+    "category": "global-industry",
+    "tags": [
+      "香水",
+      "香氛",
+      "紫色"
+    ],
+    "style": "香水行业，紫色传达优雅和神秘。",
+    "colors": {
+      "primary": "#6A1B9A",
+      "secondary": "#CE93D8",
+      "accent": "#6A1B9A",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#0F0417",
+      "surface": "#1A0626",
+      "text": "#E8DCEF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #6A1B9A;\n  --color-secondary: #CE93D8;\n  --color-accent: #6A1B9A;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#6A1B9A',\n  secondary: '#CE93D8',\n  accent: '#6A1B9A',\n}"
+  },
+  {
+    "id": "baby",
+    "name": "母婴/育儿",
+    "category": "global-industry",
+    "tags": [
+      "母婴",
+      "育儿",
+      "浅蓝"
+    ],
+    "style": "母婴行业，浅蓝+粉色传达温柔和关爱。",
+    "colors": {
+      "primary": "#81D4FA",
+      "secondary": "#F48FB1",
+      "accent": "#81D4FA",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#131F25",
+      "surface": "#20353E",
+      "text": "#ECF8FE"
+    },
+    "cssVariables": ":root {\n  --color-primary: #81D4FA;\n  --color-secondary: #F48FB1;\n  --color-accent: #81D4FA;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#81D4FA',\n  secondary: '#F48FB1',\n  accent: '#81D4FA',\n}"
+  },
+  {
+    "id": "toy",
+    "name": "玩具/童趣",
+    "category": "global-industry",
+    "tags": [
+      "玩具",
+      "儿童",
+      "多彩"
+    ],
+    "style": "玩具行业，多彩传达快乐和童趣。",
+    "colors": {
+      "primary": "#FF6B6B",
+      "secondary": "#4ECDC4",
+      "accent": "#FFE66D",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#261010",
+      "surface": "#3F1A1A",
+      "text": "#FFE8E8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FF6B6B;\n  --color-secondary: #4ECDC4;\n  --color-accent: #FFE66D;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FF6B6B',\n  secondary: '#4ECDC4',\n  accent: '#FFE66D',\n}"
+  },
+  {
+    "id": "senior",
+    "name": "养老/银发",
+    "category": "global-industry",
+    "tags": [
+      "养老",
+      "银发",
+      "蓝色"
+    ],
+    "style": "养老行业，蓝色传达信赖和关怀。",
+    "colors": {
+      "primary": "#1565C0",
+      "secondary": "#42A5F5",
+      "accent": "#1565C0",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#030F1C",
+      "surface": "#051930",
+      "text": "#DBE7F5"
+    },
+    "cssVariables": ":root {\n  --color-primary: #1565C0;\n  --color-secondary: #42A5F5;\n  --color-accent: #1565C0;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#1565C0',\n  secondary: '#42A5F5',\n  accent: '#1565C0',\n}"
+  },
+  {
+    "id": "accessibility",
+    "name": "无障碍/辅助",
+    "category": "global-industry",
+    "tags": [
+      "无障碍",
+      "辅助",
+      "蓝色"
+    ],
+    "style": "无障碍行业，蓝色传达包容和关怀。",
+    "colors": {
+      "primary": "#0277BD",
+      "secondary": "#00BCD4",
+      "accent": "#FF6D00",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#00111C",
+      "surface": "#001D2F",
+      "text": "#D9EAF5"
+    },
+    "cssVariables": ":root {\n  --color-primary: #0277BD;\n  --color-secondary: #00BCD4;\n  --color-accent: #FF6D00;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#0277BD',\n  secondary: '#00BCD4',\n  accent: '#FF6D00',\n}"
+  },
+  {
+    "id": "sustainability",
+    "name": "可持续发展",
+    "category": "global-industry",
+    "tags": [
+      "可持续",
+      "环保",
+      "绿色"
+    ],
+    "style": "可持续发展行业，绿色传达环保和未来。",
+    "colors": {
+      "primary": "#2E7D32",
+      "secondary": "#81C784",
+      "accent": "#FFD700",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#061207",
+      "surface": "#0B1F0C",
+      "text": "#DFEBE0"
+    },
+    "cssVariables": ":root {\n  --color-primary: #2E7D32;\n  --color-secondary: #81C784;\n  --color-accent: #FFD700;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#2E7D32',\n  secondary: '#81C784',\n  accent: '#FFD700',\n}"
+  },
+  {
+    "id": "carbon-neutral",
+    "name": "碳中和",
+    "category": "global-industry",
+    "tags": [
+      "碳中和",
+      "环保",
+      "青绿"
+    ],
+    "style": "碳中和行业，青绿色传达清洁和零碳。",
+    "colors": {
+      "primary": "#00695C",
+      "secondary": "#4DB6AC",
+      "accent": "#FFD700",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#000F0D",
+      "surface": "#001A17",
+      "text": "#D8E8E6"
+    },
+    "cssVariables": ":root {\n  --color-primary: #00695C;\n  --color-secondary: #4DB6AC;\n  --color-accent: #FFD700;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#00695C',\n  secondary: '#4DB6AC',\n  accent: '#FFD700',\n}"
+  }
+]

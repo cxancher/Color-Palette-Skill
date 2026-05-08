@@ -1,8 +1,8 @@
 # 🎨 AI 配色大师 - 完整配色方案参考手册
 
-> **版本**: 2.0.0 | **更新日期**: 2026-05-05
+> **版本**: 3.0.0 | **更新日期**: 2026-05-08
 > **目标**: 使AI在前端开发时自动学会使用各种专业配色方案，彻底摆脱蓝紫色渐变的局限
-> **配色方案总数**: 68套（原38套 + 新增30套）
+> **配色方案总数**: 1050套（68套经典 + 982套扩展）
 
 ---
 
@@ -13,11 +13,21 @@
 - [三、设计系统配色方案（5套）](#三设计系统配色方案5套)
 - [四、WordPress主题配色方案（3套）](#四wordpress主题配色方案3套)
 - [五、行业场景配色方案（10套）](#五行业场景配色方案10套)
-- [六、新增行业场景配色（12套）🆕](#六新增行业场景配色12套)
-- [七、设计风格配色方案（10套）🆕](#七设计风格配色方案10套)
-- [八、色系补充配色方案（8套）🆕](#八色系补充配色方案8套)
-- [九、配色选择指南](#九配色选择指南)
-- [十、CSS变量 & Tailwind配置速查](#十css变量--tailwind配置速查)
+- [六、新增行业场景配色（12套）](#六新增行业场景配色12套)
+- [七、设计风格配色方案（10套）](#七设计风格配色方案10套)
+- [八、色系补充配色方案（8套）](#八色系补充配色方案8套)
+- [九、亚洲平台配色方案（39套）](#九亚洲平台配色方案39套)
+- [十、西方平台配色方案（41套）](#十西方平台配色方案41套)
+- [十一、全球品牌配色方案（62套）](#十一全球品牌配色方案62套)
+- [十二、开发框架配色方案（40套）](#十二开发框架配色方案40套)
+- [十三、全球行业配色方案（116套）](#十三全球行业配色方案116套)
+- [十四、设计风格配色方案（31套）](#十四设计风格配色方案31套)
+- [十五、文化配色方案（31套）](#十五文化配色方案31套)
+- [十六、情感配色方案（53套）](#十六情感配色方案53套)
+- [十七、扩展配色方案（139套）](#十七扩展配色方案139套)
+- [十八、批量扩展配色方案（430套）](#十八批量扩展配色方案430套)
+- [十九、配色选择指南](#十九配色选择指南)
+- [二十、CSS变量 & Tailwind配置速查](#二十css变量--tailwind配置速查)
 
 ---
 
@@ -1053,45 +1063,1119 @@
 
 ---
 
-## 九、配色选择指南
+## 九、亚洲平台配色方案（39套）
+
+| ID | 名称 | 主色 | 辅色 | 强调色 | 标签 |
+|----|------|------|------|--------|------|
+| line | Line | `#06C755` 🟢 | `#00B900` 🟢 | `#7B61FF` 🔵 | 社交, 通讯, 日本, 绿色 |
+| kakao | KakaoTalk | `#FEE500` 🟡 | `#3C1E1E` ⬛ | `#7B61FF` 🔵 | 社交, 通讯, 韩国, 黄色 |
+| naver | Naver | `#03C75A` 🟢 | `#00C73C` 🟢 | `#03A9F4` 🔵 | 搜索, 门户, 韩国, 绿色 |
+| yahoo-japan | Yahoo Japan | `#FF0033` 🔴 | `#660000` ⬛ | `#FF6600` 🟠 | 门户, 搜索, 日本, 红色 |
+| rakuten | Rakuten | `#BF0000` 🔴 | `#FF0000` 🔴 | `#00A550` 🟢 | 电商, 日本, 红色 |
+| shopee | Shopee | `#EE4D2D` 🔴 | `#FF6633` 🟠 | `#F4511E` 🟠 | 电商, 东南亚, 橙色 |
+| lazada | Lazada | `#0F136D` ⬛ | `#0D1B5E` ⬛ | `#F85606` 🟠 | 电商, 东南亚, 深蓝 |
+| grab | Grab | `#00B14F` 🟢 | `#00A843` 🟢 | `#FF6600` 🟠 | 出行, 东南亚, 绿色 |
+| zalo | Zalo | `#0068FF` 🔵 | `#0052CC` 🔵 | `#FF6B6B` 🟠 | 社交, 通讯, 越南, 蓝色 |
+| paytm | Paytm | `#00BAF2` 🔵 | `#0088CC` 🔵 | `#FF6B00` 🟠 | 支付, 金融, 印度, 蓝色 |
+| phonepe | PhonePe | `#5F259F` 🔵 | `#7B2FBE` 🔵 | `#00D4AA` 🟢 | 支付, 金融, 印度, 紫色 |
+| coupang | Coupang | `#E4002B` 🔴 | `#FF1A1A` 🔴 | `#00A8E8` 🔵 | 电商, 韩国, 红色 |
+| mercari | Mercari | `#FF0211` 🔴 | `#CC0000` 🔴 | `#00B900` 🟢 | 二手交易, 日本, 红色 |
+| zomato | Zomato | `#E23744` 🔴 | `#FF4444` 🔴 | `#FFB800` 🟠 | 美食, 外卖, 印度, 红色 |
+| swiggy | Swiggy | `#FC8019` 🟠 | `#FF5200` 🟠 | `#00A8E8` 🔵 | 美食, 外卖, 印度, 橙色 |
+| bigbasket | BigBasket | `#84C225` 🟢 | `#6BA018` 🟢 | `#FF6B00` 🟠 | 生鲜, 电商, 印度, 绿色 |
+| meesho | Meesho | `#570A57` ⬛ | `#7B1FA2` 🔵 | `#FF6B00` 🟠 | 社交电商, 印度, 紫色 |
+| lenskart | Lenskart | `#2A5CAA` 🔵 | `#1A3C7A` 🔵 | `#FF6B00` 🟠 | 眼镜, 电商, 印度, 蓝色 |
+| policybazaar | Policybazaar | `#1F3B5C` 🔵 | `#0D2240` ⬛ | `#FF6B00` 🟠 | 保险, 金融, 印度, 深蓝 |
+| goto | GoTo/Gojek | `#00AA13` 🟢 | `#008C00` 🟢 | `#FA0000` 🔴 | 出行, 支付, 印尼, 绿色 |
+| momo | MoMo | `#D42A87` 🔴 | `#B81D6E` 🔴 | `#8A2BE2` 🔵 | 支付, 金融, 越南, 粉色 |
+| true-corp | True Corporation | `#E60012` 🔴 | `#CC0000` 🔴 | `#FF6600` 🟠 | 电信, 泰国, 红色 |
+| gcash | GCash | `#0066FF` 🔵 | `#0044CC` 🔵 | `#00BFA5` 🟢 | 支付, 金融, 菲律宾, 蓝色 |
+| tng | Touch'n Go | `#00A651` 🟢 | `#008844` 🟢 | `#0066FF` 🔵 | 支付, 交通, 马来西亚, 蓝色 |
+| careem | Careem | `#00E784` 🟢 | `#00C46A` 🟢 | `#FF6B00` 🟠 | 出行, 外卖, 中东, 绿色 |
+| talabat | Talabat | `#FC4C02` 🔴 | `#E04400` 🔴 | `#00BFA5` 🟢 | 美食, 外卖, 中东, 橙色 |
+| noon | Noon | `#FEEE00` 🟡 | `#E0D400` 🟠 | `#00BFA5` 🟢 | 电商, 中东, 黄色 |
+| yandex | Yandex | `#FC3F1D` 🔴 | `#E03619` 🔴 | `#FFCC00` 🟠 | 搜索, 科技, 俄罗斯, 红色 |
+| vk | VK | `#0077FF` 🔵 | `#0055CC` 🔵 | `#FF3344` 🔴 | 社交, 俄罗斯, 蓝色 |
+| sberbank | Sberbank | `#016435` 🟢 | `#014A28` ⬛ | `#21A038` 🟢 | 银行, 金融, 俄罗斯, 绿色 |
+| yahoo-tw | Yahoo奇摩 | `#6600CC` 🔵 | `#5500AA` ⬛ | `#FF6600` 🟠 | 门户, 台湾, 紫色 |
+| ptt | PTT | `#00AA00` 🟢 | `#008800` 🟢 | `#FF6600` 🟠 | 论坛, 社区, 台湾, 绿色 |
+| bkash | bKash | `#E2136E` 🔴 | `#C0105C` 🔴 | `#00BFA5` 🟢 | 支付, 金融, 孟加拉, 粉色 |
+| daraz | Daraz | `#F85606` 🟠 | `#E04D05` 🔴 | `#00BFA5` 🟢 | 电商, 南亚, 红色 |
+| foodpanda | Foodpanda | `#D70A53` 🔴 | `#B80845` 🔴 | `#FF6B00` 🟠 | 美食, 外卖, 亚太, 粉色 |
+| carousell | Carousell | `#FF2636` 🔴 | `#E02030` 🔴 | `#00BFA5` 🟢 | 二手交易, 东南亚, 红色 |
+| line-man | LINE MAN | `#00B900` 🟢 | `#009900` 🟢 | `#FF6B00` 🟠 | 外卖, 出行, 泰国, 绿色 |
+| paypay | PayPay | `#FF0000` 🔴 | `#CC0000` 🔴 | `#00B900` 🟢 | 支付, 金融, 日本, 红色 |
+| samsung-pay | Samsung Pay | `#1428A0` ⬛ | `#0F1E80` ⬛ | `#FF6B00` 🟠 | 支付, 金融, 韩国, 蓝色 |
+
+---
+
+## 十、西方平台配色方案（41套）
+
+| ID | 名称 | 主色 | 辅色 | 强调色 | 标签 |
+|----|------|------|------|--------|------|
+| amazon | Amazon | `#FF9900` 🟠 | `#232F3E` ⬛ | `#FF9900` 🟠 | 电商, 零售, 橙色 |
+| netflix | Netflix | `#E50914` 🔴 | `#B20710` 🟠 | `#E50914` 🔴 | 流媒体, 娱乐, 红色 |
+| youtube | YouTube | `#FF0000` 🔴 | `#CC0000` 🔴 | `#282828` ⬛ | 视频, 社交, 红色 |
+| twitter | X (Twitter) | `#000000` ⬛ | `#14171A` ⬛ | `#1D9BF0` 🔵 | 社交, 微博, 黑色 |
+| instagram | Instagram | `#E4405F` 🔴 | `#F56040` 🟠 | `#833AB4` 🔵 | 社交, 图片, 粉红 |
+| linkedin | LinkedIn | `#0A66C2` 🔵 | `#004182` 🔵 | `#0A66C2` 🔵 | 社交, 职场, 蓝色 |
+| pinterest | Pinterest | `#E60023` 🔴 | `#C4001E` 🔴 | `#BD081C` 🔴 | 社交, 灵感, 红色 |
+| snapchat | Snapchat | `#FFFC00` 🟡 | `#FFD700` 🟡 | `#000000` ⬛ | 社交, 即时, 黄色 |
+| reddit | Reddit | `#FF4500` 🔴 | `#FF5700` 🟠 | `#FF4500` 🔴 | 社区, 论坛, 橙色 |
+| whatsapp | WhatsApp | `#25D366` 🟢 | `#128C7E` 🟢 | `#075E54` 🟢 | 通讯, 即时, 绿色 |
+| telegram | Telegram | `#0088CC` 🔵 | `#229ED9` 🔵 | `#0088CC` 🔵 | 通讯, 即时, 蓝色 |
+| slack | Slack | `#4A154B` ⬛ | `#611F69` 🔵 | `#ECB22E` 🟠 | 协作, 办公, 紫色 |
+| discord | Discord | `#5865F2` 🔵 | `#4752C4` 🔵 | `#EB459E` 🟠 | 社区, 游戏, 靛蓝 |
+| twitch | Twitch | `#9146FF` 🔵 | `#6441A5` 🔵 | `#00C878` 🟢 | 直播, 游戏, 紫色 |
+| tiktok | TikTok | `#010101` ⬛ | `#25F4EE` 🟢 | `#FE2C55` 🔴 | 短视频, 社交, 黑色 |
+| medium | Medium | `#000000` ⬛ | `#292929` ⬛ | `#1A8917` 🟢 | 博客, 内容, 黑色 |
+| substack | Substack | `#FF6719` 🟠 | `#FF7731` 🟠 | `#FF6719` 🟠 | 博客, 新闻, 橙色 |
+| patreon | Patreon | `#F96854` 🟠 | `#FF424D` 🔴 | `#F96854` 🟠 | 创作者, 会员, 红色 |
+| shopify | Shopify | `#96BF48` 🟢 | `#95BF47` 🟢 | `#008060` 🟢 | 电商, 建站, 绿色 |
+| etsy | Etsy | `#F56400` 🟠 | `#D4540A` 🟠 | `#F56400` 🟠 | 电商, 手工, 橙色 |
+| airbnb | Airbnb | `#FF5A5F` 🟠 | `#E0484D` 🔴 | `#FF5A5F` 🟠 | 旅行, 住宿, 珊瑚红 |
+| booking | Booking.com | `#003580` ⬛ | `#00264D` ⬛ | `#003580` ⬛ | 旅行, 酒店, 深蓝 |
+| uber | Uber | `#000000` ⬛ | `#276EF1` 🔵 | `#276EF1` 🔵 | 出行, 打车, 黑色 |
+| lyft | Lyft | `#FF00BF` 🔴 | `#E000AA` 🔴 | `#7B2D8E` 🔵 | 出行, 打车, 品红 |
+| doordash | DoorDash | `#FF3008` 🔴 | `#E02B07` 🔴 | `#FF3008` 🔴 | 外卖, 配送, 红色 |
+| spotify-us | Spotify | `#1DB954` 🟢 | `#191414` ⬛ | `#1DB954` 🟢 | 音乐, 流媒体, 绿色 |
+| tumblr | Tumblr | `#00B8FF` 🔵 | `#0099DD` 🔵 | `#FF492F` 🔴 | 社交, 博客, 蓝色 |
+| quora | Quora | `#B92B27` 🔴 | `#A02420` 🟠 | `#B92B27` 🔴 | 问答, 知识, 红色 |
+| flickr | Flickr | `#0063DC` 🔵 | `#004BBB` 🔵 | `#FF0084` 🔴 | 图片, 摄影, 蓝色 |
+| tinder | Tinder | `#FE3C72` 🔴 | `#E6365F` 🔴 | `#FF6B35` 🟠 | 社交, 约会, 橙色 |
+| bumble | Bumble | `#FFC617` 🟠 | `#F5A623` 🟠 | `#FFC617` 🟠 | 社交, 约会, 黄色 |
+| producthunt | Product Hunt | `#DA552F` 🟠 | `#FF6154` 🟠 | `#DA552F` 🟠 | 科技, 创业, 橙色 |
+| hackernews | Hacker News | `#FF6600` 🟠 | `#FF8C00` 🟠 | `#FF6600` 🟠 | 科技, 社区, 橙色 |
+| deviantart | DeviantArt | `#05CC47` 🟢 | `#00C635` 🟢 | `#4DC8FF` 🔵 | 艺术, 社区, 绿色 |
+| behance | Behance | `#1769FF` 🔵 | `#0055FF` 🔵 | `#1769FF` 🔵 | 设计, 作品集, 蓝色 |
+| dribbble | Dribbble | `#EA4C89` 🟠 | `#C73A72` 🔴 | `#EA4C89` 🟠 | 设计, 社区, 粉色 |
+| soundcloud | SoundCloud | `#FF5500` 🟠 | `#F50`  | `#FF5500` 🟠 | 音乐, 音频, 橙色 |
+| twitch-alt | Twitch (Alt) | `#9146FF` 🔵 | `#772CE8` 🔵 | `#00C878` 🟢 | 直播, 游戏, 紫色 |
+| mastodon | Mastodon | `#6364FF` 🔵 | `#563ACC` 🔵 | `#6364FF` 🔵 | 社交, 去中心化, 紫色 |
+| bluesky | Bluesky | `#0A7AFF` 🔵 | `#0066DD` 🔵 | `#0A7AFF` 🔵 | 社交, 去中心化, 蓝色 |
+| threads | Threads | `#000000` ⬛ | `#333333` ⬛ | `#000000` ⬛ | 社交, 文字, 黑色 |
+
+---
+
+## 十一、全球品牌配色方案（62套）
+
+| ID | 名称 | 主色 | 辅色 | 强调色 | 标签 |
+|----|------|------|------|--------|------|
+| google | Google | `#4285F4` 🔵 | `#34A853` 🟢 | `#EA4335` 🔴 | 科技, 搜索, 蓝色 |
+| microsoft | Microsoft | `#00A4EF` 🔵 | `#737373` ⬛ | `#F25022` 🟠 | 科技, 软件, 蓝色 |
+| apple-brand | Apple | `#000000` ⬛ | `#1D1D1F` ⬛ | `#0066CC` 🔵 | 科技, 硬件, 黑色 |
+| samsung | Samsung | `#1428A0` ⬛ | `#0F1E80` ⬛ | `#034EA2` 🔵 | 科技, 电子, 蓝色 |
+| sony | Sony | `#000000` ⬛ | `#1A1A1A` ⬛ | `#000080` ⬛ | 科技, 电子, 黑色 |
+| lg-brand | LG | `#A50034` 🟠 | `#8B0029` ⬛ | `#A50034` 🟠 | 科技, 电子, 酒红 |
+| meta | Meta | `#0668E1` 🔵 | `#1877F2` 🔵 | `#0081FB` 🔵 | 科技, 社交, 蓝色 |
+| nvidia | NVIDIA | `#76B900` 🟢 | `#5A8C00` 🟢 | `#76B900` 🟢 | 科技, GPU, 绿色 |
+| intel | Intel | `#0071C5` 🔵 | `#004A80` 🔵 | `#0071C5` 🔵 | 科技, 芯片, 蓝色 |
+| amd | AMD | `#ED1C24` 🔴 | `#00A4EF` 🔵 | `#ED1C24` 🔴 | 科技, 芯片, 红色 |
+| qualcomm | Qualcomm | `#3253DC` 🔵 | `#1A2F8A` 🔵 | `#3253DC` 🔵 | 科技, 芯片, 蓝色 |
+| ibm | IBM | `#054ADA` 🔵 | `#0F62FE` 🔵 | `#054ADA` 🔵 | 科技, 企业, 蓝色 |
+| oracle | Oracle | `#F80000` 🔴 | `#C74634` 🔴 | `#F80000` 🔴 | 科技, 数据库, 红色 |
+| salesforce | Salesforce | `#00A1E0` 🔵 | `#0079D1` 🔵 | `#00A1E0` 🔵 | 科技, CRM, 蓝色 |
+| adobe | Adobe | `#FF0000` 🔴 | `#FA0F00` 🔴 | `#FF0000` 🔴 | 科技, 创意, 红色 |
+| sap | SAP | `#008FD3` 🔵 | `#005B82` 🔵 | `#008FD3` 🔵 | 科技, 企业, 蓝色 |
+| siemens | Siemens | `#009999` ⬛ | `#006666` ⬛ | `#009999` ⬛ | 科技, 工业, 青绿 |
+| huawei | Huawei | `#CF0A2C` 🔴 | `#C7000B` 🔴 | `#CF0A2C` 🔴 | 科技, 通信, 红色 |
+| xiaomi | Xiaomi | `#FF6900` 🟠 | `#FF6700` 🟠 | `#FF6900` 🟠 | 科技, 电子, 橙色 |
+| oppo | OPPO | `#1BA784` 🟢 | `#1D8C6E` 🟢 | `#1BA784` 🟢 | 科技, 手机, 绿色 |
+| vivo | vivo | `#415FFF` 🔵 | `#2949FF` 🔵 | `#415FFF` 🔵 | 科技, 手机, 蓝色 |
+| toyota | Toyota | `#EB0A1E` 🔴 | `#C4091A` 🔴 | `#EB0A1E` 🔴 | 汽车, 日本, 红色 |
+| honda | Honda | `#CC0000` 🔴 | `#AA0000` 🟠 | `#CC0000` 🔴 | 汽车, 日本, 红色 |
+| ford | Ford | `#004377` 🔵 | `#003366` ⬛ | `#004377` 🔵 | 汽车, 美国, 蓝色 |
+| vw | Volkswagen | `#001E50` ⬛ | `#001238` ⬛ | `#001E50` ⬛ | 汽车, 德国, 深蓝 |
+| bmw-brand | BMW | `#0166B1` 🔵 | `#004E8C` 🔵 | `#0166B1` 🔵 | 汽车, 德国, 蓝色 |
+| tesla-brand | Tesla | `#CC0000` 🔴 | `#990000` ⬛ | `#CC0000` 🔴 | 汽车, 新能源, 红色 |
+| byd | BYD | `#D70C19` 🔴 | `#B80A15` 🔴 | `#D70C19` 🔴 | 汽车, 新能源, 红色 |
+| nio | NIO | `#00B2FF` 🔵 | `#0090DD` 🔵 | `#00B2FF` 🔵 | 汽车, 新能源, 蓝色 |
+| porsche | Porsche | `#B12B28` 🟠 | `#8A2020` 🟠 | `#EBD698` 🩸 | 汽车, 德国, 红色 |
+| ferrari | Ferrari | `#E42528` 🔴 | `#C41E21` 🔴 | `#F8E823` 🟡 | 汽车, 意大利, 红色 |
+| mercedes | Mercedes-Benz | `#000000` ⬛ | `#333333` ⬛ | `#00ADEF` 🔵 | 汽车, 德国, 黑色 |
+| audi | Audi | `#000000` ⬛ | `#BB0A30` 🔴 | `#000000` ⬛ | 汽车, 德国, 黑色 |
+| volvo | Volvo | `#003057` ⬛ | `#002040` ⬛ | `#003057` ⬛ | 汽车, 瑞典, 蓝色 |
+| louis-vuitton | Louis Vuitton | `#000000` ⬛ | `#8B6914` 🟠 | `#D4AF37` 🟠 | 奢侈, 时尚, 黑色 |
+| chanel | Chanel | `#000000` ⬛ | `#FFFFFF` 🩸 | `#C0A062` 🟠 | 奢侈, 时尚, 黑色 |
+| gucci | Gucci | `#000000` ⬛ | `#006B3F` 🟢 | `#A9333A` 🟠 | 奢侈, 时尚, 黑色 |
+| hermes | Hermes | `#F37021` 🟠 | `#D45E1B` 🟠 | `#F37021` 🟠 | 奢侈, 时尚, 橙色 |
+| prada | Prada | `#E39700` 🟠 | `#C48200` 🟠 | `#000000` ⬛ | 奢侈, 时尚, 黄色 |
+| dior | Dior | `#000000` ⬛ | `#FFFFFF` 🩸 | `#8B7D6B` 🟠 | 奢侈, 时尚, 黑色 |
+| rolex | Rolex | `#A37E2C` 🟠 | `#8B6914` 🟠 | `#006039` 🟢 | 奢侈, 手表, 金色 |
+| cartier | Cartier | `#000000` ⬛ | `#003153` ⬛ | `#D4AF37` 🟠 | 奢侈, 珠宝, 红色 |
+| tiffany | Tiffany & Co. | `#00ABB9` 🔵 | `#008B99` 🔵 | `#00ABB9` 🔵 | 奢侈, 珠宝, 蓝色 |
+| burberry | Burberry | `#000000` ⬛ | `#A3622A` 🟠 | `#CC0000` 🔴 | 奢侈, 时尚, 驼色 |
+| coca-cola | Coca-Cola | `#F40009` 🔴 | `#D40008` 🔴 | `#F40009` 🔴 | 饮料, 快消, 红色 |
+| pepsi | Pepsi | `#004B93` 🔵 | `#EB1933` 🔴 | `#004B93` 🔵 | 饮料, 快消, 蓝色 |
+| mcdonalds | McDonald's | `#FFC72C` 🟠 | `#DA291C` 🔴 | `#FFC72C` 🟠 | 快餐, 餐饮, 黄色 |
+| starbucks | Starbucks | `#00704A` 🟢 | `#1E3932` ⬛ | `#00704A` 🟢 | 咖啡, 餐饮, 绿色 |
+| kfc | KFC | `#C41230` 🔴 | `#E4002B` 🔴 | `#F5D4B7` 🩸 | 快餐, 餐饮, 红色 |
+| redbull | Red Bull | `#E21B4D` 🔴 | `#FFD300` 🟡 | `#E21B4D` 🔴 | 饮料, 能量, 红色 |
+| nestle | Nestle | `#000000` ⬛ | `#D40000` 🔴 | `#0091DA` 🔵 | 食品, 快消, 红色 |
+| unilever | Unilever | `#0066CC` 🔵 | `#003D7A` ⬛ | `#0066CC` 🔵 | 快消, 日化, 蓝色 |
+| pg | P&G | `#0060AE` 🔵 | `#39ACE4` 🔵 | `#0060AE` 🔵 | 快消, 日化, 蓝色 |
+| nike-brand | Nike | `#111111` ⬛ | `#FFFFFF` 🩸 | `#FA5631` 🟠 | 运动, 服饰, 黑色 |
+| adidas-brand | Adidas | `#000000` ⬛ | `#FFFFFF` 🩸 | `#BE0027` 🔴 | 运动, 服饰, 黑色 |
+| ikea | IKEA | `#0058A3` 🔵 | `#FFDA1A` 🟡 | `#0058A3` 🔵 | 家居, 零售, 蓝色 |
+| lego | LEGO | `#F8D100` 🟠 | `#E60012` 🔴 | `#006CB7` 🔵 | 玩具, 丹麦, 黄色 |
+| nintendo-brand | Nintendo | `#E60012` 🔴 | `#CC0010` 🔴 | `#E60012` 🔴 | 游戏, 日本, 红色 |
+| sony-ps | PlayStation | `#003087` ⬛ | `#00439C` 🔵 | `#003087` ⬛ | 游戏, 日本, 蓝色 |
+| xbox | Xbox | `#107C10` 🟢 | `#0E6B0E` 🟢 | `#107C10` 🟢 | 游戏, 美国, 绿色 |
+| steam | Steam | `#1B2838` ⬛ | `#2A475E` 🔵 | `#66C0F4` 🔵 | 游戏, 平台, 深蓝 |
+| epic-games | Epic Games | `#2F2D2E` ⬛ | `#121212` ⬛ | `#2F2D2E` ⬛ | 游戏, 引擎, 深灰 |
+
+---
+
+## 十二、开发框架配色方案（40套）
+
+| ID | 名称 | 主色 | 辅色 | 强调色 | 标签 |
+|----|------|------|------|--------|------|
+| bootstrap | Bootstrap | `#7952B3` 🔵 | `#0D6EFD` 🔵 | `#6610F2` 🔵 | 框架, CSS, 紫色 |
+| bulma | Bulma | `#00D1B2` 🟢 | `#3298DC` 🔵 | `#FFDD57` 🟡 | 框架, CSS, 青绿 |
+| semantic-ui | Semantic UI | `#1B1C1D` ⬛ | `#353535` ⬛ | `#F2711C` 🟠 | 框架, CSS, 黑色 |
+| foundation | Foundation | `#2199E8` 🔵 | `#1779BA` 🔵 | `#3FADC7` 🔵 | 框架, CSS, 蓝色 |
+| mui | MUI (Material UI) | `#1976D2` 🔵 | `#42A5F5` 🔵 | `#FF6F00` 🟠 | 框架, React, 蓝色 |
+| shadcn-ui | shadcn/ui | `#000000` ⬛ | `#18181B` ⬛ | `#2563EB` 🔵 | 框架, React, 黑白 |
+| nextui | NextUI | `#0072F5` 🔵 | `#7928CA` 🔵 | `#0072F5` 🔵 | 框架, React, 蓝色 |
+| mantine | Mantine | `#228BE6` 🔵 | `#5C7CFA` 🔵 | `#40C057` 🟢 | 框架, React, 蓝色 |
+| chakra-ui-v2 | Chakra UI v2 | `#3182CE` 🔵 | `#319795` 🟢 | `#D69E2E` 🟠 | 框架, React, 蓝青 |
+| radix-themes | Radix Themes | `#6E56CF` 🔵 | `#4C48E6` 🔵 | `#3052F6` 🔵 | 框架, React, 靛蓝 |
+| tailwind-v4 | Tailwind CSS v4 | `#3B82F6` 🔵 | `#6366F1` 🔵 | `#8B5CF6` 🔵 | 框架, CSS, 蓝色 |
+| ant-design-v5 | Ant Design v5 | `#1677FF` 🔵 | `#4096FF` 🔵 | `#52C41A` 🟢 | 框架, React, 蓝色 |
+| arco-design | Arco Design | `#165DFF` 🔵 | `#0FC6C2` 🟢 | `#F77234` 🟠 | 框架, React, 蓝色 |
+| semi-design | Semi Design | `#0077FA` 🔵 | `#F9BE00` 🟠 | `#34C724` 🟢 | 框架, React, 蓝色 |
+| tdesign | TDesign | `#0052D9` 🔵 | `#0594FA` 🔵 | `#FF8F1F` 🟠 | 框架, Vue, 蓝色 |
+| nutui | NutUI | `#06B05B` 🟢 | `#06B05B` 🟢 | `#FA2C19` 🔴 | 框架, Vue, 绿色 |
+| varlet | Varlet | `#006FFF` 🔵 | `#0052D9` 🔵 | `#006FFF` 🔵 | 框架, Vue, 蓝色 |
+| element-plus | Element Plus | `#409EFF` 🔵 | `#337ECC` 🔵 | `#67C23A` 🟢 | 框架, Vue, 蓝色 |
+| naive-ui | Naive UI | `#18A058` 🟢 | `#2080F0` 🔵 | `#F0A020` 🟠 | 框架, Vue, 蓝色 |
+| primevue | PrimeVue | `#3B82F6` 🔵 | `#6366F1` 🔵 | `#8B5CF6` 🔵 | 框架, Vue, 紫色 |
+| vuetify | Vuetify | `#1867C0` 🔵 | `#4285F4` 🔵 | `#66BB6A` 🟢 | 框架, Vue, 蓝色 |
+| quasar | Quasar | `#1976D2` 🔵 | `#7E57C2` 🔵 | `#26A69A` 🟢 | 框架, Vue, 紫色 |
+| sveltekit | SvelteKit | `#FF3E00` 🔴 | `#4075A6` 🔵 | `#FF3E00` 🔴 | 框架, Svelte, 橙色 |
+| nuxt | Nuxt | `#00DC82` 🟢 | `#00DC82` 🟢 | `#FF6D00` 🟠 | 框架, Vue, 绿色 |
+| nextjs | Next.js | `#000000` ⬛ | `#0070F3` 🔵 | `#000000` ⬛ | 框架, React, 黑色 |
+| remix | Remix | `#121212` ⬛ | `#1D4ED8` 🔵 | `#121212` ⬛ | 框架, React, 蓝色 |
+| astro | Astro | `#FF5D01` 🟠 | `#BC52EE` 🔵 | `#FF5D01` 🟠 | 框架, 静态, 橙色 |
+| solidjs | SolidJS | `#4F88C6` 🔵 | `#2C4F7C` 🔵 | `#5DADE2` 🔵 | 框架, React, 蓝色 |
+| qwik | Qwik | `#18B6F6` 🔵 | `#0D96E9` 🔵 | `#AC7EF4` 🔵 | 框架, JS, 蓝色 |
+| deno | Deno | `#000000` ⬛ | `#FFFFFF` 🩸 | `#70FFAF` ⬜ | 运行时, JS, 黑色 |
+| bun | Bun | `#FBF0DF` 🩸 | `#000000` ⬛ | `#FBF0DF` 🩸 | 运行时, JS, 橙色 |
+| flutter | Flutter | `#02569B` 🔵 | `#13B9FD` 🔵 | `#02569B` 🔵 | 框架, Dart, 蓝色 |
+| swiftui | SwiftUI | `#0A84FF` 🔵 | `#30D158` 🟢 | `#0A84FF` 🔵 | 框架, Apple, 蓝色 |
+| jetpack | Jetpack Compose | `#6750A4` 🔵 | `#625B71` 🔵 | `#D0BCFF` 🩸 | 框架, Android, 紫色 |
+| react-native | React Native | `#61DAFB` 🔵 | `#000000` ⬛ | `#61DAFB` 🔵 | 框架, 移动, 蓝色 |
+| ionic | Ionic | `#3880FF` 🔵 | `#5260FF` 🔵 | `#3880FF` 🔵 | 框架, 混合, 蓝色 |
+| tailwindcss | Tailwind CSS | `#3B82F6` 🔵 | `#6366F1` 🔵 | `#8B5CF6` 🔵 | 框架, CSS, 蓝色 |
+| uno-css | UnoCSS | `#999999` ⬜ | `#333333` ⬛ | `#1E293B` ⬛ | 框架, CSS, 绿色 |
+| panda-css | Panda CSS | `#6C63FF` 🔵 | `#A78BFA` 🔵 | `#6C63FF` 🔵 | 框架, CSS, 紫色 |
+| vanilla-extract | vanilla-extract | `#9333EA` 🔵 | `#7C3AED` 🔵 | `#9333EA` 🔵 | 框架, CSS, 紫色 |
+
+---
+
+## 十三、全球行业配色方案（116套）
+
+| ID | 名称 | 主色 | 辅色 | 强调色 | 标签 |
+|----|------|------|------|--------|------|
+| airline-emirates | Emirates 风格 | `#D71A21` 🔴 | `#FFFFFF` 🩸 | `#D4AF37` 🟠 | 航空, 奢华, 红色 |
+| airline-singapore | Singapore Airlines 风格 | `#FCB130` 🟠 | `#1D4886` 🔵 | `#FCB130` 🟠 | 航空, 奢华, 金黄 |
+| airline-delta | Delta 风格 | `#E3132C` 🔴 | `#003268` ⬛ | `#E3132C` 🔴 | 航空, 美国, 红色 |
+| airline-lufthansa | Lufthansa 风格 | `#0A1D3D` ⬛ | `#F5CB5C` 🟡 | `#0A1D3D` ⬛ | 航空, 德国, 深蓝 |
+| airline-ana | ANA 风格 | `#0B318F` ⬛ | `#FFFFFF` 🩸 | `#0B318F` ⬛ | 航空, 日本, 蓝色 |
+| airline-qatar | Qatar Airways 风格 | `#660033` ⬛ | `#666666` ⬛ | `#8C6B50` 🟠 | 航空, 中东, 紫色 |
+| airline-ryanair | Ryanair 风格 | `#073590` ⬛ | `#F5C518` 🟠 | `#073590` ⬛ | 航空, 廉价, 黄色 |
+| airline-southwest | Southwest 风格 | `#304CB2` 🔵 | `#E4002B` 🔴 | `#F9A01B` 🟠 | 航空, 美国, 蓝色 |
+| hotel-hilton | Hilton 风格 | `#1E4380` 🔵 | `#FFFFFF` 🩸 | `#C9A84C` 🟠 | 酒店, 奢华, 蓝色 |
+| hotel-marriott | Marriott 风格 | `#A80023` 🟠 | `#1C1C1C` ⬛ | `#A80023` 🟠 | 酒店, 商务, 红色 |
+| hotel-hyatt | Hyatt 风格 | `#4A78AB` 🔵 | `#FFFFFF` 🩸 | `#4A78AB` 🔵 | 酒店, 现代, 蓝色 |
+| hotel-sheraton | Sheraton 风格 | `#6E6260` 🟠 | `#F5D4B7` 🩸 | `#6E6260` 🟠 | 酒店, 经典, 暖灰 |
+| hotel-ritz | Ritz-Carlton 风格 | `#006B95` 🔵 | `#B3812A` 🟠 | `#006B95` 🔵 | 酒店, 奢华, 深蓝 |
+| hotel-airbnb | Airbnb 风格 | `#FF5A5F` 🟠 | `#E0484D` 🔴 | `#FF5A5F` 🟠 | 民宿, 旅行, 珊瑚红 |
+| hotel-booking | Booking 风格 | `#003580` ⬛ | `#00264D` ⬛ | `#003580` ⬛ | 预订, 旅行, 深蓝 |
+| bank-hsbc | HSBC 风格 | `#DB0011` 🔴 | `#FFFFFF` 🩸 | `#DB0011` 🔴 | 银行, 全球, 红色 |
+| bank-citi | Citi 风格 | `#003A72` ⬛ | `#FFFFFF` 🩸 | `#003A72` ⬛ | 银行, 美国, 蓝色 |
+| bank-goldman | Goldman Sachs 风格 | `#7399C6` 🔵 | `#FFFFFF` 🩸 | `#7399C6` 🔵 | 银行, 投资, 浅蓝 |
+| bank-jpmorgan | JPMorgan 风格 | `#003087` ⬛ | `#FFFFFF` 🩸 | `#003087` ⬛ | 银行, 美国, 蓝色 |
+| bank-deutsche | Deutsche Bank 风格 | `#0018A8` ⬛ | `#00A3E0` 🔵 | `#0018A8` ⬛ | 银行, 德国, 蓝色 |
+| bank-bnp | BNP Paribas 风格 | `#00965E` 🟢 | `#FFFFFF` 🩸 | `#00965E` 🟢 | 银行, 法国, 绿色 |
+| bank-icbc | ICBC 风格 | `#C41230` 🔴 | `#FFFFFF` 🩸 | `#C41230` 🔴 | 银行, 中国, 红色 |
+| bank-ccb | CCB 风格 | `#003DA5` 🔵 | `#FFFFFF` 🩸 | `#003DA5` 🔵 | 银行, 中国, 蓝色 |
+| bank-boc | BOC 风格 | `#C41230` 🔴 | `#FFFFFF` 🩸 | `#B8860B` 🟠 | 银行, 中国, 红色 |
+| bank-abc | ABC 风格 | `#008C50` 🟢 | `#FFFFFF` 🩸 | `#FFD700` 🟡 | 银行, 中国, 绿色 |
+| telecom-att | AT&T 风格 | `#00A8E0` 🔵 | `#FFFFFF` 🩸 | `#00A8E0` 🔵 | 电信, 美国, 蓝色 |
+| telecom-verizon | Verizon 风格 | `#EE0000` 🔴 | `#FFFFFF` 🩸 | `#EE0000` 🔴 | 电信, 美国, 红色 |
+| telecom-tmobile | T-Mobile 风格 | `#EA0A8E` 🔴 | `#FFFFFF` 🩸 | `#EA0A8E` 🔴 | 电信, 美国, 品红 |
+| telecom-vodafone | Vodafone 风格 | `#E60000` 🔴 | `#FFFFFF` 🩸 | `#E60000` 🔴 | 电信, 英国, 红色 |
+| telecom-china-mobile | 中国移动 风格 | `#8CC518` 🟢 | `#0066CC` 🔵 | `#8CC518` 🟢 | 电信, 中国, 绿色 |
+| telecom-china-telecom | 中国电信 风格 | `#2037AC` 🔵 | `#FFFFFF` 🩸 | `#2037AC` 🔵 | 电信, 中国, 蓝色 |
+| telecom-china-unicom | 中国联通 风格 | `#E60012` 🔴 | `#FFFFFF` 🩸 | `#E60012` 🔴 | 电信, 中国, 红色 |
+| telecom-docomo | NTT Docomo 风格 | `#CC0033` 🔴 | `#FFFFFF` 🩸 | `#CC0033` 🔴 | 电信, 日本, 红色 |
+| telecom-orange | Orange 风格 | `#FF7900` 🟠 | `#FFFFFF` 🩸 | `#FF7900` 🟠 | 电信, 法国, 橙色 |
+| telecom-telefonica | Telefonica 风格 | `#0066FF` 🔵 | `#FFFFFF` 🩸 | `#0066FF` 🔵 | 电信, 西班牙, 蓝色 |
+| energy-solar | 太阳能/新能源 | `#F9A825` 🟠 | `#FFD600` 🟡 | `#43A047` 🟢 | 能源, 环保, 黄色 |
+| energy-oil | 石油/能源 | `#1A237E` ⬛ | `#283593` 🔵 | `#FF8F00` 🟠 | 能源, 石油, 深蓝 |
+| mining | 矿业/资源 | `#5D4037` 🟠 | `#795548` 🟠 | `#FFB300` 🟠 | 矿业, 资源, 棕色 |
+| shipping | 航运/物流 | `#0D47A1` 🔵 | `#1565C0` 🔵 | `#FF6F00` 🟠 | 航运, 物流, 深蓝 |
+| railway | 铁路/交通 | `#1B5E20` 🟢 | `#00695C` 🟢 | `#FFD600` 🟡 | 铁路, 交通, 蓝色 |
+| construction | 建筑/工程 | `#F9A825` 🟠 | `#FF6F00` 🟠 | `#37474F` 🔵 | 建筑, 工程, 黄色 |
+| mining-tech | 矿业科技 | `#1A237E` ⬛ | `#FF6F00` 🟠 | `#1A237E` ⬛ | 矿业, 科技, 深蓝 |
+| space | 航天/太空 | `#0D1B2A` ⬛ | `#1B3A5C` 🔵 | `#00D4FF` 🔵 | 航天, 太空, 深蓝 |
+| defense | 国防/军事 | `#1B3A1B` ⬛ | `#2E4A2E` 🟢 | `#8B6914` 🟠 | 国防, 军事, 深绿 |
+| government | 政府/政务 | `#C41E3A` 🔴 | `#002395` ⬛ | `#C41E3A` 🔴 | 政府, 政务, 红色 |
+| diplomacy | 外交/国际 | `#003399` ⬛ | `#C8102E` 🔴 | `#003399` ⬛ | 外交, 国际, 蓝色 |
+| education-k12 | K12教育 | `#2196F3` 🔵 | `#FF9800` 🟠 | `#4CAF50` 🟢 | 教育, 中小学, 蓝色 |
+| education-higher | 高等教育 | `#1A237E` ⬛ | `#B71C1C` 🔴 | `#1A237E` ⬛ | 教育, 大学, 深蓝 |
+| education-online | 在线教育 | `#7C4DFF` 🔵 | `#00BCD4` 🔵 | `#FF6D00` 🟠 | 教育, 在线, 紫色 |
+| research | 科研/学术 | `#0D47A1` 🔵 | `#1565C0` 🔵 | `#FFB300` 🟠 | 科研, 学术, 深蓝 |
+| library | 图书馆/出版 | `#5D4037` 🟠 | `#8D6E63` 🟠 | `#FF8F00` 🟠 | 图书馆, 出版, 棕色 |
+| museum | 博物馆/文化 | `#880E4F` 🟠 | `#1A237E` ⬛ | `#F9A825` 🟠 | 博物馆, 文化, 深红 |
+| theater | 剧院/演艺 | `#880E4F` 🟠 | `#B71C1C` 🔴 | `#FFD600` 🟡 | 剧院, 演艺, 深红 |
+| music | 音乐/乐器 | `#7B1FA2` 🔵 | `#E91E63` 🔴 | `#7B1FA2` 🔵 | 音乐, 乐器, 紫色 |
+| film | 电影/影视 | `#0D1B2A` ⬛ | `#1B3A5C` 🔵 | `#FFD700` 🟡 | 电影, 影视, 深蓝 |
+| photography | 摄影/影像 | `#212121` ⬛ | `#757575` ⬛ | `#FF6F00` 🟠 | 摄影, 影像, 黑色 |
+| gaming-mobile | 手游/休闲游戏 | `#FF6B6B` 🟠 | `#4ECDC4` 🟢 | `#FFE66D` ⬜ | 游戏, 手游, 多彩 |
+| gaming-pc | 端游/3A游戏 | `#1A1A2E` ⬛ | `#16213E` ⬛ | `#E94560` 🔴 | 游戏, 端游, 深色 |
+| gaming-casino | 博彩/赌场 | `#DAA520` 🟠 | `#8B0000` ⬛ | `#DAA520` 🟠 | 博彩, 赌场, 金色 |
+| crypto | 加密货币/Web3 | `#6F42C1` 🔵 | `#0DCAF0` 🔵 | `#6F42C1` 🔵 | 加密, Web3, 紫色 |
+| ai-ml | AI/机器学习 | `#1A1A2E` ⬛ | `#7C4DFF` 🔵 | `#00D4FF` 🔵 | AI, ML, 深蓝 |
+| iot | IoT/物联网 | `#00838F` 🔵 | `#00ACC1` 🔵 | `#FF6D00` 🟠 | IoT, 物联网, 青色 |
+| blockchain | 区块链 | `#2196F3` 🔵 | `#00BCD4` 🔵 | `#FF9800` 🟠 | 区块链, 技术, 蓝色 |
+| cloud | 云计算 | `#0277BD` 🔵 | `#00BCD4` 🔵 | `#FF6D00` 🟠 | 云计算, 技术, 蓝色 |
+| cybersecurity | 网络安全 | `#0D1B2A` ⬛ | `#1B3A5C` 🔵 | `#00E676` 🟢 | 安全, 网络, 深蓝 |
+| data-science | 数据科学 | `#6A1B9A` 🔵 | `#00BCD4` 🔵 | `#FF6D00` 🟠 | 数据, 分析, 紫色 |
+| devops | DevOps/运维 | `#FF6D00` 🟠 | `#0277BD` 🔵 | `#FF6D00` 🟠 | DevOps, 运维, 橙色 |
+| dating | 约会/婚恋 | `#E91E63` 🔴 | `#F48FB1` 🟠 | `#E91E63` 🔴 | 约会, 婚恋, 粉色 |
+| wedding | 婚礼/婚庆 | `#D4AF37` 🟠 | `#F8BBD0` 🩸 | `#D4AF37` 🟠 | 婚礼, 婚庆, 金色 |
+| funeral | 殡葬/纪念 | `#37474F` 🔵 | `#78909C` 🔵 | `#37474F` 🔵 | 殡葬, 纪念, 灰色 |
+| pet-grooming | 宠物美容 | `#F48FB1` 🟠 | `#FCE4EC` 🩸 | `#FF8A65` 🟠 | 宠物, 美容, 粉色 |
+| veterinary | 兽医/宠物医疗 | `#43A047` 🟢 | `#81C784` 🟢 | `#43A047` 🟢 | 兽医, 宠物, 绿色 |
+| gardening | 园艺/花卉 | `#558B2F` 🟢 | `#8BC34A` 🟢 | `#FF8F00` 🟠 | 园艺, 花卉, 绿色 |
+| fishing | 钓鱼/户外 | `#0277BD` 🔵 | `#00838F` 🔵 | `#FF6D00` 🟠 | 钓鱼, 户外, 蓝色 |
+| camping | 露营/户外 | `#33691E` 🟢 | `#8BC34A` 🟢 | `#FF8F00` 🟠 | 露营, 户外, 绿色 |
+| surfing | 冲浪/水上运动 | `#00ACC1` 🔵 | `#00E5FF` 🔵 | `#FF6D00` 🟠 | 冲浪, 水上, 青蓝 |
+| yoga | 瑜伽/冥想 | `#7E57C2` 🔵 | `#B39DDB` 🔵 | `#7E57C2` 🔵 | 瑜伽, 冥想, 紫色 |
+| gym | 健身房/私教 | `#D32F2F` 🔴 | `#FF5722` 🟠 | `#D32F2F` 🔴 | 健身, 私教, 红色 |
+| martial-arts | 武术/格斗 | `#212121` ⬛ | `#D32F2F` 🔴 | `#FFD600` 🟡 | 武术, 格斗, 黑色 |
+| chess | 国际象棋/智力 | `#5D4037` 🟠 | `#8D6E63` 🟠 | `#FFD600` 🟡 | 棋类, 智力, 棕色 |
+| esports | 电竞/赛事 | `#7C4DFF` 🔵 | `#00E676` 🟢 | `#FF1744` 🔴 | 电竞, 赛事, 紫色 |
+| streaming | 直播/主播 | `#FF4081` 🟠 | `#7C4DFF` 🔵 | `#FF4081` 🟠 | 直播, 主播, 粉色 |
+| podcast | 播客/音频 | `#7B1FA2` 🔵 | `#E91E63` 🔴 | `#7B1FA2` 🔵 | 播客, 音频, 紫色 |
+| newsletter | 邮件订阅 | `#1976D2` 🔵 | `#42A5F5` 🔵 | `#1976D2` 🔵 | 邮件, 订阅, 蓝色 |
+| crm | CRM/客户管理 | `#0277BD` 🔵 | `#00BCD4` 🔵 | `#FF6D00` 🟠 | CRM, 管理, 蓝色 |
+| erp | ERP/企业资源 | `#1A237E` ⬛ | `#283593` 🔵 | `#FF8F00` 🟠 | ERP, 企业, 深蓝 |
+| hr | HR/人力资源 | `#1976D2` 🔵 | `#42A5F5` 🔵 | `#FF6D00` 🟠 | HR, 人力, 蓝色 |
+| accounting | 会计/财务 | `#2E7D32` 🟢 | `#43A047` 🟢 | `#FF8F00` 🟠 | 会计, 财务, 绿色 |
+| legal-tech | 法律科技 | `#1B2A4A` ⬛ | `#C9A84C` 🟠 | `#1B2A4A` ⬛ | 法律, 科技, 深蓝 |
+| real-estate-cn | 房产/中介(中国) | `#E53935` 🔴 | `#FF7043` 🟠 | `#E53935` 🔴 | 房产, 中国, 红色 |
+| second-hand | 二手/闲置 | `#43A047` 🟢 | `#FF8F00` 🟠 | `#43A047` 🟢 | 二手, 闲置, 绿色 |
+| coupon | 优惠券/折扣 | `#D32F2F` 🔴 | `#FF6F00` 🟠 | `#D32F2F` 🔴 | 优惠券, 折扣, 红色 |
+| lottery | 彩票/抽奖 | `#D32F2F` 🔴 | `#FFD700` 🟡 | `#D32F2F` 🔴 | 彩票, 抽奖, 红色 |
+| charity-intl | 国际公益 | `#1565C0` 🔵 | `#00BCD4` 🔵 | `#FF6D00` 🟠 | 公益, 国际, 蓝色 |
+| religion | 宗教/信仰 | `#DAA520` 🟠 | `#1A237E` ⬛ | `#DAA520` 🟠 | 宗教, 信仰, 金色 |
+| astrology | 占星/星座 | `#4A148C` ⬛ | `#7B1FA2` 🔵 | `#FFD700` 🟡 | 占星, 星座, 紫色 |
+| cbd | CBD/大麻 | `#2E7D32` 🟢 | `#81C784` 🟢 | `#FFD700` 🟡 | CBD, 健康, 绿色 |
+| tattoo | 纹身/刺青 | `#212121` ⬛ | `#D32F2F` 🔴 | `#212121` ⬛ | 纹身, 艺术, 黑色 |
+| coffee-shop | 咖啡馆 | `#4E342E` 🟠 | `#8D6E63` 🟠 | `#FF8F00` 🟠 | 咖啡, 餐饮, 棕色 |
+| bakery | 烘焙/面包 | `#E65100` 🟠 | `#FF8F00` 🟠 | `#4E342E` 🟠 | 烘焙, 面包, 橙色 |
+| wine | 葡萄酒/酒庄 | `#880E4F` 🟠 | `#1B5E20` 🟢 | `#DAA520` 🟠 | 葡萄酒, 酒庄, 深红 |
+| beer | 啤酒/精酿 | `#F9A825` 🟠 | `#FF6F00` 🟠 | `#5D4037` 🟠 | 啤酒, 精酿, 金色 |
+| tea | 茶饮/茶文化 | `#33691E` 🟢 | `#8BC34A` 🟢 | `#D7CCC8` 🩸 | 茶饮, 文化, 绿色 |
+| dessert | 甜品/蛋糕 | `#F48FB1` 🟠 | `#FCE4EC` 🩸 | `#FF8A65` 🟠 | 甜品, 蛋糕, 粉色 |
+| flower | 鲜花/花艺 | `#EC407A` 🔴 | `#F8BBD0` 🩸 | `#4CAF50` 🟢 | 鲜花, 花艺, 粉色 |
+| jewelry | 珠宝/首饰 | `#DAA520` 🟠 | `#1A237E` ⬛ | `#DAA520` 🟠 | 珠宝, 首饰, 金色 |
+| eyewear | 眼镜/光学 | `#1565C0` 🔵 | `#42A5F5` 🔵 | `#FF6D00` 🟠 | 眼镜, 光学, 蓝色 |
+| cosmetics | 化妆品 | `#EC407A` 🔴 | `#F8BBD0` 🩸 | `#EC407A` 🔴 | 化妆品, 美妆, 粉色 |
+| skincare | 护肤品 | `#E8F5E9` 🩸 | `#43A047` 🟢 | `#E8F5E9` 🩸 | 护肤, 美容, 白色 |
+| perfume | 香水/香氛 | `#6A1B9A` 🔵 | `#CE93D8` 🔵 | `#6A1B9A` 🔵 | 香水, 香氛, 紫色 |
+| baby | 母婴/育儿 | `#81D4FA` 🔵 | `#F48FB1` 🟠 | `#81D4FA` 🔵 | 母婴, 育儿, 浅蓝 |
+| toy | 玩具/童趣 | `#FF6B6B` 🟠 | `#4ECDC4` 🟢 | `#FFE66D` ⬜ | 玩具, 儿童, 多彩 |
+| senior | 养老/银发 | `#1565C0` 🔵 | `#42A5F5` 🔵 | `#1565C0` 🔵 | 养老, 银发, 蓝色 |
+| accessibility | 无障碍/辅助 | `#0277BD` 🔵 | `#00BCD4` 🔵 | `#FF6D00` 🟠 | 无障碍, 辅助, 蓝色 |
+| sustainability | 可持续发展 | `#2E7D32` 🟢 | `#81C784` 🟢 | `#FFD700` 🟡 | 可持续, 环保, 绿色 |
+| carbon-neutral | 碳中和 | `#00695C` 🟢 | `#4DB6AC` 🟢 | `#FFD700` 🟡 | 碳中和, 环保, 青绿 |
+
+---
+
+## 十四、设计风格配色方案（31套）
+
+| ID | 名称 | 主色 | 辅色 | 强调色 | 标签 |
+|----|------|------|------|--------|------|
+| glassmorphism | Glassmorphism 玻璃拟态 | `#6C63FF` 🔵 | `#A8A4FF` 🔵 | `#FF6584` 🟠 | 玻璃, 拟态, 半透明 |
+| neumorphism | Neumorphism 新拟物 | `#E0E5EC` 🩸 | `#A3B1C6` 🔵 | `#6C63FF` 🔵 | 新拟物, 柔和, 凸凹 |
+| brutalism | Brutalism 粗野主义 | `#FF0000` 🔴 | `#000000` ⬛ | `#FFFF00` 🟡 | 粗野, 原始, 高对比 |
+| minimalism-v2 | Minimalism v2 极简2.0 | `#333333` ⬛ | `#F5F5F5` 🩸 | `#333333` ⬛ | 极简, 留白, 克制 |
+| flat-2 | Flat Design 2.0 扁平2.0 | `#3498DB` 🔵 | `#E74C3C` 🔴 | `#2ECC71` 🟢 | 扁平, 鲜明, 微阴影 |
+| gradient-mesh | Gradient Mesh 渐变网格 | `#667EEA` 🔵 | `#764BA2` 🔵 | `#F093FB` 🔵 | 渐变, 多彩, 流动 |
+| dark-first | Dark Mode First 暗色优先 | `#121212` ⬛ | `#1E1E2E` ⬛ | `#BB86FC` 🔵 | 暗色, 护眼, 沉浸 |
+| retro-futurism | Retro Futurism 复古未来 | `#FF6B35` 🟠 | `#004E89` 🔵 | `#39FF14` 🟢 | 复古, 未来, 霓虹 |
+| organic | Organic/Natural 有机自然 | `#8B9D83` 🟢 | `#D4C5A9` 🟠 | `#6B8F71` 🟢 | 有机, 自然, 大地色 |
+| swiss | Swiss Style 瑞士风格 | `#FF0000` 🔴 | `#000000` ⬛ | `#FFFFFF` 🩸 | 瑞士, 网格, 理性 |
+| memphis | Memphis 孟菲斯风格 | `#FF6B6B` 🟠 | `#4ECDC4` 🟢 | `#FFE66D` ⬜ | 孟菲斯, 几何, 多彩 |
+| bauhaus | Bauhaus 包豪斯 | `#DD0000` 🔴 | `#0000DD` ⬛ | `#FFCC00` 🟠 | 包豪斯, 几何, 三原色 |
+| art-deco | Art Deco 装饰艺术 | `#D4AF37` 🟠 | `#000000` ⬛ | `#C0C0C0` ⬜ | 装饰, 金色, 几何 |
+| vaporwave | Vaporwave 蒸汽波 | `#FF71CE` 🟠 | `#01CDFE` 🔵 | `#05FFA1` 🟢 | 蒸汽波, 复古, 粉紫 |
+| material-you | Material You 动态色彩 | `#6750A4` 🔵 | `#625B71` 🔵 | `#D0BCFF` 🩸 | Material, 动态, 紫色 |
+| brutalist-web | Brutalist Web 粗野网页 | `#FFFFFF` 🩸 | `#000000` ⬛ | `#FF0000` 🔴 | 粗野, 网页, 原始 |
+| claymorphism | Claymorphism 粘土拟态 | `#FFB3BA` 🩸 | `#BAE1FF` ⬜ | `#BAFFC9` ⬜ | 粘土, 柔和, 圆润 |
+| aurora | Aurora 极光风格 | `#00C9FF` 🔵 | `#92FE9D` ⬜ | `#F9F586` ⬜ | 极光, 渐变, 梦幻 |
+| glassmorphism-dark | Glassmorphism Dark 暗色玻璃 | `#0F0F23` ⬛ | `#1A1A3E` ⬛ | `#7B68EE` 🔵 | 玻璃, 暗色, 半透明 |
+| neobrutalism | Neo-Brutalism 新粗野 | `#FF6B6B` 🟠 | `#4ECDC4` 🟢 | `#FFE66D` ⬜ | 新粗野, 明亮, 粗边框 |
+| solarpunk | Solarpunk 太阳朋克 | `#2E7D32` 🟢 | `#F9A825` 🟠 | `#81C784` 🟢 | 太阳朋克, 绿色, 未来 |
+| cottagecore | Cottagecore 田园风 | `#A5D6A7` 🟢 | `#EFEBE9` 🩸 | `#8D6E63` 🟠 | 田园, 自然, 柔和 |
+| dark-academic | Dark Academic 暗黑学术 | `#3E2723` ⬛ | `#D7CCC8` 🩸 | `#8D6E63` 🟠 | 学术, 暗色, 棕色 |
+| cyberpunk-v2 | Cyberpunk 2077 赛博朋克 | `#FCEE0A` 🟡 | `#00D4FF` 🔵 | `#FF003C` 🔴 | 赛博朋克, 霓虹, 深色 |
+| jungle-ui | Jungle UI 丛林风 | `#1B5E20` 🟢 | `#4E342E` 🟠 | `#FFD600` 🟡 | 丛林, 绿色, 有机 |
+| glassmorphism-light | Glassmorphism Light 亮色玻璃 | `#667EEA` 🔵 | `#764BA2` 🔵 | `#F093FB` 🔵 | 玻璃, 亮色, 清新 |
+| retro-pixel | Retro Pixel 复古像素 | `#00FF41` 🟢 | `#000000` ⬛ | `#FF00FF` ⬛ | 像素, 复古, 8bit |
+| organic-soft | Organic Soft 有机柔和 | `#F5F0EB` 🩸 | `#A5D6A7` 🟢 | `#8D6E63` 🟠 | 有机, 柔和, 奶油色 |
+| mono-chrome | Monochrome 单色 | `#000000` ⬛ | `#FFFFFF` 🩸 | `#808080` ⬜ | 单色, 极简, 黑白 |
+| duotone | Duotone 双色调 | `#667EEA` 🔵 | `#F093FB` 🔵 | `#FFFFFF` 🩸 | 双色调, 艺术, 对比 |
+| isometric | Isometric 等距风格 | `#FF6B6B` 🟠 | `#4ECDC4` 🟢 | `#FFE66D` ⬜ | 等距, 3D, 多彩 |
+
+---
+
+## 十五、文化配色方案（31套）
+
+| ID | 名称 | 主色 | 辅色 | 强调色 | 标签 |
+|----|------|------|------|--------|------|
+| jp-traditional | 日本传统色 | `#264653` 🔵 | `#FFB7C5` 🩸 | `#C9A84C` 🟠 | 日本, 传统, 靛蓝 |
+| jp-modern | 日本现代品牌 | `#000000` ⬛ | `#FFFFFF` 🩸 | `#C0392B` 🔴 | 日本, 现代, 极简 |
+| kr-traditional | 韩国传统色(五方色) | `#0047AB` 🔵 | `#CD2E3A` 🔴 | `#FDD835` 🟡 | 韩国, 传统, 五色 |
+| kr-modern | 韩国现代品牌 | `#FEE500` 🟡 | `#1428A0` ⬛ | `#A50034` 🟠 | 韩国, 现代, 多彩 |
+| in-traditional | 印度传统色 | `#FF9933` 🟠 | `#138808` 🟢 | `#06038D` ⬛ | 印度, 传统, 藏红 |
+| in-modern | 印度现代品牌 | `#ED1C24` 🔴 | `#003380` ⬛ | `#FF9933` 🟠 | 印度, 现代, 红色 |
+| br-traditional | 巴西传统色 | `#009739` 🟢 | `#FEDD00` 🟡 | `#012169` ⬛ | 巴西, 传统, 绿黄 |
+| br-modern | 巴西现代品牌 | `#8A05BE` 🔵 | `#004B93` 🔵 | `#FEDD00` 🟡 | 巴西, 现代, 紫色 |
+| ru-traditional | 俄罗斯传统色 | `#FFFFFF` 🩸 | `#0039A6` 🔵 | `#D52B1E` 🔴 | 俄罗斯, 传统, 白蓝红 |
+| ru-modern | 俄罗斯现代品牌 | `#FC3F1D` 🔴 | `#0077FF` 🔵 | `#016435` 🟢 | 俄罗斯, 现代, 红色 |
+| de-brand | 德国品牌色 | `#009999` ⬛ | `#000000` ⬛ | `#DD0000` 🔴 | 德国, 品牌, 蓝色 |
+| fr-brand | 法国品牌色 | `#000000` ⬛ | `#F37021` 🟠 | `#002654` ⬛ | 法国, 品牌, 黑白 |
+| uk-brand | 英国品牌色 | `#00AFEC` 🔵 | `#DB0011` 🔴 | `#000000` ⬛ | 英国, 品牌, 蓝红 |
+| sea-modern | 东南亚现代品牌 | `#00AA13` 🟢 | `#0066FF` 🔵 | `#FF6B00` 🟠 | 东南亚, 现代, 绿色 |
+| me-modern | 中东现代品牌 | `#00E784` 🟢 | `#FC4C02` 🔴 | `#FFD700` 🟡 | 中东, 现代, 绿色 |
+| cn-traditional | 中国传统色 | `#C41E3A` 🔴 | `#DAA520` 🟠 | `#264653` 🔵 | 中国, 传统, 红色 |
+| cn-modern | 中国现代品牌 | `#E53935` 🔴 | `#1A73E8` 🔵 | `#FFB300` 🟠 | 中国, 现代, 红色 |
+| us-brand | 美国品牌色 | `#B31942` 🟠 | `#0A3161` ⬛ | `#FFFFFF` 🩸 | 美国, 品牌, 红蓝 |
+| it-brand | 意大利品牌色 | `#009246` 🟢 | `#CE2B37` 🔴 | `#009246` 🟢 | 意大利, 品牌, 绿色 |
+| es-brand | 西班牙品牌色 | `#AD1519` 🟠 | `#FABD00` 🟠 | `#AD1519` 🟠 | 西班牙, 品牌, 红色 |
+| au-brand | 澳大利亚品牌色 | `#00008B` ⬛ | `#FFD700` 🟡 | `#00843D` 🟢 | 澳大利亚, 品牌, 蓝绿 |
+| ca-brand | 加拿大品牌色 | `#FF0000` 🔴 | `#FFFFFF` 🩸 | `#FF0000` 🔴 | 加拿大, 品牌, 红色 |
+| mx-brand | 墨西哥品牌色 | `#006341` 🟢 | `#CE1126` 🔴 | `#FFFFFF` 🩸 | 墨西哥, 品牌, 绿红 |
+| af-brand | 非洲品牌色 | `#007A33` 🟢 | `#FFD700` 🟡 | `#000000` ⬛ | 非洲, 品牌, 多彩 |
+| jp-wabi | 侘寂 Wabi-Sabi | `#808080` ⬜ | `#D7CCC8` 🩸 | `#5D4037` 🟠 | 日本, 侘寂, 灰色 |
+| scandi | 斯堪的纳维亚风格 | `#546E7A` 🔵 | `#ECEFF1` 🩸 | `#FF8A65` 🟠 | 北欧, 极简, 灰色 |
+| mediterranean | 地中海风格 | `#0077B6` 🔵 | `#FFFFFF` 🩸 | `#FCBF49` 🟠 | 地中海, 蓝白, 明亮 |
+| tropical | 热带风格 | `#00B4D8` 🔵 | `#90BE6D` 🟢 | `#F9C74F` 🟡 | 热带, 多彩, 明亮 |
+| nordic-dark | 北欧暗色风格 | `#2D3436` 🔵 | `#636E72` 🔵 | `#FDCB6E` ⬜ | 北欧, 暗色, 深灰 |
+| boho-chic | 波西米亚时尚 | `#CC5500` 🟠 | `#C2B280` 🟠 | `#8FBC8F` 🟢 | 波西米亚, 时尚, 赤陶 |
+| industrial | 工业风 | `#37474F` 🔵 | `#78909C` 🔵 | `#FF6F00` 🟠 | 工业, 金属, 灰色 |
+
+---
+
+## 十六、情感配色方案（53套）
+
+| ID | 名称 | 主色 | 辅色 | 强调色 | 标签 |
+|----|------|------|------|--------|------|
+| emo-passion | 热情 | `#FF4500` 🔴 | `#FF6347` 🟠 | `#FFD700` 🟡 | 情感, 热情, 红橙 |
+| emo-calm | 平静 | `#5F9EA0` 🔵 | `#4682B4` 🔵 | `#E0FFFF` 🩸 | 情感, 平静, 蓝绿 |
+| emo-joy | 快乐 | `#FFD700` 🟡 | `#FFA500` 🟠 | `#FF6347` 🟠 | 情感, 快乐, 黄橙 |
+| emo-trust | 信任 | `#2196F3` 🔵 | `#1976D2` 🔵 | `#BBDEFB` ⬜ | 情感, 信任, 蓝色 |
+| emo-mystery | 神秘 | `#4A148C` ⬛ | `#7B1FA2` 🔵 | `#E1BEE7` 🩸 | 情感, 神秘, 深紫 |
+| emo-elegance | 优雅 | `#D7CCC8` 🩸 | `#AD1457` 🟠 | `#F8BBD0` 🩸 | 情感, 优雅, 灰粉 |
+| emo-energy | 能量 | `#39FF14` 🟢 | `#00E5FF` 🔵 | `#FF6EC7` 🟠 | 情感, 能量, 荧光绿 |
+| emo-romance | 浪漫 | `#FF69B4` 🟠 | `#FF1493` 🔴 | `#FFF0F5` 🩸 | 情感, 浪漫, 粉红 |
+| emo-power | 力量 | `#8B0000` ⬛ | `#B22222` 🟠 | `#FFD700` 🟡 | 情感, 力量, 深红 |
+| emo-freshness | 清新 | `#98FF98` ⬜ | `#00E676` 🟢 | `#E0F7FA` 🩸 | 情感, 清新, 薄荷绿 |
+| emo-warmth | 温暖 | `#D2691E` 🟠 | `#DEB887` 🟠 | `#F5DEB3` 🩸 | 情感, 温暖, 橙棕 |
+| emo-cool | 酷炫 | `#0D1B2A` ⬛ | `#00D4FF` 🔵 | `#7B68EE` 🔵 | 情感, 酷炫, 深蓝 |
+| emo-nostalgia | 怀旧 | `#DAA520` 🟠 | `#8B4513` 🟠 | `#F5DEB3` 🩸 | 情感, 怀旧, 棕黄 |
+| emo-luxury | 奢华 | `#000000` ⬛ | `#DAA520` 🟠 | `#B8860B` 🟠 | 情感, 奢华, 黑金 |
+| emo-innocence | 纯真 | `#87CEEB` 🔵 | `#FFB6C1` 🩸 | `#FFF8DC` 🩸 | 情感, 纯真, 浅蓝粉 |
+| emo-adventure | 冒险 | `#FF6F00` 🟠 | `#2E7D32` 🟢 | `#FFD600` 🟡 | 情感, 冒险, 橙绿 |
+| emo-serenity | 宁静 | `#B39DDB` 🔵 | `#E1BEE7` 🩸 | `#F3E5F5` 🩸 | 情感, 宁静, 淡紫 |
+| emo-bold | 大胆 | `#FF1744` 🔴 | `#D50000` 🔴 | `#FFD600` 🟡 | 情感, 大胆, 亮红 |
+| emo-sophistication | 精致 | `#546E7A` 🔵 | `#B0BEC5` 🔵 | `#CFD8DC` 🩸 | 情感, 精致, 灰蓝 |
+| emo-playfulness | 趣味 | `#FF6B6B` 🟠 | `#4ECDC4` 🟢 | `#FFE66D` ⬜ | 情感, 趣味, 多彩 |
+| emo-professional | 专业 | `#263238` ⬛ | `#37474F` 🔵 | `#00BCD4` 🔵 | 情感, 专业, 深蓝灰 |
+| emo-dreaminess | 梦幻 | `#CE93D8` 🔵 | `#F48FB1` 🟠 | `#F3E5F5` 🩸 | 情感, 梦幻, 淡紫粉 |
+| emo-stability | 稳重 | `#1A237E` ⬛ | `#283593` 🔵 | `#5C6BC0` 🔵 | 情感, 稳重, 深蓝 |
+| emo-creativity | 创造力 | `#7C4DFF` 🔵 | `#FF6D00` 🟠 | `#00E5FF` 🔵 | 情感, 创造, 紫橙 |
+| emo-harmony | 和谐 | `#00897B` 🟢 | `#4DB6AC` 🟢 | `#B2DFDB` ⬜ | 情感, 和谐, 蓝绿 |
+| emo-excitement | 兴奋 | `#FF6D00` 🟠 | `#FF9100` 🟠 | `#FFEA00` 🟡 | 情感, 兴奋, 亮橙 |
+| emo-gratitude | 感恩 | `#F9A825` 🟠 | `#FFD54F` 🟡 | `#FFF8E1` 🩸 | 情感, 感恩, 暖黄 |
+| emo-courage | 勇气 | `#D32F2F` 🔴 | `#FFD700` 🟡 | `#BF360C` 🔴 | 情感, 勇气, 红金 |
+| emo-peace | 和平 | `#81D4FA` 🔵 | `#B3E5FC` ⬜ | `#E1F5FE` 🩸 | 情感, 和平, 浅蓝 |
+| emo-prosperity | 繁荣 | `#DAA520` 🟠 | `#2E7D32` 🟢 | `#F9A825` 🟠 | 情感, 繁荣, 金绿 |
+| emo-minimal | 极简情感 | `#212121` ⬛ | `#FAFAFA` 🩸 | `#757575` ⬛ | 情感, 极简, 黑白 |
+| emo-sunset | 日落 | `#FF6B35` 🟠 | `#FF4444` 🔴 | `#FFD700` 🟡 | 情感, 日落, 橙红 |
+| emo-ocean | 海洋 | `#006994` 🔵 | `#40E0D0` 🟢 | `#00CED1` 🔵 | 情感, 海洋, 深蓝 |
+| emo-forest | 森林 | `#1B5E20` 🟢 | `#4CAF50` 🟢 | `#8BC34A` 🟢 | 情感, 森林, 深绿 |
+| emo-volcano | 火山 | `#D32F2F` 🔴 | `#212121` ⬛ | `#FF6F00` 🟠 | 情感, 火山, 红黑 |
+| emo-arctic | 北极 | `#B3E5FC` ⬜ | `#E1F5FE` 🩸 | `#0288D1` 🔵 | 情感, 北极, 冰蓝 |
+| emo-sahara | 撒哈拉 | `#F9A825` 🟠 | `#FF8F00` 🟠 | `#5D4037` 🟠 | 情感, 沙漠, 金黄 |
+| emo-cherry-blossom | 樱花 | `#FFB7C5` 🩸 | `#FF69B4` 🟠 | `#FFF0F5` 🩸 | 情感, 樱花, 粉色 |
+| emo-autumn | 秋天 | `#E65100` 🟠 | `#BF360C` 🔴 | `#FFB74D` 🟠 | 情感, 秋天, 棕橙 |
+| emo-spring | 春天 | `#8BC34A` 🟢 | `#CDDC39` 🟢 | `#F0F4C3` 🩸 | 情感, 春天, 嫩绿 |
+| emo-summer | 夏天 | `#03A9F4` 🔵 | `#00BCD4` 🔵 | `#FFEB3B` 🟡 | 情感, 夏天, 亮蓝 |
+| emo-winter | 冬天 | `#546E7A` 🔵 | `#B0BEC5` 🔵 | `#ECEFF1` 🩸 | 情感, 冬天, 灰蓝 |
+| emo-carnival | 狂欢节 | `#FF6B6B` 🟠 | `#4ECDC4` 🟢 | `#FFE66D` ⬜ | 情感, 狂欢, 多彩 |
+| emo-royal | 皇家 | `#4A148C` ⬛ | `#DAA520` 🟠 | `#1A237E` ⬛ | 情感, 皇家, 紫金 |
+| emo-whimsical | 异想天开 | `#CE93D8` 🔵 | `#F48FB1` 🟠 | `#80DEEA` 🔵 | 情感, 异想, 粉紫 |
+| emo-grounded | 踏实 | `#5D4037` 🟠 | `#8D6E63` 🟠 | `#D7CCC8` 🩸 | 情感, 踏实, 棕色 |
+| emo-vibrant | 活力 | `#FF4081` 🟠 | `#00E676` 🟢 | `#FFEA00` 🟡 | 情感, 活力, 亮色 |
+| emo-subtle | 含蓄 | `#D7CCC8` 🩸 | `#F8BBD0` 🩸 | `#B0BEC5` 🔵 | 情感, 含蓄, 灰粉 |
+| emo-dramatic | 戏剧性 | `#000000` ⬛ | `#FFFFFF` 🩸 | `#D32F2F` 🔴 | 情感, 戏剧, 黑白红 |
+| emo-ethereal | 空灵 | `#B3E5FC` ⬜ | `#E1BEE7` 🩸 | `#F3E5F5` 🩸 | 情感, 空灵, 淡蓝紫 |
+| emo-earthy | 泥土 | `#3E2723` ⬛ | `#5D4037` 🟠 | `#8D6E63` 🟠 | 情感, 泥土, 深棕 |
+| emo-celestial | 星空 | `#0D1B2A` ⬛ | `#1A237E` ⬛ | `#7C4DFF` 🔵 | 情感, 星空, 深蓝紫 |
+| emo-tropical-sunset | 热带日落 | `#FF6B35` 🟠 | `#FF4081` 🟠 | `#FFD54F` 🟡 | 情感, 热带, 橙粉 |
+
+---
+
+## 十七、扩展配色方案（139套）
+
+| ID | 名称 | 主色 | 辅色 | 强调色 | 标签 |
+|----|------|------|------|--------|------|
+| wp-flavor | Flavor flavor | `#6C3483` 🔵 | `#8E44AD` 🔵 | `#F39C12` 🟠 | WordPress, 多功能, 紫色 |
+| wp-avada | Avada | `#2A86DB` 🔵 | `#5C9FD6` 🔵 | `#F09819` 🟠 | WordPress, 多用途, 蓝色 |
+| wp-enfold | Enfold | `#4A6FA5` 🔵 | `#7FB3D8` 🔵 | `#81D742` 🟢 | WordPress, 商务, 深蓝 |
+| wp-salient | Salient | `#78BE20` 🟢 | `#96CEB4` 🟢 | `#FF6B6B` 🟠 | WordPress, 创意, 绿色 |
+| wp-beaver | Beaver Builder | `#2D8CFF` 🔵 | `#5AA9E6` 🔵 | `#FFB81C` 🟠 | WordPress, 建站, 蓝色 |
+| wp-oceanwp-pro | OceanWP Pro | `#13AFF0` 🔵 | `#0D96E9` 🔵 | `#FF6B35` 🟠 | WordPress, 电商, 蓝色 |
+| wp-astra-pro | Astra Pro | `#0170B9` 🔵 | `#492CDD` 🔵 | `#FFC300` 🟠 | WordPress, 多功能, 蓝紫 |
+| wp-generatepress-pro | GeneratePress Pro | `#1E73BE` 🔵 | `#1B212B` ⬛ | `#575760` 🔵 | WordPress, 极简, 蓝色 |
+| wp-kadence | Kadence | `#6C3483` 🔵 | `#8E44AD` 🔵 | `#F39C12` 🟠 | WordPress, 现代, 紫色 |
+| wp-blocksy | Blocksy | `#5B5EA6` 🔵 | `#7B7FCC` 🔵 | `#FF6B35` 🟠 | WordPress, 现代, 蓝色 |
+| wp-neve | Neve | `#3B82F6` 🔵 | `#60A5FA` 🔵 | `#F59E0B` 🟠 | WordPress, 极简, 蓝色 |
+| wp-colormag | ColorMag | `#CB3434` 🔴 | `#FF4444` 🔴 | `#2ECC71` 🟢 | WordPress, 杂志, 红色 |
+| wp-newspaper | Newspaper | `#FFFFFF` 🩸 | `#333333` ⬛ | `#EB5757` 🟠 | WordPress, 新闻, 白色 |
+| wp-hello-elementor | Hello Elementor | `#8B5CF6` 🔵 | `#A78BFA` 🔵 | `#F43F5E` 🔴 | WordPress, Elementor, 紫色 |
+| wp-divi | Divi | `#2D8CFF` 🔵 | `#5AA9E6` 🔵 | `#FFB81C` 🟠 | WordPress, Elegant Themes, 蓝色 |
+| wp-bridge | Bridge | `#1A1A1A` ⬛ | `#333333` ⬛ | `#E74C3C` 🔴 | WordPress, 创意, 黑色 |
+| wp-jupiter | Jupiter | `#3B82F6` 🔵 | `#60A5FA` 🔵 | `#F59E0B` 🟠 | WordPress, 多用途, 蓝色 |
+| wp-sydney | Sydney | `#4A90D9` 🔵 | `#2980B9` 🔵 | `#F39C12` 🟠 | WordPress, 商务, 蓝色 |
+| wp-zerif-lite | Zerif Lite | `#E96656` 🟠 | `#CB4335` 🔴 | `#1ABC9C` 🟢 | WordPress, 单页, 红色 |
+| wp-illdy | Illdy | `#6C5CE7` 🔵 | `#00CECE` ⬜ | `#FD79A8` 🟠 | WordPress, 创意, 多彩 |
+| wp-storefront | Storefront | `#7F54B3` 🔵 | `#9B59B6` 🔵 | `#2ECC71` 🟢 | WordPress, WooCommerce, 紫色 |
+| wp-twentytwentyfour | Twenty Twenty-Four | `#1A1A1A` ⬛ | `#E8E8E8` 🩸 | `#D1E7DD` 🩸 | WordPress, 默认, 绿色 |
+| wp-twentytwentythree | Twenty Twenty-Three | `#E85D75` 🟠 | `#D63384` 🔴 | `#123F63` 🔵 | WordPress, 默认, 红色 |
+| wp-twentytwentytwo | Twenty Twenty-Two | `#3B3B3B` ⬛ | `#DAC4A7` 🟠 | `#E85D75` 🟠 | WordPress, 默认, 棕色 |
+| wp-twentytwentyone | Twenty Twenty-One | `#EBB02B` 🟠 | `#1D1135` ⬛ | `#F0F0F0` 🩸 | WordPress, 默认, 绿色 |
+| wp-twentytwenty | Twenty Twenty | `#1A1A1A` ⬛ | `#C62828` 🔴 | `#F0F0F0` 🩸 | WordPress, 默认, 深蓝 |
+| wp-twenty-nineteen | Twenty Nineteen | `#1A1A1A` ⬛ | `#E8E8E8` 🩸 | `#0073AA` 🔵 | WordPress, 默认, 黑色 |
+| daisyui | DaisyUI | `#5B7EE5` 🔵 | `#3B82F6` 🔵 | `#F59E0B` 🟠 | 框架, Tailwind, 蓝色 |
+| flowbite | Flowbite | `#1C64F2` 🔵 | `#3B82F6` 🔵 | `#0EA5E9` 🔵 | 框架, Tailwind, 蓝色 |
+| preline | Preline UI | `#7C3AED` 🔵 | `#8B5CF6` 🔵 | `#06B6D4` 🔵 | 框架, Tailwind, 紫色 |
+| hyperui | HyperUI | `#374151` 🔵 | `#6B7280` 🔵 | `#3B82F6` 🔵 | 框架, Tailwind, 灰色 |
+| headlessui | Headless UI | `#2563EB` 🔵 | `#1D4ED8` 🔵 | `#2563EB` 🔵 | 框架, Tailwind, 蓝色 |
+| tremor | Tremor | `#3B82F6` 🔵 | `#0EA5E9` 🔵 | `#8B5CF6` 🔵 | 框架, React, 蓝色 |
+| tabler | Tabler | `#206BC4` 🔵 | `#3B82F6` 🔵 | `#F59E0B` 🟠 | 框架, React, 蓝色 |
+| blitz | Blitz | `#1A56DB` 🔵 | `#3B82F6` 🔵 | `#F59E0B` 🟠 | 框架, React, 蓝色 |
+| park-ui | Park UI | `#10B981` 🟢 | `#34D399` 🟢 | `#F59E0B` 🟠 | 框架, React, 绿色 |
+| yamada-ui | Yamada UI | `#3182CE` 🔵 | `#63B3ED` 🔵 | `#805AD5` 🔵 | 框架, React, 蓝色 |
+| reakit | Reakit | `#4299E1` 🔵 | `#3182CE` 🔵 | `#E53E3E` 🔴 | 框架, React, 蓝色 |
+| react-aria | React Aria | `#3B82F6` 🔵 | `#60A5FA` 🔵 | `#F59E0B` 🟠 | 框架, React, 蓝色 |
+| baseui | Base UI | `#0063F7` 🔵 | `#0080FF` 🔵 | `#FF6B00` 🟠 | 框架, React, 蓝色 |
+| welcome-ui | Welcome UI | `#1A73E8` 🔵 | `#4285F4` 🔵 | `#FBBC04` 🟠 | 框架, React, 蓝色 |
+| overnext | Overnext UI | `#7C3AED` 🔵 | `#8B5CF6` 🔵 | `#06B6D4` 🔵 | 框架, React, 紫色 |
+| ind-saas-b2b | SaaS B2B | `#1E40AF` 🔵 | `#3B82F6` 🔵 | `#F59E0B` 🟠 | SaaS, B2B, 蓝色 |
+| ind-saas-b2c | SaaS B2C | `#7C3AED` 🔵 | `#A78BFA` 🔵 | `#F43F5E` 🔴 | SaaS, B2C, 紫色 |
+| ind-marketplace | Marketplace 平台 | `#059669` 🟢 | `#34D399` 🟢 | `#F59E0B` 🟠 | 平台, 市场, 绿色 |
+| ind-fintech | Fintech 金融科技 | `#2563EB` 🔵 | `#06B6D4` 🔵 | `#F59E0B` 🟠 | 金融科技, 创新, 蓝色 |
+| ind-insurtech | Insurtech 保险科技 | `#0D9488` 🟢 | `#5EEAD4` 🟢 | `#F59E0B` 🟠 | 保险科技, 创新, 青绿 |
+| ind-proptech | PropTech 房产科技 | `#1D4ED8` 🔵 | `#60A5FA` 🔵 | `#F59E0B` 🟠 | 房产科技, 创新, 蓝色 |
+| ind-edtech | EdTech 教育科技 | `#7C3AED` 🔵 | `#A78BFA` 🔵 | `#F59E0B` 🟠 | 教育科技, 创新, 紫色 |
+| ind-healthtech | HealthTech 健康科技 | `#059669` 🟢 | `#34D399` 🟢 | `#F59E0B` 🟠 | 健康科技, 创新, 绿色 |
+| ind-agritech | AgriTech 农业科技 | `#16A34A` 🟢 | `#4ADE80` 🟢 | `#F59E0B` 🟠 | 农业科技, 创新, 绿色 |
+| ind-legaltech | LegalTech 法律科技 | `#1E3A5F` 🔵 | `#3B82F6` 🔵 | `#F59E0B` 🟠 | 法律科技, 创新, 深蓝 |
+| ind-hrtech | HRTech 人力资源科技 | `#2563EB` 🔵 | `#60A5FA` 🔵 | `#F59E0B` 🟠 | HR科技, 创新, 蓝色 |
+| ind-retailtech | RetailTech 零售科技 | `#EA580C` 🟠 | `#FB923C` 🟠 | `#2563EB` 🔵 | 零售科技, 创新, 橙色 |
+| ind-foodtech | FoodTech 食品科技 | `#16A34A` 🟢 | `#4ADE80` 🟢 | `#F59E0B` 🟠 | 食品科技, 创新, 绿色 |
+| ind-traveltech | TravelTech 旅行科技 | `#0284C7` 🔵 | `#38BDF8` 🔵 | `#F59E0B` 🟠 | 旅行科技, 创新, 蓝色 |
+| ind-sporttech | SportTech 体育科技 | `#DC2626` 🔴 | `#F87171` 🟠 | `#2563EB` 🔵 | 体育科技, 创新, 红色 |
+| ind-musictech | MusicTech 音乐科技 | `#7C3AED` 🔵 | `#A78BFA` 🔵 | `#F43F5E` 🔴 | 音乐科技, 创新, 紫色 |
+| ind-greentech | GreenTech 绿色科技 | `#059669` 🟢 | `#34D399` 🟢 | `#F59E0B` 🟠 | 绿色科技, 环保, 绿色 |
+| ind-spacetech | SpaceTech 太空科技 | `#1E3A5F` 🔵 | `#3B82F6` 🔵 | `#00D4FF` 🔵 | 太空科技, 前沿, 深蓝 |
+| ind-aitools | AI Tools AI工具 | `#7C3AED` 🔵 | `#A78BFA` 🔵 | `#06B6D4` 🔵 | AI, 工具, 紫色 |
+| ind-lowcode | Low-Code/No-Code | `#2563EB` 🔵 | `#60A5FA` 🔵 | `#F59E0B` 🟠 | 低代码, 无代码, 蓝色 |
+| ind-collab | 协作/办公 | `#1D4ED8` 🔵 | `#60A5FA` 🔵 | `#F59E0B` 🟠 | 协作, 办公, 蓝色 |
+| ind-wiki | 百科/知识库 | `#1E40AF` 🔵 | `#3B82F6` 🔵 | `#F59E0B` 🟠 | 百科, 知识, 蓝色 |
+| ind-forum | 论坛/社区 | `#2563EB` 🔵 | `#60A5FA` 🔵 | `#F59E0B` 🟠 | 论坛, 社区, 蓝色 |
+| ind-ecommerce-luxury | 奢侈品电商 | `#000000` ⬛ | `#D4AF37` 🟠 | `#1A1A2E` ⬛ | 奢侈品, 电商, 黑色 |
+| ind-ecommerce-cross | 跨境电商 | `#1E40AF` 🔵 | `#3B82F6` 🔵 | `#F59E0B` 🟠 | 跨境, 电商, 蓝色 |
+| ind-d2c | D2C 品牌直营 | `#DC2626` 🔴 | `#F87171` 🟠 | `#F59E0B` 🟠 | D2C, 品牌, 红色 |
+| ind-subscription | 订阅制 | `#7C3AED` 🔵 | `#A78BFA` 🔵 | `#F59E0B` 🟠 | 订阅, 会员, 紫色 |
+| ind-marketplace-services | 服务交易平台 | `#2563EB` 🔵 | `#60A5FA` 🔵 | `#F59E0B` 🟠 | 服务, 平台, 蓝色 |
+| ind-crowdfunding | 众筹平台 | `#059669` 🟢 | `#34D399` 🟢 | `#F59E0B` 🟠 | 众筹, 平台, 绿色 |
+| ind-dating-app | 约会App | `#EC4899` 🟠 | `#F9A8D4` 🟠 | `#EC4899` 🟠 | 约会, App, 粉色 |
+| ind-fitness-app | 健身App | `#00D4FF` 🔵 | `#39FF14` 🟢 | `#FF3366` 🔴 | 健身, App, 荧光绿 |
+| ind-meditation-app | 冥想App | `#7E57C2` 🔵 | `#B39DDB` 🔵 | `#7E57C2` 🔵 | 冥想, App, 紫色 |
+| ind-cooking-app | 美食App | `#F97316` 🟠 | `#FB923C` 🟠 | `#DC2626` 🔴 | 美食, App, 橙色 |
+| ind-pet-app | 宠物App | `#8B6914` 🟠 | `#D4A574` 🟠 | `#E8734A` 🟠 | 宠物, App, 棕色 |
+| ind-news-app | 新闻App | `#DC2626` 🔴 | `#EF4444` 🔴 | `#1E40AF` 🔵 | 新闻, App, 红色 |
+| ind-weather-app | 天气App | `#0284C7` 🔵 | `#38BDF8` 🔵 | `#F59E0B` 🟠 | 天气, App, 蓝色 |
+| ind-map-app | 地图App | `#059669` 🟢 | `#34D399` 🟢 | `#F59E0B` 🟠 | 地图, 导航, 绿色 |
+| ind-finance-app | 理财App | `#1E40AF` 🔵 | `#3B82F6` 🔵 | `#F59E0B` 🟠 | 理财, App, 蓝色 |
+| ind-social-app | 社交App | `#2563EB` 🔵 | `#60A5FA` 🔵 | `#F59E0B` 🟠 | 社交, App, 蓝色 |
+| ind-video-app | 短视频App | `#FE2C55` 🔴 | `#25F4EE` 🟢 | `#FE2C55` 🔴 | 短视频, App, 品红 |
+| ind-live-app | 直播App | `#DC2626` 🔴 | `#F87171` 🟠 | `#7C3AED` 🔵 | 直播, App, 红色 |
+| ind-podcast-app | 播客App | `#7C3AED` 🔵 | `#A78BFA` 🔵 | `#F43F5E` 🔴 | 播客, App, 紫色 |
+| ind-book-app | 阅读App | `#5D4037` 🟠 | `#8D6E63` 🟠 | `#FF8F00` 🟠 | 阅读, App, 棕色 |
+| ind-music-app | 音乐App | `#059669` 🟢 | `#34D399` 🟢 | `#F43F5E` 🔴 | 音乐, App, 绿色 |
+| style-artisan | Artisan 手工匠人 | `#6D4C41` 🟠 | `#8D6E63` 🟠 | `#FFB300` 🟠 | 风格, 手工, 棕色 |
+| style-solarpunk-v2 | Solarpunk v2 | `#2E7D32` 🟢 | `#F9A825` 🟠 | `#81C784` 🟢 | 风格, 太阳朋克, 绿色 |
+| style-lofi | Lo-Fi 低保真 | `#D4A574` 🟠 | `#8D6E63` 🟠 | `#F5DEB3` 🩸 | 风格, Lo-Fi, 暖色 |
+| style-vaporwave-v2 | Vaporwave v2 | `#FF71CE` 🟠 | `#01CDFE` 🔵 | `#05FFA1` 🟢 | 风格, 蒸汽波, 粉紫 |
+| style-frutiger | Frutiger Metro | `#003DA5` 🔵 | `#0072CE` 🔵 | `#ED1C24` 🔴 | 风格, 导视, 蓝色 |
+| style-swiss-v2 | Swiss v2 | `#FF0000` 🔴 | `#000000` ⬛ | `#FFFFFF` 🩸 | 风格, 瑞士, 红黑 |
+| style-constructivism | Constructivism 构成主义 | `#D32F2F` 🔴 | `#212121` ⬛ | `#FFD600` 🟡 | 风格, 构成, 红黑 |
+| style-de-stijl | De Stijl 风格派 | `#DD0000` 🔴 | `#0000DD` ⬛ | `#FFCC00` 🟠 | 风格, 风格派, 红蓝黄 |
+| style-pop-art | Pop Art 波普艺术 | `#FF6B6B` 🟠 | `#4ECDC4` 🟢 | `#FFE66D` ⬜ | 风格, 波普, 多彩 |
+| style-op-art | Op Art 欧普艺术 | `#000000` ⬛ | `#FFFFFF` 🩸 | `#FF0000` 🔴 | 风格, 欧普, 黑白 |
+| style-minimal-typo | Minimal Typo 极简排版 | `#111111` ⬛ | `#FAFAFA` 🩸 | `#111111` ⬛ | 风格, 排版, 黑白 |
+| style-handwritten | Handwritten 手写风 | `#5D4037` 🟠 | `#D7CCC8` 🩸 | `#FF8F00` 🟠 | 风格, 手写, 棕色 |
+| style-neo-traditional | Neo-Traditional 新传统 | `#1A237E` ⬛ | `#D4AF37` 🟠 | `#1A237E` ⬛ | 风格, 新传统, 深蓝 |
+| style-gradient-v2 | Gradient v2 渐变2.0 | `#667EEA` 🔵 | `#764BA2` 🔵 | `#F093FB` 🔵 | 风格, 渐变, 蓝紫 |
+| style-3d | 3D/WebGL 风格 | `#0D0D0D` ⬛ | `#7B2FBE` 🔵 | `#00FFFF` ⬜ | 风格, 3D, 深色 |
+| style-retro-game | Retro Game 复古游戏 | `#00FF41` 🟢 | `#0D0D0D` ⬛ | `#FF00FF` ⬛ | 风格, 复古游戏, 绿色 |
+| style-synthwave | Synthwave 合成波 | `#FF00FF` ⬛ | `#00FFFF` ⬜ | `#FF6EC7` 🟠 | 风格, 合成波, 粉紫 |
+| style-gothic | Gothic 哥特风 | `#1A1A1A` ⬛ | `#8B0000` ⬛ | `#4A148C` ⬛ | 风格, 哥特, 黑色 |
+| style-preppy | Preppy 学院风 | `#1B5E20` 🟢 | `#8D6E63` 🟠 | `#C62828` 🔴 | 风格, 学院, 绿色 |
+| style-steampunk | Steampunk 蒸汽朋克 | `#5D4037` 🟠 | `#B8860B` 🟠 | `#FF6F00` 🟠 | 风格, 蒸汽朋克, 棕色 |
+| pal-amber | 琥珀色系 | `#FFBF00` 🟠 | `#CC8400` 🟠 | `#8B6914` 🟠 | 色系, 琥珀, 暖色 |
+| pal-chartreuse | 查特酒绿 | `#00FF7F` 🟢 | `#40E0D0` 🟢 | `#008B8B` ⬛ | 色系, 酒绿, 绿色 |
+| pal-cerulean | 蔚蓝色系 | `#007BA7` 🔵 | `#00B4D8` 🔵 | `#40E0D0` 🟢 | 色系, 蔚蓝, 蓝色 |
+| pal-coral-v2 | 珊瑚色系v2 | `#FF7F50` 🟠 | `#FF6347` 🟠 | `#4ECDC4` 🟢 | 色系, 珊瑚, 暖色 |
+| pal-crimson | 绯红色系 | `#DC143C` 🔴 | `#B22222` 🟠 | `#8B0000` ⬛ | 色系, 绯红, 红色 |
+| pal-ecru | 原褐色系 | `#C2B280` 🟠 | `#A0926B` 🟠 | `#8B7D6B` 🟠 | 色系, 原褐, 中性 |
+| pal-fuchsia | 紫红色系 | `#FF00FF` ⬛ | `#C71585` 🔴 | `#8B008B` ⬛ | 色系, 紫红, 紫色 |
+| pal-goldenrod | 金菊色系 | `#DAA520` 🟠 | `#B8860B` 🟠 | `#8B6914` 🟠 | 色系, 金菊, 黄色 |
+| pal-indigo-v2 | 靛蓝色系v2 | `#4B0082` ⬛ | `#6A0DAD` 🔵 | `#00D4FF` 🔵 | 色系, 靛蓝, 蓝色 |
+| pal-jade | 翡翠色系 | `#00A86B` 🟢 | `#50C878` 🟢 | `#2E8B57` 🟢 | 色系, 翡翠, 绿色 |
+| pal-khaki | 卡其色系 | `#C3B091` 🟠 | `#8B7D6B` 🟠 | `#556B2F` 🟢 | 色系, 卡其, 棕色 |
+| pal-lavender-v2 | 薰衣草色系v2 | `#B57EDC` 🔵 | `#9B59B6` 🔵 | `#F8BBD0` 🩸 | 色系, 薰衣草, 紫色 |
+| pal-magenta | 品红色系 | `#FF00FF` ⬛ | `#FF1493` 🔴 | `#C71585` 🔴 | 色系, 品红, 粉红 |
+| pal-maroon | 栗色系 | `#800000` ⬛ | `#5C0000` ⬛ | `#8B4513` 🟠 | 色系, 栗色, 棕色 |
+| pal-mauve | 淡紫色系 | `#E0B0FF` 🔵 | `#9370DB` 🔵 | `#BA55D3` 🔵 | 色系, 淡紫, 紫色 |
+| pal-olive-v2 | 橄榄色系v2 | `#808000` ⬛ | `#6B8E23` 🟢 | `#556B2F` 🟢 | 色系, 橄榄, 绿色 |
+| pal-peach | 蜜桃色系 | `#FFDAB9` 🩸 | `#FFCBA4` 🩸 | `#FF6B6B` 🟠 | 色系, 蜜桃, 粉色 |
+| pal-periwinkle | 长春花蓝 | `#CCCCFF` 🩸 | `#9370DB` 🔵 | `#6A5ACD` 🔵 | 色系, 长春花, 蓝色 |
+| plum | 李子色系 | `#8E4585` 🟠 | `#DDA0DD` ⬜ | `#800080` ⬛ | 色系, 李子, 紫色 |
+| pal-rust | 铁锈色系 | `#B7410E` 🔴 | `#8B4513` 🟠 | `#CD853F` 🟠 | 色系, 铁锈, 橙色 |
+| pal-saffron | 藏红花色系 | `#F4C430` 🟠 | `#E8A317` 🟠 | `#DAA520` 🟠 | 色系, 藏红, 橙黄 |
+| pal-slate | 板岩色系 | `#708090` 🔵 | `#475569` 🔵 | `#334155` 🔵 | 色系, 板岩, 灰色 |
+| pal-teal-v2 | 青色系v2 | `#008080` ⬛ | `#20B2AA` 🟢 | `#006D6F` 🔵 | 色系, 青色, 蓝绿 |
+| pal-turquoise | 绿松石色系 | `#40E0D0` 🟢 | `#48D1CC` 🟢 | `#20B2AA` 🟢 | 色系, 绿松石, 蓝绿 |
+| pal-vermilion | 朱红色系 | `#E34234` 🔴 | `#FF4500` 🔴 | `#FF6347` 🟠 | 色系, 朱红, 红色 |
+| pal-wine | 葡萄酒色系 | `#722F37` 🟠 | `#5C1A1B` ⬛ | `#8B0000` ⬛ | 色系, 酒红, 红色 |
+| pal-rose | 玫瑰色系 | `#FF007F` 🔴 | `#FF1493` 🔴 | `#C71585` 🔴 | 色系, 玫瑰, 粉色 |
+| pal-sky | 天空色系 | `#87CEEB` 🔵 | `#00BFFF` 🔵 | `#4169E1` 🔵 | 色系, 天空, 蓝色 |
+| pal-forest | 森林色系 | `#228B22` 🟢 | `#006400` 🟢 | `#2E7D32` 🟢 | 色系, 森林, 深绿 |
+| pal-sunset | 日落色系 | `#FF6B35` 🟠 | `#FF4444` 🔴 | `#FFD700` 🟡 | 色系, 日落, 橙红 |
+| pal-ocean | 海洋色系 | `#006994` 🔵 | `#40E0D0` 🟢 | `#00CED1` 🔵 | 色系, 海洋, 深蓝 |
+| pal-volcano-v2 | 火山色系 | `#D32F2F` 🔴 | `#212121` ⬛ | `#FF6F00` 🟠 | 色系, 火山, 红黑 |
+| pal-arctic-v2 | 极地色系 | `#B3E5FC` ⬜ | `#E1F5FE` 🩸 | `#0288D1` 🔵 | 色系, 极地, 冰蓝 |
+
+---
+
+## 十八、批量扩展配色方案（430套）
+
+| ID | 名称 | 主色 | 辅色 | 强调色 | 标签 |
+|----|------|------|------|--------|------|
+| jp-line | LINE | `#00B900` 🟢 | `#00C300` 🟢 | `#FF4F6D` 🟠 | 日本, 通讯, 绿色 |
+| jp-yahoo-japan | Yahoo Japan | `#FF0066` 🔴 | `#6600CC` 🔵 | `#0099FF` 🔵 | 日本, 门户, 紫色 |
+| jp-rakuten | 楽天市場 | `#BF0000` 🔴 | `#FF0000` 🔴 | `#0066CC` 🔵 | 日本, 电商, 红色 |
+| jp-mercari | メルカリ | `#FFFFFF` 🩸 | `#222222` ⬛ | `#4DC8FF` 🔵 | 日本, 二手, 白色 |
+| jp-dmm | DMM.com | `#FF6600` 🟠 | `#FF8C00` 🟠 | `#333333` ⬛ | 日本, 娱乐, 橙色 |
+| jp-niconico | ニコニコ動画 | `#FFFFFF` 🩸 | `#333333` ⬛ | `#E12828` 🔴 | 日本, 视频, 白色 |
+| jp-cookpad | Cookpad | `#FF6600` 🟠 | `#FF8C00` 🟠 | `#4CAF50` 🟢 | 日本, 美食, 橙色 |
+| jp-zaim | Zaim | `#4A90D9` 🔵 | `#2E86DE` 🔵 | `#F5A623` 🟠 | 日本, 记账, 蓝色 |
+| kr-naver | NAVER | `#03C75A` 🟢 | `#00C73C` 🟢 | `#FF2442` 🔴 | 韩国, 门户, 绿色 |
+| kr-kakao | Kakao | `#3C1E1E` ⬛ | `#FEE500` 🟡 | `#3C1E1E` ⬛ | 韩国, 平台, 棕色 |
+| kr-coupang | Coupang | `#FF5A00` 🟠 | `#E4002B` 🔴 | `#00A0E9` 🔵 | 韩国, 电商, 橙色 |
+| kr-baemin | 배달의민족 | `#2AC1BC` 🟢 | `#3498DB` 🔵 | `#FF6B6B` 🟠 | 韩国, 外卖, 蓝色 |
+| kr-toss | 토스 | `#3182F6` 🔵 | `#00D1FF` 🔵 | `#FF4175` 🔴 | 韩国, 金融, 蓝色 |
+| kr-yanolja | 야놀자 | `#FF6600` 🟠 | `#FF8C00` 🟠 | `#00A0E9` 🔵 | 韩国, 旅行, 橙色 |
+| kr-kbank | KBank | `#FFD400` 🟡 | `#FFC107` 🟠 | `#333333` ⬛ | 韩国, 银行, 黄色 |
+| in-flipkart | Flipkart | `#2874F0` 🔵 | `#FB641B` 🟠 | `#FFE500` 🟡 | 印度, 电商, 蓝色 |
+| in-swiggy | Swiggy | `#FC8019` 🟠 | `#FFB74D` 🟠 | `#E23744` 🔴 | 印度, 外卖, 橙色 |
+| in-zomato | Zomato | `#E23744` 🔴 | `#FF6B6B` 🟠 | `#239DFF` 🔵 | 印度, 美食, 红色 |
+| in-paytm | Paytm | `#00BAF2` 🔵 | `#0088CC` 🔵 | `#FF6B00` 🟠 | 印度, 支付, 蓝色 |
+| in-ola | Ola | `#37B44E` 🟢 | `#4CAF50` 🟢 | `#FFC107` 🟠 | 印度, 出行, 绿色 |
+| in-byju | BYJU'S | `#9C27B0` 🔵 | `#E91E63` 🔴 | `#FF6F00` 🟠 | 印度, 教育, 红色 |
+| in-bigbasket | BigBasket | `#84C225` 🟢 | `#689F38` 🟢 | `#FF6F00` 🟠 | 印度, 生鲜, 绿色 |
+| in-udaan | Udaan | `#1A56DB` 🔵 | `#3B82F6` 🔵 | `#F59E0B` 🟠 | 印度, B2B, 蓝色 |
+| sea-grab | Grab | `#00B14F` 🟢 | `#34D399` 🟢 | `#FF6B00` 🟠 | 东南亚, 出行, 绿色 |
+| sea-gojek | Gojek | `#00AA13` 🟢 | `#4CAF50` 🟢 | `#2E86DE` 🔵 | 东南亚, 出行, 绿色 |
+| sea-shopee | Shopee | `#EE4D2D` 🔴 | `#FF6B35` 🟠 | `#FFC107` 🟠 | 东南亚, 电商, 橙色 |
+| sea-lazada | Lazada | `#0F146D` ⬛ | `#F85606` 🟠 | `#0F146D` ⬛ | 东南亚, 电商, 蓝色 |
+| sea-tokopedia | Tokopedia | `#42B549` 🟢 | `#4CAF50` 🟢 | `#FF6B00` 🟠 | 印尼, 电商, 绿色 |
+| sea-bukalapak | Bukalapak | `#E11D48` 🔴 | `#F43F5E` 🔴 | `#FF6B00` 🟠 | 印尼, 电商, 红色 |
+| sea-traveloka | Traveloka | `#2E86DE` 🔵 | `#3B82F6` 🔵 | `#FF6B00` 🟠 | 东南亚, 旅行, 蓝色 |
+| sea-carousell | Carousell | `#FF6B00` 🟠 | `#FF8C00` 🟠 | `#00B4D8` 🔵 | 东南亚, 二手, 橙色 |
+| br-mercado-livre | Mercado Livre | `#FFE600` 🟡 | `#FFC107` 🟠 | `#2E86DE` 🔵 | 巴西, 电商, 黄色 |
+| br-nubank | Nubank | `#8A05BE` 🔵 | `#7B2FBE` 🔵 | `#FFFFFF` 🩸 | 巴西, 金融, 紫色 |
+| br-ifood | iFood | `#EA1D2C` 🔴 | `#FF4444` 🔴 | `#FF6B00` 🟠 | 巴西, 外卖, 红色 |
+| br-99taxis | 99 Taxis | `#FFC107` 🟠 | `#FFD54F` 🟡 | `#333333` ⬛ | 巴西, 出行, 黄色 |
+| br-blu | Blu | `#2196F3` 🔵 | `#42A5F5` 🔵 | `#FF6B00` 🟠 | 巴西, 社交, 蓝色 |
+| ru-vk | VK | `#0077FF` 🔵 | `#4C75A3` 🔵 | `#FF3344` 🔴 | 俄罗斯, 社交, 蓝色 |
+| ru-yandex | Яндекс | `#FC3F1D` 🔴 | `#FF5F1F` 🟠 | `#FFCC00` 🟠 | 俄罗斯, 搜索, 红色 |
+| ru-ozon | Ozon | `#005BFF` 🔵 | `#3B82F6` 🔵 | `#FF6B00` 🟠 | 俄罗斯, 电商, 蓝色 |
+| ru-wildberries | Wildberries | `#7B2FBE` 🔵 | `#9C27B0` 🔵 | `#FF6B00` 🟠 | 俄罗斯, 电商, 紫色 |
+| ru-telegram | Telegram | `#0088CC` 🔵 | `#2AABEE` 🔵 | `#FF6B00` 🟠 | 俄罗斯, 通讯, 蓝色 |
+| ru-tinkoff | Tinkoff | `#FFDD2D` 🟡 | `#FFC107` 🟠 | `#1A1A1A` ⬛ | 俄罗斯, 银行, 黄色 |
+| me-careem | Careem | `#47B04B` 🟢 | `#4CAF50` 🟢 | `#FF6B00` 🟠 | 中东, 出行, 绿色 |
+| me-talabat | Talabat | `#FF6600` 🟠 | `#FF8C00` 🟠 | `#E91E63` 🔴 | 中东, 外卖, 橙色 |
+| me-noon | Noon | `#FEEE00` 🟡 | `#FFD600` 🟡 | `#333333` ⬛ | 中东, 电商, 黄色 |
+| me-stc | STC | `#6C2D82` 🔵 | `#8E44AD` 🔵 | `#00A0E9` 🔵 | 中东, 电信, 紫色 |
+| me-mumzworld | Mumzworld | `#E91E63` 🔴 | `#F48FB1` 🟠 | `#4CAF50` 🟢 | 中东, 母婴, 粉色 |
+| eu-zalando | Zalando | `#FF6900` 🟠 | `#FF8C00` 🟠 | `#1A1A1A` ⬛ | 欧洲, 时尚, 橙色 |
+| eu-deliveroo | Deliveroo | `#00CCBC` 🟢 | `#00E5D0` 🟢 | `#FF4B4B` 🟠 | 欧洲, 外卖, 绿色 |
+| eu-spar | SPAR | `#009F4D` 🟢 | `#4CAF50` 🟢 | `#FF6B00` 🟠 | 欧洲, 零售, 绿色 |
+| eu-justeat | Just Eat | `#FA6400` 🟠 | `#FF8C00` 🟠 | `#E91E63` 🔴 | 欧洲, 外卖, 橙色 |
+| eu-bolt | Bolt | `#34D058` 🟢 | `#4CAF50` 🟢 | `#FF6B00` 🟠 | 欧洲, 出行, 绿色 |
+| eu-klarna | Klarna | `#FFB3C7` 🩸 | `#E91E63` 🔴 | `#1A1A1A` ⬛ | 欧洲, 支付, 粉色 |
+| eu-wise | Wise | `#9FE870` 🟢 | `#00D4AA` 🟢 | `#1A1A1A` ⬛ | 欧洲, 转账, 绿色 |
+| eu-spotify-eu | Spotify | `#1DB954` 🟢 | `#1ED760` 🟢 | `#FFFFFF` 🩸 | 欧洲, 音乐, 绿色 |
+| af-jumia | Jumia | `#F68B1E` 🟠 | `#FF9800` 🟠 | `#EE4D2D` 🔴 | 非洲, 电商, 橙色 |
+| af-opay | OPay | `#00C853` 🟢 | `#4CAF50` 🟢 | `#FF6B00` 🟠 | 非洲, 金融, 绿色 |
+| af-bolt-af | Bolt Africa | `#34D058` 🟢 | `#4CAF50` 🟢 | `#FF6B00` 🟠 | 非洲, 出行, 绿色 |
+| af-chipper | Chipper Cash | `#0A84FF` 🔵 | `#3B82F6` 🔵 | `#FF6B00` 🟠 | 非洲, 支付, 蓝色 |
+| af-andela | Andela | `#2D3B87` 🔵 | `#3F51B5` 🔵 | `#FF6B00` 🟠 | 非洲, 技术, 蓝色 |
+| latam-uber | Uber | `#000000` ⬛ | `#276EF1` 🔵 | `#FF6B00` 🟠 | 拉美, 出行, 黑色 |
+| latam-rappi | Rappi | `#FF4F00` 🔴 | `#FF6B00` 🟠 | `#00B4D8` 🔵 | 拉美, 外卖, 橙色 |
+| latam-mercado-pago | Mercado Pago | `#009EE3` 🔵 | `#3B82F6` 🔵 | `#FF6B00` 🟠 | 拉美, 支付, 蓝色 |
+| latam-didi-latam | DiDi Latam | `#FF6B00` 🟠 | `#FF8C00` 🟠 | `#333333` ⬛ | 拉美, 出行, 橙色 |
+| latam-nu-mexico | Nu México | `#8A05BE` 🔵 | `#7B2FBE` 🔵 | `#FFFFFF` 🩸 | 墨西哥, 金融, 紫色 |
+| cms-shopify-dawn | Shopify Dawn | `#121212` ⬛ | `#FFFFFF` 🩸 | `#5C6AC4` 🔵 | Shopify, 电商, 黑色 |
+| cms-shopify-sense | Shopify Sense | `#F5E6E0` 🩸 | `#333333` ⬛ | `#E8B4B8` 🟠 | Shopify, 时尚, 粉色 |
+| cms-shopify-crave | Shopify Crave | `#FF6B35` 🟠 | `#FF8C00` 🟠 | `#2D2D2D` ⬛ | Shopify, 食品, 橙色 |
+| cms-shopify-starter | Shopify Starter | `#2563EB` 🔵 | `#3B82F6` 🔵 | `#F59E0B` 🟠 | Shopify, 入门, 蓝色 |
+| cms-shopify-craft | Shopify Craft | `#5D4037` 🟠 | `#8D6E63` 🟠 | `#FFB300` 🟠 | Shopify, 手工, 棕色 |
+| cms-wix-restaurant | Wix Restaurant | `#C62828` 🔴 | `#EF5350` 🟠 | `#FFB300` 🟠 | Wix, 餐饮, 红色 |
+| cms-wix-portfolio | Wix Portfolio | `#1A1A1A` ⬛ | `#FFFFFF` 🩸 | `#E91E63` 🔴 | Wix, 作品集, 黑色 |
+| cms-wix-fitness | Wix Fitness | `#00C853` 🟢 | `#4CAF50` 🟢 | `#FF6B00` 🟠 | Wix, 健身, 绿色 |
+| cms-wix-photography | Wix Photography | `#000000` ⬛ | `#FFFFFF` 🩸 | `#E91E63` 🔴 | Wix, 摄影, 黑色 |
+| cms-wix-music | Wix Music | `#7B2FBE` 🔵 | `#9C27B0` 🔵 | `#FF6B00` 🟠 | Wix, 音乐, 紫色 |
+| cms-squarespace-aria | Squarespace Aria | `#FFFFFF` 🩸 | `#333333` ⬛ | `#E8B4B8` 🟠 | Squarespace, 时尚, 白色 |
+| cms-squarespace-brine | Squarespace Brine | `#1A237E` ⬛ | `#3F51B5` 🔵 | `#FFB300` 🟠 | Squarespace, 商务, 深蓝 |
+| cms-squarespace-mercury | Squarespace Mercury | `#37474F` 🔵 | `#607D8B` 🔵 | `#FF6B00` 🟠 | Squarespace, 杂志, 灰色 |
+| cms-squarespace-forte | Squarespace Forte | `#4E342E` 🟠 | `#8D6E63` 🟠 | `#FFB300` 🟠 | Squarespace, 餐厅, 棕色 |
+| cms-squarespace-pacific | Squarespace Pacific | `#FFFFFF` 🩸 | `#333333` ⬛ | `#00BCD4` 🔵 | Squarespace, 创意, 白色 |
+| cms-webflow-portfolio | Webflow Portfolio | `#1A1A1A` ⬛ | `#FFFFFF` 🩸 | `#3B82F6` 🔵 | Webflow, 作品集, 黑色 |
+| cms-webflow-saas | Webflow SaaS | `#2563EB` 🔵 | `#3B82F6` 🔵 | `#F59E0B` 🟠 | Webflow, SaaS, 蓝色 |
+| cms-webflow-restaurant | Webflow Restaurant | `#1A1A1A` ⬛ | `#D4A574` 🟠 | `#C62828` 🔴 | Webflow, 餐厅, 深色 |
+| cms-webflow-real-estate | Webflow Real Estate | `#1D4ED8` 🔵 | `#3B82F6` 🔵 | `#F59E0B` 🟠 | Webflow, 房产, 蓝色 |
+| cms-webflow-startup | Webflow Startup | `#7C3AED` 🔵 | `#A78BFA` 🔵 | `#F43F5E` 🔴 | Webflow, 创业, 紫色 |
+| cms-ghost-casper | Ghost Casper | `#FFFFFF` 🩸 | `#333333` ⬛ | `#3B82F6` 🔵 | Ghost, 博客, 白色 |
+| cms-ghost-dope | Ghost Dope | `#000000` ⬛ | `#FFFFFF` 🩸 | `#FF6B6B` 🟠 | Ghost, 杂志, 黑色 |
+| cms-ghost-edition | Ghost Edition | `#DC2626` 🔴 | `#EF4444` 🔴 | `#1E40AF` 🔵 | Ghost, 新闻, 红色 |
+| cms-ghost-alto | Ghost Alto | `#37474F` 🔵 | `#607D8B` 🔵 | `#FF6B00` 🟠 | Ghost, 极简, 灰色 |
+| cms-ghost-digest | Ghost Digest | `#2563EB` 🔵 | `#3B82F6` 🔵 | `#F59E0B` 🟠 | Ghost, 邮件, 蓝色 |
+| cms-strapi | Strapi | `#4945FF` 🔵 | `#7C3AED` 🔵 | `#F59E0B` 🟠 | Headless CMS, 紫色 |
+| cms-contentful | Contentful | `#1973E8` 🔵 | `#3B82F6` 🔵 | `#F59E0B` 🟠 | Headless CMS, 蓝色 |
+| cms-sanity | Sanity | `#F43F5E` 🔴 | `#E11D48` 🔴 | `#000000` ⬛ | Headless CMS, 红色 |
+| cms-keystatic | Keystatic | `#10B981` 🟢 | `#34D399` 🟢 | `#F59E0B` 🟠 | Headless CMS, 绿色 |
+| cms-tina | Tina CMS | `#7C3AED` 🔵 | `#A78BFA` 🔵 | `#EC4899` 🟠 | Headless CMS, 紫色 |
+| cms-ghost-lyra | Ghost Lyra | `#111111` ⬛ | `#FAFAFA` 🩸 | `#E91E63` 🔴 | Ghost, 摄影, 黑色 |
+| cms-hugo-theme | Hugo Theme | `#2563EB` 🔵 | `#3B82F6` 🔵 | `#F59E0B` 🟠 | Hugo, 静态, 蓝色 |
+| cms-jekyll-theme | Jekyll Theme | `#FFFFFF` 🩸 | `#333333` ⬛ | `#3B82F6` 🔵 | Jekyll, 静态, 白色 |
+| cms-astro-theme | Astro Theme | `#FF5D01` 🟠 | `#7C3AED` 🔵 | `#FF5D01` 🟠 | Astro, 静态, 紫色 |
+| cms-nextjs-blog | Next.js Blog | `#000000` ⬛ | `#FFFFFF` 🩸 | `#0070F3` 🔵 | Next.js, 博客, 黑色 |
+| cms-gatsby-theme | Gatsby Theme | `#663399` 🔵 | `#7C3AED` 🔵 | `#FF6B00` 🟠 | Gatsby, 静态, 紫色 |
+| cms-nuxt-blog | Nuxt Blog | `#00DC82` 🟢 | `#34D399` 🟢 | `#F59E0B` 🟠 | Nuxt, 博客, 绿色 |
+| cms-svelte-blog | Svelte Blog | `#FF3E00` 🔴 | `#FF6B35` 🟠 | `#623CE4` 🔵 | Svelte, 博客, 橙色 |
+| cms-remix-blog | Remix Blog | `#121212` ⬛ | `#FFFFFF` 🩸 | `#3B82F6` 🔵 | Remix, 博客, 蓝色 |
+| cms-sellfy | Sellfy | `#2563EB` 🔵 | `#3B82F6` 🔵 | `#F59E0B` 🟠 | 电商, 数字产品, 蓝色 |
+| cms-gumroad | Gumroad | `#FF69B4` 🟠 | `#E91E63` 🔴 | `#333333` ⬛ | 电商, 创作者, 粉色 |
+| cms-lemonsqueezy | Lemon Squeezy | `#FFC233` 🟠 | `#FFD54F` 🟡 | `#1A1A1A` ⬛ | 电商, SaaS, 黄色 |
+| cms-woocommerce-storefront | WooCommerce Storefront | `#7F54B3` 🔵 | `#9B59B6` 🔵 | `#2ECC71` 🟢 | WooCommerce, 电商, 紫色 |
+| cms-magento | Magento | `#F26322` 🟠 | `#FF6B35` 🟠 | `#1A1A1A` ⬛ | Magento, 电商, 橙色 |
+| cms-bigcommerce | BigCommerce | `#34313F` 🔵 | `#3B82F6` 🔵 | `#F59E0B` 🟠 | BigCommerce, 电商, 蓝色 |
+| cms-shopware | Shopware | `#189EFF` 🔵 | `#3B82F6` 🔵 | `#FF6B00` 🟠 | Shopware, 电商, 蓝色 |
+| cms-prestashop | PrestaShop | `#4A00E0` ⬛ | `#7C3AED` 🔵 | `#FF6B00` 🟠 | PrestaShop, 电商, 紫色 |
+| cms-opencart | OpenCart | `#1E88E5` 🔵 | `#3B82F6` 🔵 | `#FF6B00` 🟠 | OpenCart, 电商, 蓝色 |
+| ui-ant-design | Ant Design | `#1677FF` 🔵 | `#4096FF` 🔵 | `#FAAD14` 🟠 | React, 组件库, 蓝色 |
+| ui-element-plus | Element Plus | `#409EFF` 🔵 | `#79BBFF` 🔵 | `#E6A23C` 🟠 | Vue, 组件库, 蓝色 |
+| ui-vuetify | Vuetify | `#1867C0` 🔵 | `#2196F3` 🔵 | `#FF6D00` 🟠 | Vue, 组件库, 蓝色 |
+| ui-naive-ui | Naive UI | `#18A058` 🟢 | `#63E2B7` 🟢 | `#F0A020` 🟠 | Vue, 组件库, 绿色 |
+| ui-arco-design | Arco Design | `#165DFF` 🔵 | `#4080FF` 🔵 | `#FF7D00` 🟠 | React, 组件库, 蓝色 |
+| ui-tdesign | TDesign | `#0052D9` 🔵 | `#3491FA` 🔵 | `#ED7B2F` 🟠 | 多框架, 组件库, 蓝色 |
+| ui-semi-design | Semi Design | `#0077FA` 🔵 | `#2AA8FF` 🔵 | `#F9BE00` 🟠 | React, 组件库, 蓝色 |
+| ui-chakra-ui | Chakra UI | `#319795` 🟢 | `#4FD1C5` 🟢 | `#D69E2E` 🟠 | React, 组件库, 青色 |
+| ui-mantine | Mantine | `#339AF0` 🔵 | `#4DABF7` 🔵 | `#FD7E14` 🟠 | React, 组件库, 蓝色 |
+| ui-nextui | NextUI | `#7C3AED` 🔵 | `#A78BFA` 🔵 | `#F59E0B` 🟠 | React, 组件库, 紫色 |
+| ui-shadcn-ui | shadcn/ui | `#FFFFFF` 🩸 | `#0F172A` ⬛ | `#2563EB` 🔵 | React, 组件库, 白色 |
+| ui-radix-ui | Radix UI | `#6B7280` 🔵 | `#9CA3AF` 🔵 | `#3B82F6` 🔵 | React, 组件库, 灰色 |
+| ui-evergreen | Evergreen | `#47B881` 🟢 | `#68D391` 🟢 | `#F6AD55` 🟠 | React, 组件库, 绿色 |
+| ui-rebass | Rebass | `#07C160` 🟢 | `#3B82F6` 🔵 | `#FF6B00` 🟠 | React, 组件库, 蓝色 |
+| ui-grommet | Grommet | `#7B2FBE` 🔵 | `#9C27B0` 🔵 | `#FF6B00` 🟠 | React, 组件库, 紫色 |
+| ui-react-bootstrap | React Bootstrap | `#7952B3` 🔵 | `#9775FA` 🔵 | `#0D6EFD` 🔵 | React, 组件库, 紫色 |
+| ui-quasar | Quasar | `#1976D2` 🔵 | `#7C3AED` 🔵 | `#FF6B00` 🟠 | Vue, 组件库, 紫色 |
+| ui-primevue | PrimeVue | `#7C3AED` 🔵 | `#A78BFA` 🔵 | `#F59E0B` 🟠 | Vue, 组件库, 紫色 |
+| ui-varlet | Varlet | `#3F51B5` 🔵 | `#5C6BC0` 🔵 | `#FF6F00` 🟠 | Vue, 组件库, 蓝色 |
+| ui-vant | Vant | `#07C160` 🟢 | `#4CAF50` 🟢 | `#FF976A` 🟠 | Vue, 移动端, 绿色 |
+| ui-nutui | NutUI | `#1A73E8` 🔵 | `#4285F4` 🔵 | `#FA6400` 🟠 | Vue, 移动端, 蓝色 |
+| ui-taro-ui | Taro UI | `#04BE02` 🟢 | `#4CAF50` 🟢 | `#FF6B00` 🟠 | Taro, 小程序, 绿色 |
+| ui-weui | WeUI | `#07C160` 🟢 | `#4CAF50` 🟢 | `#FA9D3B` 🟠 | 微信, 小程序, 绿色 |
+| ui-alipay-ui | Alipay UI | `#1677FF` 🔵 | `#3B82F6` 🔵 | `#FF6B00` 🟠 | 支付宝, 小程序, 蓝色 |
+| ui-flutter | Flutter | `#027DFD` 🔵 | `#42A5F5` 🔵 | `#FF6B00` 🟠 | Flutter, 移动端, 蓝色 |
+| ui-swiftui | SwiftUI | `#007AFF` 🔵 | `#5AC8FA` 🔵 | `#FF9500` 🟠 | SwiftUI, iOS, 蓝色 |
+| ui-jetpack-compose | Jetpack Compose | `#6750A4` 🔵 | `#D0BCFF` 🩸 | `#FFB4AB` 🩸 | Compose, Android, 紫色 |
+| ui-winui | WinUI | `#0078D4` 🔵 | `#60CDFF` 🔵 | `#FFB900` 🟠 | WinUI, Windows, 蓝色 |
+| ui-material3 | Material 3 | `#6750A4` 🔵 | `#D0BCFF` 🩸 | `#FFB4AB` 🩸 | Material, 设计, 紫色 |
+| ui-apple-hig | Apple HIG | `#007AFF` 🔵 | `#5AC8FA` 🔵 | `#FF9500` 🟠 | Apple, 设计, 蓝色 |
+| ui-human-interface | Human Interface | `#8E8E93` 🔵 | `#636366` 🔵 | `#FF9500` 🟠 | Apple, 设计, 灰色 |
+| ui-atlassian | Atlassian Design | `#0052CC` 🔵 | `#2684FF` 🔵 | `#FF991F` 🟠 | Atlassian, 设计, 蓝色 |
+| ui-shopify-polaris | Shopify Polaris | `#5C6AC4` 🔵 | `#7B61FF` 🔵 | `#EE4D2D` 🔴 | Shopify, 设计, 紫色 |
+| ui-gitlab-design | GitLab Design | `#FC6D26` 🟠 | `#E24329` 🔴 | `#6B4FBB` 🔵 | GitLab, 设计, 橙色 |
+| ui-figma-ui | Figma UI | `#A259FF` 🔵 | `#F24E1E` 🔴 | `#1ABCFE` 🔵 | Figma, 设计, 紫色 |
+| ui-sketch-ui | Sketch UI | `#F7B500` 🟠 | `#FDAD00` 🟠 | `#FDB300` 🟠 | Sketch, 设计, 橙色 |
+| ui-adobe-spectrum | Adobe Spectrum | `#1473E6` 🔵 | `#3B82F6` 🔵 | `#FA0F00` 🔴 | Adobe, 设计, 蓝色 |
+| ui-salesforce-lightning | Salesforce Lightning | `#0176D3` 🔵 | `#1B96FF` 🔵 | `#FFB400` 🟠 | Salesforce, 设计, 蓝色 |
+| ui-sap-fiori | SAP Fiori | `#0A6ED1` 🔵 | `#0854A0` 🔵 | `#F0AB00` 🟠 | SAP, 设计, 蓝色 |
+| ui-ibm-carbon | IBM Carbon | `#0F62FE` 🔵 | `#4589FF` 🔵 | `#F1C21B` 🟠 | IBM, 设计, 蓝色 |
+| gm-steam | Steam | `#1B2838` ⬛ | `#66C0F4` 🔵 | `#C7D5E0` ⬜ | 游戏, 平台, 蓝色 |
+| gm-epic | Epic Games | `#FFFFFF` 🩸 | `#333333` ⬛ | `#0078F2` 🔵 | 游戏, 平台, 白色 |
+| gm-playstation | PlayStation | `#003087` ⬛ | `#0070D1` 🔵 | `#FFFFFF` 🩸 | 游戏, 主机, 蓝色 |
+| gm-xbox | Xbox | `#107C10` 🟢 | `#0E7A0D` 🟢 | `#FFFFFF` 🩸 | 游戏, 主机, 绿色 |
+| gm-nintendo | Nintendo | `#E60012` 🔴 | `#FF4500` 🔴 | `#FFFFFF` 🩸 | 游戏, 主机, 红色 |
+| gm-riot | Riot Games | `#D32936` 🔴 | `#FF4655` 🔴 | `#0AC8B9` 🟢 | 游戏, 开发商, 红色 |
+| gm-blizzard | Blizzard | `#00AEFF` 🔵 | `#0280D0` 🔵 | `#FFFFFF` 🩸 | 游戏, 开发商, 蓝色 |
+| gm-valve | Valve | `#FF6B35` 🟠 | `#FF8C00` 🟠 | `#1B2838` ⬛ | 游戏, 开发商, 橙色 |
+| gm-ubisoft | Ubisoft | `#0070FF` 🔵 | `#00B4D8` 🔵 | `#FF6B00` 🟠 | 游戏, 开发商, 蓝色 |
+| gm-ea | EA | `#F56C2D` 🟠 | `#FF6B35` 🟠 | `#000000` ⬛ | 游戏, 发行商, 黄色 |
+| gm-discord | Discord | `#5865F2` 🔵 | `#7289DA` 🔵 | `#FF6B6B` 🟠 | 游戏, 社区, 紫色 |
+| gm-twitch | Twitch | `#9146FF` 🔵 | `#BF94FF` 🔵 | `#00C853` 🟢 | 游戏, 直播, 紫色 |
+| gm-youtube-gaming | YouTube Gaming | `#FF0000` 🔴 | `#FF4500` 🔴 | `#282828` ⬛ | 游戏, 视频, 红色 |
+| gm-tiktok-gaming | TikTok Gaming | `#FE2C55` 🔴 | `#25F4EE` 🟢 | `#FE2C55` 🔴 | 游戏, 短视频, 品红 |
+| gm-gog | GOG | `#86328A` 🔵 | `#A855F7` 🔵 | `#FFD700` 🟡 | 游戏, 平台, 紫色 |
+| gm-origin | Origin | `#F56C2D` 🟠 | `#FF6B35` 🟠 | `#1A1A1A` ⬛ | 游戏, 平台, 橙色 |
+| gm-battle-net | Battle.net | `#00AEFF` 🔵 | `#0280D0` 🔵 | `#FFFFFF` 🩸 | 游戏, 平台, 蓝色 |
+| gm-roblox | Roblox | `#E2231A` 🔴 | `#FF4B4B` 🟠 | `#FFFFFF` 🩸 | 游戏, 平台, 红色 |
+| gm-minecraft | Minecraft | `#3D8B37` 🟢 | `#4CAF50` 🟢 | `#8B6914` 🟠 | 游戏, 沙盒, 绿色 |
+| gm-fortnite | Fortnite | `#0066FF` 🔵 | `#3B82F6` 🔵 | `#FF6B00` 🟠 | 游戏, 射击, 蓝色 |
+| gm-league | League of Legends | `#C89B3C` 🟠 | `#0AC8B9` 🟢 | `#1E2328` ⬛ | 游戏, MOBA, 蓝色 |
+| gm-dota2 | Dota 2 | `#BE1E2D` 🔴 | `#FF4655` 🔴 | `#1E2328` ⬛ | 游戏, MOBA, 红色 |
+| gm-cs2 | CS2 | `#DE9B35` 🟠 | `#FF6B35` 🟠 | `#1A1A1A` ⬛ | 游戏, FPS, 橙色 |
+| gm-valorant | Valorant | `#FF4655` 🔴 | `#E03E4D` 🔴 | `#0F1923` ⬛ | 游戏, FPS, 红色 |
+| gm-apex | Apex Legends | `#CD3333` 🔴 | `#FF4444` 🔴 | `#FFFFFF` 🩸 | 游戏, FPS, 红色 |
+| gm-overwatch | Overwatch | `#FA9C1E` 🟠 | `#FF6B35` 🟠 | `#FFFFFF` 🩸 | 游戏, FPS, 橙色 |
+| gm-pubg | PUBG | `#F2A900` 🟠 | `#FFD700` 🟡 | `#1A1A1A` ⬛ | 游戏, 射击, 黄色 |
+| gm-genshin | Genshin Impact | `#2D6A4F` 🟢 | `#40916C` 🟢 | `#FFD700` 🟡 | 游戏, RPG, 蓝色 |
+| gm-honkai | Honkai Star Rail | `#7C3AED` 🔵 | `#A78BFA` 🔵 | `#FFD700` 🟡 | 游戏, RPG, 紫色 |
+| gm-pokemon | Pokémon | `#FFCB05` 🟠 | `#3B4CCA` 🔵 | `#FF0000` 🔴 | 游戏, IP, 黄色 |
+| w3-bitcoin | Bitcoin | `#F7931A` 🟠 | `#FF9800` 🟠 | `#FFFFFF` 🩸 | 加密货币, BTC, 橙色 |
+| w3-ethereum | Ethereum | `#627EEA` 🔵 | `#8B9CF7` 🔵 | `#FFFFFF` 🩸 | 加密货币, ETH, 紫色 |
+| w3-solana | Solana | `#9945FF` 🔵 | `#14F195` 🟢 | `#9945FF` 🔵 | 加密货币, SOL, 紫色 |
+| w3-bnb | BNB Chain | `#F3BA2F` 🟠 | `#FFD700` 🟡 | `#1A1A1A` ⬛ | 加密货币, BNB, 黄色 |
+| w3-cardano | Cardano | `#0033AD` ⬛ | `#2563EB` 🔵 | `#FFFFFF` 🩸 | 加密货币, ADA, 蓝色 |
+| w3-polygon | Polygon | `#8247E5` 🔵 | `#A78BFA` 🔵 | `#FFFFFF` 🩸 | 加密货币, MATIC, 紫色 |
+| w3-avalanche | Avalanche | `#E84142` 🔴 | `#FF4444` 🔴 | `#FFFFFF` 🩸 | 加密货币, AVAX, 红色 |
+| w3-polkadot | Polkadot | `#E6007A` 🔴 | `#FF1493` 🔴 | `#1A1A1A` ⬛ | 加密货币, DOT, 粉色 |
+| w3-chainlink | Chainlink | `#2A5ADA` 🔵 | `#3B82F6` 🔵 | `#FFFFFF` 🩸 | 加密货币, LINK, 蓝色 |
+| w3-uni | Uniswap | `#FF007A` 🔴 | `#FF1493` 🔴 | `#1A1A1A` ⬛ | DeFi, UNI, 粉色 |
+| w3-aave | Aave | `#B6509E` 🟠 | `#9C27B0` 🔵 | `#FFFFFF` 🩸 | DeFi, AAVE, 紫色 |
+| w3-curve | Curve | `#0000FF` ⬛ | `#3B82F6` 🔵 | `#FFD700` 🟡 | DeFi, CRV, 蓝色 |
+| w3-makerdao | MakerDAO | `#1AAB9B` 🟢 | `#00D4AA` 🟢 | `#FFFFFF` 🩸 | DeFi, MKR, 绿色 |
+| w3-opensea | OpenSea | `#2081E2` 🔵 | `#3B82F6` 🔵 | `#FFFFFF` 🩸 | NFT, 市场, 蓝色 |
+| w3-magic-eden | Magic Eden | `#E42575` 🔴 | `#FF1493` 🔴 | `#FFFFFF` 🩸 | NFT, 市场, 红色 |
+| w3-metamask | MetaMask | `#F6851B` 🟠 | `#FF9800` 🟠 | `#1A1A1A` ⬛ | 钱包, Web3, 橙色 |
+| w3-trustwallet | Trust Wallet | `#3375BB` 🔵 | `#3B82F6` 🔵 | `#FFFFFF` 🩸 | 钱包, Web3, 蓝色 |
+| w3-phantom | Phantom | `#AB9FF2` 🔵 | `#7C3AED` 🔵 | `#FFFFFF` 🩸 | 钱包, Solana, 紫色 |
+| w3-coinbase | Coinbase | `#0052FF` 🔵 | `#3B82F6` 🔵 | `#FFFFFF` 🩸 | 交易所, Web3, 蓝色 |
+| w3-binance | Binance | `#F0B90B` 🟠 | `#FFD700` 🟡 | `#1A1A1A` ⬛ | 交易所, Web3, 黄色 |
+| w3-kraken | Kraken | `#7B61FF` 🔵 | `#9C27B0` 🔵 | `#1A1A1A` ⬛ | 交易所, Web3, 紫色 |
+| w3-okx | OKX | `#000000` ⬛ | `#FFFFFF` 🩸 | `#FF6B00` 🟠 | 交易所, Web3, 黑色 |
+| w3-bybit | Bybit | `#F7A600` 🟠 | `#FFD700` 🟡 | `#1A1A1A` ⬛ | 交易所, Web3, 橙色 |
+| w3-defillama | DeFiLlama | `#7C3AED` 🔵 | `#A78BFA` 🔵 | `#FF6B00` 🟠 | 数据, DeFi, 紫色 |
+| w3-dune | Dune Analytics | `#7C3AED` 🔵 | `#A78BFA` 🔵 | `#FF6B00` 🟠 | 数据, Web3, 紫色 |
+| w3-etherscan | Etherscan | `#1C6FF2` 🔵 | `#3B82F6` 🔵 | `#FFFFFF` 🩸 | 浏览器, Web3, 蓝色 |
+| w3-lens | Lens Protocol | `#00D4AA` 🟢 | `#34D399` 🟢 | `#1A1A1A` ⬛ | 社交, Web3, 绿色 |
+| w3-farcaster | Farcaster | `#8A63D2` 🔵 | `#7C3AED` 🔵 | `#FF6B00` 🟠 | 社交, Web3, 紫色 |
+| w3-mirror | Mirror | `#2563EB` 🔵 | `#3B82F6` 🔵 | `#F59E0B` 🟠 | 博客, Web3, 蓝色 |
+| w3-arbitrum | Arbitrum | `#28A0F0` 🔵 | `#3B82F6` 🔵 | `#FFFFFF` 🩸 | Layer2, Web3, 蓝色 |
+| ai-openai | OpenAI | `#10A37F` 🟢 | `#1A7F64` 🟢 | `#FFFFFF` 🩸 | AI, LLM, 绿色 |
+| ai-anthropic | Anthropic | `#D4A574` 🟠 | `#8B6914` 🟠 | `#1A1A1A` ⬛ | AI, LLM, 棕色 |
+| ai-google-ai | Google AI | `#4285F4` 🔵 | `#1A73E8` 🔵 | `#EA4335` 🔴 | AI, 大厂, 蓝色 |
+| ai-huggingface | Hugging Face | `#FFD21E` 🟡 | `#FFC107` 🟠 | `#1A1A1A` ⬛ | AI, 社区, 黄色 |
+| ai-stability | Stability AI | `#7C3AED` 🔵 | `#A855F7` 🔵 | `#FF6B00` 🟠 | AI, 图像, 紫色 |
+| ai-midjourney | Midjourney | `#0D47A1` 🔵 | `#1565C0` 🔵 | `#FFFFFF` 🩸 | AI, 图像, 蓝色 |
+| ai-runway | Runway | `#0D47A1` 🔵 | `#1E88E5` 🔵 | `#FF6B00` 🟠 | AI, 视频, 蓝色 |
+| ai-replicate | Replicate | `#000000` ⬛ | `#FFFFFF` 🩸 | `#7C3AED` 🔵 | AI, 平台, 黑色 |
+| ai-pinecone | Pinecone | `#000000` ⬛ | `#FFFFFF` 🩸 | `#00D4AA` 🟢 | AI, 向量数据库, 青色 |
+| ai-weaviate | Weaviate | `#1E40AF` 🔵 | `#3B82F6` 🔵 | `#F59E0B` 🟠 | AI, 向量数据库, 蓝色 |
+| ai-langchain | LangChain | `#1C3C3C` ⬛ | `#34D399` 🟢 | `#F59E0B` 🟠 | AI, 框架, 绿色 |
+| ai-llamaindex | LlamaIndex | `#7C3AED` 🔵 | `#A78BFA` 🔵 | `#FF6B00` 🟠 | AI, 框架, 紫色 |
+| ai-gradio | Gradio | `#FF6B35` 🟠 | `#FF8C00` 🟠 | `#1A1A1A` ⬛ | AI, 工具, 橙色 |
+| ai-streamlit | Streamlit | `#FF4B4B` 🟠 | `#EF4444` 🔴 | `#1A1A1A` ⬛ | AI, 工具, 红色 |
+| ai-jasper | Jasper AI | `#0D47A1` 🔵 | `#1E88E5` 🔵 | `#FF6B00` 🟠 | AI, 写作, 蓝色 |
+| ai-copy-ai | Copy.ai | `#7C3AED` 🔵 | `#A78BFA` 🔵 | `#FF6B00` 🟠 | AI, 写作, 紫色 |
+| ai-notion-ai | Notion AI | `#000000` ⬛ | `#FFFFFF` 🩸 | `#FF6B00` 🟠 | AI, 办公, 黑色 |
+| ai-github-copilot | GitHub Copilot | `#1A1A1A` ⬛ | `#FFFFFF` 🩸 | `#7C3AED` 🔵 | AI, 编程, 灰色 |
+| ai-cursor | Cursor | `#2563EB` 🔵 | `#3B82F6` 🔵 | `#F59E0B` 🟠 | AI, IDE, 蓝色 |
+| ai-tabnine | Tabnine | `#6B54D2` 🔵 | `#7C3AED` 🔵 | `#FF6B00` 🟠 | AI, 编程, 蓝色 |
+| ai-perplexity | Perplexity | `#20B8CD` 🔵 | `#22D3EE` 🔵 | `#1A1A1A` ⬛ | AI, 搜索, 青色 |
+| ai-you | You.com | `#FF4444` 🔴 | `#EF4444` 🔴 | `#1A1A1A` ⬛ | AI, 搜索, 红色 |
+| ai-phind | Phind | `#45B7D1` 🔵 | `#3B82F6` 🔵 | `#FF6B00` 🟠 | AI, 搜索, 蓝色 |
+| ai-v0 | v0.dev | `#FFFFFF` 🩸 | `#000000` ⬛ | `#7C3AED` 🔵 | AI, UI, 白色 |
+| ai-bolt | Bolt.new | `#2563EB` 🔵 | `#3B82F6` 🔵 | `#F59E0B` 🟠 | AI, 全栈, 蓝色 |
+| ai-lovable | Lovable | `#E91E63` 🔴 | `#F48FB1` 🟠 | `#1A1A1A` ⬛ | AI, 全栈, 粉色 |
+| ai-replit | Replit | `#F26207` 🟠 | `#FF6B35` 🟠 | `#1A1A1A` ⬛ | AI, 编程, 橙色 |
+| ai-vercel-ai | Vercel AI SDK | `#FFFFFF` 🩸 | `#000000` ⬛ | `#7C3AED` 🔵 | AI, 框架, 白色 |
+| ai-comet | Comet ML | `#3B82F6` 🔵 | `#60A5FA` 🔵 | `#F59E0B` 🟠 | AI, MLOps, 蓝色 |
+| ai-weights-biases | Weights & Biases | `#FDBD2E` 🟠 | `#FFC107` 🟠 | `#1A1A1A` ⬛ | AI, MLOps, 黄色 |
+| ind-coworking | 共享办公 | `#2563EB` 🔵 | `#3B82F6` 🔵 | `#F59E0B` 🟠 | 行业, 办公, 蓝色 |
+| ind-storage | 自助仓储 | `#F97316` 🟠 | `#FB923C` 🟠 | `#1E40AF` 🔵 | 行业, 仓储, 橙色 |
+| ind-laundry | 洗衣服务 | `#0284C7` 🔵 | `#38BDF8` 🔵 | `#F59E0B` 🟠 | 行业, 洗衣, 蓝色 |
+| ind-moving | 搬家服务 | `#059669` 🟢 | `#34D399` 🟢 | `#F59E0B` 🟠 | 行业, 搬家, 绿色 |
+| ind-plumbing | 管道维修 | `#1D4ED8` 🔵 | `#3B82F6` 🔵 | `#F59E0B` 🟠 | 行业, 维修, 蓝色 |
+| ind-electrician | 电工服务 | `#EAB308` 🟠 | `#FDE047` 🟡 | `#1A1A1A` ⬛ | 行业, 电工, 黄色 |
+| ind-landscaping | 园林绿化 | `#16A34A` 🟢 | `#4ADE80` 🟢 | `#F59E0B` 🟠 | 行业, 园林, 绿色 |
+| ind-pool | 泳池维护 | `#0284C7` 🔵 | `#38BDF8` 🔵 | `#F59E0B` 🟠 | 行业, 泳池, 蓝色 |
+| ind-pest | 虫害控制 | `#059669` 🟢 | `#34D399` 🟢 | `#F59E0B` 🟠 | 行业, 虫害, 绿色 |
+| ind-roofing | 屋顶维修 | `#78350F` 🟠 | `#92400E` 🟠 | `#F59E0B` 🟠 | 行业, 屋顶, 棕色 |
+| ind-painting | 油漆粉刷 | `#7C3AED` 🔵 | `#EC4899` 🟠 | `#F59E0B` 🟠 | 行业, 油漆, 多彩 |
+| ind-flooring | 地板安装 | `#78350F` 🟠 | `#92400E` 🟠 | `#F59E0B` 🟠 | 行业, 地板, 棕色 |
+| ind-catering | 餐饮服务 | `#DC2626` 🔴 | `#F87171` 🟠 | `#F59E0B` 🟠 | 行业, 餐饮, 红色 |
+| ind-bakery | 烘焙店 | `#92400E` 🟠 | `#D4A574` 🟠 | `#F59E0B` 🟠 | 行业, 烘焙, 棕色 |
+| ind-coffee | 咖啡店 | `#4E342E` 🟠 | `#8D6E63` 🟠 | `#FFB300` 🟠 | 行业, 咖啡, 棕色 |
+| ind-florist | 花店 | `#EC4899` 🟠 | `#F9A8D4` 🟠 | `#059669` 🟢 | 行业, 花店, 粉色 |
+| ind-jewelry | 珠宝店 | `#D4AF37` 🟠 | `#FFD700` 🟡 | `#1A1A1A` ⬛ | 行业, 珠宝, 金色 |
+| ind-salon | 美发沙龙 | `#EC4899` 🟠 | `#F9A8D4` 🟠 | `#7C3AED` 🔵 | 行业, 美发, 粉色 |
+| ind-spa | 水疗中心 | `#0D9488` 🟢 | `#5EEAD4` 🟢 | `#F59E0B` 🟠 | 行业, 水疗, 青色 |
+| ind-gym | 健身房 | `#DC2626` 🔴 | `#F87171` 🟠 | `#1A1A1A` ⬛ | 行业, 健身, 红色 |
+| ind-yoga | 瑜伽馆 | `#7E57C2` 🔵 | `#B39DDB` 🔵 | `#059669` 🟢 | 行业, 瑜伽, 紫色 |
+| ind-martial-arts | 武术馆 | `#B91C1C` 🔴 | `#DC2626` 🔴 | `#1A1A1A` ⬛ | 行业, 武术, 红色 |
+| ind-dance | 舞蹈室 | `#EC4899` 🟠 | `#F9A8D4` 🟠 | `#7C3AED` 🔵 | 行业, 舞蹈, 粉色 |
+| ind-photo-studio | 摄影工作室 | `#1A1A1A` ⬛ | `#FFFFFF` 🩸 | `#E91E63` 🔴 | 行业, 摄影, 黑色 |
+| ind-music-studio | 音乐工作室 | `#7C3AED` 🔵 | `#A78BFA` 🔵 | `#F43F5E` 🔴 | 行业, 音乐, 紫色 |
+| ind-art-gallery | 画廊 | `#FFFFFF` 🩸 | `#1A1A1A` ⬛ | `#E91E63` 🔴 | 行业, 艺术, 白色 |
+| ind-museum | 博物馆 | `#1E3A5F` 🔵 | `#3B82F6` 🔵 | `#F59E0B` 🟠 | 行业, 文化, 深蓝 |
+| ind-library | 图书馆 | `#5D4037` 🟠 | `#8D6E63` 🟠 | `#FF8F00` 🟠 | 行业, 图书, 棕色 |
+| ind-theater | 剧院 | `#B91C1C` 🔴 | `#DC2626` 🔴 | `#FFD700` 🟡 | 行业, 戏剧, 红色 |
+| ind-cinema | 电影院 | `#1E3A5F` 🔵 | `#3B82F6` 🔵 | `#FF6B00` 🟠 | 行业, 电影, 蓝色 |
+| ind-aquarium | 水族馆 | `#006994` 🔵 | `#00B4D8` 🔵 | `#F59E0B` 🟠 | 行业, 水族, 蓝色 |
+| ind-zoo | 动物园 | `#059669` 🟢 | `#34D399` 🟢 | `#F59E0B` 🟠 | 行业, 动物, 绿色 |
+| ind-amusement | 游乐园 | `#FF6B6B` 🟠 | `#4ECDC4` 🟢 | `#FFE66D` ⬜ | 行业, 娱乐, 多彩 |
+| ind-camping | 露营基地 | `#059669` 🟢 | `#34D399` 🟢 | `#F59E0B` 🟠 | 行业, 露营, 绿色 |
+| ind-ski | 滑雪场 | `#0284C7` 🔵 | `#38BDF8` 🔵 | `#F59E0B` 🟠 | 行业, 滑雪, 蓝色 |
+| ind-scuba | 潜水中心 | `#006994` 🔵 | `#00B4D8` 🔵 | `#F59E0B` 🟠 | 行业, 潜水, 蓝色 |
+| ind-golf | 高尔夫 | `#059669` 🟢 | `#34D399` 🟢 | `#F59E0B` 🟠 | 行业, 高尔夫, 绿色 |
+| ind-tennis | 网球 | `#EAB308` 🟠 | `#FDE047` 🟡 | `#059669` 🟢 | 行业, 网球, 黄色 |
+| ind-soccer | 足球 | `#059669` 🟢 | `#34D399` 🟢 | `#DC2626` 🔴 | 行业, 足球, 绿色 |
+| ind-basketball | 篮球 | `#EA580C` 🟠 | `#FB923C` 🟠 | `#1A1A1A` ⬛ | 行业, 篮球, 橙色 |
+| ind-esports | 电竞 | `#7C3AED` 🔵 | `#A78BFA` 🔵 | `#FF6B00` 🟠 | 行业, 电竞, 紫色 |
+| ind-chess | 国际象棋 | `#5D4037` 🟠 | `#8D6E63` 🟠 | `#FFB300` 🟠 | 行业, 棋类, 棕色 |
+| ind-podcast-studio | 播客工作室 | `#7C3AED` 🔵 | `#A78BFA` 🔵 | `#F43F5E` 🔴 | 行业, 播客, 紫色 |
+| ind-youtube-channel | YouTube频道 | `#FF0000` 🔴 | `#FF4500` 🔴 | `#282828` ⬛ | 行业, 视频, 红色 |
+| ind-tiktok-creator | TikTok创作者 | `#FE2C55` 🔴 | `#25F4EE` 🟢 | `#FE2C55` 🔴 | 行业, 短视频, 品红 |
+| ind-influencer | 网红/KOL | `#EC4899` 🟠 | `#F9A8D4` 🟠 | `#7C3AED` 🔵 | 行业, 网红, 粉色 |
+| ind-crypto-trader | 加密货币交易 | `#059669` 🟢 | `#34D399` 🟢 | `#F59E0B` 🟠 | 行业, 交易, 绿色 |
+| ind-forex | 外汇交易 | `#1E40AF` 🔵 | `#3B82F6` 🔵 | `#F59E0B` 🟠 | 行业, 外汇, 蓝色 |
+| ind-stock | 股票投资 | `#DC2626` 🔴 | `#F87171` 🟠 | `#059669` 🟢 | 行业, 股票, 红色 |
+| ind-real-estate-cn | 房产中介 | `#1D4ED8` 🔵 | `#3B82F6` 🔵 | `#F59E0B` 🟠 | 行业, 房产, 蓝色 |
+| ind-car-dealer | 汽车经销商 | `#1D4ED8` 🔵 | `#3B82F6` 🔵 | `#F59E0B` 🟠 | 行业, 汽车, 蓝色 |
+| ind-bike-shop | 自行车店 | `#059669` 🟢 | `#34D399` 🟢 | `#F59E0B` 🟠 | 行业, 自行车, 绿色 |
+| ind-pet-grooming | 宠物美容 | `#EC4899` 🟠 | `#F9A8D4` 🟠 | `#F97316` 🟠 | 行业, 宠物, 粉色 |
+| ind-vet | 宠物医院 | `#1D4ED8` 🔵 | `#3B82F6` 🔵 | `#F59E0B` 🟠 | 行业, 宠物, 蓝色 |
+| ind-animal-shelter | 动物救助 | `#059669` 🟢 | `#34D399` 🟢 | `#F59E0B` 🟠 | 行业, 动物, 绿色 |
+| ind-ngo | 公益组织 | `#059669` 🟢 | `#34D399` 🟢 | `#F59E0B` 🟠 | 行业, 公益, 绿色 |
+| ind-political | 政治竞选 | `#1E40AF` 🔵 | `#3B82F6` 🔵 | `#DC2626` 🔴 | 行业, 政治, 蓝色 |
+| ind-law-firm | 律师事务所 | `#1E3A5F` 🔵 | `#3B82F6` 🔵 | `#F59E0B` 🟠 | 行业, 法律, 深蓝 |
+| ind-accounting | 会计师事务所 | `#1D4ED8` 🔵 | `#3B82F6` 🔵 | `#F59E0B` 🟠 | 行业, 会计, 蓝色 |
+| ind-translation | 翻译服务 | `#2563EB` 🔵 | `#3B82F6` 🔵 | `#F59E0B` 🟠 | 行业, 翻译, 蓝色 |
+| ind-consulting | 咨询公司 | `#1E40AF` 🔵 | `#3B82F6` 🔵 | `#F59E0B` 🟠 | 行业, 咨询, 蓝色 |
+| ind-advertising | 广告公司 | `#7C3AED` 🔵 | `#EC4899` 🟠 | `#F59E0B` 🟠 | 行业, 广告, 多彩 |
+| ind-pr | 公关公司 | `#2563EB` 🔵 | `#3B82F6` 🔵 | `#F59E0B` 🟠 | 行业, 公关, 蓝色 |
+| ind-recruiting | 招聘平台 | `#1D4ED8` 🔵 | `#3B82F6` 🔵 | `#F59E0B` 🟠 | 行业, 招聘, 蓝色 |
+| ind-remote-work | 远程办公 | `#2563EB` 🔵 | `#3B82F6` 🔵 | `#F59E0B` 🟠 | 行业, 远程, 蓝色 |
+| ind-digital-nomad | 数字游民 | `#059669` 🟢 | `#34D399` 🟢 | `#F59E0B` 🟠 | 行业, 游民, 绿色 |
+| st-glassmorphism | Glassmorphism 玻璃拟态 | `#3B82F6` 🔵 | `#8B5CF6` 🔵 | `#06B6D4` 🔵 | 风格, 玻璃, 蓝色 |
+| st-neumorphism | Neumorphism 新拟态 | `#E0E5EC` 🩸 | `#A3B1C6` 🔵 | `#6366F1` 🔵 | 风格, 新拟物, 灰色 |
+| st-claymorphism | Claymorphism 黏土拟态 | `#FFB6C1` 🩸 | `#FF69B4` 🟠 | `#87CEEB` 🔵 | 风格, 黏土, 粉色 |
+| st-brutalism | Brutalism 粗野主义 | `#000000` ⬛ | `#FFFFFF` 🩸 | `#FF0000` 🔴 | 风格, 粗野, 黑色 |
+| st-dark-mode-v2 | Dark Mode v2 | `#0F0F0F` ⬛ | `#1A1A2E` ⬛ | `#7C3AED` 🔵 | 风格, 暗黑, 深色 |
+| st-light-mode | Light Mode 极亮 | `#FFFFFF` 🩸 | `#F8FAFC` 🩸 | `#3B82F6` 🔵 | 风格, 极亮, 白色 |
+| st-aurora | Aurora 极光 | `#00D4FF` 🔵 | `#7C3AED` 🔵 | `#EC4899` 🟠 | 风格, 极光, 多彩 |
+| st-sunset-v2 | Sunset v2 日落 | `#FF6B35` 🟠 | `#FF4444` 🔴 | `#FFD700` 🟡 | 风格, 日落, 橙红 |
+| st-ocean-v2 | Ocean v2 海洋 | `#006994` 🔵 | `#00B4D8` 🔵 | `#40E0D0` 🟢 | 风格, 海洋, 蓝色 |
+| st-forest-v2 | Forest v2 森林 | `#1B4332` 🟢 | `#2D6A4F` 🟢 | `#95D5B2` 🟢 | 风格, 森林, 绿色 |
+| st-desert | Desert 沙漠 | `#C2956B` 🟠 | `#8B6914` 🟠 | `#FF6B35` 🟠 | 风格, 沙漠, 棕色 |
+| st-arctic | Arctic 北极 | `#B3E5FC` ⬜ | `#E1F5FE` 🩸 | `#0288D1` 🔵 | 风格, 北极, 冰蓝 |
+| st-tropical | Tropical 热带 | `#FF6B6B` 🟠 | `#4ECDC4` 🟢 | `#FFE66D` ⬜ | 风格, 热带, 多彩 |
+| st-japanese-wabi | 侘寂 Wabi-Sabi | `#8B7D6B` 🟠 | `#C2B280` 🟠 | `#5D4037` 🟠 | 风格, 侘寂, 棕色 |
+| st-scandinavian | Scandinavian 北欧 | `#FFFFFF` 🩸 | `#F5F5F0` 🩸 | `#2C3E50` 🔵 | 风格, 北欧, 白色 |
+| st-mediterranean | Mediterranean 地中海 | `#0077B6` 🔵 | `#00B4D8` 🔵 | `#F4A261` 🟠 | 风格, 地中海, 蓝色 |
+| st-art-deco | Art Deco 装饰艺术 | `#D4AF37` 🟠 | `#1A1A1A` ⬛ | `#C62828` 🔴 | 风格, 装饰, 金色 |
+| st-bauhaus | Bauhaus 包豪斯 | `#DD0000` 🔴 | `#0000DD` ⬛ | `#FFCC00` 🟠 | 风格, 包豪斯, 红蓝黄 |
+| st-minimalism-v2 | Minimalism v2 极简 | `#111111` ⬛ | `#FAFAFA` 🩸 | `#E91E63` 🔴 | 风格, 极简, 黑白 |
+| st-maximalism | Maximalism 极繁 | `#FF6B6B` 🟠 | `#4ECDC4` 🟢 | `#FFE66D` ⬜ | 风格, 极繁, 多彩 |
+| st-retro-futurism | Retro-Futurism 复古未来 | `#FF6B35` 🟠 | `#00D4FF` 🔵 | `#FF6EC7` 🟠 | 风格, 复古未来, 橙色 |
+| st-cyberpunk-v2 | Cyberpunk v2 赛博朋克 | `#0D0D0D` ⬛ | `#FF00FF` ⬛ | `#00FFFF` ⬜ | 风格, 赛博, 霓虹 |
+| st-solarpunk-v3 | Solarpunk v3 | `#2E7D32` 🟢 | `#F9A825` 🟠 | `#81C784` 🟢 | 风格, 太阳朋克, 绿色 |
+| st-cottagecore | Cottagecore 田园 | `#4A7C59` 🟢 | `#8FBC8F` 🟢 | `#DEB887` 🟠 | 风格, 田园, 绿色 |
+| st-dark-academic | Dark Academic 暗黑学术 | `#3E2723` ⬛ | `#5D4037` 🟠 | `#D4AF37` 🟠 | 风格, 学术, 棕色 |
+| st-light-academic | Light Academic | `#FAFAF0` 🩸 | `#DEB887` 🟠 | `#3E2723` ⬛ | 风格, 学术, 白色 |
+| st-royalcore | Royalcore 皇家 | `#D4AF37` 🟠 | `#8B0000` ⬛ | `#1A1A2E` ⬛ | 风格, 皇家, 金色 |
+| st-fairycore | Fairycore 精灵 | `#7CFC00` 🟢 | `#98FB98` ⬜ | `#DDA0DD` ⬜ | 风格, 精灵, 绿色 |
+| st-goblincore | Goblincore 哥布林 | `#556B2F` 🟢 | `#8B4513` 🟠 | `#DAA520` 🟠 | 风格, 哥布林, 棕色 |
+| st-grandmacore | Grandmacore 奶奶风 | `#DEB887` 🟠 | `#FFB6C1` 🩸 | `#8B4513` 🟠 | 风格, 奶奶, 粉色 |
+| pal-monochrome | 单色系 | `#333333` ⬛ | `#666666` ⬛ | `#999999` ⬜ | 色系, 单色, 灰色 |
+| pal-analogous-blue | 类似色-蓝系 | `#1E40AF` 🔵 | `#3B82F6` 🔵 | `#06B6D4` 🔵 | 色系, 类似色, 蓝色 |
+| pal-analogous-red | 类似色-红系 | `#DC2626` 🔴 | `#F97316` 🟠 | `#F59E0B` 🟠 | 色系, 类似色, 红色 |
+| pal-analogous-green | 类似色-绿系 | `#059669` 🟢 | `#10B981` 🟢 | `#34D399` 🟢 | 色系, 类似色, 绿色 |
+| pal-complementary-b-g | 互补色-蓝绿 | `#2563EB` 🔵 | `#059669` 🟢 | `#F59E0B` 🟠 | 色系, 互补色, 蓝绿 |
+| pal-complementary-r-g | 互补色-红绿 | `#DC2626` 🔴 | `#059669` 🟢 | `#F59E0B` 🟠 | 色系, 互补色, 红绿 |
+| pal-complementary-p-y | 互补色-紫黄 | `#7C3AED` 🔵 | `#EAB308` 🟠 | `#F43F5E` 🔴 | 色系, 互补色, 紫黄 |
+| pal-triadic-rgb | 三角色-RGB | `#DC2626` 🔴 | `#059669` 🟢 | `#2563EB` 🔵 | 色系, 三角, 多彩 |
+| pal-triadic-cmy | 三角色-CMY | `#00BCD4` 🔵 | `#E91E63` 🔴 | `#FFC107` 🟠 | 色系, 三角, 多彩 |
+| pal-split-comp | 分裂互补-蓝 | `#2563EB` 🔵 | `#F97316` 🟠 | `#059669` 🟢 | 色系, 分裂互补, 蓝色 |
+| pal-tetradic | 四角色-多彩 | `#DC2626` 🔴 | `#2563EB` 🔵 | `#059669` 🟢 | 色系, 四角, 多彩 |
+| pal-pastel-pink | 马卡龙粉 | `#FFB6C1` 🩸 | `#FFC0CB` 🩸 | `#FF69B4` 🟠 | 色系, 马卡龙, 粉色 |
+| pal-pastel-blue | 马卡龙蓝 | `#87CEEB` 🔵 | `#B0E0E6` ⬜ | `#ADD8E6` ⬜ | 色系, 马卡龙, 蓝色 |
+| pal-pastel-green | 马卡龙绿 | `#98FB98` ⬜ | `#90EE90` 🟢 | `#7CFC00` 🟢 | 色系, 马卡龙, 绿色 |
+| pal-pastel-purple | 马卡龙紫 | `#DDA0DD` ⬜ | `#DA70D6` 🟠 | `#BA55D3` 🔵 | 色系, 马卡龙, 紫色 |
+| pal-pastel-yellow | 马卡龙黄 | `#FFFACD` 🩸 | `#FAFAD2` 🩸 | `#EEE8AA` 🩸 | 色系, 马卡龙, 黄色 |
+| pal-earth-tone | 大地色系 | `#8B7355` 🟠 | `#C2B280` 🟠 | `#5D4037` 🟠 | 色系, 大地, 棕色 |
+| pal-jewel-tone | 宝石色系 | `#4B0082` ⬛ | `#006400` 🟢 | `#8B0000` ⬛ | 色系, 宝石, 深色 |
+| pal-neon | 霓虹色系 | `#FF00FF` ⬛ | `#00FFFF` ⬜ | `#FFFF00` 🟡 | 色系, 霓虹, 多彩 |
+| pal-mono-accent | 单色+强调 | `#1A1A1A` ⬛ | `#FFFFFF` 🩸 | `#E91E63` 🔴 | 色系, 单色强调, 黑白 |
+| pal-warm-neutral | 暖中性色系 | `#D4C5A9` 🟠 | `#C2B280` 🟠 | `#8B7D6B` 🟠 | 色系, 暖中性, 米色 |
+| pal-cool-neutral | 冷中性色系 | `#708090` 🔵 | `#B0C4DE` 🔵 | `#475569` 🔵 | 色系, 冷中性, 灰色 |
+| pal-duotone-bp | 双色调-蓝紫 | `#2563EB` 🔵 | `#7C3AED` 🔵 | `#FFFFFF` 🩸 | 色系, 双色调, 蓝紫 |
+| pal-duotone-og | 双色调-橙绿 | `#F97316` 🟠 | `#059669` 🟢 | `#FFFFFF` 🩸 | 色系, 双色调, 橙绿 |
+| pal-duotone-rb | 双色调-红蓝 | `#DC2626` 🔴 | `#2563EB` 🔵 | `#FFFFFF` 🩸 | 色系, 双色调, 红蓝 |
+| pal-gradient-sunset | 渐变-日落 | `#FF6B35` 🟠 | `#FF4444` 🔴 | `#FFD700` 🟡 | 色系, 渐变, 橙红 |
+| pal-gradient-ocean | 渐变-海洋 | `#006994` 🔵 | `#00B4D8` 🔵 | `#40E0D0` 🟢 | 色系, 渐变, 蓝色 |
+| pal-gradient-aurora | 渐变-极光 | `#00D4FF` 🔵 | `#7C3AED` 🔵 | `#EC4899` 🟠 | 色系, 渐变, 多彩 |
+| pal-gradient-forest | 渐变-森林 | `#1B4332` 🟢 | `#2D6A4F` 🟢 | `#95D5B2` 🟢 | 色系, 渐变, 绿色 |
+| pal-metallic | 金属色系 | `#C0C0C0` ⬜ | `#D4AF37` 🟠 | `#1A1A1A` ⬛ | 色系, 金属, 银色 |
+| pal-translucent | 半透明色系 | `#3B82F6` 🔵 | `#8B5CF6` 🔵 | `#06B6D4` 🔵 | 色系, 半透明, 蓝色 |
+| cul-thailand | 泰国文化 | `#D4AF37` 🟠 | `#FFD700` 🟡 | `#8B0000` ⬛ | 文化, 泰国, 金色 |
+| cul-vietnam | 越南文化 | `#DA251D` 🔴 | `#FFC107` 🟠 | `#1A1A1A` ⬛ | 文化, 越南, 红色 |
+| cul-philippines | 菲律宾文化 | `#0038A8` 🔵 | `#FFD700` 🟡 | `#CE1126` 🔴 | 文化, 菲律宾, 蓝色 |
+| cul-malaysia | 马来西亚文化 | `#0038A8` 🔵 | `#FFCC00` 🟠 | `#CC0001` 🔴 | 文化, 马来西亚, 蓝色 |
+| cul-indonesia-c | 印度尼西亚文化 | `#FF0000` 🔴 | `#FFFFFF` 🩸 | `#1A1A1A` ⬛ | 文化, 印尼, 红色 |
+| cul-singapore | 新加坡文化 | `#ED2939` 🔴 | `#FFFFFF` 🩸 | `#1A1A1A` ⬛ | 文化, 新加坡, 红色 |
+| cul-taiwan | 台湾文化 | `#059669` 🟢 | `#34D399` 🟢 | `#F59E0B` 🟠 | 文化, 台湾, 绿色 |
+| cul-hongkong | 香港文化 | `#DE2910` 🔴 | `#FFDE00` 🟡 | `#1A1A1A` ⬛ | 文化, 香港, 红色 |
+| cul-macau | 澳门文化 | `#00785E` 🟢 | `#FFD700` 🟡 | `#1A1A1A` ⬛ | 文化, 澳门, 绿色 |
+| cul-mongolia | 蒙古文化 | `#0033A0` ⬛ | `#FFD700` 🟡 | `#C8102E` 🔴 | 文化, 蒙古, 蓝色 |
+| cul-pakistan | 巴基斯坦文化 | `#01411C` ⬛ | `#FFFFFF` 🩸 | `#1A1A1A` ⬛ | 文化, 巴基斯坦, 绿色 |
+| cul-bangladesh | 孟加拉文化 | `#006A4E` 🟢 | `#F42A41` 🔴 | `#1A1A1A` ⬛ | 文化, 孟加拉, 绿色 |
+| cul-sri-lanka | 斯里兰卡文化 | `#FFBE29` 🟠 | `#8D153A` 🟠 | `#1A1A1A` ⬛ | 文化, 斯里兰卡, 橙色 |
+| cul-nepal | 尼泊尔文化 | `#DC143C` 🔴 | `#003893` ⬛ | `#FFFFFF` 🩸 | 文化, 尼泊尔, 深红 |
+| cul-myanmar | 缅甸文化 | `#FECB00` 🟠 | `#1A1A1A` ⬛ | `#1A1A1A` ⬛ | 文化, 缅甸, 黄色 |
+| cul-cambodia | 柬埔寨文化 | `#003DA5` 🔵 | `#FFD700` 🟡 | `#1A1A1A` ⬛ | 文化, 柬埔寨, 蓝色 |
+| cul-laos | 老挝文化 | `#003DA5` 🔵 | `#FFD700` 🟡 | `#CE1126` 🔴 | 文化, 老挝, 蓝色 |
+| cul-egypt | 埃及文化 | `#C09853` 🟠 | `#1A1A1A` ⬛ | `#DA251D` 🔴 | 文化, 埃及, 金色 |
+| cul-nigeria | 尼日利亚文化 | `#008751` 🟢 | `#FFFFFF` 🩸 | `#1A1A1A` ⬛ | 文化, 尼日利亚, 绿色 |
+| cul-kenya | 肯尼亚文化 | `#000000` ⬛ | `#BB0000` 🔴 | `#006600` 🟢 | 文化, 肯尼亚, 黑色 |
+| cul-south-africa | 南非文化 | `#007749` 🟢 | `#FFB81C` 🟠 | `#000000` ⬛ | 文化, 南非, 多彩 |
+| cul-morocco | 摩洛哥文化 | `#C1272D` 🔴 | `#006233` 🟢 | `#1A1A1A` ⬛ | 文化, 摩洛哥, 红色 |
+| cul-ethiopia | 埃塞俄比亚文化 | `#078930` 🟢 | `#FCDD09` 🟡 | `#DA121A` 🔴 | 文化, 埃塞, 绿色 |
+| cul-ghana | 加纳文化 | `#CE1126` 🔴 | `#FCD116` 🟡 | `#009B3A` 🟢 | 文化, 加纳, 红黄绿 |
+| cul-tanzania | 坦桑尼亚文化 | `#1EB53A` 🟢 | `#00A3DD` 🔵 | `#FCD116` 🟡 | 文化, 坦桑, 绿色 |
+| cul-colombia | 哥伦比亚文化 | `#FCD116` 🟡 | `#003893` ⬛ | `#CE1126` 🔴 | 文化, 哥伦比亚, 黄色 |
+| cul-argentina | 阿根廷文化 | `#74ACDF` 🔵 | `#FFFFFF` 🩸 | `#1A1A1A` ⬛ | 文化, 阿根廷, 蓝色 |
+| cul-chile | 智利文化 | `#D52B1E` 🔴 | `#FFFFFF` 🩸 | `#0039A6` 🔵 | 文化, 智利, 红色 |
+| cul-peru | 秘鲁文化 | `#D91023` 🔴 | `#FFFFFF` 🩸 | `#1A1A1A` ⬛ | 文化, 秘鲁, 红色 |
+| cul-mexico-c | 墨西哥文化 | `#006341` 🟢 | `#CE1126` 🔴 | `#FFFFFF` 🩸 | 文化, 墨西哥, 绿色 |
+| emo-serenity | 宁静 | `#87CEEB` 🔵 | `#B0E0E6` ⬜ | `#E0F7FA` 🩸 | 情感, 宁静, 蓝色 |
+| emo-excitement | 兴奋 | `#FF4444` 🔴 | `#FF6B6B` 🟠 | `#FFD700` 🟡 | 情感, 兴奋, 红色 |
+| emo-nostalgia | 怀旧 | `#8B7355` 🟠 | `#C2B280` 🟠 | `#DEB887` 🟠 | 情感, 怀旧, 棕色 |
+| emo-wonder | 惊奇 | `#7C3AED` 🔵 | `#A78BFA` 🔵 | `#FFD700` 🟡 | 情感, 惊奇, 紫色 |
+| emo-gratitude | 感恩 | `#4CAF50` 🟢 | `#81C784` 🟢 | `#FFD54F` 🟡 | 情感, 感恩, 绿色 |
+| emo-courage | 勇气 | `#B71C1C` 🔴 | `#D32F2F` 🔴 | `#FFD700` 🟡 | 情感, 勇气, 红色 |
+| emo-freedom | 自由 | `#00BCD4` 🔵 | `#4DD0E1` 🔵 | `#B3E5FC` ⬜ | 情感, 自由, 蓝色 |
+| emo-harmony | 和谐 | `#2E7D32` 🟢 | `#66BB6A` 🟢 | `#A5D6A7` 🟢 | 情感, 和谐, 绿色 |
+| emo-mystery | 神秘 | `#4A148C` ⬛ | `#7B1FA2` 🔵 | `#CE93D8` 🔵 | 情感, 神秘, 深紫 |
+| emo-playfulness | 俏皮 | `#FF69B4` 🟠 | `#FFB6C1` 🩸 | `#87CEEB` 🔵 | 情感, 俏皮, 粉色 |
+| emo-determination | 决心 | `#1A237E` ⬛ | `#283593` 🔵 | `#5C6BC0` 🔵 | 情感, 决心, 深蓝 |
+| emo-romance-v2 | 浪漫v2 | `#E91E63` 🔴 | `#F48FB1` 🟠 | `#FCE4EC` 🩸 | 情感, 浪漫, 粉色 |
+| emo-melancholy | 忧郁 | `#546E7A` 🔵 | `#78909C` 🔵 | `#B0BEC5` 🔵 | 情感, 忧郁, 灰色 |
+| emo-triumph | 胜利 | `#FFD700` 🟡 | `#FFC107` 🟠 | `#1A1A1A` ⬛ | 情感, 胜利, 金色 |
+| emo-tranquility | 恬静 | `#98FB98` ⬜ | `#B2DFDB` ⬜ | `#E0F2F1` 🩸 | 情感, 恬静, 薄荷 |
+| emo-passion-v2 | 热情v2 | `#FF6B35` 🟠 | `#FF8C00` 🟠 | `#FFD700` 🟡 | 情感, 热情, 橙色 |
+| emo-elegance | 优雅 | `#37474F` 🔵 | `#607D8B` 🔵 | `#B0BEC5` 🔵 | 情感, 优雅, 灰色 |
+| emo-whimsy | 异想天开 | `#FF6B6B` 🟠 | `#4ECDC4` 🟢 | `#FFE66D` ⬜ | 情感, 异想, 多彩 |
+| emo-grounding | 踏实 | `#5D4037` 🟠 | `#8D6E63` 🟠 | `#D7CCC8` 🩸 | 情感, 踏实, 棕色 |
+| emo-renewal | 焕新 | `#00C853` 🟢 | `#69F0AE` 🟢 | `#E8F5E9` 🩸 | 情感, 焕新, 绿色 |
+| emo-warmth-v2 | 温暖v2 | `#FF8A65` 🟠 | `#FFAB91` 🟠 | `#FBE9E7` 🩸 | 情感, 温暖, 橙色 |
+| emo-coolness | 酷感 | `#1A237E` ⬛ | `#3F51B5` 🔵 | `#7986CB` 🔵 | 情感, 酷感, 蓝色 |
+| emo-luxury-v2 | 奢华v2 | `#D4AF37` 🟠 | `#FFD700` 🟡 | `#1A1A1A` ⬛ | 情感, 奢华, 金色 |
+| emo-minimal | 极简情感 | `#FFFFFF` 🩸 | `#F5F5F5` 🩸 | `#333333` ⬛ | 情感, 极简, 白色 |
+| emo-bold | 大胆 | `#1A1A1A` ⬛ | `#FFFFFF` 🩸 | `#FF4444` 🔴 | 情感, 大胆, 黑色 |
+| emo-dreamy | 梦幻 | `#CE93D8` 🔵 | `#F3E5F5` 🩸 | `#7B1FA2` 🔵 | 情感, 梦幻, 紫色 |
+| emo-energetic | 活力 | `#FFD600` 🟡 | `#FFEB3B` 🟡 | `#FFF9C4` 🩸 | 情感, 活力, 黄色 |
+| emo-peaceful | 平和 | `#90CAF9` 🔵 | `#BBDEFB` ⬜ | `#E3F2FD` 🩸 | 情感, 平和, 蓝色 |
+| emo-spicy | 辣味 | `#D32F2F` 🔴 | `#FF5722` 🟠 | `#FFC107` 🟠 | 情感, 辣味, 红色 |
+| emo-sweet | 甜蜜 | `#F8BBD0` 🩸 | `#FCE4EC` 🩸 | `#EC407A` 🔴 | 情感, 甜蜜, 粉色 |
+---
+
+## 十九、配色选择指南
 
 ### 🎯 按项目类型快速选择
 
 | 项目类型 | 推荐配色 | 理由 |
 |----------|---------|------|
-| 电商网站 | 淘宝系 / 天猫系 / 电商行业 | 橙红色刺激购买欲 |
-| 社交应用 | 微信系 / B站系 / 社交行业 | 绿色/粉色亲和友好 |
-| 企业官网 | 支付宝系 / Ant Design | 蓝色专业可靠 |
-| SaaS产品 | Linear / Vercel / 科技行业 | 深色现代感 |
-| 内容平台 | Notion / GeneratePress | 极简内容优先 |
-| 短视频/直播 | 抖音系 / 快手系 | 深色沉浸式 |
-| 美食/外卖 | 美团系 / 美食行业 | 暖色刺激食欲 |
-| 金融/支付 | 支付宝系 / 金融行业 | 蓝色安全信任 |
-| 教育/学习 | 教育行业 / OceanWP | 蓝色知性稳重 |
-| 医疗/健康 | 医疗行业 | 蓝绿清洁感 |
-| 法律/律所 | 法律行业 🆕 | 深藏青权威 |
-| 游戏/电竞 | 游戏行业 🆕 | 霓虹紫赛博朋克 |
-| 健身/运动 | 健身行业 🆕 | 电光蓝荧光绿 |
-| 宠物/动物 | 宠物行业 🆕 | 暖棕亲和 |
-| 物流/快递 | 物流行业 🆕 | 橙色速度感 |
-| 咖啡/烘焙 | 棕色主题 🆕 | 巧克力棕醇厚 |
+| 电商网站 | 淘宝系 / 天猫系 / 电商行业 / Amazon / Shopee | 橙红色刺激购买欲 |
+| 社交应用 | 微信系 / B站系 / 社交行业 / LINE / KakaoTalk | 绿色/粉色亲和友好 |
+| 企业官网 | 支付宝系 / Ant Design / LinkedIn | 蓝色专业可靠 |
+| SaaS产品 | Linear / Vercel / 科技行业 / Notion | 深色现代感 |
+| 内容平台 | Notion / GeneratePress / Medium / Substack | 极简内容优先 |
+| 短视频/直播 | 抖音系 / 快手系 / TikTok / Twitch | 深色沉浸式 |
+| 美食/外卖 | 美团系 / 美食行业 / DoorDash / Swiggy | 暖色刺激食欲 |
+| 金融/支付 | 支付宝系 / 金融行业 / Stripe / Paytm | 蓝色安全信任 |
+| 教育/学习 | 教育行业 / OceanWP / Coursera | 蓝色知性稳重 |
+| 医疗/健康 | 医疗行业 / 医疗健康行业 | 蓝绿清洁感 |
+| 法律/律所 | 法律行业 | 深藏青权威 |
+| 游戏/电竞 | 游戏行业 / Discord / Twitch | 霓虹紫赛博朋克 |
+| 健身/运动 | 健身行业 / Nike / Adidas | 电光蓝荧光绿 |
+| 宠物/动物 | 宠物行业 | 暖棕亲和 |
+| 物流/快递 | 物流行业 / Uber / Grab | 橙色速度感 |
+| 咖啡/烘焙 | 棕色主题 / 星巴克风格 | 巧克力棕醇厚 |
+| 旅行/出行 | 旅游行业 / Airbnb / Booking | 绿色探索感 |
+| 音乐/音频 | Spotify / SoundCloud / 音乐行业 | 深色沉浸+品牌色 |
+| 设计/创意 | Figma / Behance / Dribbble | 多色/粉色创意 |
+| 开发者工具 | GitHub / Vercel / Linear / shadcn/ui | 深色+极简 |
+| 东南亚市场 | Shopee / Grab / GoTo / Foodpanda | 本地化暖色 |
+| 日韩市场 | LINE / Kakao / Rakuten / Coupang | 绿/黄/红活力 |
+| 印度市场 | Paytm / PhonePe / Zomato / Swiggy | 蓝/紫/橙多元 |
 
 ### 🎭 按情感调性选择
 
 | 情感调性 | 推荐色系 | 代表方案 |
 |----------|---------|----------|
-| 活力热情 | 🔴 红色、🟠 橙色 | 淘宝、天猫、京东、拼多多 |
-| 专业信任 | 🔵 蓝色 | 支付宝、Ant Design、金融行业 |
-| 年轻潮流 | 🔴 品红、🟢 青色 | 抖音、B站、Figma |
-| 极简高端 | ⬛ 黑白灰 | Vercel、Apple、Notion |
-| 温暖亲切 | 🟡 黄色、🟢 绿色 | 美团、微信 |
-| 创意多彩 | 🌈 多色 | Figma、Tailwind UI |
-| 沉浸深邃 | ⬛ 深色 | 抖音、GitHub、Spotify、Linear |
-| 复古怀旧 | 🟡 芥末黄 | 复古风格 🆕 |
-| 赛博朋克 | 🟣 霓虹紫 | 赛博朋克风格 🆕 |
-| 北欧极简 | ⬜ 灰白 | 北欧风格 🆕 |
-| 日式和风 | 🔵 靛蓝+樱粉 | 日式风格 🆕 |
-| 暗黑奢华 | ⬛ 黑+金 | 暗黑奢华风格 🆕 |
+| 活力热情 | 🔴 红色、🟠 橙色 | 淘宝、天猫、京东、拼多多、Amazon |
+| 专业信任 | 🔵 蓝色 | 支付宝、Ant Design、金融行业、LinkedIn |
+| 年轻潮流 | 🔴 品红、🟢 青色 | 抖音、B站、Figma、Instagram |
+| 极简高端 | ⬛ 黑白灰 | Vercel、Apple、Notion、Next.js |
+| 温暖亲切 | 🟡 黄色、🟢 绿色 | 美团、微信、KakaoTalk、LINE |
+| 创意多彩 | 🌈 多色 | Figma、Tailwind UI、Slack |
+| 沉浸深邃 | ⬛ 深色 | 抖音、GitHub、Spotify、Linear、Netflix |
+| 复古怀旧 | 🟡 芥末黄 | 复古风格 |
+| 赛博朋克 | 🟣 霓虹紫 | 赛博朋克风格 |
+| 北欧极简 | ⬜ 灰白 | 北欧风格 |
+| 日式和风 | 🔵 靛蓝+樱粉 | 日式风格 |
+| 暗黑奢华 | ⬛ 黑+金 | 暗黑奢华风格 |
+| 浪漫甜蜜 | 🩷 粉色系 | 情感配色-浪漫 |
+| 自然清新 | 🟢 绿色系 | 文化配色-自然 |
+| 科技未来 | 🔵 电光蓝 | 科技行业、开发框架 |
+| 温馨治愈 | 🟠 暖色系 | 情感配色-温馨 |
+
+### 🌍 按地区/市场选择
+
+| 目标市场 | 推荐参考 | 说明 |
+|----------|---------|------|
+| 中国大陆 | 第一章（国内平台） | 淘宝橙、微信绿、抖音红等 |
+| 日本/韩国 | 第九章（亚洲平台） | LINE绿、Kakao黄、Rakuten红 |
+| 东南亚 | 第九章（亚洲平台） | Shopee橙、Grab绿、GoTo绿 |
+| 印度 | 第九章（亚洲平台） | Paytm蓝、PhonePe紫、Zomato红 |
+| 中东 | 第九章（亚洲平台） | Careem绿、Talabat橙、Noon黄 |
+| 北美/欧洲 | 第十章（西方平台） | Amazon橙、Netflix红、Spotify绿 |
+| 全球品牌 | 第十一章（全球品牌） | Nike、Coca-Cola、IKEA等 |
 
 ### ⚠️ 配色禁忌
 
@@ -1099,10 +2183,13 @@
 - ❌ 所有项目使用同一套配色
 - ❌ 主色和背景色对比度不足
 - ❌ 忽略行业特征和品牌调性
+- ❌ 忽略目标市场的文化色彩偏好
+- ❌ 在浅色背景上使用浅色文字
+- ❌ 同时使用超过3种高饱和度颜色
 
 ---
 
-## 七、CSS变量 & Tailwind配置速查
+## 二十、CSS变量 & Tailwind配置速查
 
 ### CSS变量模板
 

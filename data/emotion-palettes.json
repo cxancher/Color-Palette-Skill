@@ -1,0 +1,1645 @@
+[
+  {
+    "id": "emo-passion",
+    "name": "热情",
+    "category": "emotion",
+    "tags": [
+      "情感",
+      "热情",
+      "红橙"
+    ],
+    "style": "热情的情感配色，红橙色传达激情和活力。",
+    "colors": {
+      "primary": "#FF4500",
+      "secondary": "#FF6347",
+      "accent": "#FFD700",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#260A00",
+      "surface": "#3F1100",
+      "text": "#FFE3D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FF4500;\n  --color-secondary: #FF6347;\n  --color-accent: #FFD700;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FF4500',\n  secondary: '#FF6347',\n  accent: '#FFD700',\n}"
+  },
+  {
+    "id": "emo-calm",
+    "name": "平静",
+    "category": "emotion",
+    "tags": [
+      "情感",
+      "平静",
+      "蓝绿"
+    ],
+    "style": "平静的情感配色，蓝绿色传达安宁和放松。",
+    "colors": {
+      "primary": "#5F9EA0",
+      "secondary": "#4682B4",
+      "accent": "#E0FFFF",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#0E1718",
+      "surface": "#172728",
+      "text": "#E7F0F0"
+    },
+    "cssVariables": ":root {\n  --color-primary: #5F9EA0;\n  --color-secondary: #4682B4;\n  --color-accent: #E0FFFF;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#5F9EA0',\n  secondary: '#4682B4',\n  accent: '#E0FFFF',\n}"
+  },
+  {
+    "id": "emo-joy",
+    "name": "快乐",
+    "category": "emotion",
+    "tags": [
+      "情感",
+      "快乐",
+      "黄橙"
+    ],
+    "style": "快乐的情感配色，黄橙色传达幸福和乐观。",
+    "colors": {
+      "primary": "#FFD700",
+      "secondary": "#FFA500",
+      "accent": "#FF6347",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#262000",
+      "surface": "#3F3500",
+      "text": "#FFF9D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FFD700;\n  --color-secondary: #FFA500;\n  --color-accent: #FF6347;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FFD700',\n  secondary: '#FFA500',\n  accent: '#FF6347',\n}"
+  },
+  {
+    "id": "emo-trust",
+    "name": "信任",
+    "category": "emotion",
+    "tags": [
+      "情感",
+      "信任",
+      "蓝色"
+    ],
+    "style": "信任的情感配色，蓝色传达可靠和专业。",
+    "colors": {
+      "primary": "#2196F3",
+      "secondary": "#1976D2",
+      "accent": "#BBDEFB",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#041624",
+      "surface": "#08253C",
+      "text": "#DDEFFD"
+    },
+    "cssVariables": ":root {\n  --color-primary: #2196F3;\n  --color-secondary: #1976D2;\n  --color-accent: #BBDEFB;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#2196F3',\n  secondary: '#1976D2',\n  accent: '#BBDEFB',\n}"
+  },
+  {
+    "id": "emo-mystery",
+    "name": "神秘",
+    "category": "emotion",
+    "tags": [
+      "情感",
+      "神秘",
+      "深紫"
+    ],
+    "style": "神秘的情感配色，深紫色传达未知和深邃。",
+    "colors": {
+      "primary": "#4A148C",
+      "secondary": "#7B1FA2",
+      "accent": "#E1BEE7",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#0B0315",
+      "surface": "#120523",
+      "text": "#E3DBED"
+    },
+    "cssVariables": ":root {\n  --color-primary: #4A148C;\n  --color-secondary: #7B1FA2;\n  --color-accent: #E1BEE7;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#4A148C',\n  secondary: '#7B1FA2',\n  accent: '#E1BEE7',\n}"
+  },
+  {
+    "id": "emo-elegance",
+    "name": "优雅",
+    "category": "emotion",
+    "tags": [
+      "情感",
+      "优雅",
+      "灰粉"
+    ],
+    "style": "优雅的情感配色，灰粉色传达精致和品位。",
+    "colors": {
+      "primary": "#D7CCC8",
+      "secondary": "#AD1457",
+      "accent": "#F8BBD0",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#201E1E",
+      "surface": "#353332",
+      "text": "#F9F7F6"
+    },
+    "cssVariables": ":root {\n  --color-primary: #D7CCC8;\n  --color-secondary: #AD1457;\n  --color-accent: #F8BBD0;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#D7CCC8',\n  secondary: '#AD1457',\n  accent: '#F8BBD0',\n}"
+  },
+  {
+    "id": "emo-energy",
+    "name": "能量",
+    "category": "emotion",
+    "tags": [
+      "情感",
+      "能量",
+      "荧光绿"
+    ],
+    "style": "能量的情感配色，荧光色传达活力和突破。",
+    "colors": {
+      "primary": "#39FF14",
+      "secondary": "#00E5FF",
+      "accent": "#FF6EC7",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#082603",
+      "surface": "#0E3F05",
+      "text": "#E1FFDB"
+    },
+    "cssVariables": ":root {\n  --color-primary: #39FF14;\n  --color-secondary: #00E5FF;\n  --color-accent: #FF6EC7;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#39FF14',\n  secondary: '#00E5FF',\n  accent: '#FF6EC7',\n}"
+  },
+  {
+    "id": "emo-romance",
+    "name": "浪漫",
+    "category": "emotion",
+    "tags": [
+      "情感",
+      "浪漫",
+      "粉红"
+    ],
+    "style": "浪漫的情感配色，粉红色传达爱情和温柔。",
+    "colors": {
+      "primary": "#FF69B4",
+      "secondary": "#FF1493",
+      "accent": "#FFF0F5",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#260F1B",
+      "surface": "#3F1A2D",
+      "text": "#FFE8F3"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FF69B4;\n  --color-secondary: #FF1493;\n  --color-accent: #FFF0F5;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FF69B4',\n  secondary: '#FF1493',\n  accent: '#FFF0F5',\n}"
+  },
+  {
+    "id": "emo-power",
+    "name": "力量",
+    "category": "emotion",
+    "tags": [
+      "情感",
+      "力量",
+      "深红"
+    ],
+    "style": "力量的情感配色，深红色传达权威和力量。",
+    "colors": {
+      "primary": "#8B0000",
+      "secondary": "#B22222",
+      "accent": "#FFD700",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#140000",
+      "surface": "#220000",
+      "text": "#EDD8D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #8B0000;\n  --color-secondary: #B22222;\n  --color-accent: #FFD700;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#8B0000',\n  secondary: '#B22222',\n  accent: '#FFD700',\n}"
+  },
+  {
+    "id": "emo-freshness",
+    "name": "清新",
+    "category": "emotion",
+    "tags": [
+      "情感",
+      "清新",
+      "薄荷绿"
+    ],
+    "style": "清新的情感配色，薄荷绿传达自然和清爽。",
+    "colors": {
+      "primary": "#98FF98",
+      "secondary": "#00E676",
+      "accent": "#E0F7FA",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#162616",
+      "surface": "#263F26",
+      "text": "#EFFFEF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #98FF98;\n  --color-secondary: #00E676;\n  --color-accent: #E0F7FA;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#98FF98',\n  secondary: '#00E676',\n  accent: '#E0F7FA',\n}"
+  },
+  {
+    "id": "emo-warmth",
+    "name": "温暖",
+    "category": "emotion",
+    "tags": [
+      "情感",
+      "温暖",
+      "橙棕"
+    ],
+    "style": "温暖的情感配色，橙棕色传达温馨和舒适。",
+    "colors": {
+      "primary": "#D2691E",
+      "secondary": "#DEB887",
+      "accent": "#F5DEB3",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#1F0F04",
+      "surface": "#341A07",
+      "text": "#F8E8DD"
+    },
+    "cssVariables": ":root {\n  --color-primary: #D2691E;\n  --color-secondary: #DEB887;\n  --color-accent: #F5DEB3;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#D2691E',\n  secondary: '#DEB887',\n  accent: '#F5DEB3',\n}"
+  },
+  {
+    "id": "emo-cool",
+    "name": "酷炫",
+    "category": "emotion",
+    "tags": [
+      "情感",
+      "酷炫",
+      "深蓝"
+    ],
+    "style": "酷炫的情感配色，深蓝+荧光传达前卫。",
+    "colors": {
+      "primary": "#0D1B2A",
+      "secondary": "#00D4FF",
+      "accent": "#7B68EE",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#010406",
+      "surface": "#03060A",
+      "text": "#DADCDF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #0D1B2A;\n  --color-secondary: #00D4FF;\n  --color-accent: #7B68EE;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#0D1B2A',\n  secondary: '#00D4FF',\n  accent: '#7B68EE',\n}"
+  },
+  {
+    "id": "emo-nostalgia",
+    "name": "怀旧",
+    "category": "emotion",
+    "tags": [
+      "情感",
+      "怀旧",
+      "棕黄"
+    ],
+    "style": "怀旧的情感配色，棕黄色传达时光和回忆。",
+    "colors": {
+      "primary": "#DAA520",
+      "secondary": "#8B4513",
+      "accent": "#F5DEB3",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#201804",
+      "surface": "#362908",
+      "text": "#F9F1DD"
+    },
+    "cssVariables": ":root {\n  --color-primary: #DAA520;\n  --color-secondary: #8B4513;\n  --color-accent: #F5DEB3;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#DAA520',\n  secondary: '#8B4513',\n  accent: '#F5DEB3',\n}"
+  },
+  {
+    "id": "emo-luxury",
+    "name": "奢华",
+    "category": "emotion",
+    "tags": [
+      "情感",
+      "奢华",
+      "黑金"
+    ],
+    "style": "奢华的情感配色，黑+金传达尊贵和高端。",
+    "colors": {
+      "primary": "#000000",
+      "secondary": "#DAA520",
+      "accent": "#B8860B",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#000000",
+      "surface": "#000000",
+      "text": "#D8D8D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #000000;\n  --color-secondary: #DAA520;\n  --color-accent: #B8860B;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#000000',\n  secondary: '#DAA520',\n  accent: '#B8860B',\n}"
+  },
+  {
+    "id": "emo-innocence",
+    "name": "纯真",
+    "category": "emotion",
+    "tags": [
+      "情感",
+      "纯真",
+      "浅蓝粉"
+    ],
+    "style": "纯真的情感配色，浅蓝粉色传达天真和纯洁。",
+    "colors": {
+      "primary": "#87CEEB",
+      "secondary": "#FFB6C1",
+      "accent": "#FFF8DC",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#141E23",
+      "surface": "#21333A",
+      "text": "#EDF7FC"
+    },
+    "cssVariables": ":root {\n  --color-primary: #87CEEB;\n  --color-secondary: #FFB6C1;\n  --color-accent: #FFF8DC;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#87CEEB',\n  secondary: '#FFB6C1',\n  accent: '#FFF8DC',\n}"
+  },
+  {
+    "id": "emo-adventure",
+    "name": "冒险",
+    "category": "emotion",
+    "tags": [
+      "情感",
+      "冒险",
+      "橙绿"
+    ],
+    "style": "冒险的情感配色，橙绿色传达探索和勇气。",
+    "colors": {
+      "primary": "#FF6F00",
+      "secondary": "#2E7D32",
+      "accent": "#FFD600",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#261000",
+      "surface": "#3F1B00",
+      "text": "#FFE9D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FF6F00;\n  --color-secondary: #2E7D32;\n  --color-accent: #FFD600;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FF6F00',\n  secondary: '#2E7D32',\n  accent: '#FFD600',\n}"
+  },
+  {
+    "id": "emo-serenity",
+    "name": "宁静",
+    "category": "emotion",
+    "tags": [
+      "情感",
+      "宁静",
+      "淡紫"
+    ],
+    "style": "宁静的情感配色，淡紫色传达平和和冥想。",
+    "colors": {
+      "primary": "#B39DDB",
+      "secondary": "#E1BEE7",
+      "accent": "#F3E5F5",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#1A1720",
+      "surface": "#2C2736",
+      "text": "#F3F0F9"
+    },
+    "cssVariables": ":root {\n  --color-primary: #B39DDB;\n  --color-secondary: #E1BEE7;\n  --color-accent: #F3E5F5;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#B39DDB',\n  secondary: '#E1BEE7',\n  accent: '#F3E5F5',\n}"
+  },
+  {
+    "id": "emo-bold",
+    "name": "大胆",
+    "category": "emotion",
+    "tags": [
+      "情感",
+      "大胆",
+      "亮红"
+    ],
+    "style": "大胆的情感配色，亮红色传达勇气和突破。",
+    "colors": {
+      "primary": "#FF1744",
+      "secondary": "#D50000",
+      "accent": "#FFD600",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#26030A",
+      "surface": "#3F0511",
+      "text": "#FFDCE2"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FF1744;\n  --color-secondary: #D50000;\n  --color-accent: #FFD600;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FF1744',\n  secondary: '#D50000',\n  accent: '#FFD600',\n}"
+  },
+  {
+    "id": "emo-sophistication",
+    "name": "精致",
+    "category": "emotion",
+    "tags": [
+      "情感",
+      "精致",
+      "灰蓝"
+    ],
+    "style": "精致的情感配色，灰蓝色传达品位和细节。",
+    "colors": {
+      "primary": "#546E7A",
+      "secondary": "#B0BEC5",
+      "accent": "#CFD8DC",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#0C1012",
+      "surface": "#151B1E",
+      "text": "#E5E9EB"
+    },
+    "cssVariables": ":root {\n  --color-primary: #546E7A;\n  --color-secondary: #B0BEC5;\n  --color-accent: #CFD8DC;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#546E7A',\n  secondary: '#B0BEC5',\n  accent: '#CFD8DC',\n}"
+  },
+  {
+    "id": "emo-playfulness",
+    "name": "趣味",
+    "category": "emotion",
+    "tags": [
+      "情感",
+      "趣味",
+      "多彩"
+    ],
+    "style": "趣味的情感配色，多彩传达活泼和创意。",
+    "colors": {
+      "primary": "#FF6B6B",
+      "secondary": "#4ECDC4",
+      "accent": "#FFE66D",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#261010",
+      "surface": "#3F1A1A",
+      "text": "#FFE8E8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FF6B6B;\n  --color-secondary: #4ECDC4;\n  --color-accent: #FFE66D;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FF6B6B',\n  secondary: '#4ECDC4',\n  accent: '#FFE66D',\n}"
+  },
+  {
+    "id": "emo-professional",
+    "name": "专业",
+    "category": "emotion",
+    "tags": [
+      "情感",
+      "专业",
+      "深蓝灰"
+    ],
+    "style": "专业的情感配色，深蓝灰传达权威和信赖。",
+    "colors": {
+      "primary": "#263238",
+      "secondary": "#37474F",
+      "accent": "#00BCD4",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#050708",
+      "surface": "#090C0E",
+      "text": "#DEE0E1"
+    },
+    "cssVariables": ":root {\n  --color-primary: #263238;\n  --color-secondary: #37474F;\n  --color-accent: #00BCD4;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#263238',\n  secondary: '#37474F',\n  accent: '#00BCD4',\n}"
+  },
+  {
+    "id": "emo-dreaminess",
+    "name": "梦幻",
+    "category": "emotion",
+    "tags": [
+      "情感",
+      "梦幻",
+      "淡紫粉"
+    ],
+    "style": "梦幻的情感配色，淡紫粉色传达想象和浪漫。",
+    "colors": {
+      "primary": "#CE93D8",
+      "secondary": "#F48FB1",
+      "accent": "#F3E5F5",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#1E1620",
+      "surface": "#332436",
+      "text": "#F7EEF9"
+    },
+    "cssVariables": ":root {\n  --color-primary: #CE93D8;\n  --color-secondary: #F48FB1;\n  --color-accent: #F3E5F5;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#CE93D8',\n  secondary: '#F48FB1',\n  accent: '#F3E5F5',\n}"
+  },
+  {
+    "id": "emo-stability",
+    "name": "稳重",
+    "category": "emotion",
+    "tags": [
+      "情感",
+      "稳重",
+      "深蓝"
+    ],
+    "style": "稳重的情感配色，深蓝色传达安全和可靠。",
+    "colors": {
+      "primary": "#1A237E",
+      "secondary": "#283593",
+      "accent": "#5C6BC0",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#030512",
+      "surface": "#06081F",
+      "text": "#DCDEEB"
+    },
+    "cssVariables": ":root {\n  --color-primary: #1A237E;\n  --color-secondary: #283593;\n  --color-accent: #5C6BC0;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#1A237E',\n  secondary: '#283593',\n  accent: '#5C6BC0',\n}"
+  },
+  {
+    "id": "emo-creativity",
+    "name": "创造力",
+    "category": "emotion",
+    "tags": [
+      "情感",
+      "创造",
+      "紫橙"
+    ],
+    "style": "创造力的情感配色，紫+橙传达灵感和创新。",
+    "colors": {
+      "primary": "#7C4DFF",
+      "secondary": "#FF6D00",
+      "accent": "#00E5FF",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#120B26",
+      "surface": "#1F133F",
+      "text": "#EBE4FF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #7C4DFF;\n  --color-secondary: #FF6D00;\n  --color-accent: #00E5FF;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#7C4DFF',\n  secondary: '#FF6D00',\n  accent: '#00E5FF',\n}"
+  },
+  {
+    "id": "emo-harmony",
+    "name": "和谐",
+    "category": "emotion",
+    "tags": [
+      "情感",
+      "和谐",
+      "蓝绿"
+    ],
+    "style": "和谐的情感配色，蓝绿色传达平衡和自然。",
+    "colors": {
+      "primary": "#00897B",
+      "secondary": "#4DB6AC",
+      "accent": "#B2DFDB",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#001412",
+      "surface": "#00221E",
+      "text": "#D8EDEB"
+    },
+    "cssVariables": ":root {\n  --color-primary: #00897B;\n  --color-secondary: #4DB6AC;\n  --color-accent: #B2DFDB;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#00897B',\n  secondary: '#4DB6AC',\n  accent: '#B2DFDB',\n}"
+  },
+  {
+    "id": "emo-excitement",
+    "name": "兴奋",
+    "category": "emotion",
+    "tags": [
+      "情感",
+      "兴奋",
+      "亮橙"
+    ],
+    "style": "兴奋的情感配色，亮橙色传达激动和期待。",
+    "colors": {
+      "primary": "#FF6D00",
+      "secondary": "#FF9100",
+      "accent": "#FFEA00",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#261000",
+      "surface": "#3F1B00",
+      "text": "#FFE9D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FF6D00;\n  --color-secondary: #FF9100;\n  --color-accent: #FFEA00;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FF6D00',\n  secondary: '#FF9100',\n  accent: '#FFEA00',\n}"
+  },
+  {
+    "id": "emo-gratitude",
+    "name": "感恩",
+    "category": "emotion",
+    "tags": [
+      "情感",
+      "感恩",
+      "暖黄"
+    ],
+    "style": "感恩的情感配色，暖黄色传达温暖和感谢。",
+    "colors": {
+      "primary": "#F9A825",
+      "secondary": "#FFD54F",
+      "accent": "#FFF8E1",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#251905",
+      "surface": "#3E2A09",
+      "text": "#FEF1DE"
+    },
+    "cssVariables": ":root {\n  --color-primary: #F9A825;\n  --color-secondary: #FFD54F;\n  --color-accent: #FFF8E1;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#F9A825',\n  secondary: '#FFD54F',\n  accent: '#FFF8E1',\n}"
+  },
+  {
+    "id": "emo-courage",
+    "name": "勇气",
+    "category": "emotion",
+    "tags": [
+      "情感",
+      "勇气",
+      "红金"
+    ],
+    "style": "勇气的情感配色，红+金传达勇敢和荣耀。",
+    "colors": {
+      "primary": "#D32F2F",
+      "secondary": "#FFD700",
+      "accent": "#BF360C",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#1F0707",
+      "surface": "#340B0B",
+      "text": "#F8DFDF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #D32F2F;\n  --color-secondary: #FFD700;\n  --color-accent: #BF360C;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#D32F2F',\n  secondary: '#FFD700',\n  accent: '#BF360C',\n}"
+  },
+  {
+    "id": "emo-peace",
+    "name": "和平",
+    "category": "emotion",
+    "tags": [
+      "情感",
+      "和平",
+      "浅蓝"
+    ],
+    "style": "和平的情感配色，浅蓝色传达宁静和希望。",
+    "colors": {
+      "primary": "#81D4FA",
+      "secondary": "#B3E5FC",
+      "accent": "#E1F5FE",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#131F25",
+      "surface": "#20353E",
+      "text": "#ECF8FE"
+    },
+    "cssVariables": ":root {\n  --color-primary: #81D4FA;\n  --color-secondary: #B3E5FC;\n  --color-accent: #E1F5FE;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#81D4FA',\n  secondary: '#B3E5FC',\n  accent: '#E1F5FE',\n}"
+  },
+  {
+    "id": "emo-prosperity",
+    "name": "繁荣",
+    "category": "emotion",
+    "tags": [
+      "情感",
+      "繁荣",
+      "金绿"
+    ],
+    "style": "繁荣的情感配色，金+绿传达财富和成长。",
+    "colors": {
+      "primary": "#DAA520",
+      "secondary": "#2E7D32",
+      "accent": "#F9A825",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#201804",
+      "surface": "#362908",
+      "text": "#F9F1DD"
+    },
+    "cssVariables": ":root {\n  --color-primary: #DAA520;\n  --color-secondary: #2E7D32;\n  --color-accent: #F9A825;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#DAA520',\n  secondary: '#2E7D32',\n  accent: '#F9A825',\n}"
+  },
+  {
+    "id": "emo-minimal",
+    "name": "极简情感",
+    "category": "emotion",
+    "tags": [
+      "情感",
+      "极简",
+      "黑白"
+    ],
+    "style": "极简的情感配色，黑白传达纯粹和本质。",
+    "colors": {
+      "primary": "#212121",
+      "secondary": "#FAFAFA",
+      "accent": "#757575",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#040404",
+      "surface": "#080808",
+      "text": "#DDDDDD"
+    },
+    "cssVariables": ":root {\n  --color-primary: #212121;\n  --color-secondary: #FAFAFA;\n  --color-accent: #757575;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#212121',\n  secondary: '#FAFAFA',\n  accent: '#757575',\n}"
+  },
+  {
+    "id": "emo-sunset",
+    "name": "日落",
+    "category": "emotion",
+    "tags": [
+      "情感",
+      "日落",
+      "橙红"
+    ],
+    "style": "日落的情感配色，橙红色传达温暖和浪漫。",
+    "colors": {
+      "primary": "#FF6B35",
+      "secondary": "#FF4444",
+      "accent": "#FFD700",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#261007",
+      "surface": "#3F1A0D",
+      "text": "#FFE8E0"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FF6B35;\n  --color-secondary: #FF4444;\n  --color-accent: #FFD700;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FF6B35',\n  secondary: '#FF4444',\n  accent: '#FFD700',\n}"
+  },
+  {
+    "id": "emo-ocean",
+    "name": "海洋",
+    "category": "emotion",
+    "tags": [
+      "情感",
+      "海洋",
+      "深蓝"
+    ],
+    "style": "海洋的情感配色，深蓝色传达深邃和广阔。",
+    "colors": {
+      "primary": "#006994",
+      "secondary": "#40E0D0",
+      "accent": "#00CED1",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#000F16",
+      "surface": "#001A25",
+      "text": "#D8E8EE"
+    },
+    "cssVariables": ":root {\n  --color-primary: #006994;\n  --color-secondary: #40E0D0;\n  --color-accent: #00CED1;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#006994',\n  secondary: '#40E0D0',\n  accent: '#00CED1',\n}"
+  },
+  {
+    "id": "emo-forest",
+    "name": "森林",
+    "category": "emotion",
+    "tags": [
+      "情感",
+      "森林",
+      "深绿"
+    ],
+    "style": "森林的情感配色，深绿色传达自然和神秘。",
+    "colors": {
+      "primary": "#1B5E20",
+      "secondary": "#4CAF50",
+      "accent": "#8BC34A",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#040E04",
+      "surface": "#061708",
+      "text": "#DCE6DD"
+    },
+    "cssVariables": ":root {\n  --color-primary: #1B5E20;\n  --color-secondary: #4CAF50;\n  --color-accent: #8BC34A;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#1B5E20',\n  secondary: '#4CAF50',\n  accent: '#8BC34A',\n}"
+  },
+  {
+    "id": "emo-volcano",
+    "name": "火山",
+    "category": "emotion",
+    "tags": [
+      "情感",
+      "火山",
+      "红黑"
+    ],
+    "style": "火山的情感配色，红+黑传达力量和爆发。",
+    "colors": {
+      "primary": "#D32F2F",
+      "secondary": "#212121",
+      "accent": "#FF6F00",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#1F0707",
+      "surface": "#340B0B",
+      "text": "#F8DFDF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #D32F2F;\n  --color-secondary: #212121;\n  --color-accent: #FF6F00;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#D32F2F',\n  secondary: '#212121',\n  accent: '#FF6F00',\n}"
+  },
+  {
+    "id": "emo-arctic",
+    "name": "北极",
+    "category": "emotion",
+    "tags": [
+      "情感",
+      "北极",
+      "冰蓝"
+    ],
+    "style": "北极的情感配色，冰蓝色传达寒冷和纯净。",
+    "colors": {
+      "primary": "#B3E5FC",
+      "secondary": "#E1F5FE",
+      "accent": "#0288D1",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#1A2225",
+      "surface": "#2C393F",
+      "text": "#F3FBFE"
+    },
+    "cssVariables": ":root {\n  --color-primary: #B3E5FC;\n  --color-secondary: #E1F5FE;\n  --color-accent: #0288D1;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#B3E5FC',\n  secondary: '#E1F5FE',\n  accent: '#0288D1',\n}"
+  },
+  {
+    "id": "emo-sahara",
+    "name": "撒哈拉",
+    "category": "emotion",
+    "tags": [
+      "情感",
+      "沙漠",
+      "金黄"
+    ],
+    "style": "撒哈拉的情感配色，金黄色传达广袤和温暖。",
+    "colors": {
+      "primary": "#F9A825",
+      "secondary": "#FF8F00",
+      "accent": "#5D4037",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#251905",
+      "surface": "#3E2A09",
+      "text": "#FEF1DE"
+    },
+    "cssVariables": ":root {\n  --color-primary: #F9A825;\n  --color-secondary: #FF8F00;\n  --color-accent: #5D4037;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#F9A825',\n  secondary: '#FF8F00',\n  accent: '#5D4037',\n}"
+  },
+  {
+    "id": "emo-cherry-blossom",
+    "name": "樱花",
+    "category": "emotion",
+    "tags": [
+      "情感",
+      "樱花",
+      "粉色"
+    ],
+    "style": "樱花的情感配色，粉色传达春天和短暂之美。",
+    "colors": {
+      "primary": "#FFB7C5",
+      "secondary": "#FF69B4",
+      "accent": "#FFF0F5",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#261B1D",
+      "surface": "#3F2D31",
+      "text": "#FFF4F6"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FFB7C5;\n  --color-secondary: #FF69B4;\n  --color-accent: #FFF0F5;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FFB7C5',\n  secondary: '#FF69B4',\n  accent: '#FFF0F5',\n}"
+  },
+  {
+    "id": "emo-autumn",
+    "name": "秋天",
+    "category": "emotion",
+    "tags": [
+      "情感",
+      "秋天",
+      "棕橙"
+    ],
+    "style": "秋天的情感配色，棕橙色传达丰收和温暖。",
+    "colors": {
+      "primary": "#E65100",
+      "secondary": "#BF360C",
+      "accent": "#FFB74D",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#220C00",
+      "surface": "#391400",
+      "text": "#FBE4D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #E65100;\n  --color-secondary: #BF360C;\n  --color-accent: #FFB74D;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#E65100',\n  secondary: '#BF360C',\n  accent: '#FFB74D',\n}"
+  },
+  {
+    "id": "emo-spring",
+    "name": "春天",
+    "category": "emotion",
+    "tags": [
+      "情感",
+      "春天",
+      "嫩绿"
+    ],
+    "style": "春天的情感配色，嫩绿色传达新生和希望。",
+    "colors": {
+      "primary": "#8BC34A",
+      "secondary": "#CDDC39",
+      "accent": "#F0F4C3",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#141D0B",
+      "surface": "#223012",
+      "text": "#EDF6E3"
+    },
+    "cssVariables": ":root {\n  --color-primary: #8BC34A;\n  --color-secondary: #CDDC39;\n  --color-accent: #F0F4C3;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#8BC34A',\n  secondary: '#CDDC39',\n  accent: '#F0F4C3',\n}"
+  },
+  {
+    "id": "emo-summer",
+    "name": "夏天",
+    "category": "emotion",
+    "tags": [
+      "情感",
+      "夏天",
+      "亮蓝"
+    ],
+    "style": "夏天的情感配色，亮蓝色传达阳光和活力。",
+    "colors": {
+      "primary": "#03A9F4",
+      "secondary": "#00BCD4",
+      "accent": "#FFEB3B",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#001924",
+      "surface": "#002A3D",
+      "text": "#D9F2FD"
+    },
+    "cssVariables": ":root {\n  --color-primary: #03A9F4;\n  --color-secondary: #00BCD4;\n  --color-accent: #FFEB3B;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#03A9F4',\n  secondary: '#00BCD4',\n  accent: '#FFEB3B',\n}"
+  },
+  {
+    "id": "emo-winter",
+    "name": "冬天",
+    "category": "emotion",
+    "tags": [
+      "情感",
+      "冬天",
+      "灰蓝"
+    ],
+    "style": "冬天的情感配色，灰蓝色传达寒冷和沉静。",
+    "colors": {
+      "primary": "#546E7A",
+      "secondary": "#B0BEC5",
+      "accent": "#ECEFF1",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#0C1012",
+      "surface": "#151B1E",
+      "text": "#E5E9EB"
+    },
+    "cssVariables": ":root {\n  --color-primary: #546E7A;\n  --color-secondary: #B0BEC5;\n  --color-accent: #ECEFF1;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#546E7A',\n  secondary: '#B0BEC5',\n  accent: '#ECEFF1',\n}"
+  },
+  {
+    "id": "emo-carnival",
+    "name": "狂欢节",
+    "category": "emotion",
+    "tags": [
+      "情感",
+      "狂欢",
+      "多彩"
+    ],
+    "style": "狂欢节的情感配色，多彩传达欢乐和庆典。",
+    "colors": {
+      "primary": "#FF6B6B",
+      "secondary": "#4ECDC4",
+      "accent": "#FFE66D",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#261010",
+      "surface": "#3F1A1A",
+      "text": "#FFE8E8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FF6B6B;\n  --color-secondary: #4ECDC4;\n  --color-accent: #FFE66D;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FF6B6B',\n  secondary: '#4ECDC4',\n  accent: '#FFE66D',\n}"
+  },
+  {
+    "id": "emo-royal",
+    "name": "皇家",
+    "category": "emotion",
+    "tags": [
+      "情感",
+      "皇家",
+      "紫金"
+    ],
+    "style": "皇家的情感配色，紫+金传达尊贵和权力。",
+    "colors": {
+      "primary": "#4A148C",
+      "secondary": "#DAA520",
+      "accent": "#1A237E",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#0B0315",
+      "surface": "#120523",
+      "text": "#E3DBED"
+    },
+    "cssVariables": ":root {\n  --color-primary: #4A148C;\n  --color-secondary: #DAA520;\n  --color-accent: #1A237E;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#4A148C',\n  secondary: '#DAA520',\n  accent: '#1A237E',\n}"
+  },
+  {
+    "id": "emo-whimsical",
+    "name": "异想天开",
+    "category": "emotion",
+    "tags": [
+      "情感",
+      "异想",
+      "粉紫"
+    ],
+    "style": "异想天开的情感配色，粉紫色传达想象和梦幻。",
+    "colors": {
+      "primary": "#CE93D8",
+      "secondary": "#F48FB1",
+      "accent": "#80DEEA",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#1E1620",
+      "surface": "#332436",
+      "text": "#F7EEF9"
+    },
+    "cssVariables": ":root {\n  --color-primary: #CE93D8;\n  --color-secondary: #F48FB1;\n  --color-accent: #80DEEA;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#CE93D8',\n  secondary: '#F48FB1',\n  accent: '#80DEEA',\n}"
+  },
+  {
+    "id": "emo-grounded",
+    "name": "踏实",
+    "category": "emotion",
+    "tags": [
+      "情感",
+      "踏实",
+      "棕色"
+    ],
+    "style": "踏实的情感配色，棕色传达可靠和稳重。",
+    "colors": {
+      "primary": "#5D4037",
+      "secondary": "#8D6E63",
+      "accent": "#D7CCC8",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#0D0908",
+      "surface": "#17100D",
+      "text": "#E6E2E1"
+    },
+    "cssVariables": ":root {\n  --color-primary: #5D4037;\n  --color-secondary: #8D6E63;\n  --color-accent: #D7CCC8;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#5D4037',\n  secondary: '#8D6E63',\n  accent: '#D7CCC8',\n}"
+  },
+  {
+    "id": "emo-vibrant",
+    "name": "活力",
+    "category": "emotion",
+    "tags": [
+      "情感",
+      "活力",
+      "亮色"
+    ],
+    "style": "活力的情感配色，亮色传达能量和热情。",
+    "colors": {
+      "primary": "#FF4081",
+      "secondary": "#00E676",
+      "accent": "#FFEA00",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#260913",
+      "surface": "#3F1020",
+      "text": "#FFE2EC"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FF4081;\n  --color-secondary: #00E676;\n  --color-accent: #FFEA00;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FF4081',\n  secondary: '#00E676',\n  accent: '#FFEA00',\n}"
+  },
+  {
+    "id": "emo-subtle",
+    "name": "含蓄",
+    "category": "emotion",
+    "tags": [
+      "情感",
+      "含蓄",
+      "灰粉"
+    ],
+    "style": "含蓄的情感配色，灰粉色传达温柔和内敛。",
+    "colors": {
+      "primary": "#D7CCC8",
+      "secondary": "#F8BBD0",
+      "accent": "#B0BEC5",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#201E1E",
+      "surface": "#353332",
+      "text": "#F9F7F6"
+    },
+    "cssVariables": ":root {\n  --color-primary: #D7CCC8;\n  --color-secondary: #F8BBD0;\n  --color-accent: #B0BEC5;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#D7CCC8',\n  secondary: '#F8BBD0',\n  accent: '#B0BEC5',\n}"
+  },
+  {
+    "id": "emo-dramatic",
+    "name": "戏剧性",
+    "category": "emotion",
+    "tags": [
+      "情感",
+      "戏剧",
+      "黑白红"
+    ],
+    "style": "戏剧性的情感配色，黑白红传达冲突和张力。",
+    "colors": {
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "accent": "#D32F2F",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#000000",
+      "surface": "#000000",
+      "text": "#D8D8D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #000000;\n  --color-secondary: #FFFFFF;\n  --color-accent: #D32F2F;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#000000',\n  secondary: '#FFFFFF',\n  accent: '#D32F2F',\n}"
+  },
+  {
+    "id": "emo-ethereal",
+    "name": "空灵",
+    "category": "emotion",
+    "tags": [
+      "情感",
+      "空灵",
+      "淡蓝紫"
+    ],
+    "style": "空灵的情感配色，淡蓝紫色传达超脱和仙境。",
+    "colors": {
+      "primary": "#B3E5FC",
+      "secondary": "#E1BEE7",
+      "accent": "#F3E5F5",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#1A2225",
+      "surface": "#2C393F",
+      "text": "#F3FBFE"
+    },
+    "cssVariables": ":root {\n  --color-primary: #B3E5FC;\n  --color-secondary: #E1BEE7;\n  --color-accent: #F3E5F5;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#B3E5FC',\n  secondary: '#E1BEE7',\n  accent: '#F3E5F5',\n}"
+  },
+  {
+    "id": "emo-earthy",
+    "name": "泥土",
+    "category": "emotion",
+    "tags": [
+      "情感",
+      "泥土",
+      "深棕"
+    ],
+    "style": "泥土的情感配色，深棕色传达大地和根基。",
+    "colors": {
+      "primary": "#3E2723",
+      "secondary": "#5D4037",
+      "accent": "#8D6E63",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#090505",
+      "surface": "#0F0908",
+      "text": "#E2DEDE"
+    },
+    "cssVariables": ":root {\n  --color-primary: #3E2723;\n  --color-secondary: #5D4037;\n  --color-accent: #8D6E63;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#3E2723',\n  secondary: '#5D4037',\n  accent: '#8D6E63',\n}"
+  },
+  {
+    "id": "emo-celestial",
+    "name": "星空",
+    "category": "emotion",
+    "tags": [
+      "情感",
+      "星空",
+      "深蓝紫"
+    ],
+    "style": "星空的情感配色，深蓝紫传达宇宙和无限。",
+    "colors": {
+      "primary": "#0D1B2A",
+      "secondary": "#1A237E",
+      "accent": "#7C4DFF",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#010406",
+      "surface": "#03060A",
+      "text": "#DADCDF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #0D1B2A;\n  --color-secondary: #1A237E;\n  --color-accent: #7C4DFF;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#0D1B2A',\n  secondary: '#1A237E',\n  accent: '#7C4DFF',\n}"
+  },
+  {
+    "id": "emo-tropical-sunset",
+    "name": "热带日落",
+    "category": "emotion",
+    "tags": [
+      "情感",
+      "热带",
+      "橙粉"
+    ],
+    "style": "热带日落的情感配色，橙粉色传达温暖和浪漫。",
+    "colors": {
+      "primary": "#FF6B35",
+      "secondary": "#FF4081",
+      "accent": "#FFD54F",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#261007",
+      "surface": "#3F1A0D",
+      "text": "#FFE8E0"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FF6B35;\n  --color-secondary: #FF4081;\n  --color-accent: #FFD54F;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FF6B35',\n  secondary: '#FF4081',\n  accent: '#FFD54F',\n}"
+  }
+]

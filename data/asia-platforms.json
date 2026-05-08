@@ -1,0 +1,1268 @@
+[
+  {
+    "id": "line",
+    "name": "Line",
+    "category": "asia-platform",
+    "tags": [
+      "社交",
+      "通讯",
+      "日本",
+      "绿色"
+    ],
+    "style": "以绿色为核心的即时通讯平台，传达友好、日常的沟通体验。",
+    "colors": {
+      "primary": "#06C755",
+      "secondary": "#00B900",
+      "accent": "#7B61FF",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#001D0C",
+      "surface": "#013115",
+      "text": "#D9F6E5"
+    },
+    "cssVariables": ":root {\n  --color-primary: #06C755;\n  --color-secondary: #00B900;\n  --color-accent: #7B61FF;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#06C755',\n  secondary: '#00B900',\n  accent: '#7B61FF',\n}"
+  },
+  {
+    "id": "kakao",
+    "name": "KakaoTalk",
+    "category": "asia-platform",
+    "tags": [
+      "社交",
+      "通讯",
+      "韩国",
+      "黄色"
+    ],
+    "style": "明亮的黄色传达快乐、友好的社交氛围，是韩国国民级通讯应用。",
+    "colors": {
+      "primary": "#FEE500",
+      "secondary": "#3C1E1E",
+      "accent": "#7B61FF",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#262200",
+      "surface": "#3F3900",
+      "text": "#FEFBD8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FEE500;\n  --color-secondary: #3C1E1E;\n  --color-accent: #7B61FF;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FEE500',\n  secondary: '#3C1E1E',\n  accent: '#7B61FF',\n}"
+  },
+  {
+    "id": "naver",
+    "name": "Naver",
+    "category": "asia-platform",
+    "tags": [
+      "搜索",
+      "门户",
+      "韩国",
+      "绿色"
+    ],
+    "style": "韩国最大搜索引擎，绿色代表成长和创新。",
+    "colors": {
+      "primary": "#03C75A",
+      "secondary": "#00C73C",
+      "accent": "#03A9F4",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#001D0D",
+      "surface": "#003116",
+      "text": "#D9F6E6"
+    },
+    "cssVariables": ":root {\n  --color-primary: #03C75A;\n  --color-secondary: #00C73C;\n  --color-accent: #03A9F4;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#03C75A',\n  secondary: '#00C73C',\n  accent: '#03A9F4',\n}"
+  },
+  {
+    "id": "yahoo-japan",
+    "name": "Yahoo Japan",
+    "category": "asia-platform",
+    "tags": [
+      "门户",
+      "搜索",
+      "日本",
+      "红色"
+    ],
+    "style": "日本老牌门户网站，红色传达热情和活力。",
+    "colors": {
+      "primary": "#FF0033",
+      "secondary": "#660000",
+      "accent": "#FF6600",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#260007",
+      "surface": "#3F000C",
+      "text": "#FFD8E0"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FF0033;\n  --color-secondary: #660000;\n  --color-accent: #FF6600;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FF0033',\n  secondary: '#660000',\n  accent: '#FF6600',\n}"
+  },
+  {
+    "id": "rakuten",
+    "name": "Rakuten",
+    "category": "asia-platform",
+    "tags": [
+      "电商",
+      "日本",
+      "红色"
+    ],
+    "style": "日本最大电商平台，红色传递购物热情和活力。",
+    "colors": {
+      "primary": "#BF0000",
+      "secondary": "#FF0000",
+      "accent": "#00A550",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#1C0000",
+      "surface": "#2F0000",
+      "text": "#F5D8D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #BF0000;\n  --color-secondary: #FF0000;\n  --color-accent: #00A550;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#BF0000',\n  secondary: '#FF0000',\n  accent: '#00A550',\n}"
+  },
+  {
+    "id": "shopee",
+    "name": "Shopee",
+    "category": "asia-platform",
+    "tags": [
+      "电商",
+      "东南亚",
+      "橙色"
+    ],
+    "style": "东南亚领先电商平台，橙红色充满活力和购物欲。",
+    "colors": {
+      "primary": "#EE4D2D",
+      "secondary": "#FF6633",
+      "accent": "#F4511E",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#230B06",
+      "surface": "#3B130B",
+      "text": "#FCE4DF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #EE4D2D;\n  --color-secondary: #FF6633;\n  --color-accent: #F4511E;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#EE4D2D',\n  secondary: '#FF6633',\n  accent: '#F4511E',\n}"
+  },
+  {
+    "id": "lazada",
+    "name": "Lazada",
+    "category": "asia-platform",
+    "tags": [
+      "电商",
+      "东南亚",
+      "深蓝"
+    ],
+    "style": "东南亚电商巨头，深蓝色传达专业和信赖。",
+    "colors": {
+      "primary": "#0F136D",
+      "secondary": "#0D1B5E",
+      "accent": "#F85606",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#020210",
+      "surface": "#03041B",
+      "text": "#DBDBE9"
+    },
+    "cssVariables": ":root {\n  --color-primary: #0F136D;\n  --color-secondary: #0D1B5E;\n  --color-accent: #F85606;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#0F136D',\n  secondary: '#0D1B5E',\n  accent: '#F85606',\n}"
+  },
+  {
+    "id": "grab",
+    "name": "Grab",
+    "category": "asia-platform",
+    "tags": [
+      "出行",
+      "东南亚",
+      "绿色"
+    ],
+    "style": "东南亚超级App，绿色代表安全和成长。",
+    "colors": {
+      "primary": "#00B14F",
+      "secondary": "#00A843",
+      "accent": "#FF6600",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#001A0B",
+      "surface": "#002C13",
+      "text": "#D8F3E4"
+    },
+    "cssVariables": ":root {\n  --color-primary: #00B14F;\n  --color-secondary: #00A843;\n  --color-accent: #FF6600;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#00B14F',\n  secondary: '#00A843',\n  accent: '#FF6600',\n}"
+  },
+  {
+    "id": "zalo",
+    "name": "Zalo",
+    "category": "asia-platform",
+    "tags": [
+      "社交",
+      "通讯",
+      "越南",
+      "蓝色"
+    ],
+    "style": "越南国民级通讯应用，蓝色传达信任和连接。",
+    "colors": {
+      "primary": "#0068FF",
+      "secondary": "#0052CC",
+      "accent": "#FF6B6B",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#000F26",
+      "surface": "#001A3F",
+      "text": "#D8E8FF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #0068FF;\n  --color-secondary: #0052CC;\n  --color-accent: #FF6B6B;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#0068FF',\n  secondary: '#0052CC',\n  accent: '#FF6B6B',\n}"
+  },
+  {
+    "id": "paytm",
+    "name": "Paytm",
+    "category": "asia-platform",
+    "tags": [
+      "支付",
+      "金融",
+      "印度",
+      "蓝色"
+    ],
+    "style": "印度最大支付平台，天蓝色传达科技和信赖。",
+    "colors": {
+      "primary": "#00BAF2",
+      "secondary": "#0088CC",
+      "accent": "#FF6B00",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#001B24",
+      "surface": "#002E3C",
+      "text": "#D8F4FD"
+    },
+    "cssVariables": ":root {\n  --color-primary: #00BAF2;\n  --color-secondary: #0088CC;\n  --color-accent: #FF6B00;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#00BAF2',\n  secondary: '#0088CC',\n  accent: '#FF6B00',\n}"
+  },
+  {
+    "id": "phonepe",
+    "name": "PhonePe",
+    "category": "asia-platform",
+    "tags": [
+      "支付",
+      "金融",
+      "印度",
+      "紫色"
+    ],
+    "style": "印度数字支付平台，紫色代表创新和现代。",
+    "colors": {
+      "primary": "#5F259F",
+      "secondary": "#7B2FBE",
+      "accent": "#00D4AA",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#0E0517",
+      "surface": "#170927",
+      "text": "#E7DEF0"
+    },
+    "cssVariables": ":root {\n  --color-primary: #5F259F;\n  --color-secondary: #7B2FBE;\n  --color-accent: #00D4AA;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#5F259F',\n  secondary: '#7B2FBE',\n  accent: '#00D4AA',\n}"
+  },
+  {
+    "id": "coupang",
+    "name": "Coupang",
+    "category": "asia-platform",
+    "tags": [
+      "电商",
+      "韩国",
+      "红色"
+    ],
+    "style": "韩国最大电商平台，红色传递购物热情。",
+    "colors": {
+      "primary": "#E4002B",
+      "secondary": "#FF1A1A",
+      "accent": "#00A8E8",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#220006",
+      "surface": "#39000A",
+      "text": "#FAD8DF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #E4002B;\n  --color-secondary: #FF1A1A;\n  --color-accent: #00A8E8;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#E4002B',\n  secondary: '#FF1A1A',\n  accent: '#00A8E8',\n}"
+  },
+  {
+    "id": "mercari",
+    "name": "Mercari",
+    "category": "asia-platform",
+    "tags": [
+      "二手交易",
+      "日本",
+      "红色"
+    ],
+    "style": "日本最大二手交易平台，红色充满活力。",
+    "colors": {
+      "primary": "#FF0211",
+      "secondary": "#CC0000",
+      "accent": "#00B900",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#260002",
+      "surface": "#3F0004",
+      "text": "#FFD9DB"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FF0211;\n  --color-secondary: #CC0000;\n  --color-accent: #00B900;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FF0211',\n  secondary: '#CC0000',\n  accent: '#00B900',\n}"
+  },
+  {
+    "id": "zomato",
+    "name": "Zomato",
+    "category": "asia-platform",
+    "tags": [
+      "美食",
+      "外卖",
+      "印度",
+      "红色"
+    ],
+    "style": "印度领先美食外卖平台，红色刺激食欲。",
+    "colors": {
+      "primary": "#E23744",
+      "secondary": "#FF4444",
+      "accent": "#FFB800",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#21080A",
+      "surface": "#380D11",
+      "text": "#FAE1E2"
+    },
+    "cssVariables": ":root {\n  --color-primary: #E23744;\n  --color-secondary: #FF4444;\n  --color-accent: #FFB800;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#E23744',\n  secondary: '#FF4444',\n  accent: '#FFB800',\n}"
+  },
+  {
+    "id": "swiggy",
+    "name": "Swiggy",
+    "category": "asia-platform",
+    "tags": [
+      "美食",
+      "外卖",
+      "印度",
+      "橙色"
+    ],
+    "style": "印度外卖平台，橙色传达温暖和食欲。",
+    "colors": {
+      "primary": "#FC8019",
+      "secondary": "#FF5200",
+      "accent": "#00A8E8",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#251303",
+      "surface": "#3F2006",
+      "text": "#FEEBDC"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FC8019;\n  --color-secondary: #FF5200;\n  --color-accent: #00A8E8;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FC8019',\n  secondary: '#FF5200',\n  accent: '#00A8E8',\n}"
+  },
+  {
+    "id": "bigbasket",
+    "name": "BigBasket",
+    "category": "asia-platform",
+    "tags": [
+      "生鲜",
+      "电商",
+      "印度",
+      "绿色"
+    ],
+    "style": "印度最大生鲜电商，绿色代表新鲜和健康。",
+    "colors": {
+      "primary": "#84C225",
+      "secondary": "#6BA018",
+      "accent": "#FF6B00",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#131D05",
+      "surface": "#213009",
+      "text": "#ECF5DE"
+    },
+    "cssVariables": ":root {\n  --color-primary: #84C225;\n  --color-secondary: #6BA018;\n  --color-accent: #FF6B00;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#84C225',\n  secondary: '#6BA018',\n  accent: '#FF6B00',\n}"
+  },
+  {
+    "id": "meesho",
+    "name": "Meesho",
+    "category": "asia-platform",
+    "tags": [
+      "社交电商",
+      "印度",
+      "紫色"
+    ],
+    "style": "印度社交电商平台，紫红色代表创意和活力。",
+    "colors": {
+      "primary": "#570A57",
+      "secondary": "#7B1FA2",
+      "accent": "#FF6B00",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#0D010D",
+      "surface": "#150215",
+      "text": "#E5DAE5"
+    },
+    "cssVariables": ":root {\n  --color-primary: #570A57;\n  --color-secondary: #7B1FA2;\n  --color-accent: #FF6B00;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#570A57',\n  secondary: '#7B1FA2',\n  accent: '#FF6B00',\n}"
+  },
+  {
+    "id": "lenskart",
+    "name": "Lenskart",
+    "category": "asia-platform",
+    "tags": [
+      "眼镜",
+      "电商",
+      "印度",
+      "蓝色"
+    ],
+    "style": "印度领先眼镜电商，蓝色传达专业和信赖。",
+    "colors": {
+      "primary": "#2A5CAA",
+      "secondary": "#1A3C7A",
+      "accent": "#FF6B00",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#060D19",
+      "surface": "#0A172A",
+      "text": "#DFE6F2"
+    },
+    "cssVariables": ":root {\n  --color-primary: #2A5CAA;\n  --color-secondary: #1A3C7A;\n  --color-accent: #FF6B00;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#2A5CAA',\n  secondary: '#1A3C7A',\n  accent: '#FF6B00',\n}"
+  },
+  {
+    "id": "policybazaar",
+    "name": "Policybazaar",
+    "category": "asia-platform",
+    "tags": [
+      "保险",
+      "金融",
+      "印度",
+      "深蓝"
+    ],
+    "style": "印度最大保险平台，深蓝传达安全和专业。",
+    "colors": {
+      "primary": "#1F3B5C",
+      "secondary": "#0D2240",
+      "accent": "#FF6B00",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#04080D",
+      "surface": "#070E17",
+      "text": "#DDE1E6"
+    },
+    "cssVariables": ":root {\n  --color-primary: #1F3B5C;\n  --color-secondary: #0D2240;\n  --color-accent: #FF6B00;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#1F3B5C',\n  secondary: '#0D2240',\n  accent: '#FF6B00',\n}"
+  },
+  {
+    "id": "goto",
+    "name": "GoTo/Gojek",
+    "category": "asia-platform",
+    "tags": [
+      "出行",
+      "支付",
+      "印尼",
+      "绿色"
+    ],
+    "style": "印尼超级App，绿色代表成长和活力。",
+    "colors": {
+      "primary": "#00AA13",
+      "secondary": "#008C00",
+      "accent": "#FA0000",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#001902",
+      "surface": "#002A04",
+      "text": "#D8F2DB"
+    },
+    "cssVariables": ":root {\n  --color-primary: #00AA13;\n  --color-secondary: #008C00;\n  --color-accent: #FA0000;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#00AA13',\n  secondary: '#008C00',\n  accent: '#FA0000',\n}"
+  },
+  {
+    "id": "momo",
+    "name": "MoMo",
+    "category": "asia-platform",
+    "tags": [
+      "支付",
+      "金融",
+      "越南",
+      "粉色"
+    ],
+    "style": "越南最大支付平台，粉红色传达友好和年轻。",
+    "colors": {
+      "primary": "#D42A87",
+      "secondary": "#B81D6E",
+      "accent": "#8A2BE2",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#1F0614",
+      "surface": "#350A21",
+      "text": "#F8DFED"
+    },
+    "cssVariables": ":root {\n  --color-primary: #D42A87;\n  --color-secondary: #B81D6E;\n  --color-accent: #8A2BE2;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#D42A87',\n  secondary: '#B81D6E',\n  accent: '#8A2BE2',\n}"
+  },
+  {
+    "id": "true-corp",
+    "name": "True Corporation",
+    "category": "asia-platform",
+    "tags": [
+      "电信",
+      "泰国",
+      "红色"
+    ],
+    "style": "泰国电信巨头，红色充满热情和活力。",
+    "colors": {
+      "primary": "#E60012",
+      "secondary": "#CC0000",
+      "accent": "#FF6600",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#220002",
+      "surface": "#390004",
+      "text": "#FBD8DB"
+    },
+    "cssVariables": ":root {\n  --color-primary: #E60012;\n  --color-secondary: #CC0000;\n  --color-accent: #FF6600;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#E60012',\n  secondary: '#CC0000',\n  accent: '#FF6600',\n}"
+  },
+  {
+    "id": "gcash",
+    "name": "GCash",
+    "category": "asia-platform",
+    "tags": [
+      "支付",
+      "金融",
+      "菲律宾",
+      "蓝色"
+    ],
+    "style": "菲律宾最大移动支付，蓝色传达信任和安全。",
+    "colors": {
+      "primary": "#0066FF",
+      "secondary": "#0044CC",
+      "accent": "#00BFA5",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#000F26",
+      "surface": "#00193F",
+      "text": "#D8E8FF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #0066FF;\n  --color-secondary: #0044CC;\n  --color-accent: #00BFA5;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#0066FF',\n  secondary: '#0044CC',\n  accent: '#00BFA5',\n}"
+  },
+  {
+    "id": "tng",
+    "name": "Touch'n Go",
+    "category": "asia-platform",
+    "tags": [
+      "支付",
+      "交通",
+      "马来西亚",
+      "蓝色"
+    ],
+    "style": "马来西亚电子钱包，蓝绿色代表便捷和信赖。",
+    "colors": {
+      "primary": "#00A651",
+      "secondary": "#008844",
+      "accent": "#0066FF",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#00180C",
+      "surface": "#002914",
+      "text": "#D8F1E4"
+    },
+    "cssVariables": ":root {\n  --color-primary: #00A651;\n  --color-secondary: #008844;\n  --color-accent: #0066FF;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#00A651',\n  secondary: '#008844',\n  accent: '#0066FF',\n}"
+  },
+  {
+    "id": "careem",
+    "name": "Careem",
+    "category": "asia-platform",
+    "tags": [
+      "出行",
+      "外卖",
+      "中东",
+      "绿色"
+    ],
+    "style": "中东超级App，绿色代表生命和成长。",
+    "colors": {
+      "primary": "#00E784",
+      "secondary": "#00C46A",
+      "accent": "#FF6B00",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#002213",
+      "surface": "#003921",
+      "text": "#D8FBEC"
+    },
+    "cssVariables": ":root {\n  --color-primary: #00E784;\n  --color-secondary: #00C46A;\n  --color-accent: #FF6B00;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#00E784',\n  secondary: '#00C46A',\n  accent: '#FF6B00',\n}"
+  },
+  {
+    "id": "talabat",
+    "name": "Talabat",
+    "category": "asia-platform",
+    "tags": [
+      "美食",
+      "外卖",
+      "中东",
+      "橙色"
+    ],
+    "style": "中东领先外卖平台，橙色传达温暖和食欲。",
+    "colors": {
+      "primary": "#FC4C02",
+      "secondary": "#E04400",
+      "accent": "#00BFA5",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#250B00",
+      "surface": "#3F1300",
+      "text": "#FEE4D9"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FC4C02;\n  --color-secondary: #E04400;\n  --color-accent: #00BFA5;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FC4C02',\n  secondary: '#E04400',\n  accent: '#00BFA5',\n}"
+  },
+  {
+    "id": "noon",
+    "name": "Noon",
+    "category": "asia-platform",
+    "tags": [
+      "电商",
+      "中东",
+      "黄色"
+    ],
+    "style": "中东电商平台，明黄色充满能量和乐观。",
+    "colors": {
+      "primary": "#FEEE00",
+      "secondary": "#E0D400",
+      "accent": "#00BFA5",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#262300",
+      "surface": "#3F3B00",
+      "text": "#FEFCD8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FEEE00;\n  --color-secondary: #E0D400;\n  --color-accent: #00BFA5;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FEEE00',\n  secondary: '#E0D400',\n  accent: '#00BFA5',\n}"
+  },
+  {
+    "id": "yandex",
+    "name": "Yandex",
+    "category": "asia-platform",
+    "tags": [
+      "搜索",
+      "科技",
+      "俄罗斯",
+      "红色"
+    ],
+    "style": "俄罗斯最大搜索引擎，红色充满活力。",
+    "colors": {
+      "primary": "#FC3F1D",
+      "secondary": "#E03619",
+      "accent": "#FFCC00",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#250904",
+      "surface": "#3F0F07",
+      "text": "#FEE2DD"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FC3F1D;\n  --color-secondary: #E03619;\n  --color-accent: #FFCC00;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FC3F1D',\n  secondary: '#E03619',\n  accent: '#FFCC00',\n}"
+  },
+  {
+    "id": "vk",
+    "name": "VK",
+    "category": "asia-platform",
+    "tags": [
+      "社交",
+      "俄罗斯",
+      "蓝色"
+    ],
+    "style": "俄罗斯最大社交平台，蓝色传达连接和信任。",
+    "colors": {
+      "primary": "#0077FF",
+      "secondary": "#0055CC",
+      "accent": "#FF3344",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#001126",
+      "surface": "#001D3F",
+      "text": "#D8EAFF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #0077FF;\n  --color-secondary: #0055CC;\n  --color-accent: #FF3344;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#0077FF',\n  secondary: '#0055CC',\n  accent: '#FF3344',\n}"
+  },
+  {
+    "id": "sberbank",
+    "name": "Sberbank",
+    "category": "asia-platform",
+    "tags": [
+      "银行",
+      "金融",
+      "俄罗斯",
+      "绿色"
+    ],
+    "style": "俄罗斯最大银行，深绿色代表稳定和成长。",
+    "colors": {
+      "primary": "#016435",
+      "secondary": "#014A28",
+      "accent": "#21A038",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#000F07",
+      "surface": "#00190D",
+      "text": "#D8E7E0"
+    },
+    "cssVariables": ":root {\n  --color-primary: #016435;\n  --color-secondary: #014A28;\n  --color-accent: #21A038;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#016435',\n  secondary: '#014A28',\n  accent: '#21A038',\n}"
+  },
+  {
+    "id": "yahoo-tw",
+    "name": "Yahoo奇摩",
+    "category": "asia-platform",
+    "tags": [
+      "门户",
+      "台湾",
+      "紫色"
+    ],
+    "style": "台湾老牌门户网站，紫色传达创意和活力。",
+    "colors": {
+      "primary": "#6600CC",
+      "secondary": "#5500AA",
+      "accent": "#FF6600",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#0F001E",
+      "surface": "#190033",
+      "text": "#E8D8F7"
+    },
+    "cssVariables": ":root {\n  --color-primary: #6600CC;\n  --color-secondary: #5500AA;\n  --color-accent: #FF6600;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#6600CC',\n  secondary: '#5500AA',\n  accent: '#FF6600',\n}"
+  },
+  {
+    "id": "ptt",
+    "name": "PTT",
+    "category": "asia-platform",
+    "tags": [
+      "论坛",
+      "社区",
+      "台湾",
+      "绿色"
+    ],
+    "style": "台湾最大BBS论坛，绿色是经典标志色。",
+    "colors": {
+      "primary": "#00AA00",
+      "secondary": "#008800",
+      "accent": "#FF6600",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#001900",
+      "surface": "#002A00",
+      "text": "#D8F2D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #00AA00;\n  --color-secondary: #008800;\n  --color-accent: #FF6600;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#00AA00',\n  secondary: '#008800',\n  accent: '#FF6600',\n}"
+  },
+  {
+    "id": "bkash",
+    "name": "bKash",
+    "category": "asia-platform",
+    "tags": [
+      "支付",
+      "金融",
+      "孟加拉",
+      "粉色"
+    ],
+    "style": "孟加拉最大移动支付，粉色传达友好和包容。",
+    "colors": {
+      "primary": "#E2136E",
+      "secondary": "#C0105C",
+      "accent": "#00BFA5",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#210210",
+      "surface": "#38041B",
+      "text": "#FADBE9"
+    },
+    "cssVariables": ":root {\n  --color-primary: #E2136E;\n  --color-secondary: #C0105C;\n  --color-accent: #00BFA5;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#E2136E',\n  secondary: '#C0105C',\n  accent: '#00BFA5',\n}"
+  },
+  {
+    "id": "daraz",
+    "name": "Daraz",
+    "category": "asia-platform",
+    "tags": [
+      "电商",
+      "南亚",
+      "红色"
+    ],
+    "style": "南亚电商平台，红色充满购物热情。",
+    "colors": {
+      "primary": "#F85606",
+      "secondary": "#E04D05",
+      "accent": "#00BFA5",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#250C00",
+      "surface": "#3E1501",
+      "text": "#FDE5D9"
+    },
+    "cssVariables": ":root {\n  --color-primary: #F85606;\n  --color-secondary: #E04D05;\n  --color-accent: #00BFA5;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#F85606',\n  secondary: '#E04D05',\n  accent: '#00BFA5',\n}"
+  },
+  {
+    "id": "foodpanda",
+    "name": "Foodpanda",
+    "category": "asia-platform",
+    "tags": [
+      "美食",
+      "外卖",
+      "亚太",
+      "粉色"
+    ],
+    "style": "亚太外卖平台，粉红色充满活力和食欲。",
+    "colors": {
+      "primary": "#D70A53",
+      "secondary": "#B80845",
+      "accent": "#FF6B00",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#20010C",
+      "surface": "#350214",
+      "text": "#F9DAE5"
+    },
+    "cssVariables": ":root {\n  --color-primary: #D70A53;\n  --color-secondary: #B80845;\n  --color-accent: #FF6B00;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#D70A53',\n  secondary: '#B80845',\n  accent: '#FF6B00',\n}"
+  },
+  {
+    "id": "carousell",
+    "name": "Carousell",
+    "category": "asia-platform",
+    "tags": [
+      "二手交易",
+      "东南亚",
+      "红色"
+    ],
+    "style": "东南亚二手交易平台，红橙色充满活力。",
+    "colors": {
+      "primary": "#FF2636",
+      "secondary": "#E02030",
+      "accent": "#00BFA5",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#260508",
+      "surface": "#3F090D",
+      "text": "#FFDEE0"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FF2636;\n  --color-secondary: #E02030;\n  --color-accent: #00BFA5;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FF2636',\n  secondary: '#E02030',\n  accent: '#00BFA5',\n}"
+  },
+  {
+    "id": "zalo",
+    "name": "Zalo",
+    "category": "asia-platform",
+    "tags": [
+      "社交",
+      "越南",
+      "蓝色"
+    ],
+    "style": "越南国民级通讯应用。",
+    "colors": {
+      "primary": "#0068FF",
+      "secondary": "#0052CC",
+      "accent": "#FF6B6B",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#000F26",
+      "surface": "#001A3F",
+      "text": "#D8E8FF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #0068FF;\n  --color-secondary: #0052CC;\n  --color-accent: #FF6B6B;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#0068FF',\n  secondary: '#0052CC',\n  accent: '#FF6B6B',\n}"
+  },
+  {
+    "id": "line-man",
+    "name": "LINE MAN",
+    "category": "asia-platform",
+    "tags": [
+      "外卖",
+      "出行",
+      "泰国",
+      "绿色"
+    ],
+    "style": "泰国外卖出行平台，LINE绿色系。",
+    "colors": {
+      "primary": "#00B900",
+      "secondary": "#009900",
+      "accent": "#FF6B00",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#001B00",
+      "surface": "#002E00",
+      "text": "#D8F4D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #00B900;\n  --color-secondary: #009900;\n  --color-accent: #FF6B00;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#00B900',\n  secondary: '#009900',\n  accent: '#FF6B00',\n}"
+  },
+  {
+    "id": "paypay",
+    "name": "PayPay",
+    "category": "asia-platform",
+    "tags": [
+      "支付",
+      "金融",
+      "日本",
+      "红色"
+    ],
+    "style": "日本最大移动支付，红色充满活力。",
+    "colors": {
+      "primary": "#FF0000",
+      "secondary": "#CC0000",
+      "accent": "#00B900",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#260000",
+      "surface": "#3F0000",
+      "text": "#FFD8D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FF0000;\n  --color-secondary: #CC0000;\n  --color-accent: #00B900;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FF0000',\n  secondary: '#CC0000',\n  accent: '#00B900',\n}"
+  },
+  {
+    "id": "samsung-pay",
+    "name": "Samsung Pay",
+    "category": "asia-platform",
+    "tags": [
+      "支付",
+      "金融",
+      "韩国",
+      "蓝色"
+    ],
+    "style": "三星支付，深蓝色传达安全和信赖。",
+    "colors": {
+      "primary": "#1428A0",
+      "secondary": "#0F1E80",
+      "accent": "#FF6B00",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#030618",
+      "surface": "#050A28",
+      "text": "#DBDEF0"
+    },
+    "cssVariables": ":root {\n  --color-primary: #1428A0;\n  --color-secondary: #0F1E80;\n  --color-accent: #FF6B00;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#1428A0',\n  secondary: '#0F1E80',\n  accent: '#FF6B00',\n}"
+  }
+]

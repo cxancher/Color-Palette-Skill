@@ -1,0 +1,1924 @@
+[
+  {
+    "id": "google",
+    "name": "Google",
+    "category": "global-brand",
+    "tags": [
+      "科技",
+      "搜索",
+      "蓝色"
+    ],
+    "style": "全球科技巨头，多彩品牌中蓝色为搜索主色。",
+    "colors": {
+      "primary": "#4285F4",
+      "secondary": "#34A853",
+      "accent": "#EA4335",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#091324",
+      "surface": "#10213D",
+      "text": "#E2ECFD"
+    },
+    "cssVariables": ":root {\n  --color-primary: #4285F4;\n  --color-secondary: #34A853;\n  --color-accent: #EA4335;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#4285F4',\n  secondary: '#34A853',\n  accent: '#EA4335',\n}"
+  },
+  {
+    "id": "microsoft",
+    "name": "Microsoft",
+    "category": "global-brand",
+    "tags": [
+      "科技",
+      "软件",
+      "蓝色"
+    ],
+    "style": "全球软件巨头，蓝色传达专业和创新。",
+    "colors": {
+      "primary": "#00A4EF",
+      "secondary": "#737373",
+      "accent": "#F25022",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#001823",
+      "surface": "#00293B",
+      "text": "#D8F1FC"
+    },
+    "cssVariables": ":root {\n  --color-primary: #00A4EF;\n  --color-secondary: #737373;\n  --color-accent: #F25022;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#00A4EF',\n  secondary: '#737373',\n  accent: '#F25022',\n}"
+  },
+  {
+    "id": "apple-brand",
+    "name": "Apple",
+    "category": "global-brand",
+    "tags": [
+      "科技",
+      "硬件",
+      "黑色"
+    ],
+    "style": "极致简约的科技品牌，黑白灰为主。",
+    "colors": {
+      "primary": "#000000",
+      "secondary": "#1D1D1F",
+      "accent": "#0066CC",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#000000",
+      "surface": "#000000",
+      "text": "#D8D8D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #000000;\n  --color-secondary: #1D1D1F;\n  --color-accent: #0066CC;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#000000',\n  secondary: '#1D1D1F',\n  accent: '#0066CC',\n}"
+  },
+  {
+    "id": "samsung",
+    "name": "Samsung",
+    "category": "global-brand",
+    "tags": [
+      "科技",
+      "电子",
+      "蓝色"
+    ],
+    "style": "韩国科技巨头，三星蓝传达创新和信赖。",
+    "colors": {
+      "primary": "#1428A0",
+      "secondary": "#0F1E80",
+      "accent": "#034EA2",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#030618",
+      "surface": "#050A28",
+      "text": "#DBDEF0"
+    },
+    "cssVariables": ":root {\n  --color-primary: #1428A0;\n  --color-secondary: #0F1E80;\n  --color-accent: #034EA2;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#1428A0',\n  secondary: '#0F1E80',\n  accent: '#034EA2',\n}"
+  },
+  {
+    "id": "sony",
+    "name": "Sony",
+    "category": "global-brand",
+    "tags": [
+      "科技",
+      "电子",
+      "黑色"
+    ],
+    "style": "日本科技品牌，黑色传达高端和精密。",
+    "colors": {
+      "primary": "#000000",
+      "secondary": "#1A1A1A",
+      "accent": "#000080",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#000000",
+      "surface": "#000000",
+      "text": "#D8D8D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #000000;\n  --color-secondary: #1A1A1A;\n  --color-accent: #000080;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#000000',\n  secondary: '#1A1A1A',\n  accent: '#000080',\n}"
+  },
+  {
+    "id": "lg-brand",
+    "name": "LG",
+    "category": "global-brand",
+    "tags": [
+      "科技",
+      "电子",
+      "酒红"
+    ],
+    "style": "韩国科技品牌，酒红色传达创新和生活。",
+    "colors": {
+      "primary": "#A50034",
+      "secondary": "#8B0029",
+      "accent": "#A50034",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#180007",
+      "surface": "#29000D",
+      "text": "#F1D8E0"
+    },
+    "cssVariables": ":root {\n  --color-primary: #A50034;\n  --color-secondary: #8B0029;\n  --color-accent: #A50034;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#A50034',\n  secondary: '#8B0029',\n  accent: '#A50034',\n}"
+  },
+  {
+    "id": "meta",
+    "name": "Meta",
+    "category": "global-brand",
+    "tags": [
+      "科技",
+      "社交",
+      "蓝色"
+    ],
+    "style": "Facebook母公司，蓝色传达连接和元宇宙愿景。",
+    "colors": {
+      "primary": "#0668E1",
+      "secondary": "#1877F2",
+      "accent": "#0081FB",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#000F21",
+      "surface": "#011A38",
+      "text": "#D9E8FA"
+    },
+    "cssVariables": ":root {\n  --color-primary: #0668E1;\n  --color-secondary: #1877F2;\n  --color-accent: #0081FB;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#0668E1',\n  secondary: '#1877F2',\n  accent: '#0081FB',\n}"
+  },
+  {
+    "id": "nvidia",
+    "name": "NVIDIA",
+    "category": "global-brand",
+    "tags": [
+      "科技",
+      "GPU",
+      "绿色"
+    ],
+    "style": "GPU和AI芯片巨头，绿色传达科技前沿。",
+    "colors": {
+      "primary": "#76B900",
+      "secondary": "#5A8C00",
+      "accent": "#76B900",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#111B00",
+      "surface": "#1D2E00",
+      "text": "#EAF4D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #76B900;\n  --color-secondary: #5A8C00;\n  --color-accent: #76B900;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#76B900',\n  secondary: '#5A8C00',\n  accent: '#76B900',\n}"
+  },
+  {
+    "id": "intel",
+    "name": "Intel",
+    "category": "global-brand",
+    "tags": [
+      "科技",
+      "芯片",
+      "蓝色"
+    ],
+    "style": "全球芯片巨头，英特尔蓝传达科技和信赖。",
+    "colors": {
+      "primary": "#0071C5",
+      "secondary": "#004A80",
+      "accent": "#0071C5",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#00101D",
+      "surface": "#001C31",
+      "text": "#D8E9F6"
+    },
+    "cssVariables": ":root {\n  --color-primary: #0071C5;\n  --color-secondary: #004A80;\n  --color-accent: #0071C5;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#0071C5',\n  secondary: '#004A80',\n  accent: '#0071C5',\n}"
+  },
+  {
+    "id": "amd",
+    "name": "AMD",
+    "category": "global-brand",
+    "tags": [
+      "科技",
+      "芯片",
+      "红色"
+    ],
+    "style": "CPU和GPU制造商，红色传达激情和创新。",
+    "colors": {
+      "primary": "#ED1C24",
+      "secondary": "#00A4EF",
+      "accent": "#ED1C24",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#230405",
+      "surface": "#3B0709",
+      "text": "#FCDCDE"
+    },
+    "cssVariables": ":root {\n  --color-primary: #ED1C24;\n  --color-secondary: #00A4EF;\n  --color-accent: #ED1C24;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#ED1C24',\n  secondary: '#00A4EF',\n  accent: '#ED1C24',\n}"
+  },
+  {
+    "id": "qualcomm",
+    "name": "Qualcomm",
+    "category": "global-brand",
+    "tags": [
+      "科技",
+      "芯片",
+      "蓝色"
+    ],
+    "style": "移动芯片巨头，蓝色传达科技和连接。",
+    "colors": {
+      "primary": "#3253DC",
+      "secondary": "#1A2F8A",
+      "accent": "#3253DC",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#070C21",
+      "surface": "#0C1437",
+      "text": "#E0E5F9"
+    },
+    "cssVariables": ":root {\n  --color-primary: #3253DC;\n  --color-secondary: #1A2F8A;\n  --color-accent: #3253DC;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#3253DC',\n  secondary: '#1A2F8A',\n  accent: '#3253DC',\n}"
+  },
+  {
+    "id": "ibm",
+    "name": "IBM",
+    "category": "global-brand",
+    "tags": [
+      "科技",
+      "企业",
+      "蓝色"
+    ],
+    "style": "百年科技企业，IBM蓝传达专业和信赖。",
+    "colors": {
+      "primary": "#054ADA",
+      "secondary": "#0F62FE",
+      "accent": "#054ADA",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#000B20",
+      "surface": "#011236",
+      "text": "#D9E3F9"
+    },
+    "cssVariables": ":root {\n  --color-primary: #054ADA;\n  --color-secondary: #0F62FE;\n  --color-accent: #054ADA;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#054ADA',\n  secondary: '#0F62FE',\n  accent: '#054ADA',\n}"
+  },
+  {
+    "id": "oracle",
+    "name": "Oracle",
+    "category": "global-brand",
+    "tags": [
+      "科技",
+      "数据库",
+      "红色"
+    ],
+    "style": "全球数据库巨头，红色传达力量和创新。",
+    "colors": {
+      "primary": "#F80000",
+      "secondary": "#C74634",
+      "accent": "#F80000",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#250000",
+      "surface": "#3E0000",
+      "text": "#FDD8D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #F80000;\n  --color-secondary: #C74634;\n  --color-accent: #F80000;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#F80000',\n  secondary: '#C74634',\n  accent: '#F80000',\n}"
+  },
+  {
+    "id": "salesforce",
+    "name": "Salesforce",
+    "category": "global-brand",
+    "tags": [
+      "科技",
+      "CRM",
+      "蓝色"
+    ],
+    "style": "全球CRM巨头，蓝色传达信任和成功。",
+    "colors": {
+      "primary": "#00A1E0",
+      "secondary": "#0079D1",
+      "accent": "#00A1E0",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#001821",
+      "surface": "#002838",
+      "text": "#D8F0FA"
+    },
+    "cssVariables": ":root {\n  --color-primary: #00A1E0;\n  --color-secondary: #0079D1;\n  --color-accent: #00A1E0;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#00A1E0',\n  secondary: '#0079D1',\n  accent: '#00A1E0',\n}"
+  },
+  {
+    "id": "adobe",
+    "name": "Adobe",
+    "category": "global-brand",
+    "tags": [
+      "科技",
+      "创意",
+      "红色"
+    ],
+    "style": "创意软件巨头，红色传达创意和热情。",
+    "colors": {
+      "primary": "#FF0000",
+      "secondary": "#FA0F00",
+      "accent": "#FF0000",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#260000",
+      "surface": "#3F0000",
+      "text": "#FFD8D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FF0000;\n  --color-secondary: #FA0F00;\n  --color-accent: #FF0000;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FF0000',\n  secondary: '#FA0F00',\n  accent: '#FF0000',\n}"
+  },
+  {
+    "id": "sap",
+    "name": "SAP",
+    "category": "global-brand",
+    "tags": [
+      "科技",
+      "企业",
+      "蓝色"
+    ],
+    "style": "全球企业软件巨头，蓝色传达专业和可靠。",
+    "colors": {
+      "primary": "#008FD3",
+      "secondary": "#005B82",
+      "accent": "#008FD3",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#00151F",
+      "surface": "#002334",
+      "text": "#D8EEF8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #008FD3;\n  --color-secondary: #005B82;\n  --color-accent: #008FD3;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#008FD3',\n  secondary: '#005B82',\n  accent: '#008FD3',\n}"
+  },
+  {
+    "id": "siemens",
+    "name": "Siemens",
+    "category": "global-brand",
+    "tags": [
+      "科技",
+      "工业",
+      "青绿"
+    ],
+    "style": "德国工业巨头，青绿色传达精密和创新。",
+    "colors": {
+      "primary": "#009999",
+      "secondary": "#006666",
+      "accent": "#009999",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#001616",
+      "surface": "#002626",
+      "text": "#D8EFEF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #009999;\n  --color-secondary: #006666;\n  --color-accent: #009999;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#009999',\n  secondary: '#006666',\n  accent: '#009999',\n}"
+  },
+  {
+    "id": "huawei",
+    "name": "Huawei",
+    "category": "global-brand",
+    "tags": [
+      "科技",
+      "通信",
+      "红色"
+    ],
+    "style": "中国科技巨头，华为红传达热情和创新。",
+    "colors": {
+      "primary": "#CF0A2C",
+      "secondary": "#C7000B",
+      "accent": "#CF0A2C",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#1F0106",
+      "surface": "#33020B",
+      "text": "#F7DADF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #CF0A2C;\n  --color-secondary: #C7000B;\n  --color-accent: #CF0A2C;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#CF0A2C',\n  secondary: '#C7000B',\n  accent: '#CF0A2C',\n}"
+  },
+  {
+    "id": "xiaomi",
+    "name": "Xiaomi",
+    "category": "global-brand",
+    "tags": [
+      "科技",
+      "电子",
+      "橙色"
+    ],
+    "style": "中国科技品牌，小米橙传达活力和亲民。",
+    "colors": {
+      "primary": "#FF6900",
+      "secondary": "#FF6700",
+      "accent": "#FF6900",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#260F00",
+      "surface": "#3F1A00",
+      "text": "#FFE8D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FF6900;\n  --color-secondary: #FF6700;\n  --color-accent: #FF6900;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FF6900',\n  secondary: '#FF6700',\n  accent: '#FF6900',\n}"
+  },
+  {
+    "id": "oppo",
+    "name": "OPPO",
+    "category": "global-brand",
+    "tags": [
+      "科技",
+      "手机",
+      "绿色"
+    ],
+    "style": "中国手机品牌，绿色传达年轻和创新。",
+    "colors": {
+      "primary": "#1BA784",
+      "secondary": "#1D8C6E",
+      "accent": "#1BA784",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#041913",
+      "surface": "#062921",
+      "text": "#DCF1EC"
+    },
+    "cssVariables": ":root {\n  --color-primary: #1BA784;\n  --color-secondary: #1D8C6E;\n  --color-accent: #1BA784;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#1BA784',\n  secondary: '#1D8C6E',\n  accent: '#1BA784',\n}"
+  },
+  {
+    "id": "vivo",
+    "name": "vivo",
+    "category": "global-brand",
+    "tags": [
+      "科技",
+      "手机",
+      "蓝色"
+    ],
+    "style": "中国手机品牌，蓝色传达科技和活力。",
+    "colors": {
+      "primary": "#415FFF",
+      "secondary": "#2949FF",
+      "accent": "#415FFF",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#090E26",
+      "surface": "#10173F",
+      "text": "#E2E7FF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #415FFF;\n  --color-secondary: #2949FF;\n  --color-accent: #415FFF;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#415FFF',\n  secondary: '#2949FF',\n  accent: '#415FFF',\n}"
+  },
+  {
+    "id": "toyota",
+    "name": "Toyota",
+    "category": "global-brand",
+    "tags": [
+      "汽车",
+      "日本",
+      "红色"
+    ],
+    "style": "全球最大汽车制造商，丰田红传达能量和自信。",
+    "colors": {
+      "primary": "#EB0A1E",
+      "secondary": "#C4091A",
+      "accent": "#EB0A1E",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#230104",
+      "surface": "#3A0207",
+      "text": "#FCDADD"
+    },
+    "cssVariables": ":root {\n  --color-primary: #EB0A1E;\n  --color-secondary: #C4091A;\n  --color-accent: #EB0A1E;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#EB0A1E',\n  secondary: '#C4091A',\n  accent: '#EB0A1E',\n}"
+  },
+  {
+    "id": "honda",
+    "name": "Honda",
+    "category": "global-brand",
+    "tags": [
+      "汽车",
+      "日本",
+      "红色"
+    ],
+    "style": "日本汽车品牌，本田红传达激情和运动。",
+    "colors": {
+      "primary": "#CC0000",
+      "secondary": "#AA0000",
+      "accent": "#CC0000",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#1E0000",
+      "surface": "#330000",
+      "text": "#F7D8D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #CC0000;\n  --color-secondary: #AA0000;\n  --color-accent: #CC0000;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#CC0000',\n  secondary: '#AA0000',\n  accent: '#CC0000',\n}"
+  },
+  {
+    "id": "ford",
+    "name": "Ford",
+    "category": "global-brand",
+    "tags": [
+      "汽车",
+      "美国",
+      "蓝色"
+    ],
+    "style": "美国汽车品牌，福特蓝传达经典和信赖。",
+    "colors": {
+      "primary": "#004377",
+      "secondary": "#003366",
+      "accent": "#004377",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#000A11",
+      "surface": "#00101D",
+      "text": "#D8E2EA"
+    },
+    "cssVariables": ":root {\n  --color-primary: #004377;\n  --color-secondary: #003366;\n  --color-accent: #004377;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#004377',\n  secondary: '#003366',\n  accent: '#004377',\n}"
+  },
+  {
+    "id": "vw",
+    "name": "Volkswagen",
+    "category": "global-brand",
+    "tags": [
+      "汽车",
+      "德国",
+      "深蓝"
+    ],
+    "style": "德国汽车品牌，深蓝传达德系沉稳和精密。",
+    "colors": {
+      "primary": "#001E50",
+      "secondary": "#001238",
+      "accent": "#001E50",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#00040C",
+      "surface": "#000714",
+      "text": "#D8DDE4"
+    },
+    "cssVariables": ":root {\n  --color-primary: #001E50;\n  --color-secondary: #001238;\n  --color-accent: #001E50;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#001E50',\n  secondary: '#001238',\n  accent: '#001E50',\n}"
+  },
+  {
+    "id": "bmw-brand",
+    "name": "BMW",
+    "category": "global-brand",
+    "tags": [
+      "汽车",
+      "德国",
+      "蓝色"
+    ],
+    "style": "德国豪华汽车品牌，宝马蓝+灰白传达驾驶乐趣。",
+    "colors": {
+      "primary": "#0166B1",
+      "secondary": "#004E8C",
+      "accent": "#0166B1",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#000F1A",
+      "surface": "#00192C",
+      "text": "#D8E8F3"
+    },
+    "cssVariables": ":root {\n  --color-primary: #0166B1;\n  --color-secondary: #004E8C;\n  --color-accent: #0166B1;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#0166B1',\n  secondary: '#004E8C',\n  accent: '#0166B1',\n}"
+  },
+  {
+    "id": "tesla-brand",
+    "name": "Tesla",
+    "category": "global-brand",
+    "tags": [
+      "汽车",
+      "新能源",
+      "红色"
+    ],
+    "style": "电动车先锋，特斯拉红传达科技和创新。",
+    "colors": {
+      "primary": "#CC0000",
+      "secondary": "#990000",
+      "accent": "#CC0000",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#1E0000",
+      "surface": "#330000",
+      "text": "#F7D8D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #CC0000;\n  --color-secondary: #990000;\n  --color-accent: #CC0000;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#CC0000',\n  secondary: '#990000',\n  accent: '#CC0000',\n}"
+  },
+  {
+    "id": "byd",
+    "name": "BYD",
+    "category": "global-brand",
+    "tags": [
+      "汽车",
+      "新能源",
+      "红色"
+    ],
+    "style": "中国新能源汽车领军者，红色充满激情。",
+    "colors": {
+      "primary": "#D70C19",
+      "secondary": "#B80A15",
+      "accent": "#D70C19",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#200103",
+      "surface": "#350306",
+      "text": "#F9DADC"
+    },
+    "cssVariables": ":root {\n  --color-primary: #D70C19;\n  --color-secondary: #B80A15;\n  --color-accent: #D70C19;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#D70C19',\n  secondary: '#B80A15',\n  accent: '#D70C19',\n}"
+  },
+  {
+    "id": "nio",
+    "name": "NIO",
+    "category": "global-brand",
+    "tags": [
+      "汽车",
+      "新能源",
+      "蓝色"
+    ],
+    "style": "中国高端电动车品牌，蓝色传达智能和未来。",
+    "colors": {
+      "primary": "#00B2FF",
+      "secondary": "#0090DD",
+      "accent": "#00B2FF",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#001A26",
+      "surface": "#002C3F",
+      "text": "#D8F3FF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #00B2FF;\n  --color-secondary: #0090DD;\n  --color-accent: #00B2FF;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#00B2FF',\n  secondary: '#0090DD',\n  accent: '#00B2FF',\n}"
+  },
+  {
+    "id": "porsche",
+    "name": "Porsche",
+    "category": "global-brand",
+    "tags": [
+      "汽车",
+      "德国",
+      "红色"
+    ],
+    "style": "德国豪华跑车品牌，保时捷红+金盾传达运动奢华。",
+    "colors": {
+      "primary": "#B12B28",
+      "secondary": "#8A2020",
+      "accent": "#EBD698",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#1A0606",
+      "surface": "#2C0A0A",
+      "text": "#F3DFDE"
+    },
+    "cssVariables": ":root {\n  --color-primary: #B12B28;\n  --color-secondary: #8A2020;\n  --color-accent: #EBD698;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#B12B28',\n  secondary: '#8A2020',\n  accent: '#EBD698',\n}"
+  },
+  {
+    "id": "ferrari",
+    "name": "Ferrari",
+    "category": "global-brand",
+    "tags": [
+      "汽车",
+      "意大利",
+      "红色"
+    ],
+    "style": "意大利超级跑车，法拉利红+黄传达极致速度。",
+    "colors": {
+      "primary": "#E42528",
+      "secondary": "#C41E21",
+      "accent": "#F8E823",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#220506",
+      "surface": "#39090A",
+      "text": "#FADEDE"
+    },
+    "cssVariables": ":root {\n  --color-primary: #E42528;\n  --color-secondary: #C41E21;\n  --color-accent: #F8E823;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#E42528',\n  secondary: '#C41E21',\n  accent: '#F8E823',\n}"
+  },
+  {
+    "id": "mercedes",
+    "name": "Mercedes-Benz",
+    "category": "global-brand",
+    "tags": [
+      "汽车",
+      "德国",
+      "黑色"
+    ],
+    "style": "德国豪华汽车品牌，黑色传达高端和精密。",
+    "colors": {
+      "primary": "#000000",
+      "secondary": "#333333",
+      "accent": "#00ADEF",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#000000",
+      "surface": "#000000",
+      "text": "#D8D8D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #000000;\n  --color-secondary: #333333;\n  --color-accent: #00ADEF;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#000000',\n  secondary: '#333333',\n  accent: '#00ADEF',\n}"
+  },
+  {
+    "id": "audi",
+    "name": "Audi",
+    "category": "global-brand",
+    "tags": [
+      "汽车",
+      "德国",
+      "黑色"
+    ],
+    "style": "德国豪华汽车品牌，黑色传达科技和精密。",
+    "colors": {
+      "primary": "#000000",
+      "secondary": "#BB0A30",
+      "accent": "#000000",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#000000",
+      "surface": "#000000",
+      "text": "#D8D8D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #000000;\n  --color-secondary: #BB0A30;\n  --color-accent: #000000;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#000000',\n  secondary: '#BB0A30',\n  accent: '#000000',\n}"
+  },
+  {
+    "id": "volvo",
+    "name": "Volvo",
+    "category": "global-brand",
+    "tags": [
+      "汽车",
+      "瑞典",
+      "蓝色"
+    ],
+    "style": "瑞典汽车品牌，沃尔沃蓝传达安全和北欧设计。",
+    "colors": {
+      "primary": "#003057",
+      "secondary": "#002040",
+      "accent": "#003057",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#00070D",
+      "surface": "#000C15",
+      "text": "#D8DFE5"
+    },
+    "cssVariables": ":root {\n  --color-primary: #003057;\n  --color-secondary: #002040;\n  --color-accent: #003057;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#003057',\n  secondary: '#002040',\n  accent: '#003057',\n}"
+  },
+  {
+    "id": "louis-vuitton",
+    "name": "Louis Vuitton",
+    "category": "global-brand",
+    "tags": [
+      "奢侈",
+      "时尚",
+      "黑色"
+    ],
+    "style": "法国奢侈品牌，黑色+LV棕金传达经典永恒。",
+    "colors": {
+      "primary": "#000000",
+      "secondary": "#8B6914",
+      "accent": "#D4AF37",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#000000",
+      "surface": "#000000",
+      "text": "#D8D8D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #000000;\n  --color-secondary: #8B6914;\n  --color-accent: #D4AF37;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#000000',\n  secondary: '#8B6914',\n  accent: '#D4AF37',\n}"
+  },
+  {
+    "id": "chanel",
+    "name": "Chanel",
+    "category": "global-brand",
+    "tags": [
+      "奢侈",
+      "时尚",
+      "黑色"
+    ],
+    "style": "法国奢侈品牌，黑白传达极致优雅。",
+    "colors": {
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "accent": "#C0A062",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#000000",
+      "surface": "#000000",
+      "text": "#D8D8D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #000000;\n  --color-secondary: #FFFFFF;\n  --color-accent: #C0A062;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#000000',\n  secondary: '#FFFFFF',\n  accent: '#C0A062',\n}"
+  },
+  {
+    "id": "gucci",
+    "name": "Gucci",
+    "category": "global-brand",
+    "tags": [
+      "奢侈",
+      "时尚",
+      "黑色"
+    ],
+    "style": "意大利奢侈品牌，黑+绿红条纹传达时尚前卫。",
+    "colors": {
+      "primary": "#000000",
+      "secondary": "#006B3F",
+      "accent": "#A9333A",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#000000",
+      "surface": "#000000",
+      "text": "#D8D8D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #000000;\n  --color-secondary: #006B3F;\n  --color-accent: #A9333A;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#000000',\n  secondary: '#006B3F',\n  accent: '#A9333A',\n}"
+  },
+  {
+    "id": "hermes",
+    "name": "Hermes",
+    "category": "global-brand",
+    "tags": [
+      "奢侈",
+      "时尚",
+      "橙色"
+    ],
+    "style": "法国奢侈品牌，爱马仕橙传达奢华活力。",
+    "colors": {
+      "primary": "#F37021",
+      "secondary": "#D45E1B",
+      "accent": "#F37021",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#241004",
+      "surface": "#3C1C08",
+      "text": "#FDE9DD"
+    },
+    "cssVariables": ":root {\n  --color-primary: #F37021;\n  --color-secondary: #D45E1B;\n  --color-accent: #F37021;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#F37021',\n  secondary: '#D45E1B',\n  accent: '#F37021',\n}"
+  },
+  {
+    "id": "prada",
+    "name": "Prada",
+    "category": "global-brand",
+    "tags": [
+      "奢侈",
+      "时尚",
+      "黄色"
+    ],
+    "style": "意大利奢侈品牌，普拉达黄+黑传达时尚前卫。",
+    "colors": {
+      "primary": "#E39700",
+      "secondary": "#C48200",
+      "accent": "#000000",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#221600",
+      "surface": "#382500",
+      "text": "#FAEFD8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #E39700;\n  --color-secondary: #C48200;\n  --color-accent: #000000;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#E39700',\n  secondary: '#C48200',\n  accent: '#000000',\n}"
+  },
+  {
+    "id": "dior",
+    "name": "Dior",
+    "category": "global-brand",
+    "tags": [
+      "奢侈",
+      "时尚",
+      "黑色"
+    ],
+    "style": "法国奢侈品牌，黑白传达法式高贵。",
+    "colors": {
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "accent": "#8B7D6B",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#000000",
+      "surface": "#000000",
+      "text": "#D8D8D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #000000;\n  --color-secondary: #FFFFFF;\n  --color-accent: #8B7D6B;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#000000',\n  secondary: '#FFFFFF',\n  accent: '#8B7D6B',\n}"
+  },
+  {
+    "id": "rolex",
+    "name": "Rolex",
+    "category": "global-brand",
+    "tags": [
+      "奢侈",
+      "手表",
+      "金色"
+    ],
+    "style": "瑞士奢侈手表，劳力士金+绿传达皇冠尊贵。",
+    "colors": {
+      "primary": "#A37E2C",
+      "secondary": "#8B6914",
+      "accent": "#006039",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#181206",
+      "surface": "#281F0B",
+      "text": "#F1EBDF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #A37E2C;\n  --color-secondary: #8B6914;\n  --color-accent: #006039;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#A37E2C',\n  secondary: '#8B6914',\n  accent: '#006039',\n}"
+  },
+  {
+    "id": "cartier",
+    "name": "Cartier",
+    "category": "global-brand",
+    "tags": [
+      "奢侈",
+      "珠宝",
+      "红色"
+    ],
+    "style": "法国珠宝品牌，黑+卡地亚红传达珠宝奢华。",
+    "colors": {
+      "primary": "#000000",
+      "secondary": "#003153",
+      "accent": "#D4AF37",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#000000",
+      "surface": "#000000",
+      "text": "#D8D8D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #000000;\n  --color-secondary: #003153;\n  --color-accent: #D4AF37;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#000000',\n  secondary: '#003153',\n  accent: '#D4AF37',\n}"
+  },
+  {
+    "id": "tiffany",
+    "name": "Tiffany & Co.",
+    "category": "global-brand",
+    "tags": [
+      "奢侈",
+      "珠宝",
+      "蓝色"
+    ],
+    "style": "美国珠宝品牌，蒂芙尼蓝传达浪漫优雅。",
+    "colors": {
+      "primary": "#00ABB9",
+      "secondary": "#008B99",
+      "accent": "#00ABB9",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#00191B",
+      "surface": "#002A2E",
+      "text": "#D8F2F4"
+    },
+    "cssVariables": ":root {\n  --color-primary: #00ABB9;\n  --color-secondary: #008B99;\n  --color-accent: #00ABB9;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#00ABB9',\n  secondary: '#008B99',\n  accent: '#00ABB9',\n}"
+  },
+  {
+    "id": "burberry",
+    "name": "Burberry",
+    "category": "global-brand",
+    "tags": [
+      "奢侈",
+      "时尚",
+      "驼色"
+    ],
+    "style": "英国奢侈品牌，黑+驼色格纹传达英伦传统。",
+    "colors": {
+      "primary": "#000000",
+      "secondary": "#A3622A",
+      "accent": "#CC0000",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#000000",
+      "surface": "#000000",
+      "text": "#D8D8D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #000000;\n  --color-secondary: #A3622A;\n  --color-accent: #CC0000;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#000000',\n  secondary: '#A3622A',\n  accent: '#CC0000',\n}"
+  },
+  {
+    "id": "coca-cola",
+    "name": "Coca-Cola",
+    "category": "global-brand",
+    "tags": [
+      "饮料",
+      "快消",
+      "红色"
+    ],
+    "style": "全球饮料品牌，可口可乐红传达快乐和经典。",
+    "colors": {
+      "primary": "#F40009",
+      "secondary": "#D40008",
+      "accent": "#F40009",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#240001",
+      "surface": "#3D0002",
+      "text": "#FDD8DA"
+    },
+    "cssVariables": ":root {\n  --color-primary: #F40009;\n  --color-secondary: #D40008;\n  --color-accent: #F40009;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#F40009',\n  secondary: '#D40008',\n  accent: '#F40009',\n}"
+  },
+  {
+    "id": "pepsi",
+    "name": "Pepsi",
+    "category": "global-brand",
+    "tags": [
+      "饮料",
+      "快消",
+      "蓝色"
+    ],
+    "style": "全球饮料品牌，百事蓝+红传达活力和年轻。",
+    "colors": {
+      "primary": "#004B93",
+      "secondary": "#EB1933",
+      "accent": "#004B93",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#000B16",
+      "surface": "#001224",
+      "text": "#D8E4EE"
+    },
+    "cssVariables": ":root {\n  --color-primary: #004B93;\n  --color-secondary: #EB1933;\n  --color-accent: #004B93;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#004B93',\n  secondary: '#EB1933',\n  accent: '#004B93',\n}"
+  },
+  {
+    "id": "mcdonalds",
+    "name": "McDonald's",
+    "category": "global-brand",
+    "tags": [
+      "快餐",
+      "餐饮",
+      "黄色"
+    ],
+    "style": "全球快餐品牌，金黄+红传达快乐和食欲。",
+    "colors": {
+      "primary": "#FFC72C",
+      "secondary": "#DA291C",
+      "accent": "#FFC72C",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#261D06",
+      "surface": "#3F310B",
+      "text": "#FFF6DF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FFC72C;\n  --color-secondary: #DA291C;\n  --color-accent: #FFC72C;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FFC72C',\n  secondary: '#DA291C',\n  accent: '#FFC72C',\n}"
+  },
+  {
+    "id": "starbucks",
+    "name": "Starbucks",
+    "category": "global-brand",
+    "tags": [
+      "咖啡",
+      "餐饮",
+      "绿色"
+    ],
+    "style": "全球咖啡品牌，星巴克绿传达咖啡文化。",
+    "colors": {
+      "primary": "#00704A",
+      "secondary": "#1E3932",
+      "accent": "#00704A",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#00100B",
+      "surface": "#001C12",
+      "text": "#D8E9E3"
+    },
+    "cssVariables": ":root {\n  --color-primary: #00704A;\n  --color-secondary: #1E3932;\n  --color-accent: #00704A;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#00704A',\n  secondary: '#1E3932',\n  accent: '#00704A',\n}"
+  },
+  {
+    "id": "kfc",
+    "name": "KFC",
+    "category": "global-brand",
+    "tags": [
+      "快餐",
+      "餐饮",
+      "红色"
+    ],
+    "style": "全球快餐品牌，肯德基红+米色传达热情温暖。",
+    "colors": {
+      "primary": "#C41230",
+      "secondary": "#E4002B",
+      "accent": "#F5D4B7",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#1D0207",
+      "surface": "#31040C",
+      "text": "#F6DBDF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #C41230;\n  --color-secondary: #E4002B;\n  --color-accent: #F5D4B7;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#C41230',\n  secondary: '#E4002B',\n  accent: '#F5D4B7',\n}"
+  },
+  {
+    "id": "redbull",
+    "name": "Red Bull",
+    "category": "global-brand",
+    "tags": [
+      "饮料",
+      "能量",
+      "红色"
+    ],
+    "style": "全球能量饮料，红+黄传达能量和激情。",
+    "colors": {
+      "primary": "#E21B4D",
+      "secondary": "#FFD300",
+      "accent": "#E21B4D",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#21040B",
+      "surface": "#380613",
+      "text": "#FADCE4"
+    },
+    "cssVariables": ":root {\n  --color-primary: #E21B4D;\n  --color-secondary: #FFD300;\n  --color-accent: #E21B4D;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#E21B4D',\n  secondary: '#FFD300',\n  accent: '#E21B4D',\n}"
+  },
+  {
+    "id": "nestle",
+    "name": "Nestle",
+    "category": "global-brand",
+    "tags": [
+      "食品",
+      "快消",
+      "红色"
+    ],
+    "style": "全球食品饮料巨头，红+白传达信赖和品质。",
+    "colors": {
+      "primary": "#000000",
+      "secondary": "#D40000",
+      "accent": "#0091DA",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#000000",
+      "surface": "#000000",
+      "text": "#D8D8D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #000000;\n  --color-secondary: #D40000;\n  --color-accent: #0091DA;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#000000',\n  secondary: '#D40000',\n  accent: '#0091DA',\n}"
+  },
+  {
+    "id": "unilever",
+    "name": "Unilever",
+    "category": "global-brand",
+    "tags": [
+      "快消",
+      "日化",
+      "蓝色"
+    ],
+    "style": "全球快消巨头，联合利华蓝传达洁净和信赖。",
+    "colors": {
+      "primary": "#0066CC",
+      "secondary": "#003D7A",
+      "accent": "#0066CC",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#000F1E",
+      "surface": "#001933",
+      "text": "#D8E8F7"
+    },
+    "cssVariables": ":root {\n  --color-primary: #0066CC;\n  --color-secondary: #003D7A;\n  --color-accent: #0066CC;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#0066CC',\n  secondary: '#003D7A',\n  accent: '#0066CC',\n}"
+  },
+  {
+    "id": "pg",
+    "name": "P&G",
+    "category": "global-brand",
+    "tags": [
+      "快消",
+      "日化",
+      "蓝色"
+    ],
+    "style": "全球快消巨头，宝洁蓝传达专业和可靠。",
+    "colors": {
+      "primary": "#0060AE",
+      "secondary": "#39ACE4",
+      "accent": "#0060AE",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#000E1A",
+      "surface": "#00182B",
+      "text": "#D8E7F2"
+    },
+    "cssVariables": ":root {\n  --color-primary: #0060AE;\n  --color-secondary: #39ACE4;\n  --color-accent: #0060AE;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#0060AE',\n  secondary: '#39ACE4',\n  accent: '#0060AE',\n}"
+  },
+  {
+    "id": "nike-brand",
+    "name": "Nike",
+    "category": "global-brand",
+    "tags": [
+      "运动",
+      "服饰",
+      "黑色"
+    ],
+    "style": "全球运动品牌，黑色传达高端和运动精神。",
+    "colors": {
+      "primary": "#111111",
+      "secondary": "#FFFFFF",
+      "accent": "#FA5631",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#020202",
+      "surface": "#040404",
+      "text": "#DBDBDB"
+    },
+    "cssVariables": ":root {\n  --color-primary: #111111;\n  --color-secondary: #FFFFFF;\n  --color-accent: #FA5631;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#111111',\n  secondary: '#FFFFFF',\n  accent: '#FA5631',\n}"
+  },
+  {
+    "id": "adidas-brand",
+    "name": "Adidas",
+    "category": "global-brand",
+    "tags": [
+      "运动",
+      "服饰",
+      "黑色"
+    ],
+    "style": "德国运动品牌，黑白+三叶草传达运动经典。",
+    "colors": {
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "accent": "#BE0027",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#000000",
+      "surface": "#000000",
+      "text": "#D8D8D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #000000;\n  --color-secondary: #FFFFFF;\n  --color-accent: #BE0027;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#000000',\n  secondary: '#FFFFFF',\n  accent: '#BE0027',\n}"
+  },
+  {
+    "id": "ikea",
+    "name": "IKEA",
+    "category": "global-brand",
+    "tags": [
+      "家居",
+      "零售",
+      "蓝色"
+    ],
+    "style": "瑞典家居品牌，IKEA蓝+黄传达简约和实用。",
+    "colors": {
+      "primary": "#0058A3",
+      "secondary": "#FFDA1A",
+      "accent": "#0058A3",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#000D18",
+      "surface": "#001628",
+      "text": "#D8E5F1"
+    },
+    "cssVariables": ":root {\n  --color-primary: #0058A3;\n  --color-secondary: #FFDA1A;\n  --color-accent: #0058A3;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#0058A3',\n  secondary: '#FFDA1A',\n  accent: '#0058A3',\n}"
+  },
+  {
+    "id": "lego",
+    "name": "LEGO",
+    "category": "global-brand",
+    "tags": [
+      "玩具",
+      "丹麦",
+      "黄色"
+    ],
+    "style": "全球玩具品牌，乐高黄传达创造力和快乐。",
+    "colors": {
+      "primary": "#F8D100",
+      "secondary": "#E60012",
+      "accent": "#006CB7",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#251F00",
+      "surface": "#3E3400",
+      "text": "#FDF8D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #F8D100;\n  --color-secondary: #E60012;\n  --color-accent: #006CB7;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#F8D100',\n  secondary: '#E60012',\n  accent: '#006CB7',\n}"
+  },
+  {
+    "id": "nintendo-brand",
+    "name": "Nintendo",
+    "category": "global-brand",
+    "tags": [
+      "游戏",
+      "日本",
+      "红色"
+    ],
+    "style": "日本游戏巨头，任天堂红传达乐趣和创新。",
+    "colors": {
+      "primary": "#E60012",
+      "secondary": "#CC0010",
+      "accent": "#E60012",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#220002",
+      "surface": "#390004",
+      "text": "#FBD8DB"
+    },
+    "cssVariables": ":root {\n  --color-primary: #E60012;\n  --color-secondary: #CC0010;\n  --color-accent: #E60012;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#E60012',\n  secondary: '#CC0010',\n  accent: '#E60012',\n}"
+  },
+  {
+    "id": "sony-ps",
+    "name": "PlayStation",
+    "category": "global-brand",
+    "tags": [
+      "游戏",
+      "日本",
+      "蓝色"
+    ],
+    "style": "索尼游戏主机，PlayStation蓝传达沉浸体验。",
+    "colors": {
+      "primary": "#003087",
+      "secondary": "#00439C",
+      "accent": "#003087",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#000714",
+      "surface": "#000C21",
+      "text": "#D8DFED"
+    },
+    "cssVariables": ":root {\n  --color-primary: #003087;\n  --color-secondary: #00439C;\n  --color-accent: #003087;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#003087',\n  secondary: '#00439C',\n  accent: '#003087',\n}"
+  },
+  {
+    "id": "xbox",
+    "name": "Xbox",
+    "category": "global-brand",
+    "tags": [
+      "游戏",
+      "美国",
+      "绿色"
+    ],
+    "style": "微软游戏主机，Xbox绿传达游戏活力。",
+    "colors": {
+      "primary": "#107C10",
+      "secondary": "#0E6B0E",
+      "accent": "#107C10",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#021202",
+      "surface": "#041F04",
+      "text": "#DBEBDB"
+    },
+    "cssVariables": ":root {\n  --color-primary: #107C10;\n  --color-secondary: #0E6B0E;\n  --color-accent: #107C10;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#107C10',\n  secondary: '#0E6B0E',\n  accent: '#107C10',\n}"
+  },
+  {
+    "id": "steam",
+    "name": "Steam",
+    "category": "global-brand",
+    "tags": [
+      "游戏",
+      "平台",
+      "深蓝"
+    ],
+    "style": "全球最大游戏平台，深蓝灰传达沉浸式体验。",
+    "colors": {
+      "primary": "#1B2838",
+      "secondary": "#2A475E",
+      "accent": "#66C0F4",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#040608",
+      "surface": "#060A0E",
+      "text": "#DCDEE1"
+    },
+    "cssVariables": ":root {\n  --color-primary: #1B2838;\n  --color-secondary: #2A475E;\n  --color-accent: #66C0F4;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#1B2838',\n  secondary: '#2A475E',\n  accent: '#66C0F4',\n}"
+  },
+  {
+    "id": "epic-games",
+    "name": "Epic Games",
+    "category": "global-brand",
+    "tags": [
+      "游戏",
+      "引擎",
+      "深灰"
+    ],
+    "style": "游戏引擎和商店，深灰色传达专业和力量。",
+    "colors": {
+      "primary": "#2F2D2E",
+      "secondary": "#121212",
+      "accent": "#2F2D2E",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#070606",
+      "surface": "#0B0B0B",
+      "text": "#DFDFDF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #2F2D2E;\n  --color-secondary: #121212;\n  --color-accent: #2F2D2E;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#2F2D2E',\n  secondary: '#121212',\n  accent: '#2F2D2E',\n}"
+  }
+]

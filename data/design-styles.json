@@ -1,0 +1,963 @@
+[
+  {
+    "id": "glassmorphism",
+    "name": "Glassmorphism 玻璃拟态",
+    "category": "design-style",
+    "tags": [
+      "玻璃",
+      "拟态",
+      "半透明"
+    ],
+    "style": "毛玻璃效果设计风格，半透明背景+模糊传达现代和层次。",
+    "colors": {
+      "primary": "#6C63FF",
+      "secondary": "#A8A4FF",
+      "accent": "#FF6584",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#100E26",
+      "surface": "#1B183F",
+      "text": "#E8E7FF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #6C63FF;\n  --color-secondary: #A8A4FF;\n  --color-accent: #FF6584;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#6C63FF',\n  secondary: '#A8A4FF',\n  accent: '#FF6584',\n}"
+  },
+  {
+    "id": "neumorphism",
+    "name": "Neumorphism 新拟物",
+    "category": "design-style",
+    "tags": [
+      "新拟物",
+      "柔和",
+      "凸凹"
+    ],
+    "style": "柔和凸凹效果设计风格，浅灰底+阴影传达柔和触感。",
+    "colors": {
+      "primary": "#E0E5EC",
+      "secondary": "#A3B1C6",
+      "accent": "#6C63FF",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#212223",
+      "surface": "#38393B",
+      "text": "#FAFBFC"
+    },
+    "cssVariables": ":root {\n  --color-primary: #E0E5EC;\n  --color-secondary: #A3B1C6;\n  --color-accent: #6C63FF;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#E0E5EC',\n  secondary: '#A3B1C6',\n  accent: '#6C63FF',\n}"
+  },
+  {
+    "id": "brutalism",
+    "name": "Brutalism 粗野主义",
+    "category": "design-style",
+    "tags": [
+      "粗野",
+      "原始",
+      "高对比"
+    ],
+    "style": "高对比原始风格，纯色+粗边框传达反叛和直接。",
+    "colors": {
+      "primary": "#FF0000",
+      "secondary": "#000000",
+      "accent": "#FFFF00",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#260000",
+      "surface": "#3F0000",
+      "text": "#FFD8D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FF0000;\n  --color-secondary: #000000;\n  --color-accent: #FFFF00;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FF0000',\n  secondary: '#000000',\n  accent: '#FFFF00',\n}"
+  },
+  {
+    "id": "minimalism-v2",
+    "name": "Minimalism v2 极简2.0",
+    "category": "design-style",
+    "tags": [
+      "极简",
+      "留白",
+      "克制"
+    ],
+    "style": "极致留白设计，深灰+近白传达克制和高级。",
+    "colors": {
+      "primary": "#333333",
+      "secondary": "#F5F5F5",
+      "accent": "#333333",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#070707",
+      "surface": "#0C0C0C",
+      "text": "#E0E0E0"
+    },
+    "cssVariables": ":root {\n  --color-primary: #333333;\n  --color-secondary: #F5F5F5;\n  --color-accent: #333333;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#333333',\n  secondary: '#F5F5F5',\n  accent: '#333333',\n}"
+  },
+  {
+    "id": "flat-2",
+    "name": "Flat Design 2.0 扁平2.0",
+    "category": "design-style",
+    "tags": [
+      "扁平",
+      "鲜明",
+      "微阴影"
+    ],
+    "style": "鲜明饱和色+微阴影，传达现代和活力。",
+    "colors": {
+      "primary": "#3498DB",
+      "secondary": "#E74C3C",
+      "accent": "#2ECC71",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#071620",
+      "surface": "#0D2636",
+      "text": "#E0EFF9"
+    },
+    "cssVariables": ":root {\n  --color-primary: #3498DB;\n  --color-secondary: #E74C3C;\n  --color-accent: #2ECC71;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#3498DB',\n  secondary: '#E74C3C',\n  accent: '#2ECC71',\n}"
+  },
+  {
+    "id": "gradient-mesh",
+    "name": "Gradient Mesh 渐变网格",
+    "category": "design-style",
+    "tags": [
+      "渐变",
+      "多彩",
+      "流动"
+    ],
+    "style": "多彩渐变网格，传达流动和艺术感。",
+    "colors": {
+      "primary": "#667EEA",
+      "secondary": "#764BA2",
+      "accent": "#F093FB",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#0F1223",
+      "surface": "#191F3A",
+      "text": "#E8EBFB"
+    },
+    "cssVariables": ":root {\n  --color-primary: #667EEA;\n  --color-secondary: #764BA2;\n  --color-accent: #F093FB;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#667EEA',\n  secondary: '#764BA2',\n  accent: '#F093FB',\n}"
+  },
+  {
+    "id": "dark-first",
+    "name": "Dark Mode First 暗色优先",
+    "category": "design-style",
+    "tags": [
+      "暗色",
+      "护眼",
+      "沉浸"
+    ],
+    "style": "深色背景优先设计，传达沉浸和专注。",
+    "colors": {
+      "primary": "#121212",
+      "secondary": "#1E1E2E",
+      "accent": "#BB86FC",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#020202",
+      "surface": "#040404",
+      "text": "#DBDBDB"
+    },
+    "cssVariables": ":root {\n  --color-primary: #121212;\n  --color-secondary: #1E1E2E;\n  --color-accent: #BB86FC;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#121212',\n  secondary: '#1E1E2E',\n  accent: '#BB86FC',\n}"
+  },
+  {
+    "id": "retro-futurism",
+    "name": "Retro Futurism 复古未来",
+    "category": "design-style",
+    "tags": [
+      "复古",
+      "未来",
+      "霓虹"
+    ],
+    "style": "复古+未来主义，霓虹色+深色传达怀旧科幻。",
+    "colors": {
+      "primary": "#FF6B35",
+      "secondary": "#004E89",
+      "accent": "#39FF14",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#261007",
+      "surface": "#3F1A0D",
+      "text": "#FFE8E0"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FF6B35;\n  --color-secondary: #004E89;\n  --color-accent: #39FF14;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FF6B35',\n  secondary: '#004E89',\n  accent: '#39FF14',\n}"
+  },
+  {
+    "id": "organic",
+    "name": "Organic/Natural 有机自然",
+    "category": "design-style",
+    "tags": [
+      "有机",
+      "自然",
+      "大地色"
+    ],
+    "style": "有机自然风格，大地色系传达自然和温暖。",
+    "colors": {
+      "primary": "#8B9D83",
+      "secondary": "#D4C5A9",
+      "accent": "#6B8F71",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#141713",
+      "surface": "#222720",
+      "text": "#EDF0EC"
+    },
+    "cssVariables": ":root {\n  --color-primary: #8B9D83;\n  --color-secondary: #D4C5A9;\n  --color-accent: #6B8F71;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#8B9D83',\n  secondary: '#D4C5A9',\n  accent: '#6B8F71',\n}"
+  },
+  {
+    "id": "swiss",
+    "name": "Swiss Style 瑞士风格",
+    "category": "design-style",
+    "tags": [
+      "瑞士",
+      "网格",
+      "理性"
+    ],
+    "style": "瑞士国际主义风格，红+黑+网格传达理性和秩序。",
+    "colors": {
+      "primary": "#FF0000",
+      "secondary": "#000000",
+      "accent": "#FFFFFF",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#260000",
+      "surface": "#3F0000",
+      "text": "#FFD8D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FF0000;\n  --color-secondary: #000000;\n  --color-accent: #FFFFFF;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FF0000',\n  secondary: '#000000',\n  accent: '#FFFFFF',\n}"
+  },
+  {
+    "id": "memphis",
+    "name": "Memphis 孟菲斯风格",
+    "category": "design-style",
+    "tags": [
+      "孟菲斯",
+      "几何",
+      "多彩"
+    ],
+    "style": "80年代孟菲斯设计，多彩几何传达趣味和活力。",
+    "colors": {
+      "primary": "#FF6B6B",
+      "secondary": "#4ECDC4",
+      "accent": "#FFE66D",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#261010",
+      "surface": "#3F1A1A",
+      "text": "#FFE8E8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FF6B6B;\n  --color-secondary: #4ECDC4;\n  --color-accent: #FFE66D;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FF6B6B',\n  secondary: '#4ECDC4',\n  accent: '#FFE66D',\n}"
+  },
+  {
+    "id": "bauhaus",
+    "name": "Bauhaus 包豪斯",
+    "category": "design-style",
+    "tags": [
+      "包豪斯",
+      "几何",
+      "三原色"
+    ],
+    "style": "包豪斯设计，三原色+几何传达理性和功能。",
+    "colors": {
+      "primary": "#DD0000",
+      "secondary": "#0000DD",
+      "accent": "#FFCC00",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#210000",
+      "surface": "#370000",
+      "text": "#F9D8D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #DD0000;\n  --color-secondary: #0000DD;\n  --color-accent: #FFCC00;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#DD0000',\n  secondary: '#0000DD',\n  accent: '#FFCC00',\n}"
+  },
+  {
+    "id": "art-deco",
+    "name": "Art Deco 装饰艺术",
+    "category": "design-style",
+    "tags": [
+      "装饰",
+      "金色",
+      "几何"
+    ],
+    "style": "装饰艺术风格，金色+黑色传达奢华和精致。",
+    "colors": {
+      "primary": "#D4AF37",
+      "secondary": "#000000",
+      "accent": "#C0C0C0",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#1F1A08",
+      "surface": "#352B0D",
+      "text": "#F8F3E1"
+    },
+    "cssVariables": ":root {\n  --color-primary: #D4AF37;\n  --color-secondary: #000000;\n  --color-accent: #C0C0C0;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#D4AF37',\n  secondary: '#000000',\n  accent: '#C0C0C0',\n}"
+  },
+  {
+    "id": "vaporwave",
+    "name": "Vaporwave 蒸汽波",
+    "category": "design-style",
+    "tags": [
+      "蒸汽波",
+      "复古",
+      "粉紫"
+    ],
+    "style": "蒸汽波美学，粉紫+青色传达怀旧和超现实。",
+    "colors": {
+      "primary": "#FF71CE",
+      "secondary": "#01CDFE",
+      "accent": "#05FFA1",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#26101E",
+      "surface": "#3F1C33",
+      "text": "#FFE9F7"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FF71CE;\n  --color-secondary: #01CDFE;\n  --color-accent: #05FFA1;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FF71CE',\n  secondary: '#01CDFE',\n  accent: '#05FFA1',\n}"
+  },
+  {
+    "id": "material-you",
+    "name": "Material You 动态色彩",
+    "category": "design-style",
+    "tags": [
+      "Material",
+      "动态",
+      "紫色"
+    ],
+    "style": "Google Material You，紫色+动态色传达个性化。",
+    "colors": {
+      "primary": "#6750A4",
+      "secondary": "#625B71",
+      "accent": "#D0BCFF",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#0F0C18",
+      "surface": "#191429",
+      "text": "#E8E4F1"
+    },
+    "cssVariables": ":root {\n  --color-primary: #6750A4;\n  --color-secondary: #625B71;\n  --color-accent: #D0BCFF;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#6750A4',\n  secondary: '#625B71',\n  accent: '#D0BCFF',\n}"
+  },
+  {
+    "id": "brutalist-web",
+    "name": "Brutalist Web 粗野网页",
+    "category": "design-style",
+    "tags": [
+      "粗野",
+      "网页",
+      "原始"
+    ],
+    "style": "粗野主义网页设计，原始HTML风格传达反叛。",
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#000000",
+      "accent": "#FF0000",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#262626",
+      "surface": "#3F3F3F",
+      "text": "#FFFFFF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FFFFFF;\n  --color-secondary: #000000;\n  --color-accent: #FF0000;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FFFFFF',\n  secondary: '#000000',\n  accent: '#FF0000',\n}"
+  },
+  {
+    "id": "claymorphism",
+    "name": "Claymorphism 粘土拟态",
+    "category": "design-style",
+    "tags": [
+      "粘土",
+      "柔和",
+      "圆润"
+    ],
+    "style": "粘土质感设计，柔和色彩+圆角传达可爱和亲和。",
+    "colors": {
+      "primary": "#FFB3BA",
+      "secondary": "#BAE1FF",
+      "accent": "#BAFFC9",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#261A1B",
+      "surface": "#3F2C2E",
+      "text": "#FFF3F4"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FFB3BA;\n  --color-secondary: #BAE1FF;\n  --color-accent: #BAFFC9;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FFB3BA',\n  secondary: '#BAE1FF',\n  accent: '#BAFFC9',\n}"
+  },
+  {
+    "id": "aurora",
+    "name": "Aurora 极光风格",
+    "category": "design-style",
+    "tags": [
+      "极光",
+      "渐变",
+      "梦幻"
+    ],
+    "style": "极光渐变风格，多彩渐变传达梦幻和科技。",
+    "colors": {
+      "primary": "#00C9FF",
+      "secondary": "#92FE9D",
+      "accent": "#F9F586",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#001E26",
+      "surface": "#00323F",
+      "text": "#D8F6FF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #00C9FF;\n  --color-secondary: #92FE9D;\n  --color-accent: #F9F586;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#00C9FF',\n  secondary: '#92FE9D',\n  accent: '#F9F586',\n}"
+  },
+  {
+    "id": "glassmorphism-dark",
+    "name": "Glassmorphism Dark 暗色玻璃",
+    "category": "design-style",
+    "tags": [
+      "玻璃",
+      "暗色",
+      "半透明"
+    ],
+    "style": "暗色玻璃拟态，深色+半透明传达高级和层次。",
+    "colors": {
+      "primary": "#0F0F23",
+      "secondary": "#1A1A3E",
+      "accent": "#7B68EE",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#020205",
+      "surface": "#030308",
+      "text": "#DBDBDE"
+    },
+    "cssVariables": ":root {\n  --color-primary: #0F0F23;\n  --color-secondary: #1A1A3E;\n  --color-accent: #7B68EE;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#0F0F23',\n  secondary: '#1A1A3E',\n  accent: '#7B68EE',\n}"
+  },
+  {
+    "id": "neobrutalism",
+    "name": "Neo-Brutalism 新粗野",
+    "category": "design-style",
+    "tags": [
+      "新粗野",
+      "明亮",
+      "粗边框"
+    ],
+    "style": "新粗野主义，明亮色彩+粗边框传达趣味和直接。",
+    "colors": {
+      "primary": "#FF6B6B",
+      "secondary": "#4ECDC4",
+      "accent": "#FFE66D",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#261010",
+      "surface": "#3F1A1A",
+      "text": "#FFE8E8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FF6B6B;\n  --color-secondary: #4ECDC4;\n  --color-accent: #FFE66D;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FF6B6B',\n  secondary: '#4ECDC4',\n  accent: '#FFE66D',\n}"
+  },
+  {
+    "id": "solarpunk",
+    "name": "Solarpunk 太阳朋克",
+    "category": "design-style",
+    "tags": [
+      "太阳朋克",
+      "绿色",
+      "未来"
+    ],
+    "style": "太阳朋克美学，绿色+金色传达可持续未来。",
+    "colors": {
+      "primary": "#2E7D32",
+      "secondary": "#F9A825",
+      "accent": "#81C784",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#061207",
+      "surface": "#0B1F0C",
+      "text": "#DFEBE0"
+    },
+    "cssVariables": ":root {\n  --color-primary: #2E7D32;\n  --color-secondary: #F9A825;\n  --color-accent: #81C784;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#2E7D32',\n  secondary: '#F9A825',\n  accent: '#81C784',\n}"
+  },
+  {
+    "id": "cottagecore",
+    "name": "Cottagecore 田园风",
+    "category": "design-style",
+    "tags": [
+      "田园",
+      "自然",
+      "柔和"
+    ],
+    "style": "田园风格，柔和绿色+米色传达自然和宁静。",
+    "colors": {
+      "primary": "#A5D6A7",
+      "secondary": "#EFEBE9",
+      "accent": "#8D6E63",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#182019",
+      "surface": "#293529",
+      "text": "#F1F8F1"
+    },
+    "cssVariables": ":root {\n  --color-primary: #A5D6A7;\n  --color-secondary: #EFEBE9;\n  --color-accent: #8D6E63;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#A5D6A7',\n  secondary: '#EFEBE9',\n  accent: '#8D6E63',\n}"
+  },
+  {
+    "id": "dark-academic",
+    "name": "Dark Academic 暗黑学术",
+    "category": "design-style",
+    "tags": [
+      "学术",
+      "暗色",
+      "棕色"
+    ],
+    "style": "暗黑学术风格，深棕+米色传达知识和神秘。",
+    "colors": {
+      "primary": "#3E2723",
+      "secondary": "#D7CCC8",
+      "accent": "#8D6E63",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#090505",
+      "surface": "#0F0908",
+      "text": "#E2DEDE"
+    },
+    "cssVariables": ":root {\n  --color-primary: #3E2723;\n  --color-secondary: #D7CCC8;\n  --color-accent: #8D6E63;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#3E2723',\n  secondary: '#D7CCC8',\n  accent: '#8D6E63',\n}"
+  },
+  {
+    "id": "cyberpunk-v2",
+    "name": "Cyberpunk 2077 赛博朋克",
+    "category": "design-style",
+    "tags": [
+      "赛博朋克",
+      "霓虹",
+      "深色"
+    ],
+    "style": "赛博朋克2077风格，霓虹黄+深色传达未来废土。",
+    "colors": {
+      "primary": "#FCEE0A",
+      "secondary": "#00D4FF",
+      "accent": "#FF003C",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#252301",
+      "surface": "#3F3B02",
+      "text": "#FEFCDA"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FCEE0A;\n  --color-secondary: #00D4FF;\n  --color-accent: #FF003C;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FCEE0A',\n  secondary: '#00D4FF',\n  accent: '#FF003C',\n}"
+  },
+  {
+    "id": "jungle-ui",
+    "name": "Jungle UI 丛林风",
+    "category": "design-style",
+    "tags": [
+      "丛林",
+      "绿色",
+      "有机"
+    ],
+    "style": "丛林风格UI，深绿+棕色传达自然和冒险。",
+    "colors": {
+      "primary": "#1B5E20",
+      "secondary": "#4E342E",
+      "accent": "#FFD600",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#040E04",
+      "surface": "#061708",
+      "text": "#DCE6DD"
+    },
+    "cssVariables": ":root {\n  --color-primary: #1B5E20;\n  --color-secondary: #4E342E;\n  --color-accent: #FFD600;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#1B5E20',\n  secondary: '#4E342E',\n  accent: '#FFD600',\n}"
+  },
+  {
+    "id": "glassmorphism-light",
+    "name": "Glassmorphism Light 亮色玻璃",
+    "category": "design-style",
+    "tags": [
+      "玻璃",
+      "亮色",
+      "清新"
+    ],
+    "style": "亮色玻璃拟态，浅色+半透明传达清新和通透。",
+    "colors": {
+      "primary": "#667EEA",
+      "secondary": "#764BA2",
+      "accent": "#F093FB",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#0F1223",
+      "surface": "#191F3A",
+      "text": "#E8EBFB"
+    },
+    "cssVariables": ":root {\n  --color-primary: #667EEA;\n  --color-secondary: #764BA2;\n  --color-accent: #F093FB;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#667EEA',\n  secondary: '#764BA2',\n  accent: '#F093FB',\n}"
+  },
+  {
+    "id": "retro-pixel",
+    "name": "Retro Pixel 复古像素",
+    "category": "design-style",
+    "tags": [
+      "像素",
+      "复古",
+      "8bit"
+    ],
+    "style": "复古像素风格，8bit色彩传达怀旧和游戏。",
+    "colors": {
+      "primary": "#00FF41",
+      "secondary": "#000000",
+      "accent": "#FF00FF",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#002609",
+      "surface": "#003F10",
+      "text": "#D8FFE2"
+    },
+    "cssVariables": ":root {\n  --color-primary: #00FF41;\n  --color-secondary: #000000;\n  --color-accent: #FF00FF;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#00FF41',\n  secondary: '#000000',\n  accent: '#FF00FF',\n}"
+  },
+  {
+    "id": "organic-soft",
+    "name": "Organic Soft 有机柔和",
+    "category": "design-style",
+    "tags": [
+      "有机",
+      "柔和",
+      "奶油色"
+    ],
+    "style": "有机柔和风格，奶油色+绿色传达温暖和自然。",
+    "colors": {
+      "primary": "#F5F0EB",
+      "secondary": "#A5D6A7",
+      "accent": "#8D6E63",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#242423",
+      "surface": "#3D3C3A",
+      "text": "#FDFCFC"
+    },
+    "cssVariables": ":root {\n  --color-primary: #F5F0EB;\n  --color-secondary: #A5D6A7;\n  --color-accent: #8D6E63;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#F5F0EB',\n  secondary: '#A5D6A7',\n  accent: '#8D6E63',\n}"
+  },
+  {
+    "id": "mono-chrome",
+    "name": "Monochrome 单色",
+    "category": "design-style",
+    "tags": [
+      "单色",
+      "极简",
+      "黑白"
+    ],
+    "style": "单色设计风格，纯黑白传达极致极简。",
+    "colors": {
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "accent": "#808080",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#000000",
+      "surface": "#000000",
+      "text": "#D8D8D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #000000;\n  --color-secondary: #FFFFFF;\n  --color-accent: #808080;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#000000',\n  secondary: '#FFFFFF',\n  accent: '#808080',\n}"
+  },
+  {
+    "id": "duotone",
+    "name": "Duotone 双色调",
+    "category": "design-style",
+    "tags": [
+      "双色调",
+      "艺术",
+      "对比"
+    ],
+    "style": "双色调设计，两种颜色对比传达艺术和冲击。",
+    "colors": {
+      "primary": "#667EEA",
+      "secondary": "#F093FB",
+      "accent": "#FFFFFF",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#0F1223",
+      "surface": "#191F3A",
+      "text": "#E8EBFB"
+    },
+    "cssVariables": ":root {\n  --color-primary: #667EEA;\n  --color-secondary: #F093FB;\n  --color-accent: #FFFFFF;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#667EEA',\n  secondary: '#F093FB',\n  accent: '#FFFFFF',\n}"
+  },
+  {
+    "id": "isometric",
+    "name": "Isometric 等距风格",
+    "category": "design-style",
+    "tags": [
+      "等距",
+      "3D",
+      "多彩"
+    ],
+    "style": "等距3D插画风格，多彩传达趣味和空间感。",
+    "colors": {
+      "primary": "#FF6B6B",
+      "secondary": "#4ECDC4",
+      "accent": "#FFE66D",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#261010",
+      "surface": "#3F1A1A",
+      "text": "#FFE8E8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FF6B6B;\n  --color-secondary: #4ECDC4;\n  --color-accent: #FFE66D;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FF6B6B',\n  secondary: '#4ECDC4',\n  accent: '#FFE66D',\n}"
+  }
+]

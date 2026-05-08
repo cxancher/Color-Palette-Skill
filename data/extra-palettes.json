@@ -1,0 +1,4342 @@
+[
+  {
+    "id": "wp-flavor",
+    "name": "Flavor flavor",
+    "category": "wordpress-theme",
+    "tags": [
+      "WordPress",
+      "多功能",
+      "紫色"
+    ],
+    "style": "Flavor多功能主题，紫色传达现代和灵活。",
+    "colors": {
+      "primary": "#6C3483",
+      "secondary": "#8E44AD",
+      "accent": "#F39C12",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#100713",
+      "surface": "#1B0D20",
+      "text": "#E8E0EC"
+    },
+    "cssVariables": ":root {\n  --color-primary: #6C3483;\n  --color-secondary: #8E44AD;\n  --color-accent: #F39C12;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#6C3483',\n  secondary: '#8E44AD',\n  accent: '#F39C12',\n}"
+  },
+  {
+    "id": "wp-flavor",
+    "name": "Flavor flavor",
+    "category": "wordpress-theme",
+    "tags": [
+      "WordPress",
+      "商务",
+      "蓝色"
+    ],
+    "style": "Flavor商务主题，蓝色传达专业和信赖。",
+    "colors": {
+      "primary": "#2980B9",
+      "secondary": "#3498DB",
+      "accent": "#E67E22",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#06131B",
+      "surface": "#0A202E",
+      "text": "#DEEBF4"
+    },
+    "cssVariables": ":root {\n  --color-primary: #2980B9;\n  --color-secondary: #3498DB;\n  --color-accent: #E67E22;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#2980B9',\n  secondary: '#3498DB',\n  accent: '#E67E22',\n}"
+  },
+  {
+    "id": "wp-avada",
+    "name": "Avada",
+    "category": "wordpress-theme",
+    "tags": [
+      "WordPress",
+      "多用途",
+      "蓝色"
+    ],
+    "style": "Avada多用途主题，蓝色传达灵活和专业。",
+    "colors": {
+      "primary": "#2A86DB",
+      "secondary": "#5C9FD6",
+      "accent": "#F09819",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#061420",
+      "surface": "#0A2136",
+      "text": "#DFECF9"
+    },
+    "cssVariables": ":root {\n  --color-primary: #2A86DB;\n  --color-secondary: #5C9FD6;\n  --color-accent: #F09819;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#2A86DB',\n  secondary: '#5C9FD6',\n  accent: '#F09819',\n}"
+  },
+  {
+    "id": "wp-enfold",
+    "name": "Enfold",
+    "category": "wordpress-theme",
+    "tags": [
+      "WordPress",
+      "商务",
+      "深蓝"
+    ],
+    "style": "Enfold商务主题，深蓝传达专业和简洁。",
+    "colors": {
+      "primary": "#4A6FA5",
+      "secondary": "#7FB3D8",
+      "accent": "#81D742",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#0B1018",
+      "surface": "#121B29",
+      "text": "#E3E9F1"
+    },
+    "cssVariables": ":root {\n  --color-primary: #4A6FA5;\n  --color-secondary: #7FB3D8;\n  --color-accent: #81D742;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#4A6FA5',\n  secondary: '#7FB3D8',\n  accent: '#81D742',\n}"
+  },
+  {
+    "id": "wp-salient",
+    "name": "Salient",
+    "category": "wordpress-theme",
+    "tags": [
+      "WordPress",
+      "创意",
+      "绿色"
+    ],
+    "style": "Salient创意主题，绿色传达创新和活力。",
+    "colors": {
+      "primary": "#78BE20",
+      "secondary": "#96CEB4",
+      "accent": "#FF6B6B",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#121C04",
+      "surface": "#1E2F08",
+      "text": "#EAF5DD"
+    },
+    "cssVariables": ":root {\n  --color-primary: #78BE20;\n  --color-secondary: #96CEB4;\n  --color-accent: #FF6B6B;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#78BE20',\n  secondary: '#96CEB4',\n  accent: '#FF6B6B',\n}"
+  },
+  {
+    "id": "wp-beaver",
+    "name": "Beaver Builder",
+    "category": "wordpress-theme",
+    "tags": [
+      "WordPress",
+      "建站",
+      "蓝色"
+    ],
+    "style": "Beaver Builder建站主题，蓝色传达灵活和易用。",
+    "colors": {
+      "primary": "#2D8CFF",
+      "secondary": "#5AA9E6",
+      "accent": "#FFB81C",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#061526",
+      "surface": "#0B233F",
+      "text": "#DFEDFF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #2D8CFF;\n  --color-secondary: #5AA9E6;\n  --color-accent: #FFB81C;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#2D8CFF',\n  secondary: '#5AA9E6',\n  accent: '#FFB81C',\n}"
+  },
+  {
+    "id": "wp-oceanwp-pro",
+    "name": "OceanWP Pro",
+    "category": "wordpress-theme",
+    "tags": [
+      "WordPress",
+      "电商",
+      "蓝色"
+    ],
+    "style": "OceanWP Pro电商主题，亮蓝传达信任和专业。",
+    "colors": {
+      "primary": "#13AFF0",
+      "secondary": "#0D96E9",
+      "accent": "#FF6B35",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#021A24",
+      "surface": "#042B3C",
+      "text": "#DBF3FC"
+    },
+    "cssVariables": ":root {\n  --color-primary: #13AFF0;\n  --color-secondary: #0D96E9;\n  --color-accent: #FF6B35;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#13AFF0',\n  secondary: '#0D96E9',\n  accent: '#FF6B35',\n}"
+  },
+  {
+    "id": "wp-astra-pro",
+    "name": "Astra Pro",
+    "category": "wordpress-theme",
+    "tags": [
+      "WordPress",
+      "多功能",
+      "蓝紫"
+    ],
+    "style": "Astra Pro多功能主题，蓝紫渐变传达现代。",
+    "colors": {
+      "primary": "#0170B9",
+      "secondary": "#492CDD",
+      "accent": "#FFC300",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#00101B",
+      "surface": "#001C2E",
+      "text": "#D8E9F4"
+    },
+    "cssVariables": ":root {\n  --color-primary: #0170B9;\n  --color-secondary: #492CDD;\n  --color-accent: #FFC300;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#0170B9',\n  secondary: '#492CDD',\n  accent: '#FFC300',\n}"
+  },
+  {
+    "id": "wp-generatepress-pro",
+    "name": "GeneratePress Pro",
+    "category": "wordpress-theme",
+    "tags": [
+      "WordPress",
+      "极简",
+      "蓝色"
+    ],
+    "style": "GeneratePress Pro极简主题，蓝色传达简洁和速度。",
+    "colors": {
+      "primary": "#1E73BE",
+      "secondary": "#1B212B",
+      "accent": "#575760",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#04111C",
+      "surface": "#071C2F",
+      "text": "#DDEAF5"
+    },
+    "cssVariables": ":root {\n  --color-primary: #1E73BE;\n  --color-secondary: #1B212B;\n  --color-accent: #575760;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#1E73BE',\n  secondary: '#1B212B',\n  accent: '#575760',\n}"
+  },
+  {
+    "id": "wp-kadence",
+    "name": "Kadence",
+    "category": "wordpress-theme",
+    "tags": [
+      "WordPress",
+      "现代",
+      "紫色"
+    ],
+    "style": "Kadence现代主题，紫色传达优雅和灵活。",
+    "colors": {
+      "primary": "#6C3483",
+      "secondary": "#8E44AD",
+      "accent": "#F39C12",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#100713",
+      "surface": "#1B0D20",
+      "text": "#E8E0EC"
+    },
+    "cssVariables": ":root {\n  --color-primary: #6C3483;\n  --color-secondary: #8E44AD;\n  --color-accent: #F39C12;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#6C3483',\n  secondary: '#8E44AD',\n  accent: '#F39C12',\n}"
+  },
+  {
+    "id": "wp-blocksy",
+    "name": "Blocksy",
+    "category": "wordpress-theme",
+    "tags": [
+      "WordPress",
+      "现代",
+      "蓝色"
+    ],
+    "style": "Blocksy现代主题，蓝色传达清新和现代。",
+    "colors": {
+      "primary": "#5B5EA6",
+      "secondary": "#7B7FCC",
+      "accent": "#FF6B35",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#0D0E18",
+      "surface": "#161729",
+      "text": "#E6E6F1"
+    },
+    "cssVariables": ":root {\n  --color-primary: #5B5EA6;\n  --color-secondary: #7B7FCC;\n  --color-accent: #FF6B35;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#5B5EA6',\n  secondary: '#7B7FCC',\n  accent: '#FF6B35',\n}"
+  },
+  {
+    "id": "wp-neve",
+    "name": "Neve",
+    "category": "wordpress-theme",
+    "tags": [
+      "WordPress",
+      "极简",
+      "蓝色"
+    ],
+    "style": "Neve极简主题，蓝色传达速度和简洁。",
+    "colors": {
+      "primary": "#3B82F6",
+      "secondary": "#60A5FA",
+      "accent": "#F59E0B",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#081324",
+      "surface": "#0E203D",
+      "text": "#E1ECFD"
+    },
+    "cssVariables": ":root {\n  --color-primary: #3B82F6;\n  --color-secondary: #60A5FA;\n  --color-accent: #F59E0B;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#3B82F6',\n  secondary: '#60A5FA',\n  accent: '#F59E0B',\n}"
+  },
+  {
+    "id": "wp-colormag",
+    "name": "ColorMag",
+    "category": "wordpress-theme",
+    "tags": [
+      "WordPress",
+      "杂志",
+      "红色"
+    ],
+    "style": "ColorMag杂志主题，红色传达热情和新闻。",
+    "colors": {
+      "primary": "#CB3434",
+      "secondary": "#FF4444",
+      "accent": "#2ECC71",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#1E0707",
+      "surface": "#320D0D",
+      "text": "#F7E0E0"
+    },
+    "cssVariables": ":root {\n  --color-primary: #CB3434;\n  --color-secondary: #FF4444;\n  --color-accent: #2ECC71;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#CB3434',\n  secondary: '#FF4444',\n  accent: '#2ECC71',\n}"
+  },
+  {
+    "id": "wp-newspaper",
+    "name": "Newspaper",
+    "category": "wordpress-theme",
+    "tags": [
+      "WordPress",
+      "新闻",
+      "白色"
+    ],
+    "style": "Newspaper新闻主题，白色传达清晰和可读。",
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#333333",
+      "accent": "#EB5757",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#262626",
+      "surface": "#3F3F3F",
+      "text": "#FFFFFF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FFFFFF;\n  --color-secondary: #333333;\n  --color-accent: #EB5757;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FFFFFF',\n  secondary: '#333333',\n  accent: '#EB5757',\n}"
+  },
+  {
+    "id": "wp-hello-elementor",
+    "name": "Hello Elementor",
+    "category": "wordpress-theme",
+    "tags": [
+      "WordPress",
+      "Elementor",
+      "紫色"
+    ],
+    "style": "Hello Elementor空白主题，紫色传达创意和自由。",
+    "colors": {
+      "primary": "#8B5CF6",
+      "secondary": "#A78BFA",
+      "accent": "#F43F5E",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#140D24",
+      "surface": "#22173D",
+      "text": "#EDE6FD"
+    },
+    "cssVariables": ":root {\n  --color-primary: #8B5CF6;\n  --color-secondary: #A78BFA;\n  --color-accent: #F43F5E;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#8B5CF6',\n  secondary: '#A78BFA',\n  accent: '#F43F5E',\n}"
+  },
+  {
+    "id": "wp-divi",
+    "name": "Divi",
+    "category": "wordpress-theme",
+    "tags": [
+      "WordPress",
+      "Elegant Themes",
+      "蓝色"
+    ],
+    "style": "Divi可视化建站，蓝色传达灵活和强大。",
+    "colors": {
+      "primary": "#2D8CFF",
+      "secondary": "#5AA9E6",
+      "accent": "#FFB81C",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#061526",
+      "surface": "#0B233F",
+      "text": "#DFEDFF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #2D8CFF;\n  --color-secondary: #5AA9E6;\n  --color-accent: #FFB81C;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#2D8CFF',\n  secondary: '#5AA9E6',\n  accent: '#FFB81C',\n}"
+  },
+  {
+    "id": "wp-bridge",
+    "name": "Bridge",
+    "category": "wordpress-theme",
+    "tags": [
+      "WordPress",
+      "创意",
+      "黑色"
+    ],
+    "style": "Bridge创意主题，黑色传达高端和多样。",
+    "colors": {
+      "primary": "#1A1A1A",
+      "secondary": "#333333",
+      "accent": "#E74C3C",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#030303",
+      "surface": "#060606",
+      "text": "#DCDCDC"
+    },
+    "cssVariables": ":root {\n  --color-primary: #1A1A1A;\n  --color-secondary: #333333;\n  --color-accent: #E74C3C;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#1A1A1A',\n  secondary: '#333333',\n  accent: '#E74C3C',\n}"
+  },
+  {
+    "id": "wp-jupiter",
+    "name": "Jupiter",
+    "category": "wordpress-theme",
+    "tags": [
+      "WordPress",
+      "多用途",
+      "蓝色"
+    ],
+    "style": "Jupiter多用途主题，蓝色传达专业和灵活。",
+    "colors": {
+      "primary": "#3B82F6",
+      "secondary": "#60A5FA",
+      "accent": "#F59E0B",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#081324",
+      "surface": "#0E203D",
+      "text": "#E1ECFD"
+    },
+    "cssVariables": ":root {\n  --color-primary: #3B82F6;\n  --color-secondary: #60A5FA;\n  --color-accent: #F59E0B;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#3B82F6',\n  secondary: '#60A5FA',\n  accent: '#F59E0B',\n}"
+  },
+  {
+    "id": "wp-sydney",
+    "name": "Sydney",
+    "category": "wordpress-theme",
+    "tags": [
+      "WordPress",
+      "商务",
+      "蓝色"
+    ],
+    "style": "Sydney商务主题，蓝色传达专业和信赖。",
+    "colors": {
+      "primary": "#4A90D9",
+      "secondary": "#2980B9",
+      "accent": "#F39C12",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#0B1520",
+      "surface": "#122436",
+      "text": "#E3EEF9"
+    },
+    "cssVariables": ":root {\n  --color-primary: #4A90D9;\n  --color-secondary: #2980B9;\n  --color-accent: #F39C12;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#4A90D9',\n  secondary: '#2980B9',\n  accent: '#F39C12',\n}"
+  },
+  {
+    "id": "wp-zerif-lite",
+    "name": "Zerif Lite",
+    "category": "wordpress-theme",
+    "tags": [
+      "WordPress",
+      "单页",
+      "红色"
+    ],
+    "style": "Zerif Lite单页主题，红色传达热情和行动。",
+    "colors": {
+      "primary": "#E96656",
+      "secondary": "#CB4335",
+      "accent": "#1ABC9C",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#220F0C",
+      "surface": "#3A1915",
+      "text": "#FBE8E5"
+    },
+    "cssVariables": ":root {\n  --color-primary: #E96656;\n  --color-secondary: #CB4335;\n  --color-accent: #1ABC9C;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#E96656',\n  secondary: '#CB4335',\n  accent: '#1ABC9C',\n}"
+  },
+  {
+    "id": "wp-illdy",
+    "name": "Illdy",
+    "category": "wordpress-theme",
+    "tags": [
+      "WordPress",
+      "创意",
+      "多彩"
+    ],
+    "style": "Illdy创意主题，多彩渐变传达现代和活力。",
+    "colors": {
+      "primary": "#6C5CE7",
+      "secondary": "#00CECE",
+      "accent": "#FD79A8",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#100D22",
+      "surface": "#1B1739",
+      "text": "#E8E6FB"
+    },
+    "cssVariables": ":root {\n  --color-primary: #6C5CE7;\n  --color-secondary: #00CECE;\n  --color-accent: #FD79A8;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#6C5CE7',\n  secondary: '#00CECE',\n  accent: '#FD79A8',\n}"
+  },
+  {
+    "id": "wp-storefront",
+    "name": "Storefront",
+    "category": "wordpress-theme",
+    "tags": [
+      "WordPress",
+      "WooCommerce",
+      "紫色"
+    ],
+    "style": "Storefront电商主题，紫色传达购物和品质。",
+    "colors": {
+      "primary": "#7F54B3",
+      "secondary": "#9B59B6",
+      "accent": "#2ECC71",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#130C1A",
+      "surface": "#1F152C",
+      "text": "#EBE5F3"
+    },
+    "cssVariables": ":root {\n  --color-primary: #7F54B3;\n  --color-secondary: #9B59B6;\n  --color-accent: #2ECC71;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#7F54B3',\n  secondary: '#9B59B6',\n  accent: '#2ECC71',\n}"
+  },
+  {
+    "id": "wp-twentytwentyfour",
+    "name": "Twenty Twenty-Four",
+    "category": "wordpress-theme",
+    "tags": [
+      "WordPress",
+      "默认",
+      "绿色"
+    ],
+    "style": "WordPress 2024默认主题，绿色传达自然和清新。",
+    "colors": {
+      "primary": "#1A1A1A",
+      "secondary": "#E8E8E8",
+      "accent": "#D1E7DD",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#030303",
+      "surface": "#060606",
+      "text": "#DCDCDC"
+    },
+    "cssVariables": ":root {\n  --color-primary: #1A1A1A;\n  --color-secondary: #E8E8E8;\n  --color-accent: #D1E7DD;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#1A1A1A',\n  secondary: '#E8E8E8',\n  accent: '#D1E7DD',\n}"
+  },
+  {
+    "id": "wp-twentytwentythree",
+    "name": "Twenty Twenty-Three",
+    "category": "wordpress-theme",
+    "tags": [
+      "WordPress",
+      "默认",
+      "红色"
+    ],
+    "style": "WordPress 2023默认主题，红色传达活力和创意。",
+    "colors": {
+      "primary": "#E85D75",
+      "secondary": "#D63384",
+      "accent": "#123F63",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#220D11",
+      "surface": "#3A171D",
+      "text": "#FBE6EA"
+    },
+    "cssVariables": ":root {\n  --color-primary: #E85D75;\n  --color-secondary: #D63384;\n  --color-accent: #123F63;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#E85D75',\n  secondary: '#D63384',\n  accent: '#123F63',\n}"
+  },
+  {
+    "id": "wp-twentytwentytwo",
+    "name": "Twenty Twenty-Two",
+    "category": "wordpress-theme",
+    "tags": [
+      "WordPress",
+      "默认",
+      "棕色"
+    ],
+    "style": "WordPress 2022默认主题，棕色传达温暖和自然。",
+    "colors": {
+      "primary": "#3B3B3B",
+      "secondary": "#DAC4A7",
+      "accent": "#E85D75",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#080808",
+      "surface": "#0E0E0E",
+      "text": "#E1E1E1"
+    },
+    "cssVariables": ":root {\n  --color-primary: #3B3B3B;\n  --color-secondary: #DAC4A7;\n  --color-accent: #E85D75;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#3B3B3B',\n  secondary: '#DAC4A7',\n  accent: '#E85D75',\n}"
+  },
+  {
+    "id": "wp-twentytwentyone",
+    "name": "Twenty Twenty-One",
+    "category": "wordpress-theme",
+    "tags": [
+      "WordPress",
+      "默认",
+      "绿色"
+    ],
+    "style": "WordPress 2021默认主题，绿色传达自然和明亮。",
+    "colors": {
+      "primary": "#EBB02B",
+      "secondary": "#1D1135",
+      "accent": "#F0F0F0",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#231A06",
+      "surface": "#3A2C0A",
+      "text": "#FCF3DF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #EBB02B;\n  --color-secondary: #1D1135;\n  --color-accent: #F0F0F0;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#EBB02B',\n  secondary: '#1D1135',\n  accent: '#F0F0F0',\n}"
+  },
+  {
+    "id": "wp-twentytwenty",
+    "name": "Twenty Twenty",
+    "category": "wordpress-theme",
+    "tags": [
+      "WordPress",
+      "默认",
+      "深蓝"
+    ],
+    "style": "WordPress 2020默认主题，深蓝传达现代和精致。",
+    "colors": {
+      "primary": "#1A1A1A",
+      "secondary": "#C62828",
+      "accent": "#F0F0F0",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#030303",
+      "surface": "#060606",
+      "text": "#DCDCDC"
+    },
+    "cssVariables": ":root {\n  --color-primary: #1A1A1A;\n  --color-secondary: #C62828;\n  --color-accent: #F0F0F0;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#1A1A1A',\n  secondary: '#C62828',\n  accent: '#F0F0F0',\n}"
+  },
+  {
+    "id": "wp-twenty-nineteen",
+    "name": "Twenty Nineteen",
+    "category": "wordpress-theme",
+    "tags": [
+      "WordPress",
+      "默认",
+      "黑色"
+    ],
+    "style": "WordPress 2019默认主题，黑色传达极简和优雅。",
+    "colors": {
+      "primary": "#1A1A1A",
+      "secondary": "#E8E8E8",
+      "accent": "#0073AA",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#030303",
+      "surface": "#060606",
+      "text": "#DCDCDC"
+    },
+    "cssVariables": ":root {\n  --color-primary: #1A1A1A;\n  --color-secondary: #E8E8E8;\n  --color-accent: #0073AA;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#1A1A1A',\n  secondary: '#E8E8E8',\n  accent: '#0073AA',\n}"
+  },
+  {
+    "id": "daisyui",
+    "name": "DaisyUI",
+    "category": "design-system",
+    "tags": [
+      "框架",
+      "Tailwind",
+      "蓝色"
+    ],
+    "style": "Tailwind CSS组件库，蓝色传达现代和灵活。",
+    "colors": {
+      "primary": "#5B7EE5",
+      "secondary": "#3B82F6",
+      "accent": "#F59E0B",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#0D1222",
+      "surface": "#161F39",
+      "text": "#E6EBFB"
+    },
+    "cssVariables": ":root {\n  --color-primary: #5B7EE5;\n  --color-secondary: #3B82F6;\n  --color-accent: #F59E0B;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#5B7EE5',\n  secondary: '#3B82F6',\n  accent: '#F59E0B',\n}"
+  },
+  {
+    "id": "flowbite",
+    "name": "Flowbite",
+    "category": "design-system",
+    "tags": [
+      "框架",
+      "Tailwind",
+      "蓝色"
+    ],
+    "style": "Tailwind CSS组件库，蓝色传达专业和一致。",
+    "colors": {
+      "primary": "#1C64F2",
+      "secondary": "#3B82F6",
+      "accent": "#0EA5E9",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#040F24",
+      "surface": "#07193C",
+      "text": "#DCE7FD"
+    },
+    "cssVariables": ":root {\n  --color-primary: #1C64F2;\n  --color-secondary: #3B82F6;\n  --color-accent: #0EA5E9;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#1C64F2',\n  secondary: '#3B82F6',\n  accent: '#0EA5E9',\n}"
+  },
+  {
+    "id": "preline",
+    "name": "Preline UI",
+    "category": "design-system",
+    "tags": [
+      "框架",
+      "Tailwind",
+      "紫色"
+    ],
+    "style": "Tailwind CSS组件库，紫色传达现代和精致。",
+    "colors": {
+      "primary": "#7C3AED",
+      "secondary": "#8B5CF6",
+      "accent": "#06B6D4",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#120823",
+      "surface": "#1F0E3B",
+      "text": "#EBE1FC"
+    },
+    "cssVariables": ":root {\n  --color-primary: #7C3AED;\n  --color-secondary: #8B5CF6;\n  --color-accent: #06B6D4;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#7C3AED',\n  secondary: '#8B5CF6',\n  accent: '#06B6D4',\n}"
+  },
+  {
+    "id": "hyperui",
+    "name": "HyperUI",
+    "category": "design-system",
+    "tags": [
+      "框架",
+      "Tailwind",
+      "灰色"
+    ],
+    "style": "Tailwind CSS模板库，灰色传达中性灵活。",
+    "colors": {
+      "primary": "#374151",
+      "secondary": "#6B7280",
+      "accent": "#3B82F6",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#08090C",
+      "surface": "#0D1014",
+      "text": "#E1E2E4"
+    },
+    "cssVariables": ":root {\n  --color-primary: #374151;\n  --color-secondary: #6B7280;\n  --color-accent: #3B82F6;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#374151',\n  secondary: '#6B7280',\n  accent: '#3B82F6',\n}"
+  },
+  {
+    "id": "headlessui",
+    "name": "Headless UI",
+    "category": "design-system",
+    "tags": [
+      "框架",
+      "Tailwind",
+      "蓝色"
+    ],
+    "style": "Tailwind CSS无头组件，蓝色传达专业。",
+    "colors": {
+      "primary": "#2563EB",
+      "secondary": "#1D4ED8",
+      "accent": "#2563EB",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#050E23",
+      "surface": "#09183A",
+      "text": "#DEE7FC"
+    },
+    "cssVariables": ":root {\n  --color-primary: #2563EB;\n  --color-secondary: #1D4ED8;\n  --color-accent: #2563EB;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#2563EB',\n  secondary: '#1D4ED8',\n  accent: '#2563EB',\n}"
+  },
+  {
+    "id": "tremor",
+    "name": "Tremor",
+    "category": "design-system",
+    "tags": [
+      "框架",
+      "React",
+      "蓝色"
+    ],
+    "style": "React Dashboard组件，蓝色传达数据和专业。",
+    "colors": {
+      "primary": "#3B82F6",
+      "secondary": "#0EA5E9",
+      "accent": "#8B5CF6",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#081324",
+      "surface": "#0E203D",
+      "text": "#E1ECFD"
+    },
+    "cssVariables": ":root {\n  --color-primary: #3B82F6;\n  --color-secondary: #0EA5E9;\n  --color-accent: #8B5CF6;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#3B82F6',\n  secondary: '#0EA5E9',\n  accent: '#8B5CF6',\n}"
+  },
+  {
+    "id": "tabler",
+    "name": "Tabler",
+    "category": "design-system",
+    "tags": [
+      "框架",
+      "React",
+      "蓝色"
+    ],
+    "style": "React Admin组件，蓝色传达管理和专业。",
+    "colors": {
+      "primary": "#206BC4",
+      "secondary": "#3B82F6",
+      "accent": "#F59E0B",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#04101D",
+      "surface": "#081A31",
+      "text": "#DDE8F6"
+    },
+    "cssVariables": ":root {\n  --color-primary: #206BC4;\n  --color-secondary: #3B82F6;\n  --color-accent: #F59E0B;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#206BC4',\n  secondary: '#3B82F6',\n  accent: '#F59E0B',\n}"
+  },
+  {
+    "id": "blitz",
+    "name": "Blitz",
+    "category": "design-system",
+    "tags": [
+      "框架",
+      "React",
+      "蓝色"
+    ],
+    "style": "React组件库，蓝色传达速度和现代。",
+    "colors": {
+      "primary": "#1A56DB",
+      "secondary": "#3B82F6",
+      "accent": "#F59E0B",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#030C20",
+      "surface": "#061536",
+      "text": "#DCE5F9"
+    },
+    "cssVariables": ":root {\n  --color-primary: #1A56DB;\n  --color-secondary: #3B82F6;\n  --color-accent: #F59E0B;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#1A56DB',\n  secondary: '#3B82F6',\n  accent: '#F59E0B',\n}"
+  },
+  {
+    "id": "park-ui",
+    "name": "Park UI",
+    "category": "design-system",
+    "tags": [
+      "框架",
+      "React",
+      "绿色"
+    ],
+    "style": "React组件库，绿色传达自然和灵活。",
+    "colors": {
+      "primary": "#10B981",
+      "secondary": "#34D399",
+      "accent": "#F59E0B",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#021B13",
+      "surface": "#042E20",
+      "text": "#DBF4EC"
+    },
+    "cssVariables": ":root {\n  --color-primary: #10B981;\n  --color-secondary: #34D399;\n  --color-accent: #F59E0B;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#10B981',\n  secondary: '#34D399',\n  accent: '#F59E0B',\n}"
+  },
+  {
+    "id": "yamada-ui",
+    "name": "Yamada UI",
+    "category": "design-system",
+    "tags": [
+      "框架",
+      "React",
+      "蓝色"
+    ],
+    "style": "React组件库，蓝色传达现代和一致。",
+    "colors": {
+      "primary": "#3182CE",
+      "secondary": "#63B3ED",
+      "accent": "#805AD5",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#07131E",
+      "surface": "#0C2033",
+      "text": "#E0ECF7"
+    },
+    "cssVariables": ":root {\n  --color-primary: #3182CE;\n  --color-secondary: #63B3ED;\n  --color-accent: #805AD5;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#3182CE',\n  secondary: '#63B3ED',\n  accent: '#805AD5',\n}"
+  },
+  {
+    "id": "reakit",
+    "name": "Reakit",
+    "category": "design-system",
+    "tags": [
+      "框架",
+      "React",
+      "蓝色"
+    ],
+    "style": "React底层组件，蓝色传达可靠和灵活。",
+    "colors": {
+      "primary": "#4299E1",
+      "secondary": "#3182CE",
+      "accent": "#E53E3E",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#091621",
+      "surface": "#102638",
+      "text": "#E2EFFA"
+    },
+    "cssVariables": ":root {\n  --color-primary: #4299E1;\n  --color-secondary: #3182CE;\n  --color-accent: #E53E3E;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#4299E1',\n  secondary: '#3182CE',\n  accent: '#E53E3E',\n}"
+  },
+  {
+    "id": "react-aria",
+    "name": "React Aria",
+    "category": "design-system",
+    "tags": [
+      "框架",
+      "React",
+      "蓝色"
+    ],
+    "style": "Adobe无障碍组件，蓝色传达可访问性。",
+    "colors": {
+      "primary": "#3B82F6",
+      "secondary": "#60A5FA",
+      "accent": "#F59E0B",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#081324",
+      "surface": "#0E203D",
+      "text": "#E1ECFD"
+    },
+    "cssVariables": ":root {\n  --color-primary: #3B82F6;\n  --color-secondary: #60A5FA;\n  --color-accent: #F59E0B;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#3B82F6',\n  secondary: '#60A5FA',\n  accent: '#F59E0B',\n}"
+  },
+  {
+    "id": "baseui",
+    "name": "Base UI",
+    "category": "design-system",
+    "tags": [
+      "框架",
+      "React",
+      "蓝色"
+    ],
+    "style": "Uber设计系统，蓝色传达专业和一致。",
+    "colors": {
+      "primary": "#0063F7",
+      "secondary": "#0080FF",
+      "accent": "#FF6B00",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#000E25",
+      "surface": "#00183D",
+      "text": "#D8E7FD"
+    },
+    "cssVariables": ":root {\n  --color-primary: #0063F7;\n  --color-secondary: #0080FF;\n  --color-accent: #FF6B00;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#0063F7',\n  secondary: '#0080FF',\n  accent: '#FF6B00',\n}"
+  },
+  {
+    "id": "welcome-ui",
+    "name": "Welcome UI",
+    "category": "design-system",
+    "tags": [
+      "框架",
+      "React",
+      "蓝色"
+    ],
+    "style": "React组件库，蓝色传达友好和现代。",
+    "colors": {
+      "primary": "#1A73E8",
+      "secondary": "#4285F4",
+      "accent": "#FBBC04",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#031122",
+      "surface": "#061C3A",
+      "text": "#DCEAFB"
+    },
+    "cssVariables": ":root {\n  --color-primary: #1A73E8;\n  --color-secondary: #4285F4;\n  --color-accent: #FBBC04;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#1A73E8',\n  secondary: '#4285F4',\n  accent: '#FBBC04',\n}"
+  },
+  {
+    "id": "overnext",
+    "name": "Overnext UI",
+    "category": "design-system",
+    "tags": [
+      "框架",
+      "React",
+      "紫色"
+    ],
+    "style": "React组件库，紫色传达现代和创意。",
+    "colors": {
+      "primary": "#7C3AED",
+      "secondary": "#8B5CF6",
+      "accent": "#06B6D4",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#120823",
+      "surface": "#1F0E3B",
+      "text": "#EBE1FC"
+    },
+    "cssVariables": ":root {\n  --color-primary: #7C3AED;\n  --color-secondary: #8B5CF6;\n  --color-accent: #06B6D4;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#7C3AED',\n  secondary: '#8B5CF6',\n  accent: '#06B6D4',\n}"
+  },
+  {
+    "id": "ind-saas-b2b",
+    "name": "SaaS B2B",
+    "category": "industry-extra",
+    "tags": [
+      "SaaS",
+      "B2B",
+      "蓝色"
+    ],
+    "style": "SaaS B2B产品，蓝色传达专业和信任。",
+    "colors": {
+      "primary": "#1E40AF",
+      "secondary": "#3B82F6",
+      "accent": "#F59E0B",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#04091A",
+      "surface": "#07102B",
+      "text": "#DDE2F3"
+    },
+    "cssVariables": ":root {\n  --color-primary: #1E40AF;\n  --color-secondary: #3B82F6;\n  --color-accent: #F59E0B;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#1E40AF',\n  secondary: '#3B82F6',\n  accent: '#F59E0B',\n}"
+  },
+  {
+    "id": "ind-saas-b2c",
+    "name": "SaaS B2C",
+    "category": "industry-extra",
+    "tags": [
+      "SaaS",
+      "B2C",
+      "紫色"
+    ],
+    "style": "SaaS B2C产品，紫色传达创意和活力。",
+    "colors": {
+      "primary": "#7C3AED",
+      "secondary": "#A78BFA",
+      "accent": "#F43F5E",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#120823",
+      "surface": "#1F0E3B",
+      "text": "#EBE1FC"
+    },
+    "cssVariables": ":root {\n  --color-primary: #7C3AED;\n  --color-secondary: #A78BFA;\n  --color-accent: #F43F5E;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#7C3AED',\n  secondary: '#A78BFA',\n  accent: '#F43F5E',\n}"
+  },
+  {
+    "id": "ind-marketplace",
+    "name": "Marketplace 平台",
+    "category": "industry-extra",
+    "tags": [
+      "平台",
+      "市场",
+      "绿色"
+    ],
+    "style": "多边市场平台，绿色传达成长和信任。",
+    "colors": {
+      "primary": "#059669",
+      "secondary": "#34D399",
+      "accent": "#F59E0B",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#00160F",
+      "surface": "#01251A",
+      "text": "#D9EFE8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #059669;\n  --color-secondary: #34D399;\n  --color-accent: #F59E0B;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#059669',\n  secondary: '#34D399',\n  accent: '#F59E0B',\n}"
+  },
+  {
+    "id": "ind-fintech",
+    "name": "Fintech 金融科技",
+    "category": "industry-extra",
+    "tags": [
+      "金融科技",
+      "创新",
+      "蓝色"
+    ],
+    "style": "金融科技行业，蓝色传达创新和安全。",
+    "colors": {
+      "primary": "#2563EB",
+      "secondary": "#06B6D4",
+      "accent": "#F59E0B",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#050E23",
+      "surface": "#09183A",
+      "text": "#DEE7FC"
+    },
+    "cssVariables": ":root {\n  --color-primary: #2563EB;\n  --color-secondary: #06B6D4;\n  --color-accent: #F59E0B;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#2563EB',\n  secondary: '#06B6D4',\n  accent: '#F59E0B',\n}"
+  },
+  {
+    "id": "ind-insurtech",
+    "name": "Insurtech 保险科技",
+    "category": "industry-extra",
+    "tags": [
+      "保险科技",
+      "创新",
+      "青绿"
+    ],
+    "style": "保险科技行业，青绿色传达创新和安全。",
+    "colors": {
+      "primary": "#0D9488",
+      "secondary": "#5EEAD4",
+      "accent": "#F59E0B",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#011614",
+      "surface": "#032522",
+      "text": "#DAEEED"
+    },
+    "cssVariables": ":root {\n  --color-primary: #0D9488;\n  --color-secondary: #5EEAD4;\n  --color-accent: #F59E0B;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#0D9488',\n  secondary: '#5EEAD4',\n  accent: '#F59E0B',\n}"
+  },
+  {
+    "id": "ind-proptech",
+    "name": "PropTech 房产科技",
+    "category": "industry-extra",
+    "tags": [
+      "房产科技",
+      "创新",
+      "蓝色"
+    ],
+    "style": "房产科技行业，蓝色传达科技和专业。",
+    "colors": {
+      "primary": "#1D4ED8",
+      "secondary": "#60A5FA",
+      "accent": "#F59E0B",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#040B20",
+      "surface": "#071336",
+      "text": "#DDE4F9"
+    },
+    "cssVariables": ":root {\n  --color-primary: #1D4ED8;\n  --color-secondary: #60A5FA;\n  --color-accent: #F59E0B;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#1D4ED8',\n  secondary: '#60A5FA',\n  accent: '#F59E0B',\n}"
+  },
+  {
+    "id": "ind-edtech",
+    "name": "EdTech 教育科技",
+    "category": "industry-extra",
+    "tags": [
+      "教育科技",
+      "创新",
+      "紫色"
+    ],
+    "style": "教育科技行业，紫色传达创新和学习。",
+    "colors": {
+      "primary": "#7C3AED",
+      "secondary": "#A78BFA",
+      "accent": "#F59E0B",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#120823",
+      "surface": "#1F0E3B",
+      "text": "#EBE1FC"
+    },
+    "cssVariables": ":root {\n  --color-primary: #7C3AED;\n  --color-secondary: #A78BFA;\n  --color-accent: #F59E0B;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#7C3AED',\n  secondary: '#A78BFA',\n  accent: '#F59E0B',\n}"
+  },
+  {
+    "id": "ind-healthtech",
+    "name": "HealthTech 健康科技",
+    "category": "industry-extra",
+    "tags": [
+      "健康科技",
+      "创新",
+      "绿色"
+    ],
+    "style": "健康科技行业，绿色传达健康和创新。",
+    "colors": {
+      "primary": "#059669",
+      "secondary": "#34D399",
+      "accent": "#F59E0B",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#00160F",
+      "surface": "#01251A",
+      "text": "#D9EFE8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #059669;\n  --color-secondary: #34D399;\n  --color-accent: #F59E0B;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#059669',\n  secondary: '#34D399',\n  accent: '#F59E0B',\n}"
+  },
+  {
+    "id": "ind-agritech",
+    "name": "AgriTech 农业科技",
+    "category": "industry-extra",
+    "tags": [
+      "农业科技",
+      "创新",
+      "绿色"
+    ],
+    "style": "农业科技行业，绿色传达自然和科技。",
+    "colors": {
+      "primary": "#16A34A",
+      "secondary": "#4ADE80",
+      "accent": "#F59E0B",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#03180B",
+      "surface": "#052812",
+      "text": "#DCF1E3"
+    },
+    "cssVariables": ":root {\n  --color-primary: #16A34A;\n  --color-secondary: #4ADE80;\n  --color-accent: #F59E0B;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#16A34A',\n  secondary: '#4ADE80',\n  accent: '#F59E0B',\n}"
+  },
+  {
+    "id": "ind-legaltech",
+    "name": "LegalTech 法律科技",
+    "category": "industry-extra",
+    "tags": [
+      "法律科技",
+      "创新",
+      "深蓝"
+    ],
+    "style": "法律科技行业，深蓝传达权威和创新。",
+    "colors": {
+      "primary": "#1E3A5F",
+      "secondary": "#3B82F6",
+      "accent": "#F59E0B",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#04080E",
+      "surface": "#070E17",
+      "text": "#DDE1E7"
+    },
+    "cssVariables": ":root {\n  --color-primary: #1E3A5F;\n  --color-secondary: #3B82F6;\n  --color-accent: #F59E0B;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#1E3A5F',\n  secondary: '#3B82F6',\n  accent: '#F59E0B',\n}"
+  },
+  {
+    "id": "ind-hrtech",
+    "name": "HRTech 人力资源科技",
+    "category": "industry-extra",
+    "tags": [
+      "HR科技",
+      "创新",
+      "蓝色"
+    ],
+    "style": "HR科技行业，蓝色传达专业和创新。",
+    "colors": {
+      "primary": "#2563EB",
+      "secondary": "#60A5FA",
+      "accent": "#F59E0B",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#050E23",
+      "surface": "#09183A",
+      "text": "#DEE7FC"
+    },
+    "cssVariables": ":root {\n  --color-primary: #2563EB;\n  --color-secondary: #60A5FA;\n  --color-accent: #F59E0B;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#2563EB',\n  secondary: '#60A5FA',\n  accent: '#F59E0B',\n}"
+  },
+  {
+    "id": "ind-retailtech",
+    "name": "RetailTech 零售科技",
+    "category": "industry-extra",
+    "tags": [
+      "零售科技",
+      "创新",
+      "橙色"
+    ],
+    "style": "零售科技行业，橙色传达购物和活力。",
+    "colors": {
+      "primary": "#EA580C",
+      "secondary": "#FB923C",
+      "accent": "#2563EB",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#230D01",
+      "surface": "#3A1603",
+      "text": "#FBE5DA"
+    },
+    "cssVariables": ":root {\n  --color-primary: #EA580C;\n  --color-secondary: #FB923C;\n  --color-accent: #2563EB;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#EA580C',\n  secondary: '#FB923C',\n  accent: '#2563EB',\n}"
+  },
+  {
+    "id": "ind-foodtech",
+    "name": "FoodTech 食品科技",
+    "category": "industry-extra",
+    "tags": [
+      "食品科技",
+      "创新",
+      "绿色"
+    ],
+    "style": "食品科技行业，绿色传达健康和创新。",
+    "colors": {
+      "primary": "#16A34A",
+      "secondary": "#4ADE80",
+      "accent": "#F59E0B",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#03180B",
+      "surface": "#052812",
+      "text": "#DCF1E3"
+    },
+    "cssVariables": ":root {\n  --color-primary: #16A34A;\n  --color-secondary: #4ADE80;\n  --color-accent: #F59E0B;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#16A34A',\n  secondary: '#4ADE80',\n  accent: '#F59E0B',\n}"
+  },
+  {
+    "id": "ind-traveltech",
+    "name": "TravelTech 旅行科技",
+    "category": "industry-extra",
+    "tags": [
+      "旅行科技",
+      "创新",
+      "蓝色"
+    ],
+    "style": "旅行科技行业，蓝色传达探索和信赖。",
+    "colors": {
+      "primary": "#0284C7",
+      "secondary": "#38BDF8",
+      "accent": "#F59E0B",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#00131D",
+      "surface": "#002131",
+      "text": "#D9ECF6"
+    },
+    "cssVariables": ":root {\n  --color-primary: #0284C7;\n  --color-secondary: #38BDF8;\n  --color-accent: #F59E0B;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#0284C7',\n  secondary: '#38BDF8',\n  accent: '#F59E0B',\n}"
+  },
+  {
+    "id": "ind-sporttech",
+    "name": "SportTech 体育科技",
+    "category": "industry-extra",
+    "tags": [
+      "体育科技",
+      "创新",
+      "红色"
+    ],
+    "style": "体育科技行业，红色传达运动和激情。",
+    "colors": {
+      "primary": "#DC2626",
+      "secondary": "#F87171",
+      "accent": "#2563EB",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#210505",
+      "surface": "#370909",
+      "text": "#F9DEDE"
+    },
+    "cssVariables": ":root {\n  --color-primary: #DC2626;\n  --color-secondary: #F87171;\n  --color-accent: #2563EB;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#DC2626',\n  secondary: '#F87171',\n  accent: '#2563EB',\n}"
+  },
+  {
+    "id": "ind-musictech",
+    "name": "MusicTech 音乐科技",
+    "category": "industry-extra",
+    "tags": [
+      "音乐科技",
+      "创新",
+      "紫色"
+    ],
+    "style": "音乐科技行业，紫色传达创意和艺术。",
+    "colors": {
+      "primary": "#7C3AED",
+      "secondary": "#A78BFA",
+      "accent": "#F43F5E",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#120823",
+      "surface": "#1F0E3B",
+      "text": "#EBE1FC"
+    },
+    "cssVariables": ":root {\n  --color-primary: #7C3AED;\n  --color-secondary: #A78BFA;\n  --color-accent: #F43F5E;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#7C3AED',\n  secondary: '#A78BFA',\n  accent: '#F43F5E',\n}"
+  },
+  {
+    "id": "ind-greentech",
+    "name": "GreenTech 绿色科技",
+    "category": "industry-extra",
+    "tags": [
+      "绿色科技",
+      "环保",
+      "绿色"
+    ],
+    "style": "绿色科技行业，绿色传达可持续和创新。",
+    "colors": {
+      "primary": "#059669",
+      "secondary": "#34D399",
+      "accent": "#F59E0B",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#00160F",
+      "surface": "#01251A",
+      "text": "#D9EFE8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #059669;\n  --color-secondary: #34D399;\n  --color-accent: #F59E0B;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#059669',\n  secondary: '#34D399',\n  accent: '#F59E0B',\n}"
+  },
+  {
+    "id": "ind-spacetech",
+    "name": "SpaceTech 太空科技",
+    "category": "industry-extra",
+    "tags": [
+      "太空科技",
+      "前沿",
+      "深蓝"
+    ],
+    "style": "太空科技行业，深蓝传达前沿和探索。",
+    "colors": {
+      "primary": "#1E3A5F",
+      "secondary": "#3B82F6",
+      "accent": "#00D4FF",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#04080E",
+      "surface": "#070E17",
+      "text": "#DDE1E7"
+    },
+    "cssVariables": ":root {\n  --color-primary: #1E3A5F;\n  --color-secondary: #3B82F6;\n  --color-accent: #00D4FF;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#1E3A5F',\n  secondary: '#3B82F6',\n  accent: '#00D4FF',\n}"
+  },
+  {
+    "id": "ind-aitools",
+    "name": "AI Tools AI工具",
+    "category": "industry-extra",
+    "tags": [
+      "AI",
+      "工具",
+      "紫色"
+    ],
+    "style": "AI工具行业，紫色传达智能和创新。",
+    "colors": {
+      "primary": "#7C3AED",
+      "secondary": "#A78BFA",
+      "accent": "#06B6D4",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#120823",
+      "surface": "#1F0E3B",
+      "text": "#EBE1FC"
+    },
+    "cssVariables": ":root {\n  --color-primary: #7C3AED;\n  --color-secondary: #A78BFA;\n  --color-accent: #06B6D4;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#7C3AED',\n  secondary: '#A78BFA',\n  accent: '#06B6D4',\n}"
+  },
+  {
+    "id": "ind-lowcode",
+    "name": "Low-Code/No-Code",
+    "category": "industry-extra",
+    "tags": [
+      "低代码",
+      "无代码",
+      "蓝色"
+    ],
+    "style": "低代码行业，蓝色传达易用和效率。",
+    "colors": {
+      "primary": "#2563EB",
+      "secondary": "#60A5FA",
+      "accent": "#F59E0B",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#050E23",
+      "surface": "#09183A",
+      "text": "#DEE7FC"
+    },
+    "cssVariables": ":root {\n  --color-primary: #2563EB;\n  --color-secondary: #60A5FA;\n  --color-accent: #F59E0B;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#2563EB',\n  secondary: '#60A5FA',\n  accent: '#F59E0B',\n}"
+  },
+  {
+    "id": "ind-collab",
+    "name": "协作/办公",
+    "category": "industry-extra",
+    "tags": [
+      "协作",
+      "办公",
+      "蓝色"
+    ],
+    "style": "协作办公行业，蓝色传达专业和效率。",
+    "colors": {
+      "primary": "#1D4ED8",
+      "secondary": "#60A5FA",
+      "accent": "#F59E0B",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#040B20",
+      "surface": "#071336",
+      "text": "#DDE4F9"
+    },
+    "cssVariables": ":root {\n  --color-primary: #1D4ED8;\n  --color-secondary: #60A5FA;\n  --color-accent: #F59E0B;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#1D4ED8',\n  secondary: '#60A5FA',\n  accent: '#F59E0B',\n}"
+  },
+  {
+    "id": "ind-wiki",
+    "name": "百科/知识库",
+    "category": "industry-extra",
+    "tags": [
+      "百科",
+      "知识",
+      "蓝色"
+    ],
+    "style": "百科知识库行业，蓝色传达知识和信赖。",
+    "colors": {
+      "primary": "#1E40AF",
+      "secondary": "#3B82F6",
+      "accent": "#F59E0B",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#04091A",
+      "surface": "#07102B",
+      "text": "#DDE2F3"
+    },
+    "cssVariables": ":root {\n  --color-primary: #1E40AF;\n  --color-secondary: #3B82F6;\n  --color-accent: #F59E0B;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#1E40AF',\n  secondary: '#3B82F6',\n  accent: '#F59E0B',\n}"
+  },
+  {
+    "id": "ind-forum",
+    "name": "论坛/社区",
+    "category": "industry-extra",
+    "tags": [
+      "论坛",
+      "社区",
+      "蓝色"
+    ],
+    "style": "论坛社区行业，蓝色传达连接和讨论。",
+    "colors": {
+      "primary": "#2563EB",
+      "secondary": "#60A5FA",
+      "accent": "#F59E0B",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#050E23",
+      "surface": "#09183A",
+      "text": "#DEE7FC"
+    },
+    "cssVariables": ":root {\n  --color-primary: #2563EB;\n  --color-secondary: #60A5FA;\n  --color-accent: #F59E0B;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#2563EB',\n  secondary: '#60A5FA',\n  accent: '#F59E0B',\n}"
+  },
+  {
+    "id": "ind-ecommerce-luxury",
+    "name": "奢侈品电商",
+    "category": "industry-extra",
+    "tags": [
+      "奢侈品",
+      "电商",
+      "黑色"
+    ],
+    "style": "奢侈品电商，黑色+金色传达高端和尊贵。",
+    "colors": {
+      "primary": "#000000",
+      "secondary": "#D4AF37",
+      "accent": "#1A1A2E",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#000000",
+      "surface": "#000000",
+      "text": "#D8D8D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #000000;\n  --color-secondary: #D4AF37;\n  --color-accent: #1A1A2E;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#000000',\n  secondary: '#D4AF37',\n  accent: '#1A1A2E',\n}"
+  },
+  {
+    "id": "ind-ecommerce-cross",
+    "name": "跨境电商",
+    "category": "industry-extra",
+    "tags": [
+      "跨境",
+      "电商",
+      "蓝色"
+    ],
+    "style": "跨境电商，蓝色传达全球和专业。",
+    "colors": {
+      "primary": "#1E40AF",
+      "secondary": "#3B82F6",
+      "accent": "#F59E0B",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#04091A",
+      "surface": "#07102B",
+      "text": "#DDE2F3"
+    },
+    "cssVariables": ":root {\n  --color-primary: #1E40AF;\n  --color-secondary: #3B82F6;\n  --color-accent: #F59E0B;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#1E40AF',\n  secondary: '#3B82F6',\n  accent: '#F59E0B',\n}"
+  },
+  {
+    "id": "ind-d2c",
+    "name": "D2C 品牌直营",
+    "category": "industry-extra",
+    "tags": [
+      "D2C",
+      "品牌",
+      "红色"
+    ],
+    "style": "D2C品牌直营，红色传达品牌和热情。",
+    "colors": {
+      "primary": "#DC2626",
+      "secondary": "#F87171",
+      "accent": "#F59E0B",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#210505",
+      "surface": "#370909",
+      "text": "#F9DEDE"
+    },
+    "cssVariables": ":root {\n  --color-primary: #DC2626;\n  --color-secondary: #F87171;\n  --color-accent: #F59E0B;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#DC2626',\n  secondary: '#F87171',\n  accent: '#F59E0B',\n}"
+  },
+  {
+    "id": "ind-subscription",
+    "name": "订阅制",
+    "category": "industry-extra",
+    "tags": [
+      "订阅",
+      "会员",
+      "紫色"
+    ],
+    "style": "订阅制行业，紫色传达专属和价值。",
+    "colors": {
+      "primary": "#7C3AED",
+      "secondary": "#A78BFA",
+      "accent": "#F59E0B",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#120823",
+      "surface": "#1F0E3B",
+      "text": "#EBE1FC"
+    },
+    "cssVariables": ":root {\n  --color-primary: #7C3AED;\n  --color-secondary: #A78BFA;\n  --color-accent: #F59E0B;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#7C3AED',\n  secondary: '#A78BFA',\n  accent: '#F59E0B',\n}"
+  },
+  {
+    "id": "ind-marketplace-services",
+    "name": "服务交易平台",
+    "category": "industry-extra",
+    "tags": [
+      "服务",
+      "平台",
+      "蓝色"
+    ],
+    "style": "服务交易平台，蓝色传达信任和专业。",
+    "colors": {
+      "primary": "#2563EB",
+      "secondary": "#60A5FA",
+      "accent": "#F59E0B",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#050E23",
+      "surface": "#09183A",
+      "text": "#DEE7FC"
+    },
+    "cssVariables": ":root {\n  --color-primary: #2563EB;\n  --color-secondary: #60A5FA;\n  --color-accent: #F59E0B;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#2563EB',\n  secondary: '#60A5FA',\n  accent: '#F59E0B',\n}"
+  },
+  {
+    "id": "ind-crowdfunding",
+    "name": "众筹平台",
+    "category": "industry-extra",
+    "tags": [
+      "众筹",
+      "平台",
+      "绿色"
+    ],
+    "style": "众筹平台，绿色传达成长和希望。",
+    "colors": {
+      "primary": "#059669",
+      "secondary": "#34D399",
+      "accent": "#F59E0B",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#00160F",
+      "surface": "#01251A",
+      "text": "#D9EFE8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #059669;\n  --color-secondary: #34D399;\n  --color-accent: #F59E0B;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#059669',\n  secondary: '#34D399',\n  accent: '#F59E0B',\n}"
+  },
+  {
+    "id": "ind-dating-app",
+    "name": "约会App",
+    "category": "industry-extra",
+    "tags": [
+      "约会",
+      "App",
+      "粉色"
+    ],
+    "style": "约会App行业，粉色传达浪漫和温暖。",
+    "colors": {
+      "primary": "#EC4899",
+      "secondary": "#F9A8D4",
+      "accent": "#EC4899",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#230A16",
+      "surface": "#3B1226",
+      "text": "#FCE3EF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #EC4899;\n  --color-secondary: #F9A8D4;\n  --color-accent: #EC4899;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#EC4899',\n  secondary: '#F9A8D4',\n  accent: '#EC4899',\n}"
+  },
+  {
+    "id": "ind-fitness-app",
+    "name": "健身App",
+    "category": "industry-extra",
+    "tags": [
+      "健身",
+      "App",
+      "荧光绿"
+    ],
+    "style": "健身App行业，荧光绿传达能量和突破。",
+    "colors": {
+      "primary": "#00D4FF",
+      "secondary": "#39FF14",
+      "accent": "#FF3366",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#001F26",
+      "surface": "#00353F",
+      "text": "#D8F8FF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #00D4FF;\n  --color-secondary: #39FF14;\n  --color-accent: #FF3366;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#00D4FF',\n  secondary: '#39FF14',\n  accent: '#FF3366',\n}"
+  },
+  {
+    "id": "ind-meditation-app",
+    "name": "冥想App",
+    "category": "industry-extra",
+    "tags": [
+      "冥想",
+      "App",
+      "紫色"
+    ],
+    "style": "冥想App行业，紫色传达宁静和灵性。",
+    "colors": {
+      "primary": "#7E57C2",
+      "secondary": "#B39DDB",
+      "accent": "#7E57C2",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#120D1D",
+      "surface": "#1F1530",
+      "text": "#EBE5F5"
+    },
+    "cssVariables": ":root {\n  --color-primary: #7E57C2;\n  --color-secondary: #B39DDB;\n  --color-accent: #7E57C2;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#7E57C2',\n  secondary: '#B39DDB',\n  accent: '#7E57C2',\n}"
+  },
+  {
+    "id": "ind-cooking-app",
+    "name": "美食App",
+    "category": "industry-extra",
+    "tags": [
+      "美食",
+      "App",
+      "橙色"
+    ],
+    "style": "美食App行业，橙色传达食欲和温暖。",
+    "colors": {
+      "primary": "#F97316",
+      "secondary": "#FB923C",
+      "accent": "#DC2626",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#251103",
+      "surface": "#3E1C05",
+      "text": "#FEEADC"
+    },
+    "cssVariables": ":root {\n  --color-primary: #F97316;\n  --color-secondary: #FB923C;\n  --color-accent: #DC2626;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#F97316',\n  secondary: '#FB923C',\n  accent: '#DC2626',\n}"
+  },
+  {
+    "id": "ind-pet-app",
+    "name": "宠物App",
+    "category": "industry-extra",
+    "tags": [
+      "宠物",
+      "App",
+      "棕色"
+    ],
+    "style": "宠物App行业，棕色传达温暖和亲和。",
+    "colors": {
+      "primary": "#8B6914",
+      "secondary": "#D4A574",
+      "accent": "#E8734A",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#140F03",
+      "surface": "#221A05",
+      "text": "#EDE8DB"
+    },
+    "cssVariables": ":root {\n  --color-primary: #8B6914;\n  --color-secondary: #D4A574;\n  --color-accent: #E8734A;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#8B6914',\n  secondary: '#D4A574',\n  accent: '#E8734A',\n}"
+  },
+  {
+    "id": "ind-news-app",
+    "name": "新闻App",
+    "category": "industry-extra",
+    "tags": [
+      "新闻",
+      "App",
+      "红色"
+    ],
+    "style": "新闻App行业，红色传达热点和权威。",
+    "colors": {
+      "primary": "#DC2626",
+      "secondary": "#EF4444",
+      "accent": "#1E40AF",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#210505",
+      "surface": "#370909",
+      "text": "#F9DEDE"
+    },
+    "cssVariables": ":root {\n  --color-primary: #DC2626;\n  --color-secondary: #EF4444;\n  --color-accent: #1E40AF;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#DC2626',\n  secondary: '#EF4444',\n  accent: '#1E40AF',\n}"
+  },
+  {
+    "id": "ind-weather-app",
+    "name": "天气App",
+    "category": "industry-extra",
+    "tags": [
+      "天气",
+      "App",
+      "蓝色"
+    ],
+    "style": "天气App行业，蓝色传达天空和信赖。",
+    "colors": {
+      "primary": "#0284C7",
+      "secondary": "#38BDF8",
+      "accent": "#F59E0B",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#00131D",
+      "surface": "#002131",
+      "text": "#D9ECF6"
+    },
+    "cssVariables": ":root {\n  --color-primary: #0284C7;\n  --color-secondary: #38BDF8;\n  --color-accent: #F59E0B;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#0284C7',\n  secondary: '#38BDF8',\n  accent: '#F59E0B',\n}"
+  },
+  {
+    "id": "ind-map-app",
+    "name": "地图App",
+    "category": "industry-extra",
+    "tags": [
+      "地图",
+      "导航",
+      "绿色"
+    ],
+    "style": "地图导航App，绿色传达出行和自然。",
+    "colors": {
+      "primary": "#059669",
+      "secondary": "#34D399",
+      "accent": "#F59E0B",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#00160F",
+      "surface": "#01251A",
+      "text": "#D9EFE8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #059669;\n  --color-secondary: #34D399;\n  --color-accent: #F59E0B;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#059669',\n  secondary: '#34D399',\n  accent: '#F59E0B',\n}"
+  },
+  {
+    "id": "ind-finance-app",
+    "name": "理财App",
+    "category": "industry-extra",
+    "tags": [
+      "理财",
+      "App",
+      "蓝色"
+    ],
+    "style": "理财App行业，蓝色传达安全和专业。",
+    "colors": {
+      "primary": "#1E40AF",
+      "secondary": "#3B82F6",
+      "accent": "#F59E0B",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#04091A",
+      "surface": "#07102B",
+      "text": "#DDE2F3"
+    },
+    "cssVariables": ":root {\n  --color-primary: #1E40AF;\n  --color-secondary: #3B82F6;\n  --color-accent: #F59E0B;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#1E40AF',\n  secondary: '#3B82F6',\n  accent: '#F59E0B',\n}"
+  },
+  {
+    "id": "ind-social-app",
+    "name": "社交App",
+    "category": "industry-extra",
+    "tags": [
+      "社交",
+      "App",
+      "蓝色"
+    ],
+    "style": "社交App行业，蓝色传达连接和信任。",
+    "colors": {
+      "primary": "#2563EB",
+      "secondary": "#60A5FA",
+      "accent": "#F59E0B",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#050E23",
+      "surface": "#09183A",
+      "text": "#DEE7FC"
+    },
+    "cssVariables": ":root {\n  --color-primary: #2563EB;\n  --color-secondary: #60A5FA;\n  --color-accent: #F59E0B;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#2563EB',\n  secondary: '#60A5FA',\n  accent: '#F59E0B',\n}"
+  },
+  {
+    "id": "ind-video-app",
+    "name": "短视频App",
+    "category": "industry-extra",
+    "tags": [
+      "短视频",
+      "App",
+      "品红"
+    ],
+    "style": "短视频App行业，品红传达潮流和活力。",
+    "colors": {
+      "primary": "#FE2C55",
+      "secondary": "#25F4EE",
+      "accent": "#FE2C55",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#26060C",
+      "surface": "#3F0B15",
+      "text": "#FEDFE5"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FE2C55;\n  --color-secondary: #25F4EE;\n  --color-accent: #FE2C55;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FE2C55',\n  secondary: '#25F4EE',\n  accent: '#FE2C55',\n}"
+  },
+  {
+    "id": "ind-live-app",
+    "name": "直播App",
+    "category": "industry-extra",
+    "tags": [
+      "直播",
+      "App",
+      "红色"
+    ],
+    "style": "直播App行业，红色传达热情和互动。",
+    "colors": {
+      "primary": "#DC2626",
+      "secondary": "#F87171",
+      "accent": "#7C3AED",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#210505",
+      "surface": "#370909",
+      "text": "#F9DEDE"
+    },
+    "cssVariables": ":root {\n  --color-primary: #DC2626;\n  --color-secondary: #F87171;\n  --color-accent: #7C3AED;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#DC2626',\n  secondary: '#F87171',\n  accent: '#7C3AED',\n}"
+  },
+  {
+    "id": "ind-podcast-app",
+    "name": "播客App",
+    "category": "industry-extra",
+    "tags": [
+      "播客",
+      "App",
+      "紫色"
+    ],
+    "style": "播客App行业，紫色传达创意和声音。",
+    "colors": {
+      "primary": "#7C3AED",
+      "secondary": "#A78BFA",
+      "accent": "#F43F5E",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#120823",
+      "surface": "#1F0E3B",
+      "text": "#EBE1FC"
+    },
+    "cssVariables": ":root {\n  --color-primary: #7C3AED;\n  --color-secondary: #A78BFA;\n  --color-accent: #F43F5E;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#7C3AED',\n  secondary: '#A78BFA',\n  accent: '#F43F5E',\n}"
+  },
+  {
+    "id": "ind-book-app",
+    "name": "阅读App",
+    "category": "industry-extra",
+    "tags": [
+      "阅读",
+      "App",
+      "棕色"
+    ],
+    "style": "阅读App行业，棕色传达知识和沉淀。",
+    "colors": {
+      "primary": "#5D4037",
+      "secondary": "#8D6E63",
+      "accent": "#FF8F00",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#0D0908",
+      "surface": "#17100D",
+      "text": "#E6E2E1"
+    },
+    "cssVariables": ":root {\n  --color-primary: #5D4037;\n  --color-secondary: #8D6E63;\n  --color-accent: #FF8F00;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#5D4037',\n  secondary: '#8D6E63',\n  accent: '#FF8F00',\n}"
+  },
+  {
+    "id": "ind-music-app",
+    "name": "音乐App",
+    "category": "industry-extra",
+    "tags": [
+      "音乐",
+      "App",
+      "绿色"
+    ],
+    "style": "音乐App行业，绿色传达放松和享受。",
+    "colors": {
+      "primary": "#059669",
+      "secondary": "#34D399",
+      "accent": "#F43F5E",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#00160F",
+      "surface": "#01251A",
+      "text": "#D9EFE8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #059669;\n  --color-secondary: #34D399;\n  --color-accent: #F43F5E;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#059669',\n  secondary: '#34D399',\n  accent: '#F43F5E',\n}"
+  },
+  {
+    "id": "style-artisan",
+    "name": "Artisan 手工匠人",
+    "category": "style-extra",
+    "tags": [
+      "风格",
+      "手工",
+      "棕色"
+    ],
+    "style": "手工匠人风格，棕色传达手工艺和品质。",
+    "colors": {
+      "primary": "#6D4C41",
+      "secondary": "#8D6E63",
+      "accent": "#FFB300",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#100B09",
+      "surface": "#1B1310",
+      "text": "#E9E4E2"
+    },
+    "cssVariables": ":root {\n  --color-primary: #6D4C41;\n  --color-secondary: #8D6E63;\n  --color-accent: #FFB300;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#6D4C41',\n  secondary: '#8D6E63',\n  accent: '#FFB300',\n}"
+  },
+  {
+    "id": "style-solarpunk-v2",
+    "name": "Solarpunk v2",
+    "category": "style-extra",
+    "tags": [
+      "风格",
+      "太阳朋克",
+      "绿色"
+    ],
+    "style": "太阳朋克风格v2，绿色+金色传达可持续未来。",
+    "colors": {
+      "primary": "#2E7D32",
+      "secondary": "#F9A825",
+      "accent": "#81C784",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#061207",
+      "surface": "#0B1F0C",
+      "text": "#DFEBE0"
+    },
+    "cssVariables": ":root {\n  --color-primary: #2E7D32;\n  --color-secondary: #F9A825;\n  --color-accent: #81C784;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#2E7D32',\n  secondary: '#F9A825',\n  accent: '#81C784',\n}"
+  },
+  {
+    "id": "style-lofi",
+    "name": "Lo-Fi 低保真",
+    "category": "style-extra",
+    "tags": [
+      "风格",
+      "Lo-Fi",
+      "暖色"
+    ],
+    "style": "Lo-Fi低保真风格，暖色传达放松和舒适。",
+    "colors": {
+      "primary": "#D4A574",
+      "secondary": "#8D6E63",
+      "accent": "#F5DEB3",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#1F1811",
+      "surface": "#35291D",
+      "text": "#F8F1EA"
+    },
+    "cssVariables": ":root {\n  --color-primary: #D4A574;\n  --color-secondary: #8D6E63;\n  --color-accent: #F5DEB3;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#D4A574',\n  secondary: '#8D6E63',\n  accent: '#F5DEB3',\n}"
+  },
+  {
+    "id": "style-vaporwave-v2",
+    "name": "Vaporwave v2",
+    "category": "style-extra",
+    "tags": [
+      "风格",
+      "蒸汽波",
+      "粉紫"
+    ],
+    "style": "蒸汽波风格v2，粉紫+青色传达超现实。",
+    "colors": {
+      "primary": "#FF71CE",
+      "secondary": "#01CDFE",
+      "accent": "#05FFA1",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#26101E",
+      "surface": "#3F1C33",
+      "text": "#FFE9F7"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FF71CE;\n  --color-secondary: #01CDFE;\n  --color-accent: #05FFA1;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FF71CE',\n  secondary: '#01CDFE',\n  accent: '#05FFA1',\n}"
+  },
+  {
+    "id": "style-frutiger",
+    "name": "Frutiger Metro",
+    "category": "style-extra",
+    "tags": [
+      "风格",
+      "导视",
+      "蓝色"
+    ],
+    "style": "Frutiger Metro导视风格，蓝色传达清晰和现代。",
+    "colors": {
+      "primary": "#003DA5",
+      "secondary": "#0072CE",
+      "accent": "#ED1C24",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#000918",
+      "surface": "#000F29",
+      "text": "#D8E1F1"
+    },
+    "cssVariables": ":root {\n  --color-primary: #003DA5;\n  --color-secondary: #0072CE;\n  --color-accent: #ED1C24;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#003DA5',\n  secondary: '#0072CE',\n  accent: '#ED1C24',\n}"
+  },
+  {
+    "id": "style-swiss-v2",
+    "name": "Swiss v2",
+    "category": "style-extra",
+    "tags": [
+      "风格",
+      "瑞士",
+      "红黑"
+    ],
+    "style": "瑞士风格v2，红+黑+白传达理性和秩序。",
+    "colors": {
+      "primary": "#FF0000",
+      "secondary": "#000000",
+      "accent": "#FFFFFF",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#260000",
+      "surface": "#3F0000",
+      "text": "#FFD8D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FF0000;\n  --color-secondary: #000000;\n  --color-accent: #FFFFFF;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FF0000',\n  secondary: '#000000',\n  accent: '#FFFFFF',\n}"
+  },
+  {
+    "id": "style-constructivism",
+    "name": "Constructivism 构成主义",
+    "category": "style-extra",
+    "tags": [
+      "风格",
+      "构成",
+      "红黑"
+    ],
+    "style": "构成主义风格，红+黑传达几何和力量。",
+    "colors": {
+      "primary": "#D32F2F",
+      "secondary": "#212121",
+      "accent": "#FFD600",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#1F0707",
+      "surface": "#340B0B",
+      "text": "#F8DFDF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #D32F2F;\n  --color-secondary: #212121;\n  --color-accent: #FFD600;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#D32F2F',\n  secondary: '#212121',\n  accent: '#FFD600',\n}"
+  },
+  {
+    "id": "style-de-stijl",
+    "name": "De Stijl 风格派",
+    "category": "style-extra",
+    "tags": [
+      "风格",
+      "风格派",
+      "红蓝黄"
+    ],
+    "style": "De Stijl风格派，红+蓝+黄传达纯粹和理性。",
+    "colors": {
+      "primary": "#DD0000",
+      "secondary": "#0000DD",
+      "accent": "#FFCC00",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#210000",
+      "surface": "#370000",
+      "text": "#F9D8D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #DD0000;\n  --color-secondary: #0000DD;\n  --color-accent: #FFCC00;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#DD0000',\n  secondary: '#0000DD',\n  accent: '#FFCC00',\n}"
+  },
+  {
+    "id": "style-pop-art",
+    "name": "Pop Art 波普艺术",
+    "category": "style-extra",
+    "tags": [
+      "风格",
+      "波普",
+      "多彩"
+    ],
+    "style": "波普艺术风格，多彩传达大胆和流行。",
+    "colors": {
+      "primary": "#FF6B6B",
+      "secondary": "#4ECDC4",
+      "accent": "#FFE66D",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#261010",
+      "surface": "#3F1A1A",
+      "text": "#FFE8E8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FF6B6B;\n  --color-secondary: #4ECDC4;\n  --color-accent: #FFE66D;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FF6B6B',\n  secondary: '#4ECDC4',\n  accent: '#FFE66D',\n}"
+  },
+  {
+    "id": "style-op-art",
+    "name": "Op Art 欧普艺术",
+    "category": "style-extra",
+    "tags": [
+      "风格",
+      "欧普",
+      "黑白"
+    ],
+    "style": "欧普艺术风格，黑白传达视觉错觉和冲击。",
+    "colors": {
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "accent": "#FF0000",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#000000",
+      "surface": "#000000",
+      "text": "#D8D8D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #000000;\n  --color-secondary: #FFFFFF;\n  --color-accent: #FF0000;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#000000',\n  secondary: '#FFFFFF',\n  accent: '#FF0000',\n}"
+  },
+  {
+    "id": "style-minimal-typo",
+    "name": "Minimal Typo 极简排版",
+    "category": "style-extra",
+    "tags": [
+      "风格",
+      "排版",
+      "黑白"
+    ],
+    "style": "极简排版风格，黑白传达内容和本质。",
+    "colors": {
+      "primary": "#111111",
+      "secondary": "#FAFAFA",
+      "accent": "#111111",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#020202",
+      "surface": "#040404",
+      "text": "#DBDBDB"
+    },
+    "cssVariables": ":root {\n  --color-primary: #111111;\n  --color-secondary: #FAFAFA;\n  --color-accent: #111111;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#111111',\n  secondary: '#FAFAFA',\n  accent: '#111111',\n}"
+  },
+  {
+    "id": "style-handwritten",
+    "name": "Handwritten 手写风",
+    "category": "style-extra",
+    "tags": [
+      "风格",
+      "手写",
+      "棕色"
+    ],
+    "style": "手写风格，棕色传达温暖和人情味。",
+    "colors": {
+      "primary": "#5D4037",
+      "secondary": "#D7CCC8",
+      "accent": "#FF8F00",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#0D0908",
+      "surface": "#17100D",
+      "text": "#E6E2E1"
+    },
+    "cssVariables": ":root {\n  --color-primary: #5D4037;\n  --color-secondary: #D7CCC8;\n  --color-accent: #FF8F00;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#5D4037',\n  secondary: '#D7CCC8',\n  accent: '#FF8F00',\n}"
+  },
+  {
+    "id": "style-neo-traditional",
+    "name": "Neo-Traditional 新传统",
+    "category": "style-extra",
+    "tags": [
+      "风格",
+      "新传统",
+      "深蓝"
+    ],
+    "style": "新传统风格，深蓝+金色传达经典和现代。",
+    "colors": {
+      "primary": "#1A237E",
+      "secondary": "#D4AF37",
+      "accent": "#1A237E",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#030512",
+      "surface": "#06081F",
+      "text": "#DCDEEB"
+    },
+    "cssVariables": ":root {\n  --color-primary: #1A237E;\n  --color-secondary: #D4AF37;\n  --color-accent: #1A237E;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#1A237E',\n  secondary: '#D4AF37',\n  accent: '#1A237E',\n}"
+  },
+  {
+    "id": "style-gradient-v2",
+    "name": "Gradient v2 渐变2.0",
+    "category": "style-extra",
+    "tags": [
+      "风格",
+      "渐变",
+      "蓝紫"
+    ],
+    "style": "渐变风格v2，蓝紫渐变传达流动和现代。",
+    "colors": {
+      "primary": "#667EEA",
+      "secondary": "#764BA2",
+      "accent": "#F093FB",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#0F1223",
+      "surface": "#191F3A",
+      "text": "#E8EBFB"
+    },
+    "cssVariables": ":root {\n  --color-primary: #667EEA;\n  --color-secondary: #764BA2;\n  --color-accent: #F093FB;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#667EEA',\n  secondary: '#764BA2',\n  accent: '#F093FB',\n}"
+  },
+  {
+    "id": "style-3d",
+    "name": "3D/WebGL 风格",
+    "category": "style-extra",
+    "tags": [
+      "风格",
+      "3D",
+      "深色"
+    ],
+    "style": "3D/WebGL风格，深色+霓虹传达沉浸和科技。",
+    "colors": {
+      "primary": "#0D0D0D",
+      "secondary": "#7B2FBE",
+      "accent": "#00FFFF",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#010101",
+      "surface": "#030303",
+      "text": "#DADADA"
+    },
+    "cssVariables": ":root {\n  --color-primary: #0D0D0D;\n  --color-secondary: #7B2FBE;\n  --color-accent: #00FFFF;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#0D0D0D',\n  secondary: '#7B2FBE',\n  accent: '#00FFFF',\n}"
+  },
+  {
+    "id": "style-retro-game",
+    "name": "Retro Game 复古游戏",
+    "category": "style-extra",
+    "tags": [
+      "风格",
+      "复古游戏",
+      "绿色"
+    ],
+    "style": "复古游戏风格，绿色+深色传达像素和怀旧。",
+    "colors": {
+      "primary": "#00FF41",
+      "secondary": "#0D0D0D",
+      "accent": "#FF00FF",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#002609",
+      "surface": "#003F10",
+      "text": "#D8FFE2"
+    },
+    "cssVariables": ":root {\n  --color-primary: #00FF41;\n  --color-secondary: #0D0D0D;\n  --color-accent: #FF00FF;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#00FF41',\n  secondary: '#0D0D0D',\n  accent: '#FF00FF',\n}"
+  },
+  {
+    "id": "style-synthwave",
+    "name": "Synthwave 合成波",
+    "category": "style-extra",
+    "tags": [
+      "风格",
+      "合成波",
+      "粉紫"
+    ],
+    "style": "合成波风格，粉紫+青色传达80年代复古未来。",
+    "colors": {
+      "primary": "#FF00FF",
+      "secondary": "#00FFFF",
+      "accent": "#FF6EC7",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#260026",
+      "surface": "#3F003F",
+      "text": "#FFD8FF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FF00FF;\n  --color-secondary: #00FFFF;\n  --color-accent: #FF6EC7;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FF00FF',\n  secondary: '#00FFFF',\n  accent: '#FF6EC7',\n}"
+  },
+  {
+    "id": "style-gothic",
+    "name": "Gothic 哥特风",
+    "category": "style-extra",
+    "tags": [
+      "风格",
+      "哥特",
+      "黑色"
+    ],
+    "style": "哥特风格，黑色+深红传达神秘和暗黑。",
+    "colors": {
+      "primary": "#1A1A1A",
+      "secondary": "#8B0000",
+      "accent": "#4A148C",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#030303",
+      "surface": "#060606",
+      "text": "#DCDCDC"
+    },
+    "cssVariables": ":root {\n  --color-primary: #1A1A1A;\n  --color-secondary: #8B0000;\n  --color-accent: #4A148C;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#1A1A1A',\n  secondary: '#8B0000',\n  accent: '#4A148C',\n}"
+  },
+  {
+    "id": "style-preppy",
+    "name": "Preppy 学院风",
+    "category": "style-extra",
+    "tags": [
+      "风格",
+      "学院",
+      "绿色"
+    ],
+    "style": "学院风风格，绿色+棕色传达经典和学术。",
+    "colors": {
+      "primary": "#1B5E20",
+      "secondary": "#8D6E63",
+      "accent": "#C62828",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#040E04",
+      "surface": "#061708",
+      "text": "#DCE6DD"
+    },
+    "cssVariables": ":root {\n  --color-primary: #1B5E20;\n  --color-secondary: #8D6E63;\n  --color-accent: #C62828;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#1B5E20',\n  secondary: '#8D6E63',\n  accent: '#C62828',\n}"
+  },
+  {
+    "id": "style-steampunk",
+    "name": "Steampunk 蒸汽朋克",
+    "category": "style-extra",
+    "tags": [
+      "风格",
+      "蒸汽朋克",
+      "棕色"
+    ],
+    "style": "蒸汽朋克风格，棕色+铜色传达复古和机械。",
+    "colors": {
+      "primary": "#5D4037",
+      "secondary": "#B8860B",
+      "accent": "#FF6F00",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#0D0908",
+      "surface": "#17100D",
+      "text": "#E6E2E1"
+    },
+    "cssVariables": ":root {\n  --color-primary: #5D4037;\n  --color-secondary: #B8860B;\n  --color-accent: #FF6F00;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#5D4037',\n  secondary: '#B8860B',\n  accent: '#FF6F00',\n}"
+  },
+  {
+    "id": "pal-amber",
+    "name": "琥珀色系",
+    "category": "color-extra",
+    "tags": [
+      "色系",
+      "琥珀",
+      "暖色"
+    ],
+    "style": "琥珀色系，暖黄棕色传达温暖和复古。",
+    "colors": {
+      "primary": "#FFBF00",
+      "secondary": "#CC8400",
+      "accent": "#8B6914",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#261C00",
+      "surface": "#3F2F00",
+      "text": "#FFF5D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FFBF00;\n  --color-secondary: #CC8400;\n  --color-accent: #8B6914;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FFBF00',\n  secondary: '#CC8400',\n  accent: '#8B6914',\n}"
+  },
+  {
+    "id": "pal-chartreuse",
+    "name": "查特酒绿",
+    "category": "color-extra",
+    "tags": [
+      "色系",
+      "酒绿",
+      "绿色"
+    ],
+    "style": "查特酒绿色系，半绿半蓝传达独特和优雅。",
+    "colors": {
+      "primary": "#00FF7F",
+      "secondary": "#40E0D0",
+      "accent": "#008B8B",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#002613",
+      "surface": "#003F1F",
+      "text": "#D8FFEB"
+    },
+    "cssVariables": ":root {\n  --color-primary: #00FF7F;\n  --color-secondary: #40E0D0;\n  --color-accent: #008B8B;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#00FF7F',\n  secondary: '#40E0D0',\n  accent: '#008B8B',\n}"
+  },
+  {
+    "id": "pal-cerulean",
+    "name": "蔚蓝色系",
+    "category": "color-extra",
+    "tags": [
+      "色系",
+      "蔚蓝",
+      "蓝色"
+    ],
+    "style": "蔚蓝色系，天空蓝传达开阔和自由。",
+    "colors": {
+      "primary": "#007BA7",
+      "secondary": "#00B4D8",
+      "accent": "#40E0D0",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#001219",
+      "surface": "#001E29",
+      "text": "#D8EBF1"
+    },
+    "cssVariables": ":root {\n  --color-primary: #007BA7;\n  --color-secondary: #00B4D8;\n  --color-accent: #40E0D0;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#007BA7',\n  secondary: '#00B4D8',\n  accent: '#40E0D0',\n}"
+  },
+  {
+    "id": "pal-coral-v2",
+    "name": "珊瑚色系v2",
+    "category": "color-extra",
+    "tags": [
+      "色系",
+      "珊瑚",
+      "暖色"
+    ],
+    "style": "珊瑚色系v2，橙粉色传达温暖和年轻。",
+    "colors": {
+      "primary": "#FF7F50",
+      "secondary": "#FF6347",
+      "accent": "#4ECDC4",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#26130C",
+      "surface": "#3F1F14",
+      "text": "#FFEBE4"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FF7F50;\n  --color-secondary: #FF6347;\n  --color-accent: #4ECDC4;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FF7F50',\n  secondary: '#FF6347',\n  accent: '#4ECDC4',\n}"
+  },
+  {
+    "id": "pal-crimson",
+    "name": "绯红色系",
+    "category": "color-extra",
+    "tags": [
+      "色系",
+      "绯红",
+      "红色"
+    ],
+    "style": "绯红色系，深红传达热情和力量。",
+    "colors": {
+      "primary": "#DC143C",
+      "secondary": "#B22222",
+      "accent": "#8B0000",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#210309",
+      "surface": "#37050F",
+      "text": "#F9DBE1"
+    },
+    "cssVariables": ":root {\n  --color-primary: #DC143C;\n  --color-secondary: #B22222;\n  --color-accent: #8B0000;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#DC143C',\n  secondary: '#B22222',\n  accent: '#8B0000',\n}"
+  },
+  {
+    "id": "pal-ecru",
+    "name": "原褐色系",
+    "category": "color-extra",
+    "tags": [
+      "色系",
+      "原褐",
+      "中性"
+    ],
+    "style": "原褐色系，灰棕色传达自然和中性。",
+    "colors": {
+      "primary": "#C2B280",
+      "secondary": "#A0926B",
+      "accent": "#8B7D6B",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#1D1A13",
+      "surface": "#302C20",
+      "text": "#F5F3EB"
+    },
+    "cssVariables": ":root {\n  --color-primary: #C2B280;\n  --color-secondary: #A0926B;\n  --color-accent: #8B7D6B;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#C2B280',\n  secondary: '#A0926B',\n  accent: '#8B7D6B',\n}"
+  },
+  {
+    "id": "pal-fuchsia",
+    "name": "紫红色系",
+    "category": "color-extra",
+    "tags": [
+      "色系",
+      "紫红",
+      "紫色"
+    ],
+    "style": "紫红色系，亮紫红传达活力和女性化。",
+    "colors": {
+      "primary": "#FF00FF",
+      "secondary": "#C71585",
+      "accent": "#8B008B",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#260026",
+      "surface": "#3F003F",
+      "text": "#FFD8FF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FF00FF;\n  --color-secondary: #C71585;\n  --color-accent: #8B008B;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FF00FF',\n  secondary: '#C71585',\n  accent: '#8B008B',\n}"
+  },
+  {
+    "id": "pal-goldenrod",
+    "name": "金菊色系",
+    "category": "color-extra",
+    "tags": [
+      "色系",
+      "金菊",
+      "黄色"
+    ],
+    "style": "金菊色系，深黄传达成熟和温暖。",
+    "colors": {
+      "primary": "#DAA520",
+      "secondary": "#B8860B",
+      "accent": "#8B6914",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#201804",
+      "surface": "#362908",
+      "text": "#F9F1DD"
+    },
+    "cssVariables": ":root {\n  --color-primary: #DAA520;\n  --color-secondary: #B8860B;\n  --color-accent: #8B6914;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#DAA520',\n  secondary: '#B8860B',\n  accent: '#8B6914',\n}"
+  },
+  {
+    "id": "pal-indigo-v2",
+    "name": "靛蓝色系v2",
+    "category": "color-extra",
+    "tags": [
+      "色系",
+      "靛蓝",
+      "蓝色"
+    ],
+    "style": "靛蓝色系v2，深蓝紫传达深邃和思考。",
+    "colors": {
+      "primary": "#4B0082",
+      "secondary": "#6A0DAD",
+      "accent": "#00D4FF",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#0B0013",
+      "surface": "#120020",
+      "text": "#E4D8EC"
+    },
+    "cssVariables": ":root {\n  --color-primary: #4B0082;\n  --color-secondary: #6A0DAD;\n  --color-accent: #00D4FF;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#4B0082',\n  secondary: '#6A0DAD',\n  accent: '#00D4FF',\n}"
+  },
+  {
+    "id": "pal-jade",
+    "name": "翡翠色系",
+    "category": "color-extra",
+    "tags": [
+      "色系",
+      "翡翠",
+      "绿色"
+    ],
+    "style": "翡翠色系，绿色传达自然和珍贵。",
+    "colors": {
+      "primary": "#00A86B",
+      "secondary": "#50C878",
+      "accent": "#2E8B57",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#001910",
+      "surface": "#002A1A",
+      "text": "#D8F1E8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #00A86B;\n  --color-secondary: #50C878;\n  --color-accent: #2E8B57;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#00A86B',\n  secondary: '#50C878',\n  accent: '#2E8B57',\n}"
+  },
+  {
+    "id": "pal-khaki",
+    "name": "卡其色系",
+    "category": "color-extra",
+    "tags": [
+      "色系",
+      "卡其",
+      "棕色"
+    ],
+    "style": "卡其色系，土黄色传达自然和军事。",
+    "colors": {
+      "primary": "#C3B091",
+      "secondary": "#8B7D6B",
+      "accent": "#556B2F",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#1D1A15",
+      "surface": "#302C24",
+      "text": "#F6F3EE"
+    },
+    "cssVariables": ":root {\n  --color-primary: #C3B091;\n  --color-secondary: #8B7D6B;\n  --color-accent: #556B2F;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#C3B091',\n  secondary: '#8B7D6B',\n  accent: '#556B2F',\n}"
+  },
+  {
+    "id": "pal-lavender-v2",
+    "name": "薰衣草色系v2",
+    "category": "color-extra",
+    "tags": [
+      "色系",
+      "薰衣草",
+      "紫色"
+    ],
+    "style": "薰衣草色系v2，淡紫传达优雅和宁静。",
+    "colors": {
+      "primary": "#B57EDC",
+      "secondary": "#9B59B6",
+      "accent": "#F8BBD0",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#1B1221",
+      "surface": "#2D1F37",
+      "text": "#F3EBF9"
+    },
+    "cssVariables": ":root {\n  --color-primary: #B57EDC;\n  --color-secondary: #9B59B6;\n  --color-accent: #F8BBD0;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#B57EDC',\n  secondary: '#9B59B6',\n  accent: '#F8BBD0',\n}"
+  },
+  {
+    "id": "pal-magenta",
+    "name": "品红色系",
+    "category": "color-extra",
+    "tags": [
+      "色系",
+      "品红",
+      "粉红"
+    ],
+    "style": "品红色系，亮粉红传达活力和大胆。",
+    "colors": {
+      "primary": "#FF00FF",
+      "secondary": "#FF1493",
+      "accent": "#C71585",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#260026",
+      "surface": "#3F003F",
+      "text": "#FFD8FF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FF00FF;\n  --color-secondary: #FF1493;\n  --color-accent: #C71585;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FF00FF',\n  secondary: '#FF1493',\n  accent: '#C71585',\n}"
+  },
+  {
+    "id": "pal-maroon",
+    "name": "栗色系",
+    "category": "color-extra",
+    "tags": [
+      "色系",
+      "栗色",
+      "棕色"
+    ],
+    "style": "栗色系，深棕红传达稳重和传统。",
+    "colors": {
+      "primary": "#800000",
+      "secondary": "#5C0000",
+      "accent": "#8B4513",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#130000",
+      "surface": "#200000",
+      "text": "#EBD8D8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #800000;\n  --color-secondary: #5C0000;\n  --color-accent: #8B4513;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#800000',\n  secondary: '#5C0000',\n  accent: '#8B4513',\n}"
+  },
+  {
+    "id": "pal-mauve",
+    "name": "淡紫色系",
+    "category": "color-extra",
+    "tags": [
+      "色系",
+      "淡紫",
+      "紫色"
+    ],
+    "style": "淡紫色系，灰紫传达柔和和优雅。",
+    "colors": {
+      "primary": "#E0B0FF",
+      "secondary": "#9370DB",
+      "accent": "#BA55D3",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#211A26",
+      "surface": "#382C3F",
+      "text": "#FAF3FF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #E0B0FF;\n  --color-secondary: #9370DB;\n  --color-accent: #BA55D3;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#E0B0FF',\n  secondary: '#9370DB',\n  accent: '#BA55D3',\n}"
+  },
+  {
+    "id": "pal-olive-v2",
+    "name": "橄榄色系v2",
+    "category": "color-extra",
+    "tags": [
+      "色系",
+      "橄榄",
+      "绿色"
+    ],
+    "style": "橄榄色系v2，黄绿色传达自然和质朴。",
+    "colors": {
+      "primary": "#808000",
+      "secondary": "#6B8E23",
+      "accent": "#556B2F",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#131300",
+      "surface": "#202000",
+      "text": "#EBEBD8"
+    },
+    "cssVariables": ":root {\n  --color-primary: #808000;\n  --color-secondary: #6B8E23;\n  --color-accent: #556B2F;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#808000',\n  secondary: '#6B8E23',\n  accent: '#556B2F',\n}"
+  },
+  {
+    "id": "pal-peach",
+    "name": "蜜桃色系",
+    "category": "color-extra",
+    "tags": [
+      "色系",
+      "蜜桃",
+      "粉色"
+    ],
+    "style": "蜜桃色系，浅橙粉传达温柔和甜美。",
+    "colors": {
+      "primary": "#FFDAB9",
+      "secondary": "#FFCBA4",
+      "accent": "#FF6B6B",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#26201B",
+      "surface": "#3F362E",
+      "text": "#FFF9F4"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FFDAB9;\n  --color-secondary: #FFCBA4;\n  --color-accent: #FF6B6B;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FFDAB9',\n  secondary: '#FFCBA4',\n  accent: '#FF6B6B',\n}"
+  },
+  {
+    "id": "pal-periwinkle",
+    "name": "长春花蓝",
+    "category": "color-extra",
+    "tags": [
+      "色系",
+      "长春花",
+      "蓝色"
+    ],
+    "style": "长春花蓝色系，淡蓝紫传达梦幻和温柔。",
+    "colors": {
+      "primary": "#CCCCFF",
+      "secondary": "#9370DB",
+      "accent": "#6A5ACD",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#1E1E26",
+      "surface": "#33333F",
+      "text": "#F7F7FF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #CCCCFF;\n  --color-secondary: #9370DB;\n  --color-accent: #6A5ACD;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#CCCCFF',\n  secondary: '#9370DB',\n  accent: '#6A5ACD',\n}"
+  },
+  {
+    "id": "plum",
+    "name": "李子色系",
+    "category": "color-extra",
+    "tags": [
+      "色系",
+      "李子",
+      "紫色"
+    ],
+    "style": "李子色系，紫红色传达优雅和成熟。",
+    "colors": {
+      "primary": "#8E4585",
+      "secondary": "#DDA0DD",
+      "accent": "#800080",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#150A13",
+      "surface": "#231121",
+      "text": "#EEE3EC"
+    },
+    "cssVariables": ":root {\n  --color-primary: #8E4585;\n  --color-secondary: #DDA0DD;\n  --color-accent: #800080;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#8E4585',\n  secondary: '#DDA0DD',\n  accent: '#800080',\n}"
+  },
+  {
+    "id": "pal-rust",
+    "name": "铁锈色系",
+    "category": "color-extra",
+    "tags": [
+      "色系",
+      "铁锈",
+      "橙色"
+    ],
+    "style": "铁锈色系，深橙色传达复古和工业。",
+    "colors": {
+      "primary": "#B7410E",
+      "secondary": "#8B4513",
+      "accent": "#CD853F",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#1B0902",
+      "surface": "#2D1003",
+      "text": "#F4E2DA"
+    },
+    "cssVariables": ":root {\n  --color-primary: #B7410E;\n  --color-secondary: #8B4513;\n  --color-accent: #CD853F;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#B7410E',\n  secondary: '#8B4513',\n  accent: '#CD853F',\n}"
+  },
+  {
+    "id": "pal-saffron",
+    "name": "藏红花色系",
+    "category": "color-extra",
+    "tags": [
+      "色系",
+      "藏红",
+      "橙黄"
+    ],
+    "style": "藏红花色系，橙黄色传达温暖和珍贵。",
+    "colors": {
+      "primary": "#F4C430",
+      "secondary": "#E8A317",
+      "accent": "#DAA520",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#241D07",
+      "surface": "#3D310C",
+      "text": "#FDF6DF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #F4C430;\n  --color-secondary: #E8A317;\n  --color-accent: #DAA520;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#F4C430',\n  secondary: '#E8A317',\n  accent: '#DAA520',\n}"
+  },
+  {
+    "id": "pal-slate",
+    "name": "板岩色系",
+    "category": "color-extra",
+    "tags": [
+      "色系",
+      "板岩",
+      "灰色"
+    ],
+    "style": "板岩色系，蓝灰色传达专业和冷静。",
+    "colors": {
+      "primary": "#708090",
+      "secondary": "#475569",
+      "accent": "#334155",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#101315",
+      "surface": "#1C2024",
+      "text": "#E9EBEE"
+    },
+    "cssVariables": ":root {\n  --color-primary: #708090;\n  --color-secondary: #475569;\n  --color-accent: #334155;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#708090',\n  secondary: '#475569',\n  accent: '#334155',\n}"
+  },
+  {
+    "id": "pal-teal-v2",
+    "name": "青色系v2",
+    "category": "color-extra",
+    "tags": [
+      "色系",
+      "青色",
+      "蓝绿"
+    ],
+    "style": "青色系v2，蓝绿色传达清新和平衡。",
+    "colors": {
+      "primary": "#008080",
+      "secondary": "#20B2AA",
+      "accent": "#006D6F",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#001313",
+      "surface": "#002020",
+      "text": "#D8EBEB"
+    },
+    "cssVariables": ":root {\n  --color-primary: #008080;\n  --color-secondary: #20B2AA;\n  --color-accent: #006D6F;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#008080',\n  secondary: '#20B2AA',\n  accent: '#006D6F',\n}"
+  },
+  {
+    "id": "pal-turquoise",
+    "name": "绿松石色系",
+    "category": "color-extra",
+    "tags": [
+      "色系",
+      "绿松石",
+      "蓝绿"
+    ],
+    "style": "绿松石色系，亮蓝绿传达清新和活力。",
+    "colors": {
+      "primary": "#40E0D0",
+      "secondary": "#48D1CC",
+      "accent": "#20B2AA",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#09211F",
+      "surface": "#103834",
+      "text": "#E2FAF7"
+    },
+    "cssVariables": ":root {\n  --color-primary: #40E0D0;\n  --color-secondary: #48D1CC;\n  --color-accent: #20B2AA;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#40E0D0',\n  secondary: '#48D1CC',\n  accent: '#20B2AA',\n}"
+  },
+  {
+    "id": "pal-vermilion",
+    "name": "朱红色系",
+    "category": "color-extra",
+    "tags": [
+      "色系",
+      "朱红",
+      "红色"
+    ],
+    "style": "朱红色系，亮红橙传达热情和活力。",
+    "colors": {
+      "primary": "#E34234",
+      "secondary": "#FF4500",
+      "accent": "#FF6347",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#220907",
+      "surface": "#38100D",
+      "text": "#FAE2E0"
+    },
+    "cssVariables": ":root {\n  --color-primary: #E34234;\n  --color-secondary: #FF4500;\n  --color-accent: #FF6347;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#E34234',\n  secondary: '#FF4500',\n  accent: '#FF6347',\n}"
+  },
+  {
+    "id": "pal-wine",
+    "name": "葡萄酒色系",
+    "category": "color-extra",
+    "tags": [
+      "色系",
+      "酒红",
+      "红色"
+    ],
+    "style": "葡萄酒色系，深红色传达优雅和品味。",
+    "colors": {
+      "primary": "#722F37",
+      "secondary": "#5C1A1B",
+      "accent": "#8B0000",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#110708",
+      "surface": "#1C0B0D",
+      "text": "#E9DFE1"
+    },
+    "cssVariables": ":root {\n  --color-primary: #722F37;\n  --color-secondary: #5C1A1B;\n  --color-accent: #8B0000;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#722F37',\n  secondary: '#5C1A1B',\n  accent: '#8B0000',\n}"
+  },
+  {
+    "id": "pal-rose",
+    "name": "玫瑰色系",
+    "category": "color-extra",
+    "tags": [
+      "色系",
+      "玫瑰",
+      "粉色"
+    ],
+    "style": "玫瑰色系，粉色传达浪漫和温柔。",
+    "colors": {
+      "primary": "#FF007F",
+      "secondary": "#FF1493",
+      "accent": "#C71585",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#260013",
+      "surface": "#3F001F",
+      "text": "#FFD8EB"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FF007F;\n  --color-secondary: #FF1493;\n  --color-accent: #C71585;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FF007F',\n  secondary: '#FF1493',\n  accent: '#C71585',\n}"
+  },
+  {
+    "id": "pal-sky",
+    "name": "天空色系",
+    "category": "color-extra",
+    "tags": [
+      "色系",
+      "天空",
+      "蓝色"
+    ],
+    "style": "天空色系，天蓝色传达开阔和自由。",
+    "colors": {
+      "primary": "#87CEEB",
+      "secondary": "#00BFFF",
+      "accent": "#4169E1",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#141E23",
+      "surface": "#21333A",
+      "text": "#EDF7FC"
+    },
+    "cssVariables": ":root {\n  --color-primary: #87CEEB;\n  --color-secondary: #00BFFF;\n  --color-accent: #4169E1;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#87CEEB',\n  secondary: '#00BFFF',\n  accent: '#4169E1',\n}"
+  },
+  {
+    "id": "pal-forest",
+    "name": "森林色系",
+    "category": "color-extra",
+    "tags": [
+      "色系",
+      "森林",
+      "深绿"
+    ],
+    "style": "森林色系，深绿色传达自然和神秘。",
+    "colors": {
+      "primary": "#228B22",
+      "secondary": "#006400",
+      "accent": "#2E7D32",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#051405",
+      "surface": "#082208",
+      "text": "#DDEDDD"
+    },
+    "cssVariables": ":root {\n  --color-primary: #228B22;\n  --color-secondary: #006400;\n  --color-accent: #2E7D32;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#228B22',\n  secondary: '#006400',\n  accent: '#2E7D32',\n}"
+  },
+  {
+    "id": "pal-sunset",
+    "name": "日落色系",
+    "category": "color-extra",
+    "tags": [
+      "色系",
+      "日落",
+      "橙红"
+    ],
+    "style": "日落色系，橙红色传达温暖和浪漫。",
+    "colors": {
+      "primary": "#FF6B35",
+      "secondary": "#FF4444",
+      "accent": "#FFD700",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#261007",
+      "surface": "#3F1A0D",
+      "text": "#FFE8E0"
+    },
+    "cssVariables": ":root {\n  --color-primary: #FF6B35;\n  --color-secondary: #FF4444;\n  --color-accent: #FFD700;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#FF6B35',\n  secondary: '#FF4444',\n  accent: '#FFD700',\n}"
+  },
+  {
+    "id": "pal-ocean",
+    "name": "海洋色系",
+    "category": "color-extra",
+    "tags": [
+      "色系",
+      "海洋",
+      "深蓝"
+    ],
+    "style": "海洋色系，深蓝色传达深邃和广阔。",
+    "colors": {
+      "primary": "#006994",
+      "secondary": "#40E0D0",
+      "accent": "#00CED1",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#000F16",
+      "surface": "#001A25",
+      "text": "#D8E8EE"
+    },
+    "cssVariables": ":root {\n  --color-primary: #006994;\n  --color-secondary: #40E0D0;\n  --color-accent: #00CED1;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#006994',\n  secondary: '#40E0D0',\n  accent: '#00CED1',\n}"
+  },
+  {
+    "id": "pal-volcano-v2",
+    "name": "火山色系",
+    "category": "color-extra",
+    "tags": [
+      "色系",
+      "火山",
+      "红黑"
+    ],
+    "style": "火山色系，红+黑传达力量和爆发。",
+    "colors": {
+      "primary": "#D32F2F",
+      "secondary": "#212121",
+      "accent": "#FF6F00",
+      "background": "#0D0D0D",
+      "surface": "#1A1A1A",
+      "text": "#F5F5F5",
+      "textSecondary": "rgba(245,245,245,0.6)",
+      "border": "#333333",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#1F0707",
+      "surface": "#340B0B",
+      "text": "#F8DFDF"
+    },
+    "cssVariables": ":root {\n  --color-primary: #D32F2F;\n  --color-secondary: #212121;\n  --color-accent: #FF6F00;\n  --color-background: #0D0D0D;\n  --color-surface: #1A1A1A;\n  --color-text: #F5F5F5;\n  --color-text-secondary: rgba(245,245,245,0.6);\n  --color-border: #333333;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#D32F2F',\n  secondary: '#212121',\n  accent: '#FF6F00',\n}"
+  },
+  {
+    "id": "pal-arctic-v2",
+    "name": "极地色系",
+    "category": "color-extra",
+    "tags": [
+      "色系",
+      "极地",
+      "冰蓝"
+    ],
+    "style": "极地色系，冰蓝色传达寒冷和纯净。",
+    "colors": {
+      "primary": "#B3E5FC",
+      "secondary": "#E1F5FE",
+      "accent": "#0288D1",
+      "background": "#F5F5F5",
+      "surface": "#FFFFFF",
+      "text": "#333333",
+      "textSecondary": "rgba(51,51,51,0.6)",
+      "border": "#E5E5E5",
+      "success": "#10B981",
+      "warning": "#F59E0B",
+      "error": "#EF4444"
+    },
+    "darkMode": {
+      "background": "#1A2225",
+      "surface": "#2C393F",
+      "text": "#F3FBFE"
+    },
+    "cssVariables": ":root {\n  --color-primary: #B3E5FC;\n  --color-secondary: #E1F5FE;\n  --color-accent: #0288D1;\n  --color-background: #F5F5F5;\n  --color-surface: #FFFFFF;\n  --color-text: #333333;\n  --color-text-secondary: rgba(51,51,51,0.6);\n  --color-border: #E5E5E5;\n  --color-success: #10B981;\n  --color-warning: #F59E0B;\n  --color-error: #EF4444;\n}",
+    "tailwindConfig": "colors: {\n  primary: '#B3E5FC',\n  secondary: '#E1F5FE',\n  accent: '#0288D1',\n}"
+  }
+]
