@@ -1,3 +1,10 @@
+---
+name: Color Palette Skill
+description: 1052+ professional color palettes covering 50+ countries, 100+ industries, 40+ tech stacks, 18 categories. Break free from blue-purple gradients. Auto-activate when frontend development, UI design, web color scheme, or brand design is needed.
+version: 3.0.0
+tags: [color, palette, design, frontend, ui, css, theme, brand]
+---
+
 # 🎨 Color Palette Skill - 配色大师
 
 <p align="center">
